@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T15:11:08-06:00",
-  "desde": "2026-10-19T15:06:08-06:00",
-  "que": "a mano: cola: Fase 1 · paso 3 (despertado a mano; la compuerta se bloqueó por el PR #4 que ya se movió a rama claude/)",
-  "resumen": "PR #8 abierto: Fase 1 paso 3 (base SQLite y API de lectura)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39324735665",
+  "estado": "trabajando",
+  "desde": "2026-10-19T15:14:09-06:00",
+  "que": "a mano: cola: - [ ] Fase 1 · paso 4 — Panel conectado a la API: Clientes, Pólizas, Recibos, Bandeja (con responder: , que",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39325781362",
   "duraciones": [
    2.3,
    0.1,
