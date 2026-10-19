@@ -56,12 +56,15 @@
   "estimado_min": 1.2
  },
  "gerente-de-zara": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T12:35:42-06:00",
   "desde": "2026-10-19T12:29:42-06:00",
   "que": "despliegue a producción de puente v2.33 build v50 (workflow)",
-  "fase": "",
+  "resumen": "HECHO: producción sirve puente v2.33 + frontend v50 (verificado en la URL viva)",
   "url": "",
-  "duraciones": [],
-  "estimado_min": null
+  "duraciones": [
+   6.0
+  ],
+  "estimado_min": 6.0
  }
 }
