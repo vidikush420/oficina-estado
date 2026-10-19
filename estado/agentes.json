@@ -19,7 +19,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T14:52:21-06:00",
   "que": "revisando el PR #4 (chalan/2026-10-19-workflow-concurrencia)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39322457111",
   "duraciones": [
    3.4,
@@ -28,7 +28,7 @@
    0.9
   ],
   "estimado_min": 1.2,
-  "fase_desde": "2026-10-19T14:52:47-06:00"
+  "fase_desde": "2026-10-19T14:52:52-06:00"
  },
  "sherlock": {
   "estado": "termino",
