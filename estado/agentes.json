@@ -18,12 +18,11 @@
   "estimado_min": 1.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-19T14:56:40-06:00",
-  "desde": "2026-10-19T14:55:25-06:00",
-  "que": "revisando el PR #5 (chalan/2026-10-19-fase1-paso1)",
-  "resumen": "PR #5 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39323259800",
+  "estado": "trabajando",
+  "desde": "2026-10-19T15:03:02-06:00",
+  "que": "revisando el PR #6 (chalan/2026-10-19-fase1-paso2-panel-mockup)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39324274169",
   "duraciones": [
    3.4,
    1.2,
