@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-10-19T17:09:41-06:00",
-  "que": "revisando el PR #43 (chalan/2026-10-19-direccion-puente)",
+  "desde": "2026-10-19T17:10:16-06:00",
+  "que": "revisando el PR #13 (chalan/2026-10-19-resumen-vespertino)",
   "fase": "",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39339275249",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39339176273",
   "duraciones": [
    1.2,
    1.4,
