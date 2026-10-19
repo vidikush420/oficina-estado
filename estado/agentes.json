@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T16:10:22-06:00",
   "que": "a mano: cola: - [ ] [producto · petición del equipo · Archivo automático de entregadas · puente v2.34 + frontend v51]",
-  "fase": "4/5 abriendo el PR",
+  "fase": "5/5 registrando en la oficina",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39332595837",
   "duraciones": [
    4.8,
@@ -18,7 +18,7 @@
    0.1
   ],
   "estimado_min": 2.5,
-  "fase_desde": "2026-10-19T16:16:02-06:00"
+  "fase_desde": "2026-10-19T16:16:30-06:00"
  },
  "aduana": {
   "estado": "termino",
