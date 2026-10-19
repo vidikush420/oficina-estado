@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T15:19:05-06:00",
   "desde": "2026-10-19T15:16:08-06:00",
   "que": "a mano: cola: Fase 1 · paso 4 (reintento: la corrida 39325781362 falló a los 45 s sin abrir rama)",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #9 abierto: Fase 1 paso 4 (panel conectado a la API)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39325996093",
   "duraciones": [
-   2.3,
    0.1,
    62.1,
    0.1,
@@ -15,10 +15,10 @@
    4.8,
    4.8,
    5.0,
-   0.1
+   0.1,
+   3.0
   ],
-  "estimado_min": 2.0,
-  "fase_desde": "2026-10-19T15:18:56-06:00"
+  "estimado_min": 2.4
  },
  "aduana": {
   "estado": "termino",
