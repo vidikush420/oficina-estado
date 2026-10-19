@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T15:34:56-06:00",
   "que": "a mano: cola: Fase 1 · paso 6 Consultor v0 (reintento: la corrida anterior falló a los 25 s sin abrir rama)",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39328564965",
   "duraciones": [
    0.1,
@@ -17,7 +17,8 @@
    6.4,
    0.1
   ],
-  "estimado_min": 2.4
+  "estimado_min": 2.4,
+  "fase_desde": "2026-10-19T15:35:20-06:00"
  },
  "aduana": {
   "estado": "termino",
