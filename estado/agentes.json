@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T15:29:42-06:00",
-  "desde": "2026-10-19T15:23:17-06:00",
-  "que": "a mano: cola: Fase 1 · paso 5 Importador (despertado a mano; push de la fusión del #9 cancelado, ver PR #7)",
-  "resumen": "PR #11 abierto: Fase 1 paso 5, Importador (50 pruebas pasan)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39326865102",
+  "estado": "trabajando",
+  "desde": "2026-10-19T15:33:34-06:00",
+  "que": "a mano: cola: - [ ] Fase 1 · paso 6 — Consultor v0 (nucleo/agentes/consultor/) según agentes/consultor.md: herramientas de consulta de",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39328379354",
   "duraciones": [
    62.1,
    0.1,
