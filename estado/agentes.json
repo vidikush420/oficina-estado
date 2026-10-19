@@ -37,11 +37,10 @@
   "estimado_min": 42.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-19T01:09:42-06:00",
-  "desde": "2026-10-19T01:08:52-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-19T01:09:56-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer. En Bitácora lo que sigue es una revisión tuya en la hoja, y en Sunday me falta la copia de datos de prueba que debe darte FN. Tienes que hacer una cosa: consegu",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8
