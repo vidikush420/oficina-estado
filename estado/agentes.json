@@ -21,13 +21,13 @@
   "estimado_min": 3.9
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T15:31:04-06:00",
   "desde": "2026-10-19T15:30:13-06:00",
   "que": "revisando el PR #10 (claude/2026-10-19-carriles-y-oficina-yml)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #10 → NO PASA (toca workflows), no fusionado; lo fusiona Miguel",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39327099114",
   "duraciones": [
-   0.9,
    1.1,
    1.1,
    1.2,
@@ -36,10 +36,10 @@
    1.2,
    1.4,
    1.1,
-   1.2
+   1.2,
+   0.8
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-10-19T15:30:59-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
