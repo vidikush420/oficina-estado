@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T15:06:08-06:00",
   "que": "a mano: cola: Fase 1 · paso 3 (despertado a mano; la compuerta se bloqueó por el PR #4 que ya se movió a rama claude/)",
-  "fase": "4/5 abriendo el PR",
+  "fase": "5/5 registrando en la oficina",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39324735665",
   "duraciones": [
    2.3,
@@ -15,7 +15,7 @@
    4.8
   ],
   "estimado_min": 1.8,
-  "fase_desde": "2026-10-19T15:10:43-06:00"
+  "fase_desde": "2026-10-19T15:10:52-06:00"
  },
  "aduana": {
   "estado": "termino",
