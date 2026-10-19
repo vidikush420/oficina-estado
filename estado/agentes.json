@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T15:19:05-06:00",
-  "desde": "2026-10-19T15:16:08-06:00",
-  "que": "a mano: cola: Fase 1 · paso 4 (reintento: la corrida 39325781362 falló a los 45 s sin abrir rama)",
-  "resumen": "PR #9 abierto: Fase 1 paso 4 (panel conectado a la API)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39325996093",
+  "estado": "trabajando",
+  "desde": "2026-10-19T15:23:17-06:00",
+  "que": "a mano: cola: Fase 1 · paso 5 Importador (despertado a mano; push de la fusión del #9 cancelado, ver PR #7)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39326865102",
   "duraciones": [
    0.1,
    62.1,
