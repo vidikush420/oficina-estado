@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T15:30:13-06:00",
   "que": "revisando el PR #10 (claude/2026-10-19-carriles-y-oficina-yml)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39327099114",
   "duraciones": [
    0.9,
@@ -38,7 +38,8 @@
    1.1,
    1.2
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-10-19T15:30:36-06:00"
  },
  "sherlock": {
   "estado": "termino",
