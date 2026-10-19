@@ -18,14 +18,14 @@
   "estado": "trabajando",
   "desde": "2026-10-19T14:45:46-06:00",
   "que": "revisando el PR #3 (chalan/2026-10-19-producto-y-fichas)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39321978794",
   "duraciones": [
    3.4,
    1.2
   ],
   "estimado_min": 2.3,
-  "fase_desde": "2026-10-19T14:46:42-06:00"
+  "fase_desde": "2026-10-19T14:46:55-06:00"
  },
  "sherlock": {
   "estado": "termino",
