@@ -1,9 +1,10 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T15:10:59-06:00",
   "desde": "2026-10-19T15:06:08-06:00",
   "que": "a mano: cola: Fase 1 · paso 3 (despertado a mano; la compuerta se bloqueó por el PR #4 que ya se movió a rama claude/)",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #8 abierto: Fase 1 paso 3 (base SQLite y API de lectura)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39324735665",
   "duraciones": [
    2.3,
@@ -12,10 +13,10 @@
    0.1,
    1.8,
    1.0,
+   4.8,
    4.8
   ],
-  "estimado_min": 1.8,
-  "fase_desde": "2026-10-19T15:10:52-06:00"
+  "estimado_min": 2.0
  },
  "aduana": {
   "estado": "termino",
