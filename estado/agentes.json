@@ -20,7 +20,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T14:55:25-06:00",
   "que": "revisando el PR #5 (chalan/2026-10-19-fase1-paso1)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39323259800",
   "duraciones": [
    3.4,
@@ -30,7 +30,8 @@
    0.9,
    1.1
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.1,
+  "fase_desde": "2026-10-19T14:55:47-06:00"
  },
  "sherlock": {
   "estado": "termino",
