@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T14:57:38-06:00",
   "que": "a mano: cola: Fase 1 · paso 2 (despertado a mano; el push de la fusión del #5 se canceló, ver PR #4)",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39323586104",
   "duraciones": [
    2.3,
@@ -13,7 +13,8 @@
    1.8,
    1.0
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.4,
+  "fase_desde": "2026-10-19T14:58:02-06:00"
  },
  "aduana": {
   "estado": "termino",
