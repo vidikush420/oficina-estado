@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T16:16:40-06:00",
-  "desde": "2026-10-19T16:10:22-06:00",
-  "que": "a mano: cola: - [ ] [producto · petición del equipo · Archivo automático de entregadas · puente v2.34 + frontend v51]",
-  "resumen": "PR #42 abierto: archivo automático de entregadas (puente v2.34 + frontend v51)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39332595837",
+  "estado": "trabajando",
+  "desde": "2026-10-19T17:29:34-06:00",
+  "que": "a mano: cola: - [ ] [producto · Dirección 1/2 · puente v2.35]",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39339588689",
   "duraciones": [
    5.0,
    0.1,
