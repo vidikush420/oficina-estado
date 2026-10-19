@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-18T23:54:44-06:00",
-  "desde": null,
-  "que": "",
-  "resumen": "PR #32 abierto: puente v2.33, fechas normalizadas (45 suites en verde)",
-  "url": "",
+  "estado": "trabajando",
+  "desde": "2026-10-18T23:57:41-06:00",
+  "que": "a mano: proyecto vidikush420/bitacora-webapp",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39207102357",
   "duraciones": [],
   "estimado_min": null
  },
