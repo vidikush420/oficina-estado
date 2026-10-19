@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T15:42:24-06:00",
   "desde": "2026-10-19T15:34:56-06:00",
   "que": "a mano: cola: Fase 1 · paso 6 Consultor v0 (reintento: la corrida anterior falló a los 25 s sin abrir rama)",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #12 abierto: Fase 1 paso 6, Consultor v0 (68 pruebas pasan)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39328564965",
   "duraciones": [
-   0.1,
    1.8,
    1.0,
    4.8,
@@ -15,10 +15,10 @@
    0.1,
    3.0,
    6.4,
-   0.1
+   0.1,
+   7.5
   ],
-  "estimado_min": 2.4,
-  "fase_desde": "2026-10-19T15:42:11-06:00"
+  "estimado_min": 3.9
  },
  "aduana": {
   "estado": "termino",
