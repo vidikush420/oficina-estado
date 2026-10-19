@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T15:54:28-06:00",
   "que": "revisando el PR #40 (claude/2026-10-19-direccion-especificacion)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39331036318",
   "duraciones": [
    1.4,
@@ -38,7 +38,8 @@
    1.2,
    0.9
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-10-19T15:54:53-06:00"
  },
  "sherlock": {
   "estado": "termino",
