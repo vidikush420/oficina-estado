@@ -40,17 +40,19 @@
   "estimado_min": 42.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T13:16:14-06:00",
   "desde": "2026-10-19T13:15:04-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé los tres proyectos y no hay nada que tenga que hacer yo en la Mac ahora. Lo que sigue en Bitácora lo tiene que comprobar una persona, y lo de Sunday espera la base de datos de prueba que falta.",
   "url": "",
   "duraciones": [
    0.8,
    2.9,
    1.2,
    1.4,
-   0.7
+   0.7,
+   1.2
   ],
   "estimado_min": 1.2
  },
