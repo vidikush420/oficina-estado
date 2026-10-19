@@ -31,13 +31,13 @@
   "estado": "trabajando",
   "desde": "2026-10-19T14:05:07-06:00",
   "que": "veredicto de beta",
-  "fase": "2/5 leyendo instrucciones y estado de beta",
+  "fase": "3/5 corriendo la lista de renglones",
   "url": "",
   "duraciones": [
    42.1
   ],
   "estimado_min": 42.1,
-  "fase_desde": "2026-10-19T14:05:30-06:00"
+  "fase_desde": "2026-10-19T14:05:49-06:00"
  },
  "chalan-local": {
   "estado": "termino",
