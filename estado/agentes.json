@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T15:16:08-06:00",
   "que": "a mano: cola: Fase 1 · paso 4 (reintento: la corrida 39325781362 falló a los 45 s sin abrir rama)",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39325996093",
   "duraciones": [
    2.3,
@@ -17,7 +17,8 @@
    5.0,
    0.1
   ],
-  "estimado_min": 2.0
+  "estimado_min": 2.0,
+  "fase_desde": "2026-10-19T15:16:31-06:00"
  },
  "aduana": {
   "estado": "termino",
