@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T15:48:33-06:00",
-  "desde": "2026-10-19T15:46:38-06:00",
-  "que": "a mano: cola: Fase 1 · paso 7 Resumen vespertino v0 (reintento: la corrida 39329847359 falló a los 28 s sin abrir rama)",
-  "resumen": "PR #13 abierto: Fase 1 paso 7, Resumen vespertino v0 (73 pruebas pasan)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39330074919",
+  "estado": "trabajando",
+  "desde": "2026-10-19T16:02:57-06:00",
+  "que": "a mano: cola: - [ ] [producto · petición del equipo · Archivo automático de entregadas · puente v2.34 + frontend v51] Una tarea Entreg",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39332045484",
   "duraciones": [
    4.8,
    4.8,
