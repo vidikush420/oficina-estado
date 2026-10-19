@@ -21,7 +21,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T15:03:02-06:00",
   "que": "revisando el PR #6 (chalan/2026-10-19-fase1-paso2-panel-mockup)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39324274169",
   "duraciones": [
    3.4,
@@ -33,7 +33,8 @@
    1.1,
    1.2
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.1,
+  "fase_desde": "2026-10-19T15:03:26-06:00"
  },
  "sherlock": {
   "estado": "termino",
