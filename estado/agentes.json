@@ -37,11 +37,10 @@
   "estimado_min": 42.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-19T01:12:49-06:00",
-  "desde": "2026-10-19T01:09:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-19T01:13:03-06:00",
   "que": "corrida programada",
-  "resumen": "Hice que Sherlock (el revisor de calidad) y el Gerente de Zara (el que sube versiones a producción) avisen en qué paso van, para que tu página muestre su avance real en vez de solo «trabajando». Todav",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
