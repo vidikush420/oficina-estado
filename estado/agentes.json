@@ -1,7 +1,7 @@
 {
  "chalan": {
   "estado": "termino",
-  "cuando": "2026-10-19T15:10:59-06:00",
+  "cuando": "2026-10-19T15:11:08-06:00",
   "desde": "2026-10-19T15:06:08-06:00",
   "que": "a mano: cola: Fase 1 · paso 3 (despertado a mano; la compuerta se bloqueó por el PR #4 que ya se movió a rama claude/)",
   "resumen": "PR #8 abierto: Fase 1 paso 3 (base SQLite y API de lectura)",
@@ -14,9 +14,10 @@
    1.8,
    1.0,
    4.8,
-   4.8
+   4.8,
+   5.0
   ],
-  "estimado_min": 2.0
+  "estimado_min": 2.3
  },
  "aduana": {
   "estado": "termino",
