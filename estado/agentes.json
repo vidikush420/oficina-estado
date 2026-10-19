@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-10-19T15:20:39-06:00",
+  "cuando": "2026-10-19T15:20:50-06:00",
   "desde": "2026-10-19T15:19:35-06:00",
   "que": "revisando el PR #9 (chalan/2026-10-19-fase1-paso4)",
   "resumen": "PR #9 → PASA, fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39326499189",
   "duraciones": [
-   0.9,
    0.9,
    1.1,
    1.1,
@@ -37,9 +36,10 @@
    1.4,
    1.2,
    1.4,
-   1.1
+   1.1,
+   1.2
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
