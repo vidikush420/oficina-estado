@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T17:10:16-06:00",
   "que": "revisando el PR #13 (chalan/2026-10-19-resumen-vespertino)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39339176273",
   "duraciones": [
    1.2,
@@ -39,7 +39,7 @@
    1.0
   ],
   "estimado_min": 1.1,
-  "fase_desde": "2026-10-19T17:16:46-06:00"
+  "fase_desde": "2026-10-19T17:17:08-06:00"
  },
  "sherlock": {
   "estado": "termino",
