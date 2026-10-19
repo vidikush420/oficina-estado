@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T17:10:16-06:00",
   "que": "revisando el PR #13 (chalan/2026-10-19-resumen-vespertino)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39339176273",
   "duraciones": [
    1.2,
@@ -38,7 +38,8 @@
    0.9,
    1.0
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.1,
+  "fase_desde": "2026-10-19T17:16:11-06:00"
  },
  "sherlock": {
   "estado": "termino",
