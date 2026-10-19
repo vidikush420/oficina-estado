@@ -1,19 +1,20 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T14:54:57-06:00",
   "desde": "2026-10-19T14:53:58-06:00",
   "que": "PR #5 devuelto por Aduana",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #5 corregido (README sin empresa, 12/12 pruebas)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39322837282",
   "duraciones": [
    2.3,
    0.1,
    62.1,
    0.1,
-   1.8
+   1.8,
+   1.0
   ],
-  "estimado_min": 1.8,
-  "fase_desde": "2026-10-19T14:54:49-06:00"
+  "estimado_min": 1.4
  },
  "aduana": {
   "estado": "termino",
