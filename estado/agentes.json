@@ -35,5 +35,14 @@
    42.1
   ],
   "estimado_min": 42.1
+ },
+ "chalan-local": {
+  "estado": "trabajando",
+  "desde": "2026-10-19T01:08:52-06:00",
+  "que": "corrida programada",
+  "fase": "",
+  "url": "",
+  "duraciones": [],
+  "estimado_min": null
  }
 }
