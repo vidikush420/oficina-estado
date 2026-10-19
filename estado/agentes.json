@@ -1,9 +1,10 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T15:02:28-06:00",
   "desde": "2026-10-19T14:57:38-06:00",
   "que": "a mano: cola: Fase 1 · paso 2 (despertado a mano; el push de la fusión del #5 se canceló, ver PR #4)",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #6 abierto: Fase 1 paso 2 (panel según el mockup)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39323586104",
   "duraciones": [
    2.3,
@@ -11,10 +12,10 @@
    62.1,
    0.1,
    1.8,
-   1.0
+   1.0,
+   4.8
   ],
-  "estimado_min": 1.4,
-  "fase_desde": "2026-10-19T15:02:18-06:00"
+  "estimado_min": 1.8
  },
  "aduana": {
   "estado": "termino",
