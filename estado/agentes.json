@@ -15,12 +15,11 @@
   "estimado_min": 1.2
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-19T00:08:36-06:00",
-  "desde": "2026-10-19T00:05:10-06:00",
-  "que": "revisando el PR #32 (chalan/2026-10-18-fechas-servidor)",
-  "resumen": "PR #32 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39207721979",
+  "estado": "trabajando",
+  "desde": "2026-10-19T11:25:34-06:00",
+  "que": "revisando el PR #2 (chalan/2026-10-19-esqueleto-panel)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39293954244",
   "duraciones": [
    3.4
   ],
