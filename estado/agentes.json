@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-10-19T15:33:40-06:00",
   "desde": "2026-10-19T15:33:34-06:00",
   "que": "a mano: cola: - [ ] Fase 1 · paso 6 — Consultor v0 (nucleo/agentes/consultor/) según agentes/consultor.md: herramientas de consulta de",
-  "fase": "",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39328379354",
   "duraciones": [
-   62.1,
    0.1,
    1.8,
    1.0,
@@ -15,9 +15,10 @@
    5.0,
    0.1,
    3.0,
-   6.4
+   6.4,
+   0.1
   ],
-  "estimado_min": 3.9
+  "estimado_min": 2.4
  },
  "aduana": {
   "estado": "termino",
