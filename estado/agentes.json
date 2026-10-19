@@ -1,9 +1,10 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-10-19T15:14:15-06:00",
   "desde": "2026-10-19T15:14:09-06:00",
   "que": "a mano: cola: - [ ] Fase 1 · paso 4 — Panel conectado a la API: Clientes, Pólizas, Recibos, Bandeja (con responder: , que",
-  "fase": "",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39325781362",
   "duraciones": [
    2.3,
@@ -14,9 +15,10 @@
    1.0,
    4.8,
    4.8,
-   5.0
+   5.0,
+   0.1
   ],
-  "estimado_min": 2.3
+  "estimado_min": 2.0
  },
  "aduana": {
   "estado": "termino",
