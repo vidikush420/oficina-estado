@@ -8,5 +8,15 @@
   "url": "",
   "duraciones": [],
   "estimado_min": null
+ },
+ "aduana": {
+  "estado": "fallo",
+  "cuando": "2026-10-18T23:42:43-06:00",
+  "desde": null,
+  "que": "",
+  "resumen": "Aduana #4: faltaba el permiso checks:read (corregido en #33)",
+  "url": "",
+  "duraciones": [],
+  "estimado_min": null
  }
 }
