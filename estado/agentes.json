@@ -1,16 +1,17 @@
 {
  "chalan": {
   "estado": "fallo",
-  "cuando": "2026-10-19T00:15:53-06:00",
+  "cuando": "2026-10-19T01:17:54-06:00",
   "desde": "2026-10-19T00:15:49-06:00",
   "que": "cola: Agregar las suites de jsc al workflow de CI",
-  "resumen": "Chalán #5 falló: una tarea de la cola con backticks se ejecutó como comando dentro del workflow (corregido)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39208195561",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39214214158",
   "duraciones": [
    2.3,
-   0.1
+   0.1,
+   62.1
   ],
-  "estimado_min": 1.2
+  "estimado_min": 2.3
  },
  "aduana": {
   "estado": "termino",
