@@ -16,19 +16,20 @@
   "estimado_min": 1.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T14:53:15-06:00",
   "desde": "2026-10-19T14:52:21-06:00",
   "que": "revisando el PR #4 (chalan/2026-10-19-workflow-concurrencia)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #4 → NO PASA (toca workflows), no fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39322457111",
   "duraciones": [
    3.4,
    1.2,
    1.2,
+   0.9,
    0.9
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-10-19T14:53:08-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
