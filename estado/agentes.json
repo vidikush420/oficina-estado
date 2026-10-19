@@ -16,12 +16,11 @@
   "estimado_min": 1.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-19T14:51:54-06:00",
-  "desde": "2026-10-19T14:50:58-06:00",
-  "que": "revisando el PR #5 (chalan/2026-10-19-fase1-paso1)",
-  "resumen": "PR #5 → DEVUELTO, no fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39322644712",
+  "estado": "trabajando",
+  "desde": "2026-10-19T14:52:21-06:00",
+  "que": "revisando el PR #4 (chalan/2026-10-19-workflow-concurrencia)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39322457111",
   "duraciones": [
    3.4,
    1.2,
