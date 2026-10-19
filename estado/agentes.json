@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T14:54:57-06:00",
-  "desde": "2026-10-19T14:53:58-06:00",
-  "que": "PR #5 devuelto por Aduana",
-  "resumen": "PR #5 corregido (README sin empresa, 12/12 pruebas)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39322837282",
+  "estado": "trabajando",
+  "desde": "2026-10-19T14:57:38-06:00",
+  "que": "a mano: cola: Fase 1 · paso 2 (despertado a mano; el push de la fusión del #5 se canceló, ver PR #4)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39323586104",
   "duraciones": [
    2.3,
    0.1,
