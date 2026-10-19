@@ -37,11 +37,10 @@
   "estimado_min": 42.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-19T01:14:15-06:00",
-  "desde": "2026-10-19T01:13:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-19T01:15:12-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo de Sherlock y el Gerente de Zara ya lo entregué y espera revisión. Si quieres que trabaje en el Centro de Operaciones, hay que darle a esta Mac acc",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
