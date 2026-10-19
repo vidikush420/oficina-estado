@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T15:48:33-06:00",
   "desde": "2026-10-19T15:46:38-06:00",
   "que": "a mano: cola: Fase 1 · paso 7 Resumen vespertino v0 (reintento: la corrida 39329847359 falló a los 28 s sin abrir rama)",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #13 abierto: Fase 1 paso 7, Resumen vespertino v0 (73 pruebas pasan)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39330074919",
   "duraciones": [
-   1.0,
    4.8,
    4.8,
    5.0,
@@ -15,10 +15,10 @@
    6.4,
    0.1,
    7.5,
-   0.1
+   0.1,
+   1.9
   ],
-  "estimado_min": 3.9,
-  "fase_desde": "2026-10-19T15:48:25-06:00"
+  "estimado_min": 3.9
  },
  "aduana": {
   "estado": "termino",
