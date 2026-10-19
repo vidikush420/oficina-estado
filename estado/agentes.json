@@ -15,16 +15,17 @@
   "estimado_min": 1.2
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T11:26:48-06:00",
   "desde": "2026-10-19T11:25:34-06:00",
   "que": "revisando el PR #2 (chalan/2026-10-19-esqueleto-panel)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #2 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39293954244",
   "duraciones": [
-   3.4
+   3.4,
+   1.2
   ],
-  "estimado_min": 3.4,
-  "fase_desde": "2026-10-19T11:26:44-06:00"
+  "estimado_min": 2.3
  },
  "sherlock": {
   "estado": "termino",
