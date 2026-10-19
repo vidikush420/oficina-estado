@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-10-19T16:03:04-06:00",
   "desde": "2026-10-19T16:02:57-06:00",
   "que": "a mano: cola: - [ ] [producto · petición del equipo · Archivo automático de entregadas · puente v2.34 + frontend v51] Una tarea Entreg",
-  "fase": "",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39332045484",
   "duraciones": [
-   4.8,
    4.8,
    5.0,
    0.1,
@@ -15,9 +15,10 @@
    0.1,
    7.5,
    0.1,
-   1.9
+   1.9,
+   0.1
   ],
-  "estimado_min": 3.9
+  "estimado_min": 2.5
  },
  "aduana": {
   "estado": "termino",
