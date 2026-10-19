@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-10-19T15:45:02-06:00",
-  "desde": "2026-10-19T15:44:53-06:00",
-  "que": "a mano: cola: - [ ] Fase 1 · paso 7 — Resumen vespertino v0 (nucleo/agentes/resumen-vespertino/) según su ficha: npm run resumen arma",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39329847359",
+  "estado": "trabajando",
+  "desde": "2026-10-19T15:46:38-06:00",
+  "que": "a mano: cola: Fase 1 · paso 7 Resumen vespertino v0 (reintento: la corrida 39329847359 falló a los 28 s sin abrir rama)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39330074919",
   "duraciones": [
    1.0,
    4.8,
