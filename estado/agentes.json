@@ -20,12 +20,11 @@
   "estimado_min": 2.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-19T17:17:14-06:00",
-  "desde": "2026-10-19T17:10:16-06:00",
-  "que": "revisando el PR #13 (chalan/2026-10-19-resumen-vespertino)",
-  "resumen": "PR #43 → PASA, fusionado; beta pendiente (requiere la Mac)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39339176273",
+  "estado": "trabajando",
+  "desde": "2026-10-19T17:57:23-06:00",
+  "que": "revisando el PR #15 (claude/2026-10-19-oficina-sin-tmp)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39344078341",
   "duraciones": [
    1.4,
    1.1,
