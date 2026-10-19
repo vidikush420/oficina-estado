@@ -37,16 +37,18 @@
   "estimado_min": 42.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T01:16:39-06:00",
   "desde": "2026-10-19T01:15:12-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo que entregué antes espera revisión y lo de Sunday espera datos de FN. Para que trabaje en el Centro de Operaciones, esta Mac necesita acceso a ese",
   "url": "",
   "duraciones": [
    0.8,
    2.9,
-   1.2
+   1.2,
+   1.4
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.3
  }
 }
