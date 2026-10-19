@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T14:53:58-06:00",
   "que": "PR #5 devuelto por Aduana",
-  "fase": "3/5 corriendo pruebas",
+  "fase": "4/5 abriendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39322837282",
   "duraciones": [
    2.3,
@@ -13,7 +13,7 @@
    1.8
   ],
   "estimado_min": 1.8,
-  "fase_desde": "2026-10-19T14:54:33-06:00"
+  "fase_desde": "2026-10-19T14:54:44-06:00"
  },
  "aduana": {
   "estado": "termino",
