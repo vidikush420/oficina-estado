@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T15:46:38-06:00",
   "que": "a mano: cola: Fase 1 · paso 7 Resumen vespertino v0 (reintento: la corrida 39329847359 falló a los 28 s sin abrir rama)",
-  "fase": "1/5 leyendo el proyecto",
+  "fase": "2/5 haciendo el cambio",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39330074919",
   "duraciones": [
    1.0,
@@ -18,7 +18,7 @@
    0.1
   ],
   "estimado_min": 3.9,
-  "fase_desde": "2026-10-19T15:47:02-06:00"
+  "fase_desde": "2026-10-19T15:47:09-06:00"
  },
  "aduana": {
   "estado": "termino",
