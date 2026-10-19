@@ -1,1 +1,12 @@
-{}
+{
+ "chalan": {
+  "estado": "termino",
+  "cuando": "2026-10-18T23:42:40-06:00",
+  "desde": null,
+  "que": "",
+  "resumen": "PR #32 abierto: puente v2.33, fechas normalizadas (45 suites en verde)",
+  "url": "",
+  "duraciones": [],
+  "estimado_min": null
+ }
+}
