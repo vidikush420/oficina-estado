@@ -1,16 +1,18 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-10-19T01:23:07-06:00",
   "desde": "2026-10-19T01:23:03-06:00",
   "que": "cola: - [ ] Webapp propia de la oficina en vidalconsultores.com/bitacora/oficina/ — PRIMERO su ESPECIFICACIÓN (archivo docs/oficina_webapp_especif",
-  "fase": "",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39214238721",
   "duraciones": [
    2.3,
    0.1,
-   62.1
+   62.1,
+   0.1
   ],
-  "estimado_min": 2.3
+  "estimado_min": 1.2
  },
  "aduana": {
   "estado": "termino",
