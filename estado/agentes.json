@@ -18,7 +18,7 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-10-19T14:56:32-06:00",
+  "cuando": "2026-10-19T14:56:40-06:00",
   "desde": "2026-10-19T14:55:25-06:00",
   "que": "revisando el PR #5 (chalan/2026-10-19-fase1-paso1)",
   "resumen": "PR #5 → PASA, fusionado",
@@ -30,7 +30,8 @@
    0.9,
    0.9,
    1.1,
-   1.1
+   1.1,
+   1.2
   ],
   "estimado_min": 1.1
  },
