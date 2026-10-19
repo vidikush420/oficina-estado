@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T15:42:24-06:00",
-  "desde": "2026-10-19T15:34:56-06:00",
-  "que": "a mano: cola: Fase 1 · paso 6 Consultor v0 (reintento: la corrida anterior falló a los 25 s sin abrir rama)",
-  "resumen": "PR #12 abierto: Fase 1 paso 6, Consultor v0 (68 pruebas pasan)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39328564965",
+  "estado": "trabajando",
+  "desde": "2026-10-19T15:44:53-06:00",
+  "que": "a mano: cola: - [ ] Fase 1 · paso 7 — Resumen vespertino v0 (nucleo/agentes/resumen-vespertino/) según su ficha: npm run resumen arma",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39329847359",
   "duraciones": [
    1.8,
    1.0,
