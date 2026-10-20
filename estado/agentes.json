@@ -63,11 +63,10 @@
   "estimado_min": 4.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T10:09:43-06:00",
-  "desde": "2026-10-20T10:08:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T10:15:07-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que me tocara hacer en la Mac. Lo único mío es de Sunday y sigue detenido por falta de la copia de datos de prueba de FN. No tienes que hacer nada nuevo.",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
