@@ -21,12 +21,11 @@
   "estimado_min": 4.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:52:38-06:00",
-  "desde": "2026-10-20T01:49:12-06:00",
-  "que": "revisando el PR #25 (chalan/2026-10-20-chips-preguntale)",
-  "resumen": "PR #25 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39388985884",
+  "estado": "trabajando",
+  "desde": "2026-10-20T01:58:08-06:00",
+  "que": "revisando el PR #26 (chalan/2026-10-20-datos-ejemplo)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39389998822",
   "duraciones": [
    1.4,
    1.6,
