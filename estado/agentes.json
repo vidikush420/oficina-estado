@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T07:10:07-06:00",
   "desde": "2026-10-20T07:01:47-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 5 — Panel: vista «Validación de pagos» como en el mockup (lista de diferencias con su acción y boton",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #31 abierto: Fase 2 paso 5, vista Validación de pagos",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39426878872",
   "duraciones": [
-   3.8,
    4.1,
    4.6,
    4.5,
@@ -15,10 +15,10 @@
    14.3,
    7.1,
    4.1,
-   6.9
+   6.9,
+   8.3
   ],
-  "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T07:09:57-06:00"
+  "estimado_min": 4.7
  },
  "aduana": {
   "estado": "termino",
