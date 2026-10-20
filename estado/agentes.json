@@ -21,12 +21,11 @@
   "estimado_min": 4.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:23:41-06:00",
-  "desde": "2026-10-20T01:19:44-06:00",
-  "que": "revisando el PR #22 (chalan/2026-10-20-logo-oscuro)",
-  "resumen": "PR #22 → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39385722249",
+  "estado": "trabajando",
+  "desde": "2026-10-20T01:29:07-06:00",
+  "que": "revisando el PR #23 (chalan/2026-10-20-bandeja-respuesta)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39386748697",
   "duraciones": [
    2.8,
    2.6,
