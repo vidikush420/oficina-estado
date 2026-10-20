@@ -21,13 +21,13 @@
   "estimado_min": 4.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T05:58:47-06:00",
   "desde": "2026-10-20T05:54:59-06:00",
   "que": "revisando el PR #52 (chalan/2026-10-20-subir-build-v53)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #52 → PASA, fusionado (beta la sube la cinta)",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39418322818",
   "duraciones": [
-   1.6,
    11.7,
    2.7,
    5.2,
@@ -36,10 +36,10 @@
    4.2,
    3.9,
    3.4,
-   3.9
+   3.9,
+   3.8
   ],
-  "estimado_min": 3.9,
-  "fase_desde": "2026-10-20T05:58:40-06:00"
+  "estimado_min": 3.9
  },
  "sherlock": {
   "estado": "termino",
