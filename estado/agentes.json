@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T21:00:46-06:00",
   "que": "revisando el PR #19 (chalan-local/2026-10-19-paso8-corridas)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39361808413",
   "duraciones": [
    0.9,
@@ -39,7 +39,7 @@
    2.6
   ],
   "estimado_min": 2.8,
-  "fase_desde": "2026-10-19T21:03:12-06:00"
+  "fase_desde": "2026-10-19T21:03:21-06:00"
  },
  "sherlock": {
   "estado": "termino",
