@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T18:25:10-06:00",
   "desde": "2026-10-19T18:21:39-06:00",
   "que": "a mano: cola: - [ ] Fase 1 · paso 8b — Importador: las columnas EXTRA de la exportación (las que no están en COLUMNAS.md) se ignoran,",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #17 abierto: Importador ignora columnas extra (paso 8b)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347109215",
   "duraciones": [
-   3.0,
    6.4,
    0.1,
    7.5,
@@ -15,10 +15,10 @@
    0.1,
    6.3,
    37.1,
-   37.3
+   37.3,
+   3.5
   ],
-  "estimado_min": 4.7,
-  "fase_desde": "2026-10-19T18:25:05-06:00"
+  "estimado_min": 4.9
  },
  "aduana": {
   "estado": "trabajando",
