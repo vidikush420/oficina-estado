@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T06:35:57-06:00",
-  "desde": "2026-10-20T06:28:49-06:00",
-  "que": "a mano: cola: - [ ] Fase 2 · paso 2 — Validador de pagos (nucleo/agentes/validador-pagos/) según agentes/validador-pagos.md: abre corr",
-  "resumen": "PR #28 abierto: Validador de pagos (Fase 2 paso 2)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39422496936",
+  "estado": "trabajando",
+  "desde": "2026-10-20T06:40:27-06:00",
+  "que": "a mano: cola: - [ ] Fase 2 · paso 3 — Conciliación y salud: escritor xlsx mínimo sin dependencias en nucleo/conectores/crm/quattro/xls",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39424019574",
   "duraciones": [
    4.4,
    4.6,
