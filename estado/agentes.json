@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T06:45:02-06:00",
   "que": "revisando el PR #29 (chalan/2026-10-20-conciliacion-salud)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39424617015",
   "duraciones": [
    5.2,
@@ -39,7 +39,7 @@
    3.0
   ],
   "estimado_min": 3.9,
-  "fase_desde": "2026-10-20T06:47:42-06:00"
+  "fase_desde": "2026-10-20T06:48:02-06:00"
  },
  "sherlock": {
   "estado": "termino",
