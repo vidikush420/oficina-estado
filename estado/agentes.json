@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T18:25:37-06:00",
   "que": "revisando el PR #17 (chalan/2026-10-19-importador-columnas-extra)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347508820",
   "duraciones": [
    1.2,
@@ -39,7 +39,7 @@
    6.6
   ],
   "estimado_min": 1.2,
-  "fase_desde": "2026-10-19T18:28:00-06:00"
+  "fase_desde": "2026-10-19T18:28:11-06:00"
  },
  "sherlock": {
   "estado": "termino",
