@@ -21,13 +21,13 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-10-19T18:08:33-06:00",
   "desde": "2026-10-19T17:57:23-06:00",
   "que": "revisando el PR #15 (claude/2026-10-19-oficina-sin-tmp)",
-  "fase": "",
+  "resumen": "la corrida terminó con cancelled (ver el enlace)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39344078341",
   "duraciones": [
-   1.4,
    1.1,
    1.2,
    0.8,
@@ -36,7 +36,8 @@
    1.2,
    0.9,
    1.0,
-   7.0
+   7.0,
+   11.2
   ],
   "estimado_min": 1.1
  },
