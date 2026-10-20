@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T06:05:26-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 1 — Contrato de conector de portal y el portal de mentira. nucleo/conectores/portales/README.md defi",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39419301341",
   "duraciones": [
    10.8,
@@ -18,7 +18,7 @@
    4.8
   ],
   "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T06:18:01-06:00"
+  "fase_desde": "2026-10-20T06:19:09-06:00"
  },
  "aduana": {
   "estado": "termino",
