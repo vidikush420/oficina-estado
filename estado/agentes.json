@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-10-19T18:21:14-06:00",
-  "que": "revisando el PR #47 (chalan-local/2026-10-19-sherlock-capturas-estado)",
+  "desde": "2026-10-19T18:25:37-06:00",
+  "que": "revisando el PR #17 (chalan/2026-10-19-importador-columnas-extra)",
   "fase": "",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39346556778",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347508820",
   "duraciones": [
    1.2,
    0.8,
