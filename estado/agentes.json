@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:57:39-06:00",
-  "desde": "2026-10-20T01:53:34-06:00",
-  "que": "a mano: cola: - [ ] [producto] Datos de ejemplo más pobres que el mockup: 12 clientes con 4 con prima 0.00 y 1 póliza cada uno (mockup",
-  "resumen": "PR #26 datos de ejemplo con prima",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39389490914",
+  "estado": "trabajando",
+  "desde": "2026-10-20T05:42:53-06:00",
+  "que": "a mano: cola: - [ ] [producto · frontend v53 · solo subir el BUILD] **PRIMERO** — El PR #51 (c478076) cambió index.html sin subir CONF",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39416857911",
   "duraciones": [
    18.8,
    10.8,
