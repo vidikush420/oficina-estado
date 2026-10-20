@@ -61,11 +61,10 @@
   "estimado_min": 4.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:08:04-06:00",
-  "desde": "2026-10-20T01:06:54-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T04:07:32-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé los tres proyectos y no hay nada que necesite la Mac ni que yo pueda hacer hoy. Lo único pendiente en la Bitácora es una comprobación que hace una persona en la hoja de cálculo, y lo de Sunday",
+  "fase": "",
   "url": "",
   "duraciones": [
    47.8,
