@@ -21,12 +21,11 @@
   "estimado_min": 6.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-19T21:03:59-06:00",
-  "desde": "2026-10-19T21:00:46-06:00",
-  "que": "revisando el PR #19 (chalan-local/2026-10-19-paso8-corridas)",
-  "resumen": "PR #19 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39361808413",
+  "estado": "trabajando",
+  "desde": "2026-10-19T21:53:24-06:00",
+  "que": "revisando el PR #48 (chalan-local/2026-10-19-arnes-intermitentes)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39366372893",
   "duraciones": [
    1.0,
    7.0,
