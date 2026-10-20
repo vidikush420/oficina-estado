@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T01:48:43-06:00",
   "desde": "2026-10-20T01:44:15-06:00",
   "que": "a mano: cola: - [ ] [producto] Pregúntale: los chips de sugerencias quedan ~18 px más abajo que en el mockup (y la caja de pregunta co",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #25 abierto: chips de Pregúntale alineados con el mockup",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39388436855",
   "duraciones": [
-   2.4,
    5.9,
    18.8,
    10.8,
@@ -15,10 +15,10 @@
    4.6,
    3.8,
    4.1,
-   4.6
+   4.6,
+   4.5
   ],
-  "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T01:48:38-06:00"
+  "estimado_min": 4.5
  },
  "aduana": {
   "estado": "termino",
