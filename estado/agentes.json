@@ -63,13 +63,13 @@
   "estimado_min": 4.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T10:17:39-06:00",
   "desde": "2026-10-20T10:15:07-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "La subida automática a la versión de pruebas dijo que falló, pero en realidad quedó bien subida: solo falló la comprobación final por una demora de la página. Dejé anotado en la lista de pendientes ar",
   "url": "",
   "duraciones": [
-   0.8,
    12.6,
    1.2,
    4.4,
@@ -78,9 +78,10 @@
    1.2,
    1.6,
    1.8,
-   1.2
+   1.2,
+   2.5
   ],
-  "estimado_min": 1.5
+  "estimado_min": 1.6
  },
  "gerente-de-zara": {
   "estado": "fallo",
