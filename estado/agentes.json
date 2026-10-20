@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T21:46:39-06:00",
   "desde": "2026-10-19T21:27:49-06:00",
   "que": "a mano: cola: - [ ] [producto · v52 · scroll del modal de Dirección] **PRIMERO** — La promoción a producción del 19/10 21:15 (puente v",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #49 abierto: el modal de Dirección sí se desplaza; la prueba exigía más recorrido del que existe",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39364378448",
   "duraciones": [
-   0.1,
    1.9,
    0.1,
    6.3,
@@ -15,10 +15,10 @@
    3.5,
    6.0,
    2.4,
-   5.9
+   5.9,
+   18.8
   ],
-  "estimado_min": 4.7,
-  "fase_desde": "2026-10-19T21:46:35-06:00"
+  "estimado_min": 6.0
  },
  "aduana": {
   "estado": "termino",
