@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T06:56:31-06:00",
   "que": "revisando el PR #30 (chalan/2026-10-20-portero)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39426135655",
   "duraciones": [
    3.8,
@@ -38,7 +38,8 @@
    3.0,
    3.1
   ],
-  "estimado_min": 3.8
+  "estimado_min": 3.8,
+  "fase_desde": "2026-10-20T06:59:46-06:00"
  },
  "sherlock": {
   "estado": "termino",
