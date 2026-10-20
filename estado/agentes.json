@@ -21,12 +21,11 @@
   "estimado_min": 5.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-20T08:57:57-06:00",
-  "desde": "2026-10-20T08:54:17-06:00",
-  "que": "revisando el PR #53 (chalan/2026-10-20-cinta-beta-por-sha)",
-  "resumen": "PR #53 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39443370365",
+  "estado": "trabajando",
+  "desde": "2026-10-20T10:18:18-06:00",
+  "que": "revisando el PR #54 (chalan-local/2026-10-20-beta-v53-cola)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39456111182",
   "duraciones": [
    3.8,
    7.4,
