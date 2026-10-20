@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T07:01:47-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 5 — Panel: vista «Validación de pagos» como en el mockup (lista de diferencias con su acción y boton",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39426878872",
   "duraciones": [
    3.8,
@@ -18,7 +18,7 @@
    6.9
   ],
   "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T07:06:30-06:00"
+  "fase_desde": "2026-10-20T07:08:46-06:00"
  },
  "aduana": {
   "estado": "termino",
