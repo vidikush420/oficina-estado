@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T19:24:49-06:00",
-  "desde": "2026-10-19T19:22:28-06:00",
-  "que": "PR #45 devuelto por Aduana",
-  "resumen": "Sin novedades: #45 ya fusionado por Aduana",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39351662902",
+  "estado": "trabajando",
+  "desde": "2026-10-19T20:54:19-06:00",
+  "que": "a mano: cola: - [ ] Fase 1 · paso 8 — Corridas programadas y modo seco: nucleo/agentes/correr.mjs <agente> [--seco] como punto de entr",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39361363087",
   "duraciones": [
    7.5,
    0.1,
