@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:48:43-06:00",
-  "desde": "2026-10-20T01:44:15-06:00",
-  "que": "a mano: cola: - [ ] [producto] Pregúntale: los chips de sugerencias quedan ~18 px más abajo que en el mockup (y la caja de pregunta co",
-  "resumen": "PR #25 abierto: chips de Pregúntale alineados con el mockup",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39388436855",
+  "estado": "trabajando",
+  "desde": "2026-10-20T01:53:34-06:00",
+  "que": "a mano: cola: - [ ] [producto] Datos de ejemplo más pobres que el mockup: 12 clientes con 4 con prima 0.00 y 1 póliza cada uno (mockup",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39389490914",
   "duraciones": [
    5.9,
    18.8,
