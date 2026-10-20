@@ -21,13 +21,13 @@
   "estimado_min": 5.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T07:44:29-06:00",
   "desde": "2026-10-20T07:34:34-06:00",
   "que": "revisando el PR #33 (chalan/2026-10-20-cobrador-seco)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #33 → PASA, fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39431397592",
   "duraciones": [
-   3.9,
    3.4,
    3.9,
    3.8,
@@ -36,10 +36,10 @@
    3.1,
    4.3,
    3.6,
-   3.8
+   3.8,
+   9.9
   ],
-  "estimado_min": 3.8,
-  "fase_desde": "2026-10-20T07:44:18-06:00"
+  "estimado_min": 3.8
  },
  "sherlock": {
   "estado": "termino",
