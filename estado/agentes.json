@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T21:46:39-06:00",
-  "desde": "2026-10-19T21:27:49-06:00",
-  "que": "a mano: cola: - [ ] [producto · v52 · scroll del modal de Dirección] **PRIMERO** — La promoción a producción del 19/10 21:15 (puente v",
-  "resumen": "PR #49 abierto: el modal de Dirección sí se desplaza; la prueba exigía más recorrido del que existe",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39364378448",
+  "estado": "trabajando",
+  "desde": "2026-10-19T22:07:21-06:00",
+  "que": "a mano: cola: - [ ] [producto] Producción no puede subir v51 porque main ya trae frontend v52 y su matriz de navegadores falla (20/10/",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39367820426",
   "duraciones": [
    1.9,
    0.1,
