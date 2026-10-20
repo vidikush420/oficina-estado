@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-10-20T14:21:26-06:00",
-  "que": "revisando el PR #34 (claude/2026-10-20-mac-solo-prefijo)",
+  "desde": "2026-10-20T14:26:44-06:00",
+  "que": "revisando el PR #56 (claude/2026-10-20-mac-solo-prefijo)",
   "fase": "",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39491224944",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39491823071",
   "duraciones": [
    3.0,
    3.1,
