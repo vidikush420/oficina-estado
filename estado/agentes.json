@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:39:18-06:00",
   "que": "revisando el PR #24 (chalan/2026-10-20-barras-herramientas)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39387879942",
   "duraciones": [
    2.6,
@@ -38,7 +38,8 @@
    4.0,
    4.2
   ],
-  "estimado_min": 3.5
+  "estimado_min": 3.5,
+  "fase_desde": "2026-10-20T01:42:29-06:00"
  },
  "sherlock": {
   "estado": "termino",
