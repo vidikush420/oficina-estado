@@ -21,12 +21,11 @@
   "estimado_min": 6.2
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-19T21:57:05-06:00",
-  "desde": "2026-10-19T21:55:30-06:00",
-  "que": "revisando el PR #49 (chalan/2026-10-20-scroll-modal-direccion)",
-  "resumen": "PR #49 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39366595158",
+  "estado": "trabajando",
+  "desde": "2026-10-19T22:21:44-06:00",
+  "que": "revisando el PR #50 (chalan/2026-10-19-cola-matriz-v52)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39368838078",
   "duraciones": [
    11.2,
    6.6,
