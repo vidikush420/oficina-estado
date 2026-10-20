@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T17:29:34-06:00",
   "que": "a mano: cola: - [ ] [producto · Dirección 1/2 · puente v2.35]",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39339588689",
   "duraciones": [
    5.0,
@@ -17,7 +17,8 @@
    0.1,
    6.3
   ],
-  "estimado_min": 2.5
+  "estimado_min": 2.5,
+  "fase_desde": "2026-10-19T18:05:58-06:00"
  },
  "aduana": {
   "estado": "trabajando",
