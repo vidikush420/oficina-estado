@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:24:35-06:00",
   "que": "a mano: cola: - [ ] [producto] Bandeja: la respuesta es un cuadro de texto grande con «Responder» debajo; el mockup tiene una sola lín",
-  "fase": "1/5 leyendo el proyecto",
+  "fase": "2/5 haciendo el cambio",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39386260834",
   "duraciones": [
    3.5,
@@ -18,7 +18,7 @@
    3.8
   ],
   "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T01:27:46-06:00"
+  "fase_desde": "2026-10-20T01:27:54-06:00"
  },
  "aduana": {
   "estado": "termino",
