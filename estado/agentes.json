@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T00:07:03-06:00",
   "desde": "2026-10-20T00:03:48-06:00",
   "que": "a mano: cola: - [ ] [producto] Al crear una tarea (y al enviar algo «Para Dirección») el detalle no se queda abierto: el código manda",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #51: el detalle se queda abierto tras crear tarea/envío",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39375834119",
   "duraciones": [
-   0.1,
    6.3,
    37.1,
    37.3,
@@ -15,10 +15,10 @@
    2.4,
    5.9,
    18.8,
-   10.8
+   10.8,
+   3.2
   ],
-  "estimado_min": 6.2,
-  "fase_desde": "2026-10-20T00:06:56-06:00"
+  "estimado_min": 6.2
  },
  "aduana": {
   "estado": "termino",
