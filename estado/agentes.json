@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T07:19:33-06:00",
   "que": "revisando el PR #32 (chalan/2026-10-20-resumen-conciliacion)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39429333150",
   "duraciones": [
    4.2,
@@ -39,7 +39,7 @@
    3.6
   ],
   "estimado_min": 3.8,
-  "fase_desde": "2026-10-20T07:22:45-06:00"
+  "fase_desde": "2026-10-20T07:23:02-06:00"
  },
  "sherlock": {
   "estado": "termino",
