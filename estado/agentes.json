@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:05:34-06:00",
   "que": "a mano: cola: - [ ] [producto] Pregúntale a tus registros: Enter y el botón de enviar no hacen nada al abrir la vista (solo funcionan",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39384250515",
   "duraciones": [
    6.3,
@@ -18,7 +18,7 @@
    3.2
   ],
   "estimado_min": 6.2,
-  "fase_desde": "2026-10-20T01:09:18-06:00"
+  "fase_desde": "2026-10-20T01:09:29-06:00"
  },
  "aduana": {
   "estado": "termino",
