@@ -63,11 +63,10 @@
   "estimado_min": 4.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T07:10:03-06:00",
-  "desde": "2026-10-20T07:08:13-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T10:08:29-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que le tocara hacer a este agente en la Mac. La actualización v53 de la versión de pruebas marcó error esta madrugada, pero comprobé que quedó puesta correctamente. No tienes que hac",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
