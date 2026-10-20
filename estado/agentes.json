@@ -21,12 +21,13 @@
   "estimado_min": 5.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T14:43:34-06:00",
   "desde": "2026-10-20T14:43:17-06:00",
   "que": "",
+  "resumen": "PR #56 → ya revisado sobre este head (NO PASA por workflow, lo fusiona Miguel); sin acción nueva",
   "url": "",
   "duraciones": [
-   4.3,
    3.6,
    3.8,
    9.9,
@@ -35,11 +36,10 @@
    8.8,
    14.0,
    9.1,
-   9.4
+   9.4,
+   0.3
   ],
-  "fase": "2/4 revisando el código y las pruebas",
-  "fase_desde": "2026-10-20T14:43:22-06:00",
-  "estimado_min": 6.6
+  "estimado_min": 6.3
  },
  "sherlock": {
   "estado": "termino",
