@@ -21,13 +21,13 @@
   "estimado_min": 6.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T21:57:05-06:00",
   "desde": "2026-10-19T21:55:30-06:00",
   "que": "revisando el PR #49 (chalan/2026-10-20-scroll-modal-direccion)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #49 → PASA, fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39366595158",
   "duraciones": [
-   7.0,
    11.2,
    6.6,
    2.8,
@@ -36,10 +36,10 @@
    2.8,
    2.6,
    3.2,
-   1.4
+   1.4,
+   1.6
   ],
-  "estimado_min": 2.8,
-  "fase_desde": "2026-10-19T21:56:55-06:00"
+  "estimado_min": 2.8
  },
  "sherlock": {
   "estado": "termino",
