@@ -79,14 +79,16 @@
   "estimado_min": 1.1
  },
  "gerente-de-zara": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-10-19T21:24:34-06:00",
   "desde": "2026-10-19T21:18:48-06:00",
   "que": "despliegue a producción de puente v2.35 build v51 (workflow)",
-  "fase": "",
+  "resumen": "REVERTIDO: falló la verificación y se revirtió a la versión anterior:         ✗ HAY FALLAS EN LA MATRIZ DE NAVEGADORES",
   "url": "",
   "duraciones": [
-   6.0
+   6.0,
+   5.8
   ],
-  "estimado_min": 6.0
+  "estimado_min": 5.9
  }
 }
