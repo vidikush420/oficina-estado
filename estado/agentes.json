@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T07:34:34-06:00",
   "que": "revisando el PR #33 (chalan/2026-10-20-cobrador-seco)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39431397592",
   "duraciones": [
    3.9,
@@ -38,7 +38,8 @@
    3.6,
    3.8
   ],
-  "estimado_min": 3.8
+  "estimado_min": 3.8,
+  "fase_desde": "2026-10-20T07:43:21-06:00"
  },
  "sherlock": {
   "estado": "termino",
