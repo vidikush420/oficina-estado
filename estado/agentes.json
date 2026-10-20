@@ -21,13 +21,13 @@
   "estimado_min": 4.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T06:27:49-06:00",
   "desde": "2026-10-20T06:20:23-06:00",
   "que": "revisando el PR #27 (chalan/2026-10-20-conector-portal-demo)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #27 → PASA, fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39421387463",
   "duraciones": [
-   11.7,
    2.7,
    5.2,
    3.8,
@@ -36,10 +36,10 @@
    3.9,
    3.4,
    3.9,
-   3.8
+   3.8,
+   7.4
   ],
-  "estimado_min": 3.9,
-  "fase_desde": "2026-10-20T06:27:44-06:00"
+  "estimado_min": 3.9
  },
  "sherlock": {
   "estado": "termino",
