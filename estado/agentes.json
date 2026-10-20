@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T07:19:03-06:00",
   "desde": "2026-10-20T07:15:10-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 6 — El Resumen vespertino crece: sección de conciliación (revisados, confirmados, diferencias, no le",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #32 abierto: Resumen vespertino con conciliación y conectores enfermos",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39428735716",
   "duraciones": [
-   4.1,
    4.6,
    4.5,
    4.1,
@@ -15,10 +15,10 @@
    7.1,
    4.1,
    6.9,
-   8.3
+   8.3,
+   3.9
   ],
-  "estimado_min": 4.7,
-  "fase_desde": "2026-10-20T07:18:58-06:00"
+  "estimado_min": 4.7
  },
  "aduana": {
   "estado": "termino",
