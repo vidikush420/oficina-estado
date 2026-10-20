@@ -21,12 +21,11 @@
   "estimado_min": 4.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-20T06:27:49-06:00",
-  "desde": "2026-10-20T06:20:23-06:00",
-  "que": "revisando el PR #27 (chalan/2026-10-20-conector-portal-demo)",
-  "resumen": "PR #27 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39421387463",
+  "estado": "trabajando",
+  "desde": "2026-10-20T06:36:26-06:00",
+  "que": "revisando el PR #28 (chalan/2026-10-20-validador-pagos)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39423486678",
   "duraciones": [
    2.7,
    5.2,
