@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T00:03:48-06:00",
   "que": "a mano: cola: - [ ] [producto] Al crear una tarea (y al enviar algo «Para Dirección») el detalle no se queda abierto: el código manda",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39375834119",
   "duraciones": [
    0.1,
@@ -17,7 +17,8 @@
    18.8,
    10.8
   ],
-  "estimado_min": 6.2
+  "estimado_min": 6.2,
+  "fase_desde": "2026-10-20T00:05:22-06:00"
  },
  "aduana": {
   "estado": "termino",
