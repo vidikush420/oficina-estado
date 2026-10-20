@@ -63,11 +63,10 @@
   "estimado_min": 1.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T13:35:01-06:00",
-  "desde": "2026-10-20T13:33:25-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T13:46:42-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que me tocara hacer en la Mac. Mi último cambio está esperando la aprobación de Aduana, y lo de Sunday sigue detenido por falta de los datos de prueba. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
