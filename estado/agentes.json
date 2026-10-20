@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T19:24:49-06:00",
   "desde": "2026-10-19T19:22:28-06:00",
   "que": "PR #45 devuelto por Aduana",
-  "fase": "1/5 leyendo el proyecto",
+  "resumen": "Sin novedades: #45 ya fusionado por Aduana",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39351662902",
   "duraciones": [
-   0.1,
    7.5,
    0.1,
    1.9,
@@ -15,10 +15,10 @@
    37.1,
    37.3,
    3.5,
-   6.0
+   6.0,
+   2.4
   ],
-  "estimado_min": 4.8,
-  "fase_desde": "2026-10-19T19:24:36-06:00"
+  "estimado_min": 4.8
  },
  "aduana": {
   "estado": "termino",
