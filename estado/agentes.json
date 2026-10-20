@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T19:21:19-06:00",
   "desde": "2026-10-19T19:18:43-06:00",
   "que": "revisando el PR #48 (chalan-local/2026-10-19-arnes-intermitentes)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #48 → DEVUELTO (conflicto ESTADO.md + PNG ajenos), no fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39352303854",
   "duraciones": [
-   1.2,
    0.9,
    1.0,
    7.0,
@@ -36,10 +36,10 @@
    2.8,
    2.9,
    2.8,
-   2.8
+   2.8,
+   2.6
   ],
-  "estimado_min": 2.8,
-  "fase_desde": "2026-10-19T19:21:08-06:00"
+  "estimado_min": 2.8
  },
  "sherlock": {
   "estado": "termino",
