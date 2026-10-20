@@ -60,11 +60,10 @@
   "estimado_min": 4.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:06:28-06:00",
-  "desde": "2026-10-20T01:04:50-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T01:06:54-06:00",
   "que": "corrida programada",
-  "resumen": "Tienes que hacer una cosa para destrabarlo: pedirle a FN el volcado de la base de datos sin datos reales de clientes y ponerlo en la carpeta de pruebas de Sunday.",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.7,
