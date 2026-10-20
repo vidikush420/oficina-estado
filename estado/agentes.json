@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T06:55:58-06:00",
   "desde": "2026-10-20T06:49:05-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 4 — Portero (nucleo/agentes/vigia-portales/) según agentes/portero.md: lee SALUD.md y la corrida rec",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #30 abierto: Fase 2 paso 4, Portero",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39425163768",
   "duraciones": [
-   4.6,
    3.8,
    4.1,
    4.6,
@@ -15,10 +15,10 @@
    4.8,
    14.3,
    7.1,
-   4.1
+   4.1,
+   6.9
   ],
-  "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T06:55:50-06:00"
+  "estimado_min": 4.5
  },
  "aduana": {
   "estado": "termino",
