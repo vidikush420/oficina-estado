@@ -62,11 +62,10 @@
   "estimado_min": 1.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T13:32:46-06:00",
-  "desde": "2026-10-20T13:15:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T13:33:25-06:00",
   "que": "corrida programada",
-  "resumen": "Una de las revisiones automáticas de mi trabajo en la Bitácora se había cortado por tardar demasiado, y sin ella no se podía aprobar. La volví a lanzar y ya salió bien. Con eso el cambio queda listo p",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.4,
