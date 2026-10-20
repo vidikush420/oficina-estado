@@ -63,11 +63,10 @@
   "estimado_min": 1.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T10:26:43-06:00",
-  "desde": "2026-10-20T10:22:58-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T13:15:06-06:00",
   "que": "corrida programada",
-  "resumen": "La subida automática a la versión de pruebas había avisado de un error que no era real: la página tardó en contestar y el programa se rindió callado. Ahora insiste tres veces y, si aun así falla, dice",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
