@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-19T18:39:41-06:00",
-  "desde": "2026-10-19T18:36:50-06:00",
-  "que": "revisando el PR #18 (chalan/2026-10-19-ocultar-desaparecidos)",
-  "resumen": "PR #18 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39348488983",
+  "estado": "trabajando",
+  "desde": "2026-10-19T19:04:54-06:00",
+  "que": "revisando el PR #45 (chalan/2026-10-19-direccion-2-2)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39348650762",
   "duraciones": [
    1.2,
    1.1,
