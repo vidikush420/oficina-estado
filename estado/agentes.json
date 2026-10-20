@@ -56,13 +56,13 @@
   "estimado_min": 21.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T19:19:07-06:00",
   "desde": "2026-10-19T19:18:18-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No hay nada nuevo que solo se pueda hacer en la Mac: lo único pendiente ya está hecho y espera revisión, y Sunday sigue esperando datos y respuestas. La subida de la versión nueva a la zona de pruebas",
   "url": "",
   "duraciones": [
-   1.2,
    1.4,
    0.7,
    1.2,
@@ -71,9 +71,10 @@
    2.7,
    47.8,
    1.9,
-   1.1
+   1.1,
+   0.8
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.1
  },
  "gerente-de-zara": {
   "estado": "termino",
