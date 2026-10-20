@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T07:10:07-06:00",
-  "desde": "2026-10-20T07:01:47-06:00",
-  "que": "a mano: cola: - [ ] Fase 2 · paso 5 — Panel: vista «Validación de pagos» como en el mockup (lista de diferencias con su acción y boton",
-  "resumen": "PR #31 abierto: Fase 2 paso 5, vista Validación de pagos",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39426878872",
+  "estado": "trabajando",
+  "desde": "2026-10-20T07:15:10-06:00",
+  "que": "a mano: cola: - [ ] Fase 2 · paso 6 — El Resumen vespertino crece: sección de conciliación (revisados, confirmados, diferencias, no le",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39428735716",
   "duraciones": [
    4.1,
    4.6,
