@@ -21,13 +21,13 @@
   "estimado_min": 4.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T01:52:38-06:00",
   "desde": "2026-10-20T01:49:12-06:00",
   "que": "revisando el PR #25 (chalan/2026-10-20-chips-preguntale)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #25 → PASA, fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39388985884",
   "duraciones": [
-   3.2,
    1.4,
    1.6,
    11.7,
@@ -36,10 +36,10 @@
    3.8,
    4.0,
    4.2,
-   3.9
+   3.9,
+   3.4
   ],
-  "estimado_min": 3.8,
-  "fase_desde": "2026-10-20T01:52:33-06:00"
+  "estimado_min": 3.8
  },
  "sherlock": {
   "estado": "termino",
