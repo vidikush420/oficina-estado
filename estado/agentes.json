@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T06:40:27-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 3 — Conciliación y salud: escritor xlsx mínimo sin dependencias en nucleo/conectores/crm/quattro/xls",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39424019574",
   "duraciones": [
    4.4,
@@ -18,7 +18,7 @@
    7.1
   ],
   "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T06:42:45-06:00"
+  "fase_desde": "2026-10-20T06:43:58-06:00"
  },
  "aduana": {
   "estado": "termino",
