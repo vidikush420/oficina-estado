@@ -21,12 +21,11 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-10-19T18:08:33-06:00",
-  "desde": "2026-10-19T17:57:23-06:00",
-  "que": "revisando el PR #15 (claude/2026-10-19-oficina-sin-tmp)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39344078341",
+  "estado": "trabajando",
+  "desde": "2026-10-19T18:13:27-06:00",
+  "que": "revisando el PR #13 (chalan/2026-10-19-resumen-vespertino)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39344644755",
   "duraciones": [
    1.1,
    1.2,
