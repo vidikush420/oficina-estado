@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T06:20:23-06:00",
   "que": "revisando el PR #27 (chalan/2026-10-20-conector-portal-demo)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39421387463",
   "duraciones": [
    11.7,
@@ -38,7 +38,8 @@
    3.9,
    3.8
   ],
-  "estimado_min": 3.9
+  "estimado_min": 3.9,
+  "fase_desde": "2026-10-20T06:27:04-06:00"
  },
  "sherlock": {
   "estado": "termino",
