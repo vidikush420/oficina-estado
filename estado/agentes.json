@@ -21,13 +21,13 @@
   "estimado_min": 4.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T01:33:16-06:00",
   "desde": "2026-10-20T01:29:07-06:00",
   "que": "revisando el PR #23 (chalan/2026-10-20-bandeja-respuesta)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #23 → PASA, fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39386748697",
   "duraciones": [
-   2.8,
    2.6,
    3.2,
    1.4,
@@ -36,10 +36,10 @@
    2.7,
    5.2,
    3.8,
-   4.0
+   4.0,
+   4.2
   ],
-  "estimado_min": 3.0,
-  "fase_desde": "2026-10-20T01:33:07-06:00"
+  "estimado_min": 3.5
  },
  "sherlock": {
   "estado": "termino",
