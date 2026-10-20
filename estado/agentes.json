@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T20:54:19-06:00",
   "que": "a mano: cola: - [ ] Fase 1 · paso 8 — Corridas programadas y modo seco: nucleo/agentes/correr.mjs <agente> [--seco] como punto de entr",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39361363087",
   "duraciones": [
    7.5,
@@ -17,7 +17,8 @@
    6.0,
    2.4
   ],
-  "estimado_min": 4.8
+  "estimado_min": 4.8,
+  "fase_desde": "2026-10-19T20:56:50-06:00"
  },
  "aduana": {
   "estado": "termino",
