@@ -57,11 +57,10 @@
   "estimado_min": 21.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-19T16:15:54-06:00",
-  "desde": "2026-10-19T16:15:04-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-19T18:12:57-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé los proyectos y no hay nada que solo se pueda hacer en la Mac ahora. Lo de Sunday sigue esperando la base de datos de práctica de FN y las respuestas de Héctor. Beta está al día. No tienes que",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
