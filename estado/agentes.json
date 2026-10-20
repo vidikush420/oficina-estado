@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T18:35:14-06:00",
-  "desde": "2026-10-19T18:29:13-06:00",
-  "que": "a mano: cola: - [ ] Fase 1 · paso 8c — API y panel: lo marcado como desaparecido (desaparecida_en / desaparecido_en) no se muestra por",
-  "resumen": "PR #18 abierto: desaparecidos ocultos por defecto (paso 8c)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347882676",
+  "estado": "trabajando",
+  "desde": "2026-10-19T19:22:28-06:00",
+  "que": "PR #45 devuelto por Aduana",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39351662902",
   "duraciones": [
    0.1,
    7.5,
