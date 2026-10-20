@@ -87,12 +87,13 @@
   "estado": "trabajando",
   "desde": "2026-10-20T14:54:57-06:00",
   "que": "despliegue de puente v2.35 build v53 (v53) en curso (workflow)",
-  "fase": "",
+  "fase": "2/3 workflow disparado en el runner de la Mac",
   "url": "",
   "duraciones": [
    6.0,
    5.8
   ],
-  "estimado_min": 5.9
+  "estimado_min": 5.9,
+  "fase_desde": "2026-10-20T14:55:12-06:00"
  }
 }
