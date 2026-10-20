@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T19:04:54-06:00",
   "que": "revisando el PR #45 (chalan/2026-10-19-direccion-2-2)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39348650762",
   "duraciones": [
    1.2,
@@ -39,7 +39,7 @@
    2.9
   ],
   "estimado_min": 2.0,
-  "fase_desde": "2026-10-19T19:07:27-06:00"
+  "fase_desde": "2026-10-19T19:07:30-06:00"
  },
  "sherlock": {
   "estado": "termino",
