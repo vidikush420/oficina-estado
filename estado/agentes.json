@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T07:19:03-06:00",
-  "desde": "2026-10-20T07:15:10-06:00",
-  "que": "a mano: cola: - [ ] Fase 2 · paso 6 — El Resumen vespertino crece: sección de conciliación (revisados, confirmados, diferencias, no le",
-  "resumen": "PR #32 abierto: Resumen vespertino con conciliación y conectores enfermos",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39428735716",
+  "estado": "trabajando",
+  "desde": "2026-10-20T07:24:18-06:00",
+  "que": "a mano: cola: - [ ] Fase 3 · paso 1 — Cobrador v0 en modo SECO (nucleo/agentes/cobrador/) según agentes/cobrador.md, con las reglas PR",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39430022520",
   "duraciones": [
    4.6,
    4.5,
