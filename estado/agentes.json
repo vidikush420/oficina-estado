@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T01:57:39-06:00",
   "desde": "2026-10-20T01:53:34-06:00",
   "que": "a mano: cola: - [ ] [producto] Datos de ejemplo más pobres que el mockup: 12 clientes con 4 con prima 0.00 y 1 póliza cada uno (mockup",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #26 datos de ejemplo con prima",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39389490914",
   "duraciones": [
-   5.9,
    18.8,
    10.8,
    3.2,
@@ -15,10 +15,10 @@
    3.8,
    4.1,
    4.6,
-   4.5
+   4.5,
+   4.1
   ],
-  "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T01:57:35-06:00"
+  "estimado_min": 4.5
  },
  "aduana": {
   "estado": "termino",
