@@ -61,11 +61,10 @@
   "estimado_min": 4.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:01:38-06:00",
-  "desde": "2026-10-20T01:00:21-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T01:04:50-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no había nada que yo pudiera avanzar hoy. Lo de Centro de Operaciones espera revisión, y lo de Sunday sigue esperando respuestas de Héctor y la base de datos de prueba. No",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
