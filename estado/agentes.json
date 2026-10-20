@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T06:44:31-06:00",
-  "desde": "2026-10-20T06:40:27-06:00",
-  "que": "a mano: cola: - [ ] Fase 2 · paso 3 — Conciliación y salud: escritor xlsx mínimo sin dependencias en nucleo/conectores/crm/quattro/xls",
-  "resumen": "PR #29 abierto: conciliación xlsx y SALUD.md (Fase 2 paso 3)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39424019574",
+  "estado": "trabajando",
+  "desde": "2026-10-20T06:49:05-06:00",
+  "que": "a mano: cola: - [ ] Fase 2 · paso 4 — Portero (nucleo/agentes/vigia-portales/) según agentes/portero.md: lee SALUD.md y la corrida rec",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39425163768",
   "duraciones": [
    4.6,
    3.8,
