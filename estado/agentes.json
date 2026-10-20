@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-10-20T15:47:28-06:00",
   "desde": "2026-10-20T15:10:57-06:00",
   "que": "a mano: cola: - [ ] [producto · promover.sh no muere en silencio] **PRIMERO** — La orden de producción del 20/10 14:53 (puente v2.35 +",
-  "fase": "",
+  "resumen": "la corrida terminó con cancelled (ver el enlace)",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39498185832",
   "duraciones": [
-   4.5,
    4.1,
    4.8,
    14.3,
@@ -15,9 +15,10 @@
    6.9,
    8.3,
    3.9,
-   9.2
+   9.2,
+   36.5
   ],
-  "estimado_min": 5.8
+  "estimado_min": 7.0
  },
  "aduana": {
   "estado": "termino",
