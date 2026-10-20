@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T00:59:33-06:00",
   "que": "revisando el PR #20 (chalan-local/2026-10-20-paso9-comparar-mockup)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39383622029",
   "duraciones": [
    2.8,
@@ -39,7 +39,7 @@
    2.7
   ],
   "estimado_min": 2.8,
-  "fase_desde": "2026-10-20T01:04:23-06:00"
+  "fase_desde": "2026-10-20T01:04:34-06:00"
  },
  "sherlock": {
   "estado": "termino",
