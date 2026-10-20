@@ -21,12 +21,11 @@
   "estimado_min": 5.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-20T13:46:20-06:00",
-  "desde": "2026-10-20T13:32:22-06:00",
-  "que": "revisando el PR #55 (chalan-local/2026-10-20-verificacion-curl)",
-  "resumen": "PR #55 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39484144826",
+  "estado": "trabajando",
+  "desde": "2026-10-20T14:21:26-06:00",
+  "que": "revisando el PR #34 (claude/2026-10-20-mac-solo-prefijo)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39491224944",
   "duraciones": [
    3.0,
    3.1,
