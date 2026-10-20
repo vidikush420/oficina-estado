@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:34:15-06:00",
   "que": "a mano: cola: - [ ] [producto] Barras de herramientas que faltan frente al mockup: «Buscar cliente…» y «Exportar» en Clientes (y equiv",
-  "fase": "3/5 corriendo pruebas",
+  "fase": "4/5 abriendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39387320284",
   "duraciones": [
    6.0,
@@ -18,7 +18,7 @@
    4.1
   ],
   "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T01:38:17-06:00"
+  "fase_desde": "2026-10-20T01:38:31-06:00"
  },
  "aduana": {
   "estado": "termino",
