@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T07:24:18-06:00",
   "que": "a mano: cola: - [ ] Fase 3 · paso 1 — Cobrador v0 en modo SECO (nucleo/agentes/cobrador/) según agentes/cobrador.md, con las reglas PR",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39430022520",
   "duraciones": [
    4.6,
@@ -17,7 +17,8 @@
    8.3,
    3.9
   ],
-  "estimado_min": 4.7
+  "estimado_min": 4.7,
+  "fase_desde": "2026-10-20T07:28:22-06:00"
  },
  "aduana": {
   "estado": "termino",
