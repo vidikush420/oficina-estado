@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T06:44:31-06:00",
   "desde": "2026-10-20T06:40:27-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 3 — Conciliación y salud: escritor xlsx mínimo sin dependencias en nucleo/conectores/crm/quattro/xls",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #29 abierto: conciliación xlsx y SALUD.md (Fase 2 paso 3)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39424019574",
   "duraciones": [
-   4.4,
    4.6,
    3.8,
    4.1,
@@ -15,10 +15,10 @@
    4.1,
    4.8,
    14.3,
-   7.1
+   7.1,
+   4.1
   ],
-  "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T06:44:26-06:00"
+  "estimado_min": 4.5
  },
  "aduana": {
   "estado": "termino",
