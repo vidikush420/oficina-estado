@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:28:40-06:00",
-  "desde": "2026-10-20T01:24:35-06:00",
-  "que": "a mano: cola: - [ ] [producto] Bandeja: la respuesta es un cuadro de texto grande con «Responder» debajo; el mockup tiene una sola lín",
-  "resumen": "PR #23 abierto: Bandeja con respuesta de una línea",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39386260834",
+  "estado": "trabajando",
+  "desde": "2026-10-20T01:34:15-06:00",
+  "que": "a mano: cola: - [ ] [producto] Barras de herramientas que faltan frente al mockup: «Buscar cliente…» y «Exportar» en Clientes (y equiv",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39387320284",
   "duraciones": [
    6.0,
    2.4,
