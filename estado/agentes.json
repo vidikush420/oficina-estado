@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T22:07:21-06:00",
   "que": "a mano: cola: - [ ] [producto] Producción no puede subir v51 porque main ya trae frontend v52 y su matriz de navegadores falla (20/10/",
-  "fase": "1/5 leyendo el proyecto",
+  "fase": "2/5 haciendo el cambio",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39367820426",
   "duraciones": [
    1.9,
@@ -18,7 +18,7 @@
    18.8
   ],
   "estimado_min": 6.0,
-  "fase_desde": "2026-10-19T22:11:29-06:00"
+  "fase_desde": "2026-10-19T22:11:39-06:00"
  },
  "aduana": {
   "estado": "termino",
