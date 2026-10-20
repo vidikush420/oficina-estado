@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T21:27:49-06:00",
   "que": "a mano: cola: - [ ] [producto · v52 · scroll del modal de Dirección] **PRIMERO** — La promoción a producción del 19/10 21:15 (puente v",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39364378448",
   "duraciones": [
    0.1,
@@ -18,7 +18,7 @@
    5.9
   ],
   "estimado_min": 4.7,
-  "fase_desde": "2026-10-19T21:35:12-06:00"
+  "fase_desde": "2026-10-19T21:41:38-06:00"
  },
  "aduana": {
   "estado": "termino",
