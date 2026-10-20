@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:29:07-06:00",
   "que": "revisando el PR #23 (chalan/2026-10-20-bandeja-respuesta)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39386748697",
   "duraciones": [
    2.8,
@@ -38,7 +38,8 @@
    3.8,
    4.0
   ],
-  "estimado_min": 3.0
+  "estimado_min": 3.0,
+  "fase_desde": "2026-10-20T01:32:31-06:00"
  },
  "sherlock": {
   "estado": "termino",
