@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T18:29:13-06:00",
   "que": "a mano: cola: - [ ] Fase 1 · paso 8c — API y panel: lo marcado como desaparecido (desaparecida_en / desaparecido_en) no se muestra por",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347882676",
   "duraciones": [
    6.4,
@@ -17,7 +17,8 @@
    37.3,
    3.5
   ],
-  "estimado_min": 4.9
+  "estimado_min": 4.9,
+  "fase_desde": "2026-10-19T18:31:27-06:00"
  },
  "aduana": {
   "estado": "termino",
