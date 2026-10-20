@@ -56,10 +56,11 @@
   "estimado_min": 21.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T18:15:37-06:00",
   "desde": "2026-10-19T18:12:57-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "AVISAR ADUANA: PR 47 de vidikush420/bitacora-webapp",
   "url": "",
   "duraciones": [
    0.8,
@@ -69,9 +70,10 @@
    0.7,
    1.2,
    0.8,
-   0.8
+   0.8,
+   2.7
   ],
-  "estimado_min": 1.0
+  "estimado_min": 1.2
  },
  "gerente-de-zara": {
   "estado": "termino",
