@@ -56,10 +56,11 @@
   "estimado_min": 21.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T19:05:04-06:00",
   "desde": "2026-10-19T18:17:17-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Arreglé dos tropiezos ocasionales de las pruebas automáticas que usa Sherlock; no eran fallas de la app. Ahora las pruebas insisten una vez más antes de rendirse. Quedó listo para que Aduana lo revise",
   "url": "",
   "duraciones": [
    0.8,
@@ -70,7 +71,8 @@
    1.2,
    0.8,
    0.8,
-   2.7
+   2.7,
+   47.8
   ],
   "estimado_min": 1.2
  },
