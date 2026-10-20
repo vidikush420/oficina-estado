@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T18:06:51-06:00",
-  "desde": "2026-10-19T17:29:34-06:00",
-  "que": "a mano: cola: - [ ] [producto · Dirección 1/2 · puente v2.35]",
-  "resumen": "Sin novedades: Dirección 1/2 ya fusionada (#43); esperando PR #45",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39339588689",
+  "estado": "trabajando",
+  "desde": "2026-10-19T18:21:39-06:00",
+  "que": "a mano: cola: - [ ] Fase 1 · paso 8b — Importador: las columnas EXTRA de la exportación (las que no están en COLUMNAS.md) se ignoran,",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347109215",
   "duraciones": [
    3.0,
    6.4,
