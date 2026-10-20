@@ -57,13 +57,13 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T21:55:55-06:00",
   "desde": "2026-10-19T21:54:44-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No tienes que hacer nada hoy; lo único pendiente de tu lado es esa copia de datos.",
   "url": "",
   "duraciones": [
-   0.7,
    1.2,
    0.8,
    0.8,
@@ -72,9 +72,10 @@
    1.9,
    1.1,
    0.8,
-   12.6
+   12.6,
+   1.2
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
