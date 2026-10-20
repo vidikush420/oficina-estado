@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T01:19:16-06:00",
   "desde": "2026-10-20T01:15:29-06:00",
   "que": "a mano: cola: - [ ] [producto] Logo ilegible en tema oscuro: marca/logo.png de Vidal tiene letras oscuras y sobre el fondo oscuro de l",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #22 abierto: logo legible en tema oscuro",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39385285403",
   "duraciones": [
-   37.3,
    3.5,
    6.0,
    2.4,
@@ -15,10 +15,10 @@
    10.8,
    3.2,
    4.4,
-   4.6
+   4.6,
+   3.8
   ],
-  "estimado_min": 5.2,
-  "fase_desde": "2026-10-20T01:19:11-06:00"
+  "estimado_min": 4.5
  },
  "aduana": {
   "estado": "termino",
