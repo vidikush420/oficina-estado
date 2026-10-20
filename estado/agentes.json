@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T05:54:59-06:00",
   "que": "revisando el PR #52 (chalan/2026-10-20-subir-build-v53)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39418322818",
   "duraciones": [
    1.6,
@@ -38,7 +38,8 @@
    3.4,
    3.9
   ],
-  "estimado_min": 3.9
+  "estimado_min": 3.9,
+  "fase_desde": "2026-10-20T05:57:59-06:00"
  },
  "sherlock": {
   "estado": "termino",
