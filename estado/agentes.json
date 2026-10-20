@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T21:53:24-06:00",
   "que": "revisando el PR #48 (chalan-local/2026-10-19-arnes-intermitentes)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39366372893",
   "duraciones": [
    1.0,
@@ -39,7 +39,7 @@
    3.2
   ],
   "estimado_min": 2.8,
-  "fase_desde": "2026-10-19T21:54:27-06:00"
+  "fase_desde": "2026-10-19T21:54:38-06:00"
  },
  "sherlock": {
   "estado": "termino",
