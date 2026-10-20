@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:19:44-06:00",
   "que": "revisando el PR #22 (chalan/2026-10-20-logo-oscuro)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39385722249",
   "duraciones": [
    2.8,
@@ -38,7 +38,8 @@
    5.2,
    3.8
   ],
-  "estimado_min": 2.8
+  "estimado_min": 2.8,
+  "fase_desde": "2026-10-20T01:23:00-06:00"
  },
  "sherlock": {
   "estado": "termino",
