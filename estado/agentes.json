@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T06:49:05-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 4 — Portero (nucleo/agentes/vigia-portales/) según agentes/portero.md: lee SALUD.md y la corrida rec",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39425163768",
   "duraciones": [
    4.6,
@@ -17,7 +17,8 @@
    7.1,
    4.1
   ],
-  "estimado_min": 4.5
+  "estimado_min": 4.5,
+  "fase_desde": "2026-10-20T06:53:07-06:00"
  },
  "aduana": {
   "estado": "termino",
