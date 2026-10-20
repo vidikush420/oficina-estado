@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T06:19:45-06:00",
-  "desde": "2026-10-20T06:05:26-06:00",
-  "que": "a mano: cola: - [ ] Fase 2 · paso 1 — Contrato de conector de portal y el portal de mentira. nucleo/conectores/portales/README.md defi",
-  "resumen": "PR #27 abierto: Fase 2 paso 1 (contrato de conector y portal de mentira)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39419301341",
+  "estado": "trabajando",
+  "desde": "2026-10-20T06:28:49-06:00",
+  "que": "a mano: cola: - [ ] Fase 2 · paso 2 — Validador de pagos (nucleo/agentes/validador-pagos/) según agentes/validador-pagos.md: abre corr",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39422496936",
   "duraciones": [
    3.2,
    4.4,
