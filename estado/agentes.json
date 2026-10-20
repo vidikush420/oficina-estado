@@ -21,12 +21,11 @@
   "estimado_min": 5.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-20T07:44:29-06:00",
-  "desde": "2026-10-20T07:34:34-06:00",
-  "que": "revisando el PR #33 (chalan/2026-10-20-cobrador-seco)",
-  "resumen": "PR #33 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39431397592",
+  "estado": "trabajando",
+  "desde": "2026-10-20T08:54:17-06:00",
+  "que": "revisando el PR #53 (chalan/2026-10-20-cinta-beta-por-sha)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39443370365",
   "duraciones": [
    3.4,
    3.9,
