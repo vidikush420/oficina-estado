@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T22:21:44-06:00",
   "que": "revisando el PR #50 (chalan/2026-10-19-cola-matriz-v52)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39368838078",
   "duraciones": [
    11.2,
@@ -39,7 +39,7 @@
    1.6
   ],
   "estimado_min": 2.8,
-  "fase_desde": "2026-10-19T22:32:53-06:00"
+  "fase_desde": "2026-10-19T22:33:09-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
