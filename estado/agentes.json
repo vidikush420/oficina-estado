@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T18:36:50-06:00",
   "que": "revisando el PR #18 (chalan/2026-10-19-ocultar-desaparecidos)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39348488983",
   "duraciones": [
    0.8,
@@ -38,7 +38,8 @@
    6.6,
    2.8
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-10-19T18:38:56-06:00"
  },
  "sherlock": {
   "estado": "termino",
