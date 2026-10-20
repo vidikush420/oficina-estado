@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T18:21:39-06:00",
   "que": "a mano: cola: - [ ] Fase 1 · paso 8b — Importador: las columnas EXTRA de la exportación (las que no están en COLUMNAS.md) se ignoran,",
-  "fase": "3/5 corriendo pruebas",
+  "fase": "4/5 abriendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347109215",
   "duraciones": [
    3.0,
@@ -18,7 +18,7 @@
    37.3
   ],
   "estimado_min": 4.7,
-  "fase_desde": "2026-10-19T18:24:44-06:00"
+  "fase_desde": "2026-10-19T18:24:56-06:00"
  },
  "aduana": {
   "estado": "trabajando",
