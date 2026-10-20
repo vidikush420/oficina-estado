@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-10-20T14:35:52-06:00",
+  "cuando": "2026-10-20T14:36:06-06:00",
   "desde": "2026-10-20T14:26:44-06:00",
   "que": "revisando el PR #56 (claude/2026-10-20-mac-solo-prefijo)",
   "resumen": "PR #34 → NO PASA (toca workflows), no fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39491823071",
   "duraciones": [
-   3.1,
    4.3,
    3.6,
    3.8,
@@ -37,9 +36,10 @@
    3.7,
    8.8,
    14.0,
-   9.1
+   9.1,
+   9.4
   ],
-  "estimado_min": 4.0
+  "estimado_min": 6.6
  },
  "sherlock": {
   "estado": "termino",
