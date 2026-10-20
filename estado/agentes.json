@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T18:39:41-06:00",
   "desde": "2026-10-19T18:36:50-06:00",
   "que": "revisando el PR #18 (chalan/2026-10-19-ocultar-desaparecidos)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #18 → PASA, fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39348488983",
   "duraciones": [
-   0.8,
    1.2,
    1.1,
    1.2,
@@ -36,10 +36,10 @@
    7.0,
    11.2,
    6.6,
-   2.8
+   2.8,
+   2.9
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-10-19T18:39:33-06:00"
+  "estimado_min": 2.0
  },
  "sherlock": {
   "estado": "termino",
