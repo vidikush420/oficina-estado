@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:49:12-06:00",
   "que": "revisando el PR #25 (chalan/2026-10-20-chips-preguntale)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39388985884",
   "duraciones": [
    3.2,
@@ -38,7 +38,8 @@
    4.2,
    3.9
   ],
-  "estimado_min": 3.8
+  "estimado_min": 3.8,
+  "fase_desde": "2026-10-20T01:51:58-06:00"
  },
  "sherlock": {
   "estado": "termino",
