@@ -58,13 +58,13 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T21:40:50-06:00",
   "desde": "2026-10-19T21:28:17-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Aduana devolvió mi trabajo de ayer porque se había enredado con cambios nuevos. Lo puse al día y quité unas imágenes que no debían ir. Las pruebas pasan, salvo dos que ya fallaban antes por otro probl",
   "url": "",
   "duraciones": [
-   1.4,
    0.7,
    1.2,
    0.8,
@@ -73,7 +73,8 @@
    47.8,
    1.9,
    1.1,
-   0.8
+   0.8,
+   12.6
   ],
   "estimado_min": 1.1
  },
