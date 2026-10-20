@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-19T19:14:37-06:00",
   "que": "revisando el PR #45 (chalan/2026-10-19-direccion-2-2)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39352006014",
   "duraciones": [
    1.1,
@@ -38,7 +38,8 @@
    2.9,
    2.8
   ],
-  "estimado_min": 2.8
+  "estimado_min": 2.8,
+  "fase_desde": "2026-10-19T19:16:30-06:00"
  },
  "sherlock": {
   "estado": "termino",
