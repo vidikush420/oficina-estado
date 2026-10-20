@@ -56,11 +56,10 @@
   "estimado_min": 21.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-19T19:08:15-06:00",
-  "desde": "2026-10-19T19:06:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-19T19:15:06-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio que dejé en revisión chocaba con otro que se integró después, solo en la hoja de notas del proyecto. Ya lo junté sin perder nada y las pruebas pasan. Aduana lo revisará sola; no tienes que h",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.9,
