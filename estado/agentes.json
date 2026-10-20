@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T06:55:58-06:00",
-  "desde": "2026-10-20T06:49:05-06:00",
-  "que": "a mano: cola: - [ ] Fase 2 · paso 4 — Portero (nucleo/agentes/vigia-portales/) según agentes/portero.md: lee SALUD.md y la corrida rec",
-  "resumen": "PR #30 abierto: Fase 2 paso 4, Portero",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39425163768",
+  "estado": "trabajando",
+  "desde": "2026-10-20T07:01:47-06:00",
+  "que": "a mano: cola: - [ ] Fase 2 · paso 5 — Panel: vista «Validación de pagos» como en el mockup (lista de diferencias con su acción y boton",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39426878872",
   "duraciones": [
    3.8,
    4.1,
