@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T06:35:57-06:00",
   "desde": "2026-10-20T06:28:49-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 2 — Validador de pagos (nucleo/agentes/validador-pagos/) según agentes/validador-pagos.md: abre corr",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #28 abierto: Validador de pagos (Fase 2 paso 2)",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39422496936",
   "duraciones": [
-   3.2,
    4.4,
    4.6,
    3.8,
@@ -15,10 +15,10 @@
    4.5,
    4.1,
    4.8,
-   14.3
+   14.3,
+   7.1
   ],
-  "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T06:35:48-06:00"
+  "estimado_min": 4.5
  },
  "aduana": {
   "estado": "termino",
