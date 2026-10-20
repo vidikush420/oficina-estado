@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:15:29-06:00",
   "que": "a mano: cola: - [ ] [producto] Logo ilegible en tema oscuro: marca/logo.png de Vidal tiene letras oscuras y sobre el fondo oscuro de l",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39385285403",
   "duraciones": [
    37.3,
@@ -18,7 +18,7 @@
    4.6
   ],
   "estimado_min": 5.2,
-  "fase_desde": "2026-10-20T01:18:34-06:00"
+  "fase_desde": "2026-10-20T01:18:51-06:00"
  },
  "aduana": {
   "estado": "termino",
