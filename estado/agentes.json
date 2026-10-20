@@ -21,12 +21,11 @@
   "estimado_min": 4.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-20T06:39:24-06:00",
-  "desde": "2026-10-20T06:36:26-06:00",
-  "que": "revisando el PR #28 (chalan/2026-10-20-validador-pagos)",
-  "resumen": "PR #28 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39423486678",
+  "estado": "trabajando",
+  "desde": "2026-10-20T06:45:02-06:00",
+  "que": "revisando el PR #29 (chalan/2026-10-20-conciliacion-salud)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39424617015",
   "duraciones": [
    5.2,
    3.8,
