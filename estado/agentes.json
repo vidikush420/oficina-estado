@@ -21,13 +21,13 @@
   "estimado_min": 4.9
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T18:28:25-06:00",
   "desde": "2026-10-19T18:25:37-06:00",
   "que": "revisando el PR #17 (chalan/2026-10-19-importador-columnas-extra)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #17 → PASA, fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347508820",
   "duraciones": [
-   1.2,
    0.8,
    1.2,
    1.1,
@@ -36,10 +36,10 @@
    1.0,
    7.0,
    11.2,
-   6.6
+   6.6,
+   2.8
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-10-19T18:28:11-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
