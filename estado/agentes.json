@@ -57,11 +57,10 @@
   "estimado_min": 21.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-19T19:16:11-06:00",
-  "desde": "2026-10-19T19:15:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-19T19:18:18-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada nuevo para mí en la Mac: lo único pendiente ya está hecho y esperando revisión. Los otros proyectos siguen esperando datos o respuestas de otras personas. Tú no tienes que hacer nada",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
