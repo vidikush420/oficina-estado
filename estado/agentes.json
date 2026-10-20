@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T08:54:17-06:00",
   "que": "revisando el PR #53 (chalan/2026-10-20-cinta-beta-por-sha)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39443370365",
   "duraciones": [
    3.4,
@@ -39,7 +39,7 @@
    9.9
   ],
   "estimado_min": 3.8,
-  "fase_desde": "2026-10-20T08:57:18-06:00"
+  "fase_desde": "2026-10-20T08:57:33-06:00"
  },
  "sherlock": {
   "estado": "termino",
