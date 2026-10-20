@@ -21,12 +21,11 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-19T18:20:02-06:00",
-  "desde": "2026-10-19T18:13:27-06:00",
-  "que": "revisando el PR #13 (chalan/2026-10-19-resumen-vespertino)",
-  "resumen": "PR #13 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39344644755",
+  "estado": "trabajando",
+  "desde": "2026-10-19T18:21:14-06:00",
+  "que": "revisando el PR #47 (chalan-local/2026-10-19-sherlock-capturas-estado)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39346556778",
   "duraciones": [
    1.2,
    0.8,
