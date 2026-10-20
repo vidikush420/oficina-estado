@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T14:26:44-06:00",
   "que": "revisando el PR #56 (claude/2026-10-20-mac-solo-prefijo)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39491823071",
   "duraciones": [
    3.0,
@@ -38,7 +38,8 @@
    8.8,
    14.0
   ],
-  "estimado_min": 3.8
+  "estimado_min": 3.8,
+  "fase_desde": "2026-10-20T14:34:23-06:00"
  },
  "sherlock": {
   "estado": "termino",
