@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-20T01:38:49-06:00",
-  "desde": "2026-10-20T01:34:15-06:00",
-  "que": "a mano: cola: - [ ] [producto] Barras de herramientas que faltan frente al mockup: «Buscar cliente…» y «Exportar» en Clientes (y equiv",
-  "resumen": "PR #24 centro-operaciones: buscar/exportar/Ver todas",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39387320284",
+  "estado": "trabajando",
+  "desde": "2026-10-20T01:44:15-06:00",
+  "que": "a mano: cola: - [ ] [producto] Pregúntale: los chips de sugerencias quedan ~18 px más abajo que en el mockup (y la caja de pregunta co",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39388436855",
   "duraciones": [
    2.4,
    5.9,
