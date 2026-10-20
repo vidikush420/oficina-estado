@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T06:36:26-06:00",
   "que": "revisando el PR #28 (chalan/2026-10-20-validador-pagos)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39423486678",
   "duraciones": [
    2.7,
@@ -38,7 +38,8 @@
    3.8,
    7.4
   ],
-  "estimado_min": 3.9
+  "estimado_min": 3.9,
+  "fase_desde": "2026-10-20T06:38:39-06:00"
  },
  "sherlock": {
   "estado": "termino",
