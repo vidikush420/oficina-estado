@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T06:28:49-06:00",
   "que": "a mano: cola: - [ ] Fase 2 · paso 2 — Validador de pagos (nucleo/agentes/validador-pagos/) según agentes/validador-pagos.md: abre corr",
-  "fase": "4/5 abriendo el PR",
+  "fase": "5/5 registrando en la oficina",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39422496936",
   "duraciones": [
    3.2,
@@ -18,7 +18,7 @@
    14.3
   ],
   "estimado_min": 4.5,
-  "fase_desde": "2026-10-20T06:35:38-06:00"
+  "fase_desde": "2026-10-20T06:35:48-06:00"
  },
  "aduana": {
   "estado": "termino",
