@@ -21,13 +21,13 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T07:14:13-06:00",
   "desde": "2026-10-20T07:10:37-06:00",
   "que": "revisando el PR #31 (chalan/2026-10-20-validacion-pagos-panel)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #31 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39428077999",
   "duraciones": [
-   4.0,
    4.2,
    3.9,
    3.4,
@@ -36,10 +36,10 @@
    7.4,
    3.0,
    3.1,
-   4.3
+   4.3,
+   3.6
   ],
-  "estimado_min": 3.9,
-  "fase_desde": "2026-10-20T07:14:06-06:00"
+  "estimado_min": 3.8
  },
  "sherlock": {
   "estado": "termino",
