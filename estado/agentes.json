@@ -60,11 +60,10 @@
   "estimado_min": 4.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-20T00:59:31-06:00",
-  "desde": "2026-10-20T00:55:08-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-20T01:00:21-06:00",
   "que": "corrida programada",
-  "resumen": "Abrí el panel del Centro de Operaciones en la Mac y lo comparé pantalla por pantalla con el diseño aprobado. Se ve casi igual, también en celular. Encontré cosas por pulir, sobre todo que al escribir",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
