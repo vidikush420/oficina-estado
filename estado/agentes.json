@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-19T18:25:10-06:00",
-  "desde": "2026-10-19T18:21:39-06:00",
-  "que": "a mano: cola: - [ ] Fase 1 · paso 8b — Importador: las columnas EXTRA de la exportación (las que no están en COLUMNAS.md) se ignoran,",
-  "resumen": "PR #17 abierto: Importador ignora columnas extra (paso 8b)",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347109215",
+  "estado": "trabajando",
+  "desde": "2026-10-19T18:29:13-06:00",
+  "que": "a mano: cola: - [ ] Fase 1 · paso 8c — API y panel: lo marcado como desaparecido (desaparecida_en / desaparecido_en) no se muestra por",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39347882676",
   "duraciones": [
    6.4,
    0.1,
