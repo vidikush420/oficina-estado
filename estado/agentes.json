@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-20T01:53:34-06:00",
   "que": "a mano: cola: - [ ] [producto] Datos de ejemplo más pobres que el mockup: 12 clientes con 4 con prima 0.00 y 1 póliza cada uno (mockup",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39389490914",
   "duraciones": [
    5.9,
@@ -17,7 +17,8 @@
    4.6,
    4.5
   ],
-  "estimado_min": 4.5
+  "estimado_min": 4.5,
+  "fase_desde": "2026-10-20T01:56:29-06:00"
  },
  "aduana": {
   "estado": "termino",
