@@ -57,11 +57,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-19T19:19:07-06:00",
-  "desde": "2026-10-19T19:18:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-19T21:28:17-06:00",
   "que": "corrida programada",
-  "resumen": "No hay nada nuevo que solo se pueda hacer en la Mac: lo único pendiente ya está hecho y espera revisión, y Sunday sigue esperando datos y respuestas. La subida de la versión nueva a la zona de pruebas",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
