@@ -1,13 +1,12 @@
 {
  "chalan": {
   "estado": "termino",
-  "cuando": "2026-10-20T01:09:57-06:00",
+  "cuando": "2026-10-20T01:10:10-06:00",
   "desde": "2026-10-20T01:05:34-06:00",
   "que": "a mano: cola: - [ ] [producto] Pregúntale a tus registros: Enter y el botón de enviar no hacen nada al abrir la vista (solo funcionan",
   "resumen": "PR #21 abierto: Enter y enviar en Pregúntale",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39384250515",
   "duraciones": [
-   37.1,
    37.3,
    3.5,
    6.0,
@@ -16,9 +15,10 @@
    18.8,
    10.8,
    3.2,
-   4.4
+   4.4,
+   4.6
   ],
-  "estimado_min": 6.0
+  "estimado_min": 5.2
  },
  "aduana": {
   "estado": "termino",
