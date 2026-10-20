@@ -21,12 +21,11 @@
   "estimado_min": 5.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-20T07:23:22-06:00",
-  "desde": "2026-10-20T07:19:33-06:00",
-  "que": "revisando el PR #32 (chalan/2026-10-20-resumen-conciliacion)",
-  "resumen": "PR #32 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39429333150",
+  "estado": "trabajando",
+  "desde": "2026-10-20T07:34:34-06:00",
+  "que": "revisando el PR #33 (chalan/2026-10-20-cobrador-seco)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39431397592",
   "duraciones": [
    3.9,
    3.4,
