@@ -21,13 +21,13 @@
   "estimado_min": 5.2
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-20T01:14:38-06:00",
   "desde": "2026-10-20T01:10:48-06:00",
   "que": "revisando el PR #21 (chalan/2026-10-20-preguntale-enter)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #21 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/centro-operaciones/actions/runs/39384730593",
   "duraciones": [
-   2.9,
    2.8,
    2.8,
    2.6,
@@ -36,10 +36,10 @@
    1.6,
    11.7,
    2.7,
-   5.2
+   5.2,
+   3.8
   ],
-  "estimado_min": 2.8,
-  "fase_desde": "2026-10-20T01:14:30-06:00"
+  "estimado_min": 2.8
  },
  "sherlock": {
   "estado": "termino",
