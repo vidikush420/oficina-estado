@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-19T19:07:44-06:00",
   "desde": "2026-10-19T19:04:54-06:00",
   "que": "revisando el PR #45 (chalan/2026-10-19-direccion-2-2)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #45 → DEVUELTO (conflicto en ESTADO.md), no fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39348650762",
   "duraciones": [
-   1.2,
    1.1,
    1.2,
    0.9,
@@ -36,10 +36,10 @@
    11.2,
    6.6,
    2.8,
-   2.9
+   2.9,
+   2.8
   ],
-  "estimado_min": 2.0,
-  "fase_desde": "2026-10-19T19:07:30-06:00"
+  "estimado_min": 2.8
  },
  "sherlock": {
   "estado": "termino",
