@@ -62,13 +62,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:59:18-06:00",
   "desde": "2026-10-21T13:58:29-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac sin riesgo. Lo de RH Wellness cambiaría la encuesta en vivo y la hoja real, y eso solo lo autorizas tú. Lo de Sunday sigue esperando respuestas de Héct",
   "url": "",
   "duraciones": [
-   0.6,
    1.1,
    1.0,
    0.7,
@@ -77,7 +77,8 @@
    1.4,
    0.7,
    2.5,
-   1.6
+   1.6,
+   0.8
   ],
   "estimado_min": 1.0
  },
