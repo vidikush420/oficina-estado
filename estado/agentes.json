@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-21T13:39:07-06:00",
-  "desde": "2026-10-21T13:37:57-06:00",
-  "que": "a mano: cola: - [ ] **Rutas Agroalim** — Crear sitio/encuesta/agroin/index.html como copia de sitio/encuesta/index.html. Las tres p�",
-  "resumen": "PR #1 abierto: Rutas Agroalim",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39663272491",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:41:26-06:00",
+  "que": "a mano: cola: - [ ] **Marca Agroalim** — En sitio/encuesta/agroin/index.html: logo marca/agroalim-logo.png (900×361, transparente) en",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39663765210",
   "duraciones": [
    14.3,
    7.1,
