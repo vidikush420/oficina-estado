@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:57:55-06:00",
   "desde": "2026-10-21T13:56:18-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo pendiente en RH Wellness es publicar el programa de la encuesta en vivo y tocar la hoja real, y eso solo lo puedes autorizar tú. Lo de Sunday sigue",
   "url": "",
   "duraciones": [
-   0.9,
    0.6,
    1.1,
    1.0,
@@ -78,7 +78,8 @@
    1.0,
    1.4,
    0.7,
-   2.5
+   2.5,
+   1.6
   ],
   "estimado_min": 1.0
  },
