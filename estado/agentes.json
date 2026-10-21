@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-21T13:43:03-06:00",
-  "desde": "2026-10-21T13:41:26-06:00",
-  "que": "a mano: cola: - [ ] **Marca Agroalim** — En sitio/encuesta/agroin/index.html: logo marca/agroalim-logo.png (900×361, transparente) en",
-  "resumen": "PR #2 abierto: Marca Agroalim en /encuesta/agroin",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39663765210",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:45:29-06:00",
+  "que": "a mano: cola: - [ ] **Campo cluster** — Constante fija por página junto al ENDPOINT_URL (no input oculto): \"agroalim\" en encuesta/agro",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39664357804",
   "duraciones": [
    7.1,
    4.1,
