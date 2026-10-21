@@ -21,12 +21,11 @@
   "estimado_min": 1.6
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-21T13:55:55-06:00",
-  "desde": "2026-10-21T13:54:49-06:00",
-  "que": "revisando el PR #5 (chalan/2026-10-21-banda-demo)",
-  "resumen": "PR #5 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665642931",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:58:53-06:00",
+  "que": "revisando el PR #6 (chalan/2026-10-21-verificacion-submit)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39666222102",
   "duraciones": [
    9.1,
    9.4,
