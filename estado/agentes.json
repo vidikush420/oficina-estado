@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T13:45:29-06:00",
   "que": "a mano: cola: - [ ] **Campo cluster** — Constante fija por página junto al ENDPOINT_URL (no input oculto): \"agroalim\" en encuesta/agro",
-  "fase": "4/5 abriendo el PR",
+  "fase": "5/5 registrando en la oficina",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39664357804",
   "duraciones": [
    7.1,
@@ -18,7 +18,7 @@
    1.6
   ],
   "estimado_min": 7.0,
-  "fase_desde": "2026-10-21T13:46:20-06:00"
+  "fase_desde": "2026-10-21T13:46:27-06:00"
  },
  "aduana": {
   "estado": "termino",
