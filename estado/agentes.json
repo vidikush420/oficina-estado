@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T13:41:26-06:00",
   "que": "a mano: cola: - [ ] **Marca Agroalim** — En sitio/encuesta/agroin/index.html: logo marca/agroalim-logo.png (900×361, transparente) en",
-  "fase": "3/5 corriendo pruebas",
+  "fase": "4/5 abriendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39663765210",
   "duraciones": [
    14.3,
@@ -18,7 +18,7 @@
    1.2
   ],
   "estimado_min": 7.7,
-  "fase_desde": "2026-10-21T13:42:34-06:00"
+  "fase_desde": "2026-10-21T13:42:43-06:00"
  },
  "aduana": {
   "estado": "termino",
