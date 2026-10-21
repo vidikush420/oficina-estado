@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-21T13:54:23-06:00",
-  "desde": "2026-10-21T13:53:07-06:00",
-  "que": "a mano: cola: - [ ] **Banda de demo** — En sitio/encuesta/index.html, banda ámbar clara arriba del formulario: \"Versión demo — las res",
-  "resumen": "PR #5 abierto: banda de demo en /encuesta",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665428985",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:56:46-06:00",
+  "que": "a mano: cola: - [ ] **Verificación del submit** — Simular el envío en ambas páginas sin pegarle al endpoint real e imprimir el JSON co",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665952456",
   "duraciones": [
    8.3,
    3.9,
