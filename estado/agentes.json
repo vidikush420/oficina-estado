@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:15:58-06:00",
   "desde": "2026-10-21T13:15:06-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada nuevo que yo pudiera hacer en la Mac. Lo pendiente de la Bitácora lo tiene que revisar una persona. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   2.5,
    3.8,
    17.7,
    1.6,
@@ -78,9 +78,10 @@
    9.4,
    3.4,
    1.5,
-   1.4
+   1.4,
+   0.9
   ],
-  "estimado_min": 2.2
+  "estimado_min": 1.8
  },
  "gerente-de-zara": {
   "estado": "fallo",
