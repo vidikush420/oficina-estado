@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T11:44:18-06:00",
-  "desde": "2026-10-21T11:40:55-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T11:52:31-06:00",
   "que": "corrida programada",
-  "resumen": "Un trabajo mío que esperaba revisión se había desfasado respecto a lo último del proyecto. Lo puse al día y las pruebas automáticas pasan. Aduana lo vuelve a revisar. Tú no tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.8,
