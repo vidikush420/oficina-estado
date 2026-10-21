@@ -21,13 +21,13 @@
   "estimado_min": 7.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T11:54:03-06:00",
   "desde": "2026-10-21T11:53:23-06:00",
   "que": "revisando el PR #58 (chalan-local/2026-10-21-nivel2-vigilante)",
-  "fase": "1/4 leyendo el PR",
+  "resumen": "PR #58 → ya revisado en este head (OJO, espera a Miguel por CI no verificable); sin acción",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39647742928",
   "duraciones": [
-   3.8,
    9.9,
    3.5,
    3.7,
@@ -36,10 +36,10 @@
    9.1,
    9.4,
    0.3,
-   5.6
+   5.6,
+   0.7
   ],
-  "estimado_min": 7.2,
-  "fase_desde": "2026-10-21T11:53:47-06:00"
+  "estimado_min": 7.2
  },
  "sherlock": {
   "estado": "termino",
