@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T11:54:00-06:00",
-  "desde": "2026-10-21T11:52:31-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T12:24:25-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada nuevo que yo pudiera hacer en la Mac. El arreglo para que las pruebas largas de la Bitácora no se cuelguen ya está hecho y esperando tu visto bueno (PR 58): sus dos revisiones automá",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
