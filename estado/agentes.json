@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T12:25:50-06:00",
-  "desde": "2026-10-21T12:24:25-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:15:06-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada nuevo que yo pudiera hacer en la Mac. Lo pendiente de la Bitácora lo tiene que revisar una persona, y en Sunday sigue faltando la copia de datos de prueba. Tú: si no lo has hecho, ap",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.5,
