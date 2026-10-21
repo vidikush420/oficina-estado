@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:36:37-06:00",
   "desde": "2026-10-21T13:35:30-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. En RH Wellness las dos tareas pendientes implican publicar el backend y tocar la hoja real, y eso solo lo puedes hacer tú. Tú: autoriza clasp (el acce",
   "url": "",
   "duraciones": [
-   17.7,
    1.6,
    1.1,
    2.0,
@@ -78,9 +78,10 @@
    1.5,
    1.4,
    0.9,
-   0.6
+   0.6,
+   1.1
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.4
  },
  "gerente-de-zara": {
   "estado": "fallo",
