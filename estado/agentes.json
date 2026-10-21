@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:34:59-06:00",
   "desde": "2026-10-21T13:34:22-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. En RH Wellness las dos tareas pendientes implican publicar el programa de la encuesta y tocar la hoja real, y eso solo lo puedes hacer tú. Tú: autoriz",
   "url": "",
   "duraciones": [
-   3.8,
    17.7,
    1.6,
    1.1,
@@ -78,9 +78,10 @@
    3.4,
    1.5,
    1.4,
-   0.9
+   0.9,
+   0.6
   ],
-  "estimado_min": 1.8
+  "estimado_min": 1.6
  },
  "gerente-de-zara": {
   "estado": "fallo",
