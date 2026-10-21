@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:53:44-06:00",
   "desde": "2026-10-21T13:53:01-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy tampoco había nada que yo pudiera hacer en la Mac. Lo pendiente en RH Wellness es publicar el programa de la encuesta y tocar la hoja real, y eso solo lo puedes hacer tú. Tú: autoriza clasp (el ac",
   "url": "",
   "duraciones": [
-   1.5,
    1.4,
    0.9,
    0.6,
@@ -78,7 +78,8 @@
    0.7,
    1.0,
    1.0,
-   1.4
+   1.4,
+   0.7
   ],
   "estimado_min": 1.0
  },
