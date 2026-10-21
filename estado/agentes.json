@@ -21,13 +21,13 @@
   "estimado_min": 7.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T11:49:20-06:00",
   "desde": "2026-10-21T11:43:43-06:00",
   "que": "revisando el PR #58 (chalan-local/2026-10-21-nivel2-vigilante)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #58 → OJO espera: CI del head actual no verificable; no fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39644996970",
   "duraciones": [
-   3.6,
    3.8,
    9.9,
    3.5,
@@ -36,10 +36,10 @@
    14.0,
    9.1,
    9.4,
-   0.3
+   0.3,
+   5.6
   ],
-  "estimado_min": 6.3,
-  "fase_desde": "2026-10-21T11:49:17-06:00"
+  "estimado_min": 7.2
  },
  "sherlock": {
   "estado": "termino",
