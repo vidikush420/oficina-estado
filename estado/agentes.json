@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T13:37:57-06:00",
   "que": "a mano: cola: - [ ] **Rutas Agroalim** — Crear sitio/encuesta/agroin/index.html como copia de sitio/encuesta/index.html. Las tres p�",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39663272491",
   "duraciones": [
    4.8,
@@ -18,7 +18,7 @@
    54.5
   ],
   "estimado_min": 7.7,
-  "fase_desde": "2026-10-21T13:38:34-06:00"
+  "fase_desde": "2026-10-21T13:38:37-06:00"
  },
  "aduana": {
   "estado": "termino",
