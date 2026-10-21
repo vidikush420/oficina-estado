@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T13:43:32-06:00",
   "que": "revisando el PR #2 (chalan/2026-10-21-marca-agroalim)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39664032513",
   "duraciones": [
    3.5,
@@ -38,7 +38,8 @@
    0.7,
    1.1
   ],
-  "estimado_min": 4.7
+  "estimado_min": 4.7,
+  "fase_desde": "2026-10-21T13:43:55-06:00"
  },
  "sherlock": {
   "estado": "termino",
