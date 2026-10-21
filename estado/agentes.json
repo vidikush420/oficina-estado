@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T14:02:25-06:00",
-  "desde": "2026-10-21T14:01:50-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T16:15:05-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy tampoco había nada que yo pudiera hacer en la Mac sin riesgo. Lo pendiente en RH Wellness cambiaría la encuesta en vivo y la hoja real, y eso solo lo autorizas tú. No tienes que hacer nada nuevo.",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
