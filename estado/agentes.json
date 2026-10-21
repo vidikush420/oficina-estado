@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T13:50:59-06:00",
   "que": "revisando el PR #4 (chalan/2026-10-21-pregunta-gestion-conjunta)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665096575",
   "duraciones": [
    8.8,
@@ -38,7 +38,8 @@
    1.2,
    1.1
   ],
-  "estimado_min": 3.4
+  "estimado_min": 3.4,
+  "fase_desde": "2026-10-21T13:51:23-06:00"
  },
  "sherlock": {
   "estado": "termino",
