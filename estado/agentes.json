@@ -63,13 +63,13 @@
   "estimado_min": 4.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T01:16:32-06:00",
   "desde": "2026-10-21T01:14:29-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que me tocara hacer en la Mac. Lo de Sunday sigue detenido por falta de datos de prueba y de una herramienta que no está instalada. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   1.6,
    1.2,
    1.6,
    1.8,
@@ -78,9 +78,10 @@
    3.8,
    17.7,
    1.6,
-   1.1
+   1.1,
+   2.0
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
