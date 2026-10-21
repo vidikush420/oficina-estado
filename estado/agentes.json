@@ -21,13 +21,13 @@
   "estimado_min": 5.4
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:52:14-06:00",
   "desde": "2026-10-21T13:50:59-06:00",
   "que": "revisando el PR #4 (chalan/2026-10-21-pregunta-gestion-conjunta)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #4 rhwellness-encuesta → PASA, fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665096575",
   "duraciones": [
-   8.8,
    14.0,
    9.1,
    9.4,
@@ -36,10 +36,10 @@
    0.7,
    1.1,
    1.2,
-   1.1
+   1.1,
+   1.2
   ],
-  "estimado_min": 3.4,
-  "fase_desde": "2026-10-21T13:52:06-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
