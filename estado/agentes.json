@@ -21,12 +21,11 @@
   "estimado_min": 5.4
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-21T13:48:13-06:00",
-  "desde": "2026-10-21T13:47:07-06:00",
-  "que": "revisando el PR #3 (chalan/2026-10-21-campo-cluster)",
-  "resumen": "PR #3 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39664550283",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:50:59-06:00",
+  "que": "revisando el PR #4 (chalan/2026-10-21-pregunta-gestion-conjunta)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665096575",
   "duraciones": [
    8.8,
    14.0,
