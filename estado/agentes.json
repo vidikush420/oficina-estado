@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-10-21T13:53:44-06:00",
+  "cuando": "2026-10-21T13:55:28-06:00",
   "desde": "2026-10-21T13:53:01-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy tampoco había nada que yo pudiera hacer en la Mac. Lo pendiente en RH Wellness es publicar el programa de la encuesta y tocar la hoja real, y eso solo lo puedes hacer tú. Tú: autoriza clasp (el ac",
+  "resumen": "Hoy no había nada que pudiera hacer en la Mac sin riesgo. La única tarea de Mac pendiente (RH Wellness) cambiaría la encuesta que ya está en vivo y borraría filas de la hoja real, así que no la toqué.",
   "url": "",
   "duraciones": [
-   1.4,
    0.9,
    0.6,
    1.1,
@@ -79,7 +78,8 @@
    1.0,
    1.0,
    1.4,
-   0.7
+   0.7,
+   2.5
   ],
   "estimado_min": 1.0
  },
