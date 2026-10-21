@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:43:03-06:00",
   "desde": "2026-10-21T13:41:26-06:00",
   "que": "a mano: cola: - [ ] **Marca Agroalim** — En sitio/encuesta/agroin/index.html: logo marca/agroalim-logo.png (900×361, transparente) en",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #2 abierto: Marca Agroalim en /encuesta/agroin",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39663765210",
   "duraciones": [
-   14.3,
    7.1,
    4.1,
    6.9,
@@ -15,10 +15,10 @@
    9.2,
    36.5,
    54.5,
-   1.2
+   1.2,
+   1.6
   ],
-  "estimado_min": 7.7,
-  "fase_desde": "2026-10-21T13:42:54-06:00"
+  "estimado_min": 7.0
  },
  "aduana": {
   "estado": "termino",
