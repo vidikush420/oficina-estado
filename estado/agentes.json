@@ -21,13 +21,13 @@
   "estimado_min": 7.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:40:35-06:00",
   "desde": "2026-10-21T13:39:31-06:00",
   "que": "revisando el PR #1 (chalan/2026-10-21-rutas-agroalim)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #1 rhwellness-encuesta → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39663469510",
   "duraciones": [
-   9.9,
    3.5,
    3.7,
    8.8,
@@ -36,10 +36,10 @@
    9.4,
    0.3,
    5.6,
-   0.7
+   0.7,
+   1.1
   ],
-  "estimado_min": 7.2,
-  "fase_desde": "2026-10-21T13:40:30-06:00"
+  "estimado_min": 4.7
  },
  "sherlock": {
   "estado": "termino",
