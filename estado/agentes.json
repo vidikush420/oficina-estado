@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T13:53:07-06:00",
   "que": "a mano: cola: - [ ] **Banda de demo** — En sitio/encuesta/index.html, banda ámbar clara arriba del formulario: \"Versión demo — las res",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665428985",
   "duraciones": [
    6.9,
@@ -18,7 +18,7 @@
    1.4
   ],
   "estimado_min": 5.4,
-  "fase_desde": "2026-10-21T13:53:34-06:00"
+  "fase_desde": "2026-10-21T13:53:49-06:00"
  },
  "aduana": {
   "estado": "termino",
