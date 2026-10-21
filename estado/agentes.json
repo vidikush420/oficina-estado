@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-21T13:44:42-06:00",
-  "desde": "2026-10-21T13:43:32-06:00",
-  "que": "revisando el PR #2 (chalan/2026-10-21-marca-agroalim)",
-  "resumen": "PR #2 rhwellness-encuesta → PASA, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39664032513",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:47:07-06:00",
+  "que": "revisando el PR #3 (chalan/2026-10-21-campo-cluster)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39664550283",
   "duraciones": [
    3.7,
    8.8,
