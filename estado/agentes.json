@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:42:02-06:00",
   "desde": "2026-10-21T13:41:00-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. En RH Wellness las dos tareas pendientes implican publicar el backend y tocar la hoja real, y en Sunday faltan herramientas y datos de prueba. Tú: aut",
   "url": "",
   "duraciones": [
-   1.6,
    1.1,
    2.0,
    9.4,
@@ -78,9 +78,10 @@
    1.4,
    0.9,
    0.6,
-   1.1
+   1.1,
+   1.0
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
