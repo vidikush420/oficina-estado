@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T11:31:27-06:00",
-  "desde": "2026-10-21T11:22:01-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T11:40:55-06:00",
   "que": "corrida programada",
-  "resumen": "Las pruebas largas de navegador se quedaban pegadas sin avisar y Sherlock no podía dar su veredicto. Ahora, si algo se pega, la prueba se corta sola y dice en qué paso, y además va mostrando su avance",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
