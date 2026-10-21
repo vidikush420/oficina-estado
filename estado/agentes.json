@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:54:23-06:00",
   "desde": "2026-10-21T13:53:07-06:00",
   "que": "a mano: cola: - [ ] **Banda de demo** — En sitio/encuesta/index.html, banda ámbar clara arriba del formulario: \"Versión demo — las res",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #5 abierto: banda de demo en /encuesta",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665428985",
   "duraciones": [
-   6.9,
    8.3,
    3.9,
    9.2,
@@ -15,10 +15,10 @@
    1.2,
    1.6,
    1.1,
-   1.4
+   1.4,
+   1.3
   ],
-  "estimado_min": 5.4,
-  "fase_desde": "2026-10-21T13:54:15-06:00"
+  "estimado_min": 2.8
  },
  "aduana": {
   "estado": "termino",
