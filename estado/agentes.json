@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T11:44:18-06:00",
   "desde": "2026-10-21T11:40:55-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Un trabajo mío que esperaba revisión se había desfasado respecto a lo último del proyecto. Lo puse al día y las pruebas automáticas pasan. Aduana lo vuelve a revisar. Tú no tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   1.6,
    1.8,
    1.2,
    2.5,
@@ -78,9 +78,10 @@
    1.6,
    1.1,
    2.0,
-   9.4
+   9.4,
+   3.4
   ],
-  "estimado_min": 1.9
+  "estimado_min": 2.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
