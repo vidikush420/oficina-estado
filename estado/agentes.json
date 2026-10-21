@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T13:46:38-06:00",
   "desde": "2026-10-21T13:45:29-06:00",
   "que": "a mano: cola: - [ ] **Campo cluster** — Constante fija por página junto al ENDPOINT_URL (no input oculto): \"agroalim\" en encuesta/agro",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #3 abierto: campo cluster en la encuesta (rhwellness-encuesta)",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39664357804",
   "duraciones": [
-   7.1,
    4.1,
    6.9,
    8.3,
@@ -15,10 +15,10 @@
    36.5,
    54.5,
    1.2,
-   1.6
+   1.6,
+   1.1
   ],
-  "estimado_min": 7.0,
-  "fase_desde": "2026-10-21T13:46:27-06:00"
+  "estimado_min": 5.5
  },
  "aduana": {
   "estado": "termino",
