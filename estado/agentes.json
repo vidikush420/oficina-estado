@@ -42,13 +42,13 @@
   "estimado_min": 6.3
  },
  "sherlock": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T05:14:37-06:00",
   "desde": "2026-10-21T01:17:12-06:00",
   "que": "ronda de beta",
-  "fase": "5/5 cerrando la corrida",
+  "resumen": "v53 incompleto",
   "url": "",
   "duraciones": [
-   1.8,
    1.9,
    55.0,
    7.0,
@@ -57,10 +57,10 @@
    1.2,
    1.2,
    37.7,
-   124.6
+   124.6,
+   237.4
   ],
-  "estimado_min": 4.5,
-  "fase_desde": "2026-10-21T05:14:33-06:00"
+  "estimado_min": 22.4
  },
  "chalan-local": {
   "estado": "termino",
