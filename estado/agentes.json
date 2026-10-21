@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T13:58:53-06:00",
   "que": "revisando el PR #6 (chalan/2026-10-21-verificacion-submit)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39666222102",
   "duraciones": [
    9.1,
@@ -38,7 +38,8 @@
    1.2,
    1.1
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.1,
+  "fase_desde": "2026-10-21T13:59:21-06:00"
  },
  "sherlock": {
   "estado": "termino",
