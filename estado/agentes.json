@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-10-20T16:05:28-06:00",
-  "desde": "2026-10-20T15:10:57-06:00",
-  "que": "a mano: cola: - [ ] [producto · promover.sh no muere en silencio] **PRIMERO** — La orden de producción del 20/10 14:53 (puente v2.35 +",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39498185832",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:37:57-06:00",
+  "que": "a mano: cola: - [ ] **Rutas Agroalim** — Crear sitio/encuesta/agroin/index.html como copia de sitio/encuesta/index.html. Las tres p�",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39663272491",
   "duraciones": [
    4.8,
    14.3,
