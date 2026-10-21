@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T16:16:16-06:00",
-  "desde": "2026-10-21T16:15:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T17:12:42-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer sin tocar cosas en uso real. Lo pendiente de la encuesta de RH Wellness es cambiar el sistema que ya recibe respuestas y borrar filas de su hoja, y eso me lo ten",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
