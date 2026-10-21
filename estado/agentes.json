@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T13:51:09-06:00",
-  "desde": "2026-10-21T13:49:46-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T13:53:01-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pueda hacer en la Mac. Lo de Sunday sigue esperando la copia de datos de prueba que falta, y lo de RH Wellness implica publicar en Google, que no me toca. No tienes que hacer",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.5,
