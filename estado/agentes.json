@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T22:41:43-06:00",
   "desde": "2026-10-21T22:41:11-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hay nada que solo yo pueda hacer en la Mac. Lo pendiente toca datos reales o espera el volcado de prueba de Sunday. No tienes que hacer nada por mí.",
   "url": "",
   "duraciones": [
-   0.6,
    1.2,
    169.3,
    25.5,
@@ -78,7 +78,8 @@
    0.7,
    1.0,
    1.4,
-   1.1
+   1.1,
+   0.5
   ],
   "estimado_min": 1.1
  },
