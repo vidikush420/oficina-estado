@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-22T17:37:46-06:00",
-  "desde": "2026-10-22T17:33:53-06:00",
-  "que": "a mano: cola: - [ ] **[BLOQUEADA — esperando categorías de Fernando] Pregunta 4: subsector agroalimentario** — En sitio/encuesta/agroi",
-  "resumen": "Sin PR: la P4 de Agroalim sigue bloqueada esperando las categorías oficiales",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39872510192",
+  "estado": "trabajando",
+  "desde": "2026-10-22T17:54:11-06:00",
+  "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 0: sonda del hosting** — Subir sitio/beta-checador/api/sonda.php según §1 del br",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39874708153",
   "duraciones": [
    2.1,
    4.0,
