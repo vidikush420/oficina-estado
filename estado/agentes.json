@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T03:13:00-06:00",
   "desde": "2026-10-22T03:08:55-06:00",
   "que": "a mano: cola: - [ ] **Menú de usuario con iniciales, como en Bitácora** (pedido por Miguel el 22/10) — Quitar la pestaña «Mi cuenta» d",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #9 abierto: menú de usuario con iniciales en crm-cajas",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39753042515",
   "duraciones": [
-   5.3,
    0.5,
    0.5,
    5.9,
@@ -15,10 +15,10 @@
    2.4,
    2.0,
    2.1,
-   4.0
+   4.0,
+   4.1
   ],
-  "estimado_min": 2.0,
-  "fase_desde": "2026-10-22T03:12:55-06:00"
+  "estimado_min": 2.0
  },
  "aduana": {
   "estado": "termino",
