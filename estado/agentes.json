@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T20:01:58-06:00",
   "desde": "2026-10-21T17:12:42-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac sin riesgo. Lo único pendiente es cambiar la encuesta de RH Wellness que ya está en uso, y eso solo lo autorizas tú. Al inicio la Mac no tenía internet",
   "url": "",
   "duraciones": [
-   1.0,
    1.0,
    1.4,
    0.7,
@@ -78,9 +78,10 @@
    0.8,
    0.5,
    0.6,
-   1.2
+   1.2,
+   169.3
   ],
-  "estimado_min": 1.0
+  "estimado_min": 1.1
  },
  "gerente-de-zara": {
   "estado": "fallo",
