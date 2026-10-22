@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-21T13:58:25-06:00",
-  "desde": "2026-10-21T13:56:46-06:00",
-  "que": "a mano: cola: - [ ] **Verificación del submit** — Simular el envío en ambas páginas sin pegarle al endpoint real e imprimir el JSON co",
-  "resumen": "PR #6 abierto: verificación del submit en rhwellness-encuesta",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39665952456",
+  "estado": "trabajando",
+  "desde": "2026-10-21T22:00:42-06:00",
+  "que": "a mano: cola: - [ ] **Humo de producción** — Cuando el sitio esté arriba: curl -s https://vidalconsultores.com/cajas/ responde 200 y c",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39719887212",
   "duraciones": [
    3.9,
    9.2,
