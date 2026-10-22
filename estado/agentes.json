@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T14:21:08-06:00",
   "desde": "2026-10-22T14:17:08-06:00",
   "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
-  "fase": "1/5 leyendo el proyecto",
+  "resumen": "crm-cajas: sin PR; la tarea de la cola toca workflows (le toca a Miguel/Claude de sesión)",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39847190326",
   "duraciones": [
-   5.9,
    1.4,
    0.7,
    2.4,
@@ -15,10 +15,10 @@
    4.0,
    4.1,
    3.7,
-   2.7
+   2.7,
+   4.0
   ],
-  "estimado_min": 2.5,
-  "fase_desde": "2026-10-22T14:20:55-06:00"
+  "estimado_min": 2.5
  },
  "aduana": {
   "estado": "termino",
