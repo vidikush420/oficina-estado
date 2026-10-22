@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T14:36:02-06:00",
   "que": "revisando el PR #12 (chalan/2026-10-22-ui-a-hoy-tarjetas)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39850174638",
   "duraciones": [
    2.8,
@@ -39,7 +39,7 @@
    5.8
   ],
   "estimado_min": 3.7,
-  "fase_desde": "2026-10-22T14:38:54-06:00"
+  "fase_desde": "2026-10-22T14:39:09-06:00"
  },
  "sherlock": {
   "estado": "termino",
