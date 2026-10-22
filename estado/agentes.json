@@ -1,11 +1,9 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-10-22T01:47:14-06:00",
-  "desde": "2026-10-22T01:45:50-06:00",
-  "que": "a mano: cola: - [ ] **Índice de la portada con la sección VI** (reintento: la corrida #35 falló al instalar Claude Code en el runner, no por la tarea)",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39739869625",
+  "estado": "trabajando",
+  "desde": "2026-10-22T01:50:19-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    8.2,
    2.4,
@@ -18,6 +16,8 @@
    5.9,
    1.4
   ],
+  "fase": "1/5 leyendo el proyecto",
+  "fase_desde": "2026-10-22T01:50:19-06:00",
   "estimado_min": 2.8
  },
  "aduana": {
