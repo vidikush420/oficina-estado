@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T17:33:53-06:00",
   "que": "a mano: cola: - [ ] **[BLOQUEADA — esperando categorías de Fernando] Pregunta 4: subsector agroalimentario** — En sitio/encuesta/agroi",
-  "fase": "1/5 leyendo el proyecto",
+  "fase": "5/5 registrando en la oficina",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39872510192",
   "duraciones": [
    2.0,
@@ -18,7 +18,7 @@
    5.1
   ],
   "estimado_min": 3.9,
-  "fase_desde": "2026-10-22T17:37:29-06:00"
+  "fase_desde": "2026-10-22T17:37:39-06:00"
  },
  "aduana": {
   "estado": "termino",
