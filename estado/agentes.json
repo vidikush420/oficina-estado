@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-10-22T01:32:34-06:00",
-  "desde": "2026-10-22T01:26:38-06:00",
-  "que": "a mano: cola: - [ ] **Índice de la portada con la sección VI** — En sitio/encuesta/agroin/index.html, el bloque \"Estructura del cuesti",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39740341140",
+  "estado": "trabajando",
+  "desde": "2026-10-22T01:40:38-06:00",
+  "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39739869625",
   "duraciones": [
    7.3,
    8.2,
