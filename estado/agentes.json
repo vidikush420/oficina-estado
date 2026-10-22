@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T22:50:18-06:00",
   "que": "revisando el PR #9 (claude/2026-10-21-agroin-logo)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39724571335",
   "duraciones": [
    1.2,
@@ -38,7 +38,8 @@
    2.3,
    2.5
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-10-21T22:52:32-06:00"
  },
  "sherlock": {
   "estado": "termino",
