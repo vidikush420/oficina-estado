@@ -1,10 +1,10 @@
 {
  "chalan": {
   "estado": "trabajando",
-  "desde": "2026-10-22T01:22:54-06:00",
-  "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
+  "desde": "2026-10-22T01:26:38-06:00",
+  "que": "a mano: cola: - [ ] **Índice de la portada con la sección VI** — En sitio/encuesta/agroin/index.html, el bloque \"Estructura del cuesti",
   "fase": "",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39739822910",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39740341140",
   "duraciones": [
    1.7,
    1.9,
