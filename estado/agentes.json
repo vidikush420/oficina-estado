@@ -21,12 +21,11 @@
   "estimado_min": 2.5
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-10-22T01:44:35-06:00",
-  "desde": "2026-10-22T01:33:14-06:00",
-  "que": "revisando el PR #11 (claude/2026-10-22-tarjeta-hub)",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39740610637",
+  "estado": "trabajando",
+  "desde": "2026-10-22T01:51:39-06:00",
+  "que": "revisando el PR #12 (chalan/2026-10-22-indice-seccion-vi)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39743386791",
   "duraciones": [
    2.5,
    2.9,
