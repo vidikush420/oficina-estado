@@ -1,11 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T01:50:59-06:00",
   "desde": "2026-10-22T01:50:19-06:00",
   "que": "",
+  "resumen": "PR #12: índice de la portada Agroalim con la sección VI",
   "url": "",
   "duraciones": [
-   8.2,
    2.4,
    3.0,
    2.5,
@@ -14,11 +15,10 @@
    0.5,
    0.5,
    5.9,
-   1.4
+   1.4,
+   0.7
   ],
-  "fase": "5/5 registrando en la oficina",
-  "fase_desde": "2026-10-22T01:50:54-06:00",
-  "estimado_min": 2.8
+  "estimado_min": 2.5
  },
  "aduana": {
   "estado": "fallo",
