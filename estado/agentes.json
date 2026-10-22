@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T14:45:47-06:00",
   "que": "revisando el PR #13 (chalan/2026-10-22-ui-b-llamada-3-toques)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39851526970",
   "duraciones": [
    13.4,
@@ -39,7 +39,7 @@
    3.3
   ],
   "estimado_min": 3.7,
-  "fase_desde": "2026-10-22T14:48:36-06:00"
+  "fase_desde": "2026-10-22T14:49:00-06:00"
  },
  "sherlock": {
   "estado": "termino",
