@@ -21,13 +21,13 @@
   "estimado_min": 1.6
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T22:53:13-06:00",
   "desde": "2026-10-21T22:50:18-06:00",
   "que": "revisando el PR #9 (claude/2026-10-21-agroin-logo)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #9 → PASA, fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39724571335",
   "duraciones": [
-   1.2,
    1.1,
    1.2,
    1.1,
@@ -36,10 +36,10 @@
    0.8,
    2.0,
    2.3,
-   2.5
+   2.5,
+   2.9
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-10-21T22:53:03-06:00"
+  "estimado_min": 1.6
  },
  "sherlock": {
   "estado": "termino",
