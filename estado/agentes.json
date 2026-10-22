@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T02:54:49-06:00",
   "que": "revisando el PR #7 (claude/2026-10-22-isotipo-vidal)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39751301317",
   "duraciones": [
    2.9,
@@ -38,7 +38,8 @@
    11.3,
    2.9
   ],
-  "estimado_min": 3.0
+  "estimado_min": 3.0,
+  "fase_desde": "2026-10-22T02:56:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
