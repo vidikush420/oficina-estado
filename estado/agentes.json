@@ -1,11 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T01:20:01-06:00",
   "desde": "2026-10-22T01:19:34-06:00",
   "que": "",
+  "resumen": "crm-cajas: sin PR; Nivel 2 en CI exige tocar workflows",
   "url": "",
   "duraciones": [
-   3.6,
    1.7,
    1.9,
    7.3,
@@ -14,11 +15,10 @@
    3.0,
    2.5,
    3.0,
-   5.3
+   5.3,
+   0.5
   ],
-  "fase": "1/5 leyendo el proyecto",
-  "fase_desde": "2026-10-22T01:19:34-06:00",
-  "estimado_min": 3.0
+  "estimado_min": 2.8
  },
  "aduana": {
   "estado": "trabajando",
