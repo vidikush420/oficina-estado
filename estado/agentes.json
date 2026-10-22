@@ -1,10 +1,10 @@
 {
  "chalan": {
   "estado": "trabajando",
-  "desde": "2026-10-22T01:03:38-06:00",
-  "que": "a mano: cola: - [ ] **Marcador de versión en doGet** (aprobado por Miguel el 22/10) — Hoy el doGet de la v1 y el de la v2 devuelven lo",
+  "desde": "2026-10-22T01:03:52-06:00",
+  "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
   "fase": "",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39737853367",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39737803379",
   "duraciones": [
    1.6,
    3.6,
