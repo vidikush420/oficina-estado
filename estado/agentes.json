@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T04:07:46-06:00",
   "desde": "2026-10-22T04:06:06-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hay nada que solo yo pueda hacer en la Mac. Lo único que me destrabaría es la base de prueba de Sunday. No toqué nada.",
   "url": "",
   "duraciones": [
-   1.1,
    0.9,
    0.7,
    1.0,
@@ -78,7 +78,8 @@
    0.5,
    0.6,
    1.2,
-   1.8
+   1.8,
+   1.7
   ],
   "estimado_min": 1.1
  },
