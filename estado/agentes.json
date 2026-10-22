@@ -21,13 +21,13 @@
   "estimado_min": 2.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T01:54:33-06:00",
   "desde": "2026-10-22T01:51:39-06:00",
   "que": "revisando el PR #12 (chalan/2026-10-22-indice-seccion-vi)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #12 → PASA, fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39743386791",
   "duraciones": [
-   2.5,
    2.9,
    2.5,
    2.8,
@@ -36,10 +36,10 @@
    2.8,
    13.4,
    6.6,
-   11.3
+   11.3,
+   2.9
   ],
-  "estimado_min": 3.0,
-  "fase_desde": "2026-10-22T01:54:27-06:00"
+  "estimado_min": 3.0
  },
  "sherlock": {
   "estado": "termino",
