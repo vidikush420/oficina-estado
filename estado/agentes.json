@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-10-21T22:04:46-06:00",
-  "que": "revisando el PR #1 (chalan/2026-10-21-humo-produccion)",
+  "desde": "2026-10-21T22:04:49-06:00",
+  "que": "revisando el PR #7 (claude/2026-10-21-desplegar-automatico)",
   "fase": "",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39720281734",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39720325991",
   "duraciones": [
    9.4,
    0.3,
