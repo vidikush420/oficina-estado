@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T22:36:16-06:00",
-  "desde": "2026-10-21T22:35:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T22:41:11-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que yo pueda hacer en la Mac hoy: lo pendiente necesita que tú autorices una herramienta (clasp), o toca datos reales, o depende de Héctor. No toqué nada. Si q",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.6,
