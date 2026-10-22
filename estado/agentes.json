@@ -85,16 +85,15 @@
  },
  "gerente-de-zara": {
   "estado": "trabajando",
-  "desde": "2026-10-21T22:15:16-06:00",
-  "que": "despliegue de puente v2.35 build v53 (v53) en curso (workflow)",
-  "fase": "2/3 workflow disparado en el runner de la Mac",
+  "desde": "2026-10-21T22:16:37-06:00",
+  "que": "despliegue a producción de puente v2.35 build v53 (workflow)",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.0,
    5.8,
    7.4
   ],
-  "estimado_min": 6.0,
-  "fase_desde": "2026-10-21T22:15:26-06:00"
+  "estimado_min": 6.0
  }
 }
