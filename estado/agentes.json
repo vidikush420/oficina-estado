@@ -21,12 +21,11 @@
   "estimado_min": 2.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-22T01:54:33-06:00",
-  "desde": "2026-10-22T01:51:39-06:00",
-  "que": "revisando el PR #12 (chalan/2026-10-22-indice-seccion-vi)",
-  "resumen": "PR #12 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39743386791",
+  "estado": "trabajando",
+  "desde": "2026-10-22T02:54:49-06:00",
+  "que": "revisando el PR #7 (claude/2026-10-22-isotipo-vidal)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39751301317",
   "duraciones": [
    2.9,
    2.5,
