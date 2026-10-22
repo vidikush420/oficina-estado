@@ -21,12 +21,11 @@
   "estimado_min": 1.6
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-21T22:09:20-06:00",
-  "desde": "2026-10-21T22:08:34-06:00",
-  "que": "",
-  "resumen": "PR #7 rhwellness-encuesta → NO PASA (toca workflows), no fusionado",
-  "url": "",
+  "estado": "trabajando",
+  "desde": "2026-10-21T22:11:24-06:00",
+  "que": "revisando el PR #2 (claude/workflow-instalar-backend)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39720856476",
   "duraciones": [
    5.6,
    0.7,
