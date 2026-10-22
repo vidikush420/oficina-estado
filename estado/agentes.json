@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-10-21T22:40:49-06:00",
-  "desde": "2026-10-21T22:32:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T23:21:09-06:00",
   "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39722812077",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39727474190",
   "duraciones": [
    1.6,
    1.1,
