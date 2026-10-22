@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T03:08:55-06:00",
   "que": "a mano: cola: - [ ] **Menú de usuario con iniciales, como en Bitácora** (pedido por Miguel el 22/10) — Quitar la pestaña «Mi cuenta» d",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39753042515",
   "duraciones": [
    5.3,
@@ -17,7 +17,8 @@
    2.1,
    4.0
   ],
-  "estimado_min": 2.0
+  "estimado_min": 2.0,
+  "fase_desde": "2026-10-22T03:11:39-06:00"
  },
  "aduana": {
   "estado": "termino",
