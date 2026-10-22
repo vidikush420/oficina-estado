@@ -23,7 +23,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T22:31:13-06:00",
   "que": "revisando el PR #8 (claude/2026-10-21-ftp-plano)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39722794740",
   "duraciones": [
    1.1,
@@ -37,7 +37,8 @@
    2.0,
    2.3
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-10-21T22:32:52-06:00"
  },
  "sherlock": {
   "estado": "termino",
