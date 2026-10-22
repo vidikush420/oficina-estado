@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T23:31:57-06:00",
   "que": "revisando el PR #3 (claude/workflow-desplegar)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39728537668",
   "duraciones": [
    1.2,
@@ -38,7 +38,8 @@
    2.9,
    2.5
   ],
-  "estimado_min": 2.1
+  "estimado_min": 2.1,
+  "fase_desde": "2026-10-21T23:34:08-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
