@@ -21,12 +21,11 @@
   "estimado_min": 2.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-22T00:17:26-06:00",
-  "desde": "2026-10-22T00:14:14-06:00",
-  "que": "revisando el PR #4 (claude/ftp-sin-tls)",
-  "resumen": "crm-cajas PR #4 → NO PASA (toca workflows), no fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39732663801",
+  "estado": "trabajando",
+  "desde": "2026-10-22T00:34:52-06:00",
+  "que": "revisando el PR #5 (claude/ftp-no-perms)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39734805467",
   "duraciones": [
    2.9,
    0.8,
