@@ -21,12 +21,11 @@
   "estimado_min": 3.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-22T14:39:20-06:00",
-  "desde": "2026-10-22T14:36:02-06:00",
-  "que": "revisando el PR #12 (chalan/2026-10-22-ui-a-hoy-tarjetas)",
-  "resumen": "crm-cajas PR #12 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39850174638",
+  "estado": "trabajando",
+  "desde": "2026-10-22T14:45:47-06:00",
+  "que": "revisando el PR #13 (chalan/2026-10-22-ui-b-llamada-3-toques)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39851526970",
   "duraciones": [
    13.4,
    6.6,
