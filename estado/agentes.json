@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T22:04:20-06:00",
-  "desde": "2026-10-21T22:03:28-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T22:07:09-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hice trabajo nuevo: lo que queda en la Mac implica publicar cambios en sistemas reales de Google, subir contraseñas del hosting o probar la tienda de Sunday sin datos de prueba, y eso no me toc",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.5,
