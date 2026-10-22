@@ -62,13 +62,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T22:10:11-06:00",
   "desde": "2026-10-21T22:09:27-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac sin tocar sistemas reales. Lo que queda pide publicar cambios o subir claves, y eso solo lo autorizas tú. No cambié nada. Si quieres que avance CRM Caj",
   "url": "",
   "duraciones": [
-   2.5,
    1.6,
    0.8,
    0.5,
@@ -77,9 +77,10 @@
    169.3,
    25.5,
    1.1,
-   0.9
+   0.9,
+   0.7
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.0
  },
  "gerente-de-zara": {
   "estado": "fallo",
