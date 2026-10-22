@@ -1,13 +1,12 @@
 {
  "chalan": {
   "estado": "fallo",
-  "cuando": "2026-10-21T22:39:57-06:00",
+  "cuando": "2026-10-21T22:40:49-06:00",
   "desde": "2026-10-21T22:32:38-06:00",
   "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
   "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39722891053",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39722812077",
   "duraciones": [
-   1.2,
    1.6,
    1.1,
    1.4,
@@ -16,7 +15,8 @@
    3.6,
    1.7,
    1.9,
-   7.3
+   7.3,
+   8.2
   ],
   "estimado_min": 1.6
  },
