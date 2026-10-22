@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T17:57:38-06:00",
   "desde": "2026-10-22T17:54:11-06:00",
   "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 0: sonda del hosting** — Subir sitio/beta-checador/api/sonda.php según §1 del br",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #14: sonda del hosting de la Beta Checador (resultado pendiente de despliegue)",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39874708153",
   "duraciones": [
-   2.1,
    4.0,
    4.1,
    3.7,
@@ -15,10 +15,10 @@
    3.3,
    4.0,
    5.1,
-   3.9
+   3.9,
+   3.5
   ],
-  "estimado_min": 4.0,
-  "fase_desde": "2026-10-22T17:57:33-06:00"
+  "estimado_min": 4.0
  },
  "aduana": {
   "estado": "termino",
