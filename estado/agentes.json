@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-21T22:00:42-06:00",
   "que": "a mano: cola: - [ ] **Humo de producción** — Cuando el sitio esté arriba: curl -s https://vidalconsultores.com/cajas/ responde 200 y c",
-  "fase": "1/5 leyendo el proyecto",
+  "fase": "2/5 haciendo el cambio",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39719887212",
   "duraciones": [
    3.9,
@@ -18,7 +18,7 @@
    1.6
   ],
   "estimado_min": 1.6,
-  "fase_desde": "2026-10-21T22:03:05-06:00"
+  "fase_desde": "2026-10-21T22:03:13-06:00"
  },
  "aduana": {
   "estado": "termino",
