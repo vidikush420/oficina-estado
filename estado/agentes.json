@@ -21,12 +21,11 @@
   "estimado_min": 1.6
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-21T22:13:41-06:00",
-  "desde": "2026-10-21T22:11:24-06:00",
-  "que": "revisando el PR #2 (claude/workflow-instalar-backend)",
-  "resumen": "PR #2 → NO PASA (toca workflows), no fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39720856476",
+  "estado": "trabajando",
+  "desde": "2026-10-21T22:31:13-06:00",
+  "que": "revisando el PR #8 (claude/2026-10-21-ftp-plano)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39722794740",
   "duraciones": [
    1.1,
    1.2,
