@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T03:18:46-06:00",
   "que": "a mano: cola: - [ ] **Apariencia claro / oscuro / sistema en el menú de usuario** (pedido por Miguel el 22/10; después de la tarea ant",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39754305836",
   "duraciones": [
    0.5,
@@ -17,7 +17,8 @@
    4.0,
    4.1
   ],
-  "estimado_min": 2.0
+  "estimado_min": 2.0,
+  "fase_desde": "2026-10-22T03:21:10-06:00"
  },
  "aduana": {
   "estado": "termino",
