@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T13:11:27-06:00",
   "desde": "2026-10-22T13:08:35-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo yo pueda hacer en la Mac, así que no abrí trabajo nuevo. Sunday sigue detenido porque falta la copia de datos de prueba que debe conseguir FN. No tienes que hacer nada más.",
   "url": "",
   "duraciones": [
-   1.4,
    1.1,
    0.5,
    0.6,
@@ -78,7 +78,8 @@
    1.7,
    1.1,
    1.4,
-   1.5
+   1.5,
+   2.9
   ],
   "estimado_min": 1.3
  },
