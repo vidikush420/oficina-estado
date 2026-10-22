@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-22T03:22:26-06:00",
-  "desde": "2026-10-22T03:18:46-06:00",
-  "que": "a mano: cola: - [ ] **Apariencia claro / oscuro / sistema en el menú de usuario** (pedido por Miguel el 22/10; después de la tarea ant",
-  "resumen": "PR #10 abierto: apariencia claro/oscuro/sistema",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39754305836",
+  "estado": "trabajando",
+  "desde": "2026-10-22T03:28:11-06:00",
+  "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39755519496",
   "duraciones": [
    0.5,
    5.9,
