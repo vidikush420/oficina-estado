@@ -62,11 +62,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T22:10:11-06:00",
-  "desde": "2026-10-21T22:09:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T22:10:39-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac sin tocar sistemas reales. Lo que queda pide publicar cambios o subir claves, y eso solo lo autorizas tú. No cambié nada. Si quieres que avance CRM Caj",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
