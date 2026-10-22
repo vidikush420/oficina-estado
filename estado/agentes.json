@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T01:03:52-06:00",
   "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39737803379",
   "duraciones": [
    1.6,
@@ -17,7 +17,8 @@
    2.5,
    3.0
   ],
-  "estimado_min": 2.8
+  "estimado_min": 2.8,
+  "fase_desde": "2026-10-22T01:07:51-06:00"
  },
  "aduana": {
   "estado": "termino",
