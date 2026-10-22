@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-22T00:37:37-06:00",
-  "desde": "2026-10-22T00:34:52-06:00",
-  "que": "revisando el PR #5 (claude/ftp-no-perms)",
-  "resumen": "PR #5 → NO PASA (toca workflow), no fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39734805467",
+  "estado": "trabajando",
+  "desde": "2026-10-22T01:10:47-06:00",
+  "que": "revisando el PR #10 (chalan/2026-10-22-version-doget)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39738499538",
   "duraciones": [
    0.8,
    2.0,
