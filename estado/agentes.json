@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T00:34:52-06:00",
   "que": "revisando el PR #5 (claude/ftp-no-perms)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39734805467",
   "duraciones": [
    2.9,
@@ -38,7 +38,8 @@
    3.1,
    3.2
   ],
-  "estimado_min": 2.6
+  "estimado_min": 2.6,
+  "fase_desde": "2026-10-22T00:37:05-06:00"
  },
  "sherlock": {
   "estado": "termino",
