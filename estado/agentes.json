@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-10-22T01:28:17-06:00",
-  "que": "revisando el PR #6 (claude/2026-10-22-tarjeta-hub)",
+  "desde": "2026-10-22T01:33:14-06:00",
+  "que": "revisando el PR #11 (claude/2026-10-22-tarjeta-hub)",
   "fase": "",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39740614264",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39740610637",
   "duraciones": [
    2.0,
    2.3,
