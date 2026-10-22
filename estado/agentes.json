@@ -1,10 +1,10 @@
 {
  "chalan": {
   "estado": "trabajando",
-  "desde": "2026-10-22T01:40:38-06:00",
-  "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
+  "desde": "2026-10-22T01:45:50-06:00",
+  "que": "a mano: cola: - [ ] **Índice de la portada con la sección VI** (reintento: la corrida #35 falló al instalar Claude Code en el runner, no por la tarea)",
   "fase": "",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39739869625",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39742113674",
   "duraciones": [
    7.3,
    8.2,
