@@ -21,12 +21,11 @@
   "estimado_min": 3.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-22T14:49:26-06:00",
-  "desde": "2026-10-22T14:45:47-06:00",
-  "que": "revisando el PR #13 (chalan/2026-10-22-ui-b-llamada-3-toques)",
-  "resumen": "crm-cajas PR #13 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39851526970",
+  "estado": "trabajando",
+  "desde": "2026-10-22T17:26:52-06:00",
+  "que": "revisando el PR #13 (claude/2026-10-22-beta-checador-brief)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39871807671",
   "duraciones": [
    6.6,
    11.3,
