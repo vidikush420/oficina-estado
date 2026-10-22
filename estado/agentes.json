@@ -21,13 +21,13 @@
   "estimado_min": 2.2
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T03:26:39-06:00",
   "desde": "2026-10-22T03:23:02-06:00",
   "que": "revisando el PR #10 (chalan/2026-10-22-apariencia)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #10 crm-cajas → PASA, fusionado",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39754901076",
   "duraciones": [
-   3.1,
    3.2,
    2.8,
    13.4,
@@ -36,10 +36,10 @@
    2.9,
    2.7,
    3.6,
-   3.8
+   3.8,
+   3.6
   ],
-  "estimado_min": 3.4,
-  "fase_desde": "2026-10-22T03:26:31-06:00"
+  "estimado_min": 3.6
  },
  "sherlock": {
   "estado": "termino",
