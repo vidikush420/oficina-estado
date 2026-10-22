@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-21T23:45:58-06:00",
-  "desde": "2026-10-21T23:42:59-06:00",
-  "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
-  "resumen": "crm-cajas: tarea Nivel 2 en CI toca workflows; no es de Chalán, sin PR",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39729221422",
+  "estado": "trabajando",
+  "desde": "2026-10-22T01:03:38-06:00",
+  "que": "a mano: cola: - [ ] **Marcador de versión en doGet** (aprobado por Miguel el 22/10) — Hoy el doGet de la v1 y el de la v2 devuelven lo",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39737853367",
   "duraciones": [
    1.6,
    3.6,
