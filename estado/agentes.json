@@ -42,11 +42,10 @@
   "estimado_min": 1.2
  },
  "sherlock": {
-  "estado": "termino",
-  "cuando": "2026-10-21T11:40:32-06:00",
-  "desde": "2026-10-21T11:33:40-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T22:42:22-06:00",
   "que": "veredicto de beta",
-  "resumen": "v53 ok",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
