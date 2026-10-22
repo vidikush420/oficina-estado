@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T01:26:38-06:00",
   "que": "a mano: cola: - [ ] **Índice de la portada con la sección VI** — En sitio/encuesta/agroin/index.html, el bloque \"Estructura del cuesti",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39740341140",
   "duraciones": [
    1.7,
@@ -17,7 +17,8 @@
    5.3,
    0.5
   ],
-  "estimado_min": 2.8
+  "estimado_min": 2.8,
+  "fase_desde": "2026-10-22T01:26:47-06:00"
  },
  "aduana": {
   "estado": "termino",
