@@ -23,7 +23,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T01:10:47-06:00",
   "que": "revisando el PR #10 (chalan/2026-10-22-version-doget)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39738499538",
   "duraciones": [
    0.8,
@@ -37,7 +37,8 @@
    3.2,
    2.8
   ],
-  "estimado_min": 2.6
+  "estimado_min": 2.6,
+  "fase_desde": "2026-10-22T01:23:11-06:00"
  },
  "sherlock": {
   "estado": "termino",
