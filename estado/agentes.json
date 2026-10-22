@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T01:51:39-06:00",
   "que": "revisando el PR #12 (chalan/2026-10-22-indice-seccion-vi)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39743386791",
   "duraciones": [
    2.5,
@@ -39,7 +39,7 @@
    11.3
   ],
   "estimado_min": 3.0,
-  "fase_desde": "2026-10-22T01:54:11-06:00"
+  "fase_desde": "2026-10-22T01:54:27-06:00"
  },
  "sherlock": {
   "estado": "termino",
