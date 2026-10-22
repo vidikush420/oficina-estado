@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-22T14:35:33-06:00",
-  "desde": "2026-10-22T14:32:14-06:00",
-  "que": "a mano: cola: - [ ] **UI-A · Hoy con tarjetas para llamar** (pedido por Miguel el 22/10; diseño aprobado: lienzo «CRM Cajas · Opciones",
-  "resumen": "PR #12 UI-A Hoy con tarjetas",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39849601243",
+  "estado": "trabajando",
+  "desde": "2026-10-22T14:41:10-06:00",
+  "que": "a mano: cola: - [ ] **UI-B · Registrar llamada en 3 toques** (pedido por Miguel el 22/10; artboard B) — En el formulario #cf de la fic",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39850866889",
   "duraciones": [
    0.7,
    2.4,
