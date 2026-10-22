@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T13:12:21-06:00",
   "que": "revisando el PR #11 (claude/2026-10-22-tablero-columnas)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39837615551",
   "duraciones": [
    3.2,
@@ -39,7 +39,7 @@
    3.6
   ],
   "estimado_min": 3.6,
-  "fase_desde": "2026-10-22T13:17:39-06:00"
+  "fase_desde": "2026-10-22T13:17:55-06:00"
  },
  "sherlock": {
   "estado": "termino",
