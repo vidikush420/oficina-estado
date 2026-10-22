@@ -20,13 +20,13 @@
   "estimado_min": 1.6
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T22:33:44-06:00",
   "desde": "2026-10-21T22:31:13-06:00",
   "que": "revisando el PR #8 (claude/2026-10-21-ftp-plano)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #8 rhwellness-encuesta → NO PASA (toca workflows), no fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39722794740",
   "duraciones": [
-   1.1,
    1.2,
    1.1,
    1.2,
@@ -35,10 +35,10 @@
    2.9,
    0.8,
    2.0,
-   2.3
+   2.3,
+   2.5
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-10-21T22:33:29-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
