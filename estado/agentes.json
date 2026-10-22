@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T01:09:13-06:00",
   "desde": "2026-10-22T01:03:52-06:00",
   "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #10 abierto: marcador de versión en doGet",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39737803379",
   "duraciones": [
-   1.6,
    3.6,
    1.7,
    1.9,
@@ -15,10 +15,10 @@
    2.4,
    3.0,
    2.5,
-   3.0
+   3.0,
+   5.3
   ],
-  "estimado_min": 2.8,
-  "fase_desde": "2026-10-22T01:08:56-06:00"
+  "estimado_min": 3.0
  },
  "aduana": {
   "estado": "termino",
