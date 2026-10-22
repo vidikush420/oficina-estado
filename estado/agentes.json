@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T14:56:47-06:00",
   "desde": "2026-10-22T14:51:40-06:00",
   "que": "a mano: cola: - [ ] **UI-G · «¿Con quién hablaste?» en el registro, con nombre y puesto** (pedido por Miguel el 22/10; artboard G; des",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "UI-G listo: PR #14 en crm-cajas",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39852277958",
   "duraciones": [
-   2.4,
    2.0,
    2.1,
    4.0,
@@ -15,10 +15,10 @@
    2.7,
    4.0,
    3.3,
-   4.0
+   4.0,
+   5.1
   ],
-  "estimado_min": 3.5,
-  "fase_desde": "2026-10-22T14:56:39-06:00"
+  "estimado_min": 3.9
  },
  "aduana": {
   "estado": "termino",
