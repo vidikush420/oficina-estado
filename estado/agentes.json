@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T14:41:10-06:00",
   "que": "a mano: cola: - [ ] **UI-B · Registrar llamada en 3 toques** (pedido por Miguel el 22/10; artboard B) — En el formulario #cf de la fic",
-  "fase": "3/5 corriendo pruebas",
+  "fase": "4/5 abriendo el PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39850866889",
   "duraciones": [
    0.7,
@@ -18,7 +18,7 @@
    3.3
   ],
   "estimado_min": 3.0,
-  "fase_desde": "2026-10-22T14:44:23-06:00"
+  "fase_desde": "2026-10-22T14:44:52-06:00"
  },
  "aduana": {
   "estado": "termino",
