@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-22T01:58:27-06:00",
-  "desde": "2026-10-22T01:56:01-06:00",
-  "que": "a mano: cola: - [ ] **[BLOQUEADA — esperando categorías de Fernando] Pregunta 4: subsector agroalimentario** — En sitio/encuesta/agroi",
-  "resumen": "Sin cambios: P4 subsector bloqueada esperando categorías de Fernando",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39743889165",
+  "estado": "trabajando",
+  "desde": "2026-10-22T02:02:51-06:00",
+  "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39744717458",
   "duraciones": [
    3.0,
    2.5,
