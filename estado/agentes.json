@@ -63,11 +63,10 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-21T22:54:20-06:00",
-  "desde": "2026-10-21T22:53:43-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-22T01:03:22-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hay nada que solo yo pueda hacer en la Mac. Lo nuevo de Bitácora lo toma el Chalán de la nube; lo de RH Wellness toca datos reales y lo de Sunday espera la base de prueba. No tienes que hacer n",
+  "fase": "",
   "url": "",
   "duraciones": [
    169.3,
