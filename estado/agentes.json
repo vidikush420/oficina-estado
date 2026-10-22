@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-21T20:28:26-06:00",
   "desde": "2026-10-21T20:02:56-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hice ningún trabajo nuevo. Lo único que me tocaba era la tienda de Sunday (el panel del repartidor), pero en esta Mac no hay forma de probar esa tienda: falta el programa que la corre y falta l",
   "url": "",
   "duraciones": [
-   1.0,
    1.4,
    0.7,
    2.5,
@@ -78,9 +78,10 @@
    0.5,
    0.6,
    1.2,
-   169.3
+   169.3,
+   25.5
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.3
  },
  "gerente-de-zara": {
   "estado": "fallo",
