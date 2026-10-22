@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-22T14:56:47-06:00",
-  "desde": "2026-10-22T14:51:40-06:00",
-  "que": "a mano: cola: - [ ] **UI-G · «¿Con quién hablaste?» en el registro, con nombre y puesto** (pedido por Miguel el 22/10; artboard G; des",
-  "resumen": "UI-G listo: PR #14 en crm-cajas",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39852277958",
+  "estado": "trabajando",
+  "desde": "2026-10-22T17:33:53-06:00",
+  "que": "a mano: cola: - [ ] **[BLOQUEADA — esperando categorías de Fernando] Pregunta 4: subsector agroalimentario** — En sitio/encuesta/agroi",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39872510192",
   "duraciones": [
    2.0,
    2.1,
