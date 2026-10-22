@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T17:54:11-06:00",
   "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 0: sonda del hosting** — Subir sitio/beta-checador/api/sonda.php según §1 del br",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39874708153",
   "duraciones": [
    2.1,
@@ -18,7 +18,7 @@
    3.9
   ],
   "estimado_min": 4.0,
-  "fase_desde": "2026-10-22T17:56:48-06:00"
+  "fase_desde": "2026-10-22T17:57:12-06:00"
  },
  "aduana": {
   "estado": "termino",
