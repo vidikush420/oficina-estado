@@ -21,12 +21,11 @@
   "estimado_min": 1.6
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-21T22:53:13-06:00",
-  "desde": "2026-10-21T22:50:18-06:00",
-  "que": "revisando el PR #9 (claude/2026-10-21-agroin-logo)",
-  "resumen": "PR #9 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39724571335",
+  "estado": "trabajando",
+  "desde": "2026-10-21T23:19:33-06:00",
+  "que": "revisando el PR #59 (chalan/2026-10-22-zip-no-expuesto)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/39727338416",
   "duraciones": [
    1.1,
    1.2,
