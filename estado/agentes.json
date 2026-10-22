@@ -83,11 +83,10 @@
   "estimado_min": 0.9
  },
  "gerente-de-zara": {
-  "estado": "fallo",
-  "cuando": "2026-10-20T15:07:03-06:00",
-  "desde": "2026-10-20T14:59:37-06:00",
-  "que": "despliegue a producción de puente v2.35 build v53 (workflow)",
-  "resumen": "REVERTIDO: falló la verificación y se revirtió a la versión anterior: ✗ falló la promoción; promover.sh deja dicho qué quedó arriba",
+  "estado": "trabajando",
+  "desde": "2026-10-21T22:15:16-06:00",
+  "que": "despliegue de puente v2.35 build v53 (v53) en curso (workflow)",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.0,
