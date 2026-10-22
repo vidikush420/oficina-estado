@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T02:40:12-06:00",
   "desde": "2026-10-22T02:38:08-06:00",
   "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
-  "fase": "1/5 leyendo el proyecto",
+  "resumen": "crm-cajas: Nivel 2 en CI no ejecutable (requiere editar workflows); sin PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39749123079",
   "duraciones": [
-   2.5,
    3.0,
    5.3,
    0.5,
@@ -15,10 +15,10 @@
    1.4,
    0.7,
    2.4,
-   2.0
+   2.0,
+   2.1
   ],
-  "estimado_min": 2.2,
-  "fase_desde": "2026-10-22T02:39:57-06:00"
+  "estimado_min": 2.0
  },
  "aduana": {
   "estado": "termino",
