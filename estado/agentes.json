@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T14:36:02-06:00",
   "que": "revisando el PR #12 (chalan/2026-10-22-ui-a-hoy-tarjetas)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39850174638",
   "duraciones": [
    2.8,
@@ -38,7 +38,8 @@
    3.6,
    5.8
   ],
-  "estimado_min": 3.7
+  "estimado_min": 3.7,
+  "fase_desde": "2026-10-22T14:38:18-06:00"
  },
  "sherlock": {
   "estado": "termino",
