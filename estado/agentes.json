@@ -21,12 +21,11 @@
   "estimado_min": 2.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-21T23:34:44-06:00",
-  "desde": "2026-10-21T23:31:57-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-21T23:39:21-06:00",
   "que": "revisando el PR #3 (claude/workflow-desplegar)",
-  "resumen": "PR #3 crm-cajas → NO PASA (toca workflows), no fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39728537668",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/39729235008",
   "duraciones": [
    1.1,
    1.3,
