@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T19:13:56-06:00",
   "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 5: RH, contador, alta y privacidad** — Expediente de 11 documentos, vacaciones y",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39882614664",
   "duraciones": [
    4.0,
@@ -18,7 +18,7 @@
    11.7
   ],
   "estimado_min": 4.5,
-  "fase_desde": "2026-10-22T19:18:09-06:00"
+  "fase_desde": "2026-10-22T19:35:29-06:00"
  },
  "aduana": {
   "estado": "termino",
