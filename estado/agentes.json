@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T18:45:47-06:00",
   "desde": "2026-10-22T18:35:54-06:00",
   "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 3: encargado y dueño** — Bandeja de validación del encargado (solo su sucursal)",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #17 abierto: Beta Checador Fase 3 (encargado y dueño)",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39878892167",
   "duraciones": [
-   3.7,
    2.7,
    4.0,
    3.3,
@@ -15,10 +15,10 @@
    3.9,
    3.5,
    9.3,
-   9.3
+   9.3,
+   9.9
   ],
-  "estimado_min": 4.0,
-  "fase_desde": "2026-10-22T18:45:40-06:00"
+  "estimado_min": 4.0
  },
  "aduana": {
   "estado": "termino",
