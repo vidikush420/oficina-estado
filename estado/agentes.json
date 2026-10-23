@@ -21,12 +21,11 @@
   "estimado_min": 4.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-22T18:33:44-06:00",
-  "desde": "2026-10-22T18:30:14-06:00",
-  "que": "revisando el PR #16 (chalan/2026-10-22-beta-checador-fase2)",
-  "resumen": "PR #16 → OJO (observación solo de pruebas sin correr), fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39878422447",
+  "estado": "trabajando",
+  "desde": "2026-10-22T18:46:32-06:00",
+  "que": "revisando el PR #17 (chalan/2026-10-22-beta-checador-fase3)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39880021472",
   "duraciones": [
    3.6,
    3.8,
