@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-22T19:05:54-06:00",
-  "desde": "2026-10-22T18:54:12-06:00",
-  "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 4: labores, caja y plantillas** — \"Mis labores\" con foto/video, apertura y cierr",
-  "resumen": "PR #18 abierto: Beta Checador Fase 4 (labores, caja y plantillas)",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39880675390",
+  "estado": "trabajando",
+  "desde": "2026-10-22T19:13:56-06:00",
+  "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 5: RH, contador, alta y privacidad** — Expediente de 11 documentos, vacaciones y",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39882614664",
   "duraciones": [
    4.0,
    3.3,
