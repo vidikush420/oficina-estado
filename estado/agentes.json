@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T17:58:10-06:00",
   "que": "revisando el PR #14 (chalan/2026-10-22-beta-checador-fase0-sonda)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39875113977",
   "duraciones": [
    11.3,
@@ -38,7 +38,8 @@
    3.6,
    5.5
   ],
-  "estimado_min": 3.6
+  "estimado_min": 3.6,
+  "fase_desde": "2026-10-22T18:01:09-06:00"
  },
  "sherlock": {
   "estado": "termino",
