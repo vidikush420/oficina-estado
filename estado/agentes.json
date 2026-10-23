@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T18:54:12-06:00",
   "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 4: labores, caja y plantillas** — \"Mis labores\" con foto/video, apertura y cierr",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39880675390",
   "duraciones": [
    2.7,
@@ -18,7 +18,7 @@
    9.9
   ],
   "estimado_min": 4.0,
-  "fase_desde": "2026-10-22T18:57:44-06:00"
+  "fase_desde": "2026-10-22T19:03:49-06:00"
  },
  "aduana": {
   "estado": "termino",
