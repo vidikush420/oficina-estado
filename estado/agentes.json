@@ -63,13 +63,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T19:12:44-06:00",
   "desde": "2026-10-22T19:11:08-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Los tres trabajos de Sunday siguen parados porque falta la base de datos de prueba que debe conseguir FN. Tienes que pedirle a FN esa base de prueba;",
   "url": "",
   "duraciones": [
-   1.8,
    1.7,
    1.1,
    1.4,
@@ -78,7 +78,8 @@
    1.0,
    1.2,
    0.6,
-   1.4
+   1.4,
+   1.6
   ],
   "estimado_min": 1.4
  },
