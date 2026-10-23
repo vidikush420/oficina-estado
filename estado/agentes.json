@@ -21,13 +21,13 @@
   "estimado_min": 4.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T18:51:45-06:00",
   "desde": "2026-10-22T18:46:32-06:00",
   "que": "revisando el PR #17 (chalan/2026-10-22-beta-checador-fase3)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #17 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39880021472",
   "duraciones": [
-   3.6,
    3.8,
    3.6,
    5.8,
@@ -36,10 +36,10 @@
    5.5,
    3.9,
    4.8,
-   3.5
+   3.5,
+   5.2
   ],
-  "estimado_min": 3.7,
-  "fase_desde": "2026-10-22T18:51:39-06:00"
+  "estimado_min": 3.8
  },
  "sherlock": {
   "estado": "termino",
