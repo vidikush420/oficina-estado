@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T18:20:24-06:00",
   "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 2: marcaje con evidencia** — \"Mi jornada\" completa según §4 Fase 2: selfie con g",
-  "fase": "1/5 leyendo el proyecto",
+  "fase": "2/5 haciendo el cambio",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39877456202",
   "duraciones": [
    4.1,
@@ -18,7 +18,7 @@
    9.3
   ],
   "estimado_min": 4.0,
-  "fase_desde": "2026-10-22T18:23:10-06:00"
+  "fase_desde": "2026-10-22T18:23:16-06:00"
  },
  "aduana": {
   "estado": "termino",
