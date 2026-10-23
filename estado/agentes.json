@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-22T18:03:32-06:00",
   "que": "a mano: cola: - [ ] [producto] **Beta Checador · Fase 1: esqueleto y login** — PWA en sitio/beta-checador/ (HTML/CSS/JS sin build, móv",
-  "fase": "3/5 corriendo pruebas",
+  "fase": "4/5 abriendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/39875633775",
   "duraciones": [
    4.0,
@@ -18,7 +18,7 @@
    3.5
   ],
   "estimado_min": 4.0,
-  "fase_desde": "2026-10-22T18:12:07-06:00"
+  "fase_desde": "2026-10-22T18:12:21-06:00"
  },
  "aduana": {
   "estado": "termino",
