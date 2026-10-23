@@ -62,13 +62,13 @@
   "estimado_min": 25.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-22T19:16:27-06:00",
   "desde": "2026-10-22T19:15:08-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no hay nada que requiera la Mac por ahora, así que no hice cambios. Sunday sigue detenido porque falta la base de datos de prueba y el programa PHP en la Mac. No tienes qu",
   "url": "",
   "duraciones": [
-   1.7,
    1.1,
    1.4,
    1.5,
@@ -77,7 +77,8 @@
    1.2,
    0.6,
    1.4,
-   1.6
+   1.6,
+   1.3
   ],
   "estimado_min": 1.4
  },
