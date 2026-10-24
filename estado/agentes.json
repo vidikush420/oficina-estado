@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-24T13:16:16-06:00",
   "desde": "2026-10-24T13:15:08-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no hay nada que solo pueda hacerse en tu Mac, así que no hice cambios. Lo único pendiente para mí es Sunday, y sigue parado porque falta la base de datos de prueba y el pr",
   "url": "",
   "duraciones": [
-   1.0,
    0.7,
    0.6,
    0.6,
@@ -78,7 +78,8 @@
    174.9,
    0.7,
    0.8,
-   0.8
+   0.8,
+   1.1
   ],
   "estimado_min": 0.8
  },
