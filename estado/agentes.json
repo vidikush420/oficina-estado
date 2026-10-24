@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-24T03:15:17-06:00",
-  "desde": "2026-10-24T03:14:02-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-24T06:36:37-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que necesite la Mac ahora mismo, así que no hice cambios. Lo de Sunday sigue detenido porque falta la copia de datos de prueba y respuestas de Héctor. No tiene",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
