@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-10-24T13:16:16-06:00",
+  "cuando": "2026-10-24T16:29:52-06:00",
   "desde": "2026-10-24T13:15:08-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que solo pueda hacerse en tu Mac, así que no hice cambios. Lo único pendiente para mí es Sunday, y sigue parado porque falta la base de datos de prueba y el pr",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Los tres trabajos de Sunday siguen detenidos porque falta la copia de datos de prueba que debe conseguir Miguel con FN; sin ella no es seguro tocar en",
   "url": "",
   "duraciones": [
-   0.7,
    0.6,
    0.6,
    0.9,
@@ -79,9 +78,10 @@
    0.7,
    0.8,
    0.8,
-   1.1
+   1.1,
+   194.7
   ],
-  "estimado_min": 0.8
+  "estimado_min": 0.9
  },
  "gerente-de-zara": {
   "estado": "fallo",
