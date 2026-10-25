@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-25T05:02:25-06:00",
-  "desde": "2026-10-25T05:01:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-25T08:44:03-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada para la Mac: ningún proyecto necesita el simulador ni Xcode. Sunday sigue detenido porque falta la base de datos de prueba de FN y el programa php. No tienes que hacer nada urgente;",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
