@@ -64,10 +64,10 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-10-24T16:29:52-06:00",
+  "cuando": "2026-10-24T19:14:33-06:00",
   "desde": "2026-10-24T13:15:08-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Los tres trabajos de Sunday siguen detenidos porque falta la copia de datos de prueba que debe conseguir Miguel con FN; sin ella no es seguro tocar en",
+  "resumen": "Hoy no había nada para la Mac: ningún proyecto tiene trabajo que requiera el simulador o Xcode. Lo de Sunday sigue detenido porque falta la base de datos de prueba de FN y el programa php. La herramie",
   "url": "",
   "duraciones": [
    0.6,
