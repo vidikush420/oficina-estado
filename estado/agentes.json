@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-27T12:22:16-06:00",
-  "desde": "2026-10-27T12:20:53-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-27T13:15:08-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que requiera la Mac, así que no hice cambios. Sunday sigue esperando la base de datos de prueba y PHP, que solo tú puedes conseguir con FN. La cinta que sube l",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
