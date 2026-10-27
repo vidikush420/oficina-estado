@@ -42,11 +42,9 @@
   "estimado_min": 4.8
  },
  "sherlock": {
-  "estado": "termino",
-  "cuando": "2026-10-25T01:18:50-06:00",
-  "desde": "2026-10-24T23:48:34-06:00",
-  "que": "ronda de beta",
-  "resumen": "v53 ok",
+  "estado": "trabajando",
+  "desde": "2026-10-26T23:35:44-06:00",
+  "que": "",
   "url": "",
   "duraciones": [
    237.4,
@@ -60,6 +58,8 @@
    9.1,
    90.3
   ],
+  "fase": "1/5 arrancando el agente",
+  "fase_desde": "2026-10-26T23:35:44-06:00",
   "estimado_min": 17.9
  },
  "chalan-local": {
