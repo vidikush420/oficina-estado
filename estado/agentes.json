@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T11:11:42-06:00",
   "que": "a mano: cola: - [ ] **UI-E · Ficha con lo importante arriba** (pedido por Miguel el 22/10; artboard E; después de UI-G) — Reordenar op",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40548014267",
   "duraciones": [
    9.3,
@@ -17,7 +17,8 @@
    2.4,
    4.1
   ],
-  "estimado_min": 7.2
+  "estimado_min": 7.2,
+  "fase_desde": "2026-10-27T11:12:07-06:00"
  },
  "aduana": {
   "estado": "termino",
