@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T14:34:51-06:00",
   "que": "a mano: cola: - [ ] [producto] **Perfil de persona** (Miguel, 27/10) — Que un Administrador (y el Supervisor de un proyecto, para su g",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/40579251588",
   "duraciones": [
    9.9,
@@ -17,7 +17,8 @@
    3.2,
    0.6
   ],
-  "estimado_min": 3.6
+  "estimado_min": 3.6,
+  "fase_desde": "2026-10-27T14:35:26-06:00"
  },
  "aduana": {
   "estado": "termino",
