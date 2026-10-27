@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T11:00:27-06:00",
   "que": "revisando el PR #16 (chalan/2026-10-27-ui-d-palabras-claras)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40546297804",
   "duraciones": [
    5.5,
@@ -38,7 +38,8 @@
    1.6,
    1.4
   ],
-  "estimado_min": 4.3
+  "estimado_min": 4.3,
+  "fase_desde": "2026-10-27T11:00:57-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
