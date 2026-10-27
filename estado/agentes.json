@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-27T11:14:57-06:00",
-  "desde": "2026-10-27T11:11:42-06:00",
-  "que": "a mano: cola: - [ ] **UI-E · Ficha con lo importante arriba** (pedido por Miguel el 22/10; artboard E; después de UI-G) — Reordenar op",
-  "resumen": "UI-E lista: PR #18 en crm-cajas",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40548014267",
+  "estado": "trabajando",
+  "desde": "2026-10-27T11:18:19-06:00",
+  "que": "a mano: cola: - [ ] **Nivel 2 en CI** — Que aduana.yml/chalan.yml corran NAVEGADOR=1 ./pruebas/correr.sh si el runner tiene Chromium (",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40549145140",
   "duraciones": [
    9.3,
    9.9,
