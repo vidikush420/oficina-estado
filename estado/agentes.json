@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T10:52:09-06:00",
   "que": "PR #15 devuelto por Aduana",
-  "fase": "4/5 abriendo el PR",
+  "fase": "5/5 registrando en la oficina",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40544980125",
   "duraciones": [
    5.1,
@@ -18,7 +18,7 @@
    2.9
   ],
   "estimado_min": 7.2,
-  "fase_desde": "2026-10-27T10:53:27-06:00"
+  "fase_desde": "2026-10-27T10:53:38-06:00"
  },
  "aduana": {
   "estado": "termino",
