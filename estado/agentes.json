@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T11:08:07-06:00",
   "que": "revisando el PR #17 (chalan/2026-10-27-ui-c-menu-inferior)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40547554989",
   "duraciones": [
    3.9,
@@ -38,7 +38,8 @@
    1.4,
    1.6
   ],
-  "estimado_min": 3.7
+  "estimado_min": 3.7,
+  "fase_desde": "2026-10-27T11:08:31-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
