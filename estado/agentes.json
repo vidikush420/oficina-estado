@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T10:57:19-06:00",
   "que": "a mano: cola: - [ ] **UI-D · Palabras claras y texto grande** (pedido por Miguel el 22/10; artboard D) — (1) Renombrar en la interfaz:",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40545762120",
   "duraciones": [
    3.9,
@@ -17,7 +17,8 @@
    2.9,
    1.6
   ],
-  "estimado_min": 7.2
+  "estimado_min": 7.2,
+  "fase_desde": "2026-10-27T10:57:46-06:00"
  },
  "aduana": {
   "estado": "termino",
