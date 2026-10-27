@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-27T10:53:46-06:00",
-  "desde": "2026-10-27T10:52:09-06:00",
-  "que": "PR #15 devuelto por Aduana",
-  "resumen": "PR #15 devolución atendida (contacto vacío + reversa parcial), pruebas en verde",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40544980125",
+  "estado": "trabajando",
+  "desde": "2026-10-27T10:57:19-06:00",
+  "que": "a mano: cola: - [ ] **UI-D · Palabras claras y texto grande** (pedido por Miguel el 22/10; artboard D) — (1) Renombrar en la interfaz:",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40545762120",
   "duraciones": [
    3.9,
    3.5,
