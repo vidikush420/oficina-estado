@@ -21,12 +21,11 @@
   "estimado_min": 4.6
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-27T11:09:47-06:00",
-  "desde": "2026-10-27T11:08:07-06:00",
-  "que": "revisando el PR #17 (chalan/2026-10-27-ui-c-menu-inferior)",
-  "resumen": "PR #17 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40547554989",
+  "estado": "trabajando",
+  "desde": "2026-10-27T11:15:33-06:00",
+  "que": "revisando el PR #18 (chalan/2026-10-27-ui-e-ficha)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40548738860",
   "duraciones": [
    4.8,
    3.5,
