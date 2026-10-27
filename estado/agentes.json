@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T11:03:19-06:00",
   "que": "a mano: cola: - [ ] **UI-C · Menú de abajo con íconos en celular** (pedido por Miguel el 22/10; artboard C; después de UI-D) — Con max",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40546793887",
   "duraciones": [
    3.5,
@@ -18,7 +18,7 @@
    2.4
   ],
   "estimado_min": 7.2,
-  "fase_desde": "2026-10-27T11:03:56-06:00"
+  "fase_desde": "2026-10-27T11:04:38-06:00"
  },
  "aduana": {
   "estado": "termino",
