@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-27T11:07:27-06:00",
-  "desde": "2026-10-27T11:03:19-06:00",
-  "que": "a mano: cola: - [ ] **UI-C · Menú de abajo con íconos en celular** (pedido por Miguel el 22/10; artboard C; después de UI-D) — Con max",
-  "resumen": "UI-C lista: PR #17 en crm-cajas (barra de abajo en celular, v12)",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40546793887",
+  "estado": "trabajando",
+  "desde": "2026-10-27T11:11:42-06:00",
+  "que": "a mano: cola: - [ ] **UI-E · Ficha con lo importante arriba** (pedido por Miguel el 22/10; artboard E; después de UI-G) — Reordenar op",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40548014267",
   "duraciones": [
    9.3,
    9.3,
