@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-26T22:10:00-06:00",
   "desde": "2026-10-26T21:57:44-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No hay nada que solo pueda hacerse en tu Mac, así que no cambié nada. Sunday sigue parado porque faltan la base de datos de prueba de FN y el programa PHP. La herramienta que sube versiones de prueba",
   "url": "",
   "duraciones": [
-   0.9,
    0.6,
    0.9,
    28.7,
@@ -78,9 +78,10 @@
    1.6,
    1.0,
    0.8,
-   1.0
+   1.0,
+   12.3
   ],
-  "estimado_min": 1.0
+  "estimado_min": 1.1
  },
  "gerente-de-zara": {
   "estado": "fallo",
