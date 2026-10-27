@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T10:49:53-06:00",
   "que": "revisando el PR #15 (chalan/2026-10-27-editar-ficha)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40544642892",
   "duraciones": [
    3.3,
@@ -39,7 +39,7 @@
    1.8
   ],
   "estimado_min": 4.3,
-  "fase_desde": "2026-10-27T10:51:10-06:00"
+  "fase_desde": "2026-10-27T10:51:19-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
