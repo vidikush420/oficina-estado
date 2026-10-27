@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-27T10:49:53-06:00",
   "que": "revisando el PR #15 (chalan/2026-10-27-editar-ficha)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40544642892",
   "duraciones": [
    3.3,
@@ -39,7 +39,7 @@
    1.8
   ],
   "estimado_min": 4.3,
-  "fase_desde": "2026-10-27T10:50:19-06:00"
+  "fase_desde": "2026-10-27T10:50:27-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
