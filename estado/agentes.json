@@ -21,12 +21,11 @@
   "estimado_min": 7.2
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-27T10:51:26-06:00",
-  "desde": "2026-10-27T10:49:53-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-27T10:54:15-06:00",
   "que": "revisando el PR #15 (chalan/2026-10-27-editar-ficha)",
-  "resumen": "PR #15 → DEVUELTO, no fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40544642892",
+  "fase": "",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40545362338",
   "duraciones": [
    3.6,
    5.5,
