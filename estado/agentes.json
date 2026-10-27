@@ -21,12 +21,11 @@
   "estimado_min": 3.6
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-27T11:16:54-06:00",
-  "desde": "2026-10-27T11:15:33-06:00",
-  "que": "revisando el PR #18 (chalan/2026-10-27-ui-e-ficha)",
-  "resumen": "PR #18 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/40548738860",
+  "estado": "trabajando",
+  "desde": "2026-10-27T16:09:58-06:00",
+  "que": "revisando el PR #60 (chalan/2026-10-27-perfil-persona)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/40581663557",
   "duraciones": [
    3.5,
    5.2,
