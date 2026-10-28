@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-28T06:46:54-06:00",
-  "desde": "2026-10-28T06:45:41-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-28T09:48:11-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo de Sunday sigue detenido porque falta la copia de datos de prueba y el programa PHP. Tienes que conseguir con Héctor esa copia e instalar PHP (o au",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
