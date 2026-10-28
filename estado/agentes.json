@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-28T03:46:21-06:00",
   "desde": "2026-10-28T03:44:59-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Los pendientes de Sunday siguen detenidos porque falta la copia de datos de prueba y el programa PHP para probarlos. Tienes que conseguir con Héctor l",
   "url": "",
   "duraciones": [
-   1.0,
    12.3,
    1.4,
    1.3,
@@ -78,7 +78,8 @@
    12.1,
    0.8,
    32.9,
-   1.0
+   1.0,
+   1.4
   ],
   "estimado_min": 5.5
  },
