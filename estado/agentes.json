@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-27T16:27:49-06:00",
-  "desde": "2026-10-27T16:18:16-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-27T18:26:56-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que pidiera la Mac, así que no hice cambios. Lo de Sunday sigue detenido por falta de la base de datos de prueba y de una herramienta (php) en la Mac. Aviso: el desplegador automátic",
+  "fase": "",
   "url": "",
   "duraciones": [
    29.4,
