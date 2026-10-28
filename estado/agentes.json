@@ -64,10 +64,10 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-10-28T11:45:08-06:00",
+  "cuando": "2026-10-28T14:53:03-06:00",
   "desde": "2026-10-28T09:48:11-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que pidiera la Mac, así que no cambié nada. Sunday sigue detenido por falta de la base de datos de prueba y del programa PHP. La subida automática a beta sigue sin responder. No tien",
+  "resumen": "Revisé todos los proyectos y no hay nada que necesite la Mac ahora: lo del Perfil de persona ya lo llevan los agentes de la nube y Sunday sigue detenido sin la base de datos de prueba. No hice cambios",
   "url": "",
   "duraciones": [
    1.3,
