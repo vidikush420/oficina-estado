@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-28T17:26:59-06:00",
-  "desde": "2026-10-28T17:25:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-28T17:27:27-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio para que Sunday se pueda instalar como app en el celular había quedado trabado porque Héctor cambió otras cosas al mismo tiempo; lo acomodé para que vuelva a poder revisarse. No pude probarl",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.6,
