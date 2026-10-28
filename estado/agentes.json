@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-28T00:44:54-06:00",
   "desde": "2026-10-28T00:43:55-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que pidiera la Mac, así que no cambié nada. Sunday sigue detenido por falta de la base de datos de prueba y de php. La subida automática a beta sigue con fallas de conexión. No tiene",
   "url": "",
   "duraciones": [
-   0.8,
    1.0,
    12.3,
    1.4,
@@ -78,7 +78,8 @@
    9.6,
    12.1,
    0.8,
-   32.9
+   32.9,
+   1.0
   ],
   "estimado_min": 5.5
  },
