@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-29T00:49:00-06:00",
-  "desde": "2026-10-29T00:23:19-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-29T04:52:36-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer: lo único pendiente para la Mac es el trabajo de Sunday, y sigue detenido porque falta la copia de datos de prueba que debe dar FN y las respuestas de Héctor. No",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
