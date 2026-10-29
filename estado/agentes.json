@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-29T06:39:15-06:00",
-  "desde": "2026-10-29T06:35:36-06:00",
-  "que": "revisando el PR #20 (claude/democajas)",
-  "resumen": "PR #20 rhwellness-encuesta → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/40874498053",
+  "estado": "trabajando",
+  "desde": "2026-10-29T07:51:17-06:00",
+  "que": "revisando el PR #21 (claude/democajas-webapp)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/40885731932",
   "duraciones": [
    4.8,
    6.1,
