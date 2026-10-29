@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-29T10:55:07-06:00",
-  "desde": "2026-10-29T10:53:50-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-29T13:15:04-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que necesitara la Mac, así que no cambié nada. Sunday sigue detenido por falta de la copia de datos de prueba y del programa PHP. La subida automática a beta de la Bitácora lleva día",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
