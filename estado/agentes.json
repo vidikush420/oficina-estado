@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-29T06:44:58-06:00",
-  "desde": "2026-10-29T06:42:37-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-29T07:57:00-06:00",
   "que": "a mano: cola: - [ ] [BLOQUEADA — esperando categorías de Fernando; no tomar] **Pregunta 4: subsector agroalimentario** — En sitio/encu",
-  "resumen": "Sin PR: P4 bloqueada esperando categorías de Fernando",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/40875397579",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/40886304446",
   "duraciones": [
    22.9,
    5.1,
