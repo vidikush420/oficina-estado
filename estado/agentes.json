@@ -21,12 +21,11 @@
   "estimado_min": 3.6
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-10-27T16:28:25-06:00",
-  "desde": "2026-10-27T16:09:58-06:00",
-  "que": "revisando el PR #60 (chalan/2026-10-27-perfil-persona)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/40581663557",
+  "estado": "trabajando",
+  "desde": "2026-10-29T06:35:36-06:00",
+  "que": "revisando el PR #20 (claude/democajas)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/40874498053",
   "duraciones": [
    5.2,
    4.8,
