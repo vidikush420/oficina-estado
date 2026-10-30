@@ -43,9 +43,9 @@
  },
  "sherlock": {
   "estado": "trabajando",
-  "desde": "2026-10-29T23:41:35-06:00",
+  "desde": "2026-10-30T13:22:00-06:00",
   "que": "ronda de beta",
-  "fase": "3/5 corriendo la lista de renglones",
+  "fase": "",
   "url": "",
   "duraciones": [
    99.7,
@@ -59,8 +59,7 @@
    90.3,
    61.1
   ],
-  "estimado_min": 17.9,
-  "fase_desde": "2026-10-29T23:56:47-06:00"
+  "estimado_min": 17.9
  },
  "chalan-local": {
   "estado": "termino",
