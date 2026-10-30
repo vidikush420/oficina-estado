@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-30T13:12:10-06:00",
   "que": "a mano: cola: - [ ] [producto] **Actividad del equipo: cada movimiento lleva a su tarea** (Miguel, 27/10) — Hoy Actividad.Ref solo se",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41113234004",
   "duraciones": [
    2.4,
@@ -17,7 +17,8 @@
    2.3,
    2.2
   ],
-  "estimado_min": 2.3
+  "estimado_min": 2.3,
+  "fase_desde": "2026-10-30T13:12:37-06:00"
  },
  "aduana": {
   "estado": "termino",
