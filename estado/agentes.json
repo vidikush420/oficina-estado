@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-30T13:07:37-06:00",
   "que": "revisando el PR #61 (chalan/2026-10-27-perfil-de-persona)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41112556948",
   "duraciones": [
    1.8,
@@ -38,7 +38,8 @@
    2.6,
    1.2
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-10-30T13:07:59-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
