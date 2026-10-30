@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-30T13:57:48-06:00",
-  "desde": "2026-10-30T13:55:00-06:00",
-  "que": "revisando el PR #63 (chalan/2026-10-30-buscador-tareas)",
-  "resumen": "PR #63 → OJO (cosmético), fusionado; beta pendiente (requiere la Mac)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41119056513",
+  "estado": "trabajando",
+  "desde": "2026-10-30T14:32:57-06:00",
+  "que": "revisando el PR #64 (chalan/2026-10-30-crear-tarea-buscador)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41124061393",
   "duraciones": [
    1.6,
    1.7,
