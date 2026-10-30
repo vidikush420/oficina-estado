@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-30T12:58:10-06:00",
   "que": "a mano: cola: - [ ] [producto] **Landing: las líneas azules/naranjas sobre la flor del modelo** (Miguel, 30/10; diagnóstico confirmado",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41111282850",
   "duraciones": [
    5.1,
@@ -18,7 +18,7 @@
    1.8
   ],
   "estimado_min": 2.6,
-  "fase_desde": "2026-10-30T12:58:50-06:00"
+  "fase_desde": "2026-10-30T12:58:59-06:00"
  },
  "aduana": {
   "estado": "termino",
