@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-30T13:00:21-06:00",
   "desde": "2026-10-30T12:58:10-06:00",
   "que": "a mano: cola: - [ ] [producto] **Landing: las líneas azules/naranjas sobre la flor del modelo** (Miguel, 30/10; diagnóstico confirmado",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #22 abierto: landing sin líneas sobre la flor",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41111282850",
   "duraciones": [
-   5.1,
    2.9,
    1.6,
    2.4,
@@ -15,10 +15,10 @@
    0.6,
    4.5,
    2.4,
-   1.8
+   1.8,
+   2.2
   ],
-  "estimado_min": 2.6,
-  "fase_desde": "2026-10-30T13:00:15-06:00"
+  "estimado_min": 2.4
  },
  "aduana": {
   "estado": "termino",
