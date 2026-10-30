@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-30T13:06:35-06:00",
   "que": "a mano: cola: - [ ] [producto] **Landing: la flor del hero no responde al clic** (Miguel, 30/10) — Los tres pétalos de #flower-hero no",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41112005202",
   "duraciones": [
    1.6,
@@ -18,7 +18,7 @@
    2.3
   ],
   "estimado_min": 2.3,
-  "fase_desde": "2026-10-30T13:07:05-06:00"
+  "fase_desde": "2026-10-30T13:07:22-06:00"
  },
  "aduana": {
   "estado": "termino",
