@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-30T13:08:48-06:00",
   "desde": "2026-10-30T13:06:35-06:00",
   "que": "a mano: cola: - [ ] [producto] **Landing: la flor del hero no responde al clic** (Miguel, 30/10) — Los tres pétalos de #flower-hero no",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "PR #23 abierto: flor del hero responde al clic",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41112005202",
   "duraciones": [
-   1.6,
    2.4,
    4.1,
    3.2,
@@ -15,10 +15,10 @@
    2.4,
    1.8,
    2.2,
-   2.3
+   2.3,
+   2.2
   ],
-  "estimado_min": 2.3,
-  "fase_desde": "2026-10-30T13:08:37-06:00"
+  "estimado_min": 2.3
  },
  "aduana": {
   "estado": "termino",
