@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-30T13:21:58-06:00",
-  "desde": "2026-10-30T13:20:46-06:00",
-  "que": "revisando el PR #62 (chalan/2026-10-30-actividad-a-tarea)",
-  "resumen": "PR #62 → PASA, fusionado (beta pendiente)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41114391794",
+  "estado": "trabajando",
+  "desde": "2026-10-30T13:55:00-06:00",
+  "que": "revisando el PR #63 (chalan/2026-10-30-buscador-tareas)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41119056513",
   "duraciones": [
    1.4,
    1.6,
