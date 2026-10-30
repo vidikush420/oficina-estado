@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-29T07:58:49-06:00",
-  "desde": "2026-10-29T07:57:00-06:00",
-  "que": "a mano: cola: - [ ] [BLOQUEADA — esperando categorías de Fernando; no tomar] **Pregunta 4: subsector agroalimentario** — En sitio/encu",
-  "resumen": "rhwellness-encuesta: tarea P4 bloqueada, sin PR",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/40886304446",
+  "estado": "trabajando",
+  "desde": "2026-10-30T12:58:10-06:00",
+  "que": "a mano: cola: - [ ] [producto] **Landing: las líneas azules/naranjas sobre la flor del modelo** (Miguel, 30/10; diagnóstico confirmado",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41111282850",
   "duraciones": [
    5.1,
    2.9,
