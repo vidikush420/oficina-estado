@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-10-29T07:53:55-06:00",
-  "desde": "2026-10-29T07:51:17-06:00",
-  "que": "revisando el PR #21 (claude/democajas-webapp)",
-  "resumen": "PR #21 → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/40885731932",
+  "estado": "trabajando",
+  "desde": "2026-10-30T13:01:42-06:00",
+  "que": "revisando el PR #22 (chalan/2026-10-30-landing-foco-petalos)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41111579700",
   "duraciones": [
    6.1,
    1.8,
