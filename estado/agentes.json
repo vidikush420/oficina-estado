@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-10-30T14:34:38-06:00",
   "que": "PR #64 devuelto por Aduana",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41121244363",
   "duraciones": [
    4.1,
@@ -18,7 +18,7 @@
    3.6
   ],
   "estimado_min": 2.3,
-  "fase_desde": "2026-10-30T14:36:17-06:00"
+  "fase_desde": "2026-10-30T14:36:24-06:00"
  },
  "aduana": {
   "estado": "termino",
