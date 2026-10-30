@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-30T13:55:00-06:00",
   "que": "revisando el PR #63 (chalan/2026-10-30-buscador-tareas)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41119056513",
   "duraciones": [
    1.4,
@@ -39,7 +39,7 @@
    1.2
   ],
   "estimado_min": 1.5,
-  "fase_desde": "2026-10-30T13:57:13-06:00"
+  "fase_desde": "2026-10-30T13:57:33-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
