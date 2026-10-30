@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-30T13:15:45-06:00",
   "desde": "2026-10-30T13:12:10-06:00",
   "que": "a mano: cola: - [ ] [producto] **Actividad del equipo: cada movimiento lleva a su tarea** (Miguel, 27/10) — Hoy Actividad.Ref solo se",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "Actividad→tarea ya estaba en el PR #62 (la nube llegó antes); mi push se rechazó y no abrí duplicado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41113234004",
   "duraciones": [
-   2.4,
    4.1,
    3.2,
    0.6,
@@ -15,10 +15,10 @@
    1.8,
    2.2,
    2.3,
-   2.2
+   2.2,
+   3.6
   ],
-  "estimado_min": 2.3,
-  "fase_desde": "2026-10-30T13:15:35-06:00"
+  "estimado_min": 2.3
  },
  "aduana": {
   "estado": "termino",
