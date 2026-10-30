@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-30T14:32:57-06:00",
   "que": "revisando el PR #64 (chalan/2026-10-30-crear-tarea-buscador)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41124061393",
   "duraciones": [
    1.6,
@@ -38,7 +38,8 @@
    1.2,
    2.8
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-10-30T14:33:23-06:00"
  },
  "sherlock": {
   "estado": "termino",
