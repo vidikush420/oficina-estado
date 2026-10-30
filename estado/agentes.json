@@ -62,11 +62,10 @@
   "fase_desde": "2026-10-29T23:56:47-06:00"
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-29T19:15:36-06:00",
-  "desde": "2026-10-29T19:15:02-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-30T13:07:46-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que necesitara la Mac, así que no cambié nada. Sunday sigue detenido por falta de datos de prueba y del programa PHP. La subida automática a beta lleva días sin funcionar; conviene q",
+  "fase": "",
   "url": "",
   "duraciones": [
    25.7,
