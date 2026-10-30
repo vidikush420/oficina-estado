@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-10-30T14:50:12-06:00",
   "que": "revisando el PR #67 (chalan/2026-10-30-reporte-tareas)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41125474826",
   "duraciones": [
    1.7,
@@ -38,7 +38,8 @@
    2.8,
    1.2
   ],
-  "estimado_min": 1.5
+  "estimado_min": 1.5,
+  "fase_desde": "2026-10-30T14:50:36-06:00"
  },
  "sherlock": {
   "estado": "termino",
