@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-10-31T16:47:07-06:00",
+  "cuando": "2026-10-31T17:05:12-06:00",
   "desde": "2026-10-31T16:15:55-06:00",
   "que": "corrida programada",
   "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. Sunday sigue esperando los datos de prueba de FN y el programa PHP en la Mac. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   1.0,
    7.7,
    8.0,
    61.4,
@@ -79,9 +78,10 @@
    0.9,
    38.2,
    0.7,
-   31.2
+   31.2,
+   49.3
   ],
-  "estimado_min": 4.3
+  "estimado_min": 7.8
  },
  "gerente-de-zara": {
   "estado": "fallo",
