@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-31T13:15:58-06:00",
-  "desde": "2026-10-31T13:15:04-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-31T14:14:40-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay ningún trabajo que necesite la Mac, así que no hice nada. Sunday sigue esperando los datos de prueba de FN. La última subida automática a la versión de pruebas fall",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
