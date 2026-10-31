@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-30T17:16:34-06:00",
-  "desde": "2026-10-30T17:15:35-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-30T19:18:35-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. La actualización automática de la versión de prueba se atoró dos veces porque una regla de colores del código se quejaba; ya ha",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
