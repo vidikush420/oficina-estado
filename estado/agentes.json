@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-30T19:26:18-06:00",
-  "desde": "2026-10-30T19:18:35-06:00",
+  "estado": "trabajando",
+  "desde": "2026-10-30T20:19:40-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. La versión de prueba sigue detenida en la v55 hasta que se apruebe la corrección número 65 de la Bitácora. Sunday sigue esperan",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.9,
