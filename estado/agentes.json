@@ -63,10 +63,11 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-31T05:06:41-06:00",
   "desde": "2026-10-30T20:19:40-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no toqué nada. La versión de prueba de la Bitácora sigue detenida en la v55 esperando la corrección del PR 65. Sunday sigue esperando datos de",
   "url": "",
   "duraciones": [
    1.9,
