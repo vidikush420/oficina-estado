@@ -62,11 +62,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-01T10:25:58-06:00",
-  "desde": "2026-11-01T10:16:20-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-01T10:32:58-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. Sunday sigue esperando la base de datos de prueba y el programa PHP. El arreglo de la versión de prueba de la Bitácora (PR #65)",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
