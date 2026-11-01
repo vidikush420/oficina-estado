@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-01T13:45:30-06:00",
   "desde": "2026-11-01T13:26:30-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que requiriera la Mac, así que no hice cambios. La versión de prueba de la Bitácora sigue sin actualizarse por una prueba automática de colores que falla; ya está anotada como tarea",
   "url": "",
   "duraciones": [
-   31.2,
    49.3,
    22.4,
    1.4,
@@ -78,9 +78,10 @@
    12.3,
    0.7,
    9.6,
-   1.2
+   1.2,
+   19.0
   ],
-  "estimado_min": 17.4
+  "estimado_min": 15.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
