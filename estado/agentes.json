@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-01T07:30:54-06:00",
   "desde": "2026-11-01T07:30:12-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. Sunday sigue esperando la base de datos de prueba de FN y el programa PHP. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   0.9,
    38.2,
    0.7,
    31.2,
@@ -78,7 +78,8 @@
    1.4,
    53.9,
    30.1,
-   12.3
+   12.3,
+   0.7
   ],
   "estimado_min": 26.2
  },
