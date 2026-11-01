@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-01T04:27:02-06:00",
-  "desde": "2026-11-01T04:14:45-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-01T07:30:12-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que necesitara la Mac, así que no hice cambios. La versión de prueba (beta) de la Bitácora sigue atorada en una versión vieja porque un detalle de estilo hizo fallar sus revisiones a",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
