@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-10-31T18:57:25-06:00",
   "desde": "2026-10-31T18:35:00-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. Sunday sigue esperando los datos de prueba y el programa PHP. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   7.7,
    8.0,
    61.4,
    0.7,
@@ -78,9 +78,10 @@
    38.2,
    0.7,
    31.2,
-   49.3
+   49.3,
+   22.4
   ],
-  "estimado_min": 7.8
+  "estimado_min": 15.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
