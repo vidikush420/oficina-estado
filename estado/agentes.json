@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-10-31T22:38:35-06:00",
-  "desde": "2026-10-31T21:44:44-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-01T01:04:11-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. La subida automática de pruebas falló el 30/10, pero ya hay un arreglo esperando revisión. Sunday sigue esperando los datos de",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
