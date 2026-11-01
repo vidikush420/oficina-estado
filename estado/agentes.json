@@ -21,13 +21,13 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-01T10:56:41-06:00",
   "desde": "2026-11-01T10:25:39-06:00",
   "que": "revisando el PR #67 (chalan/2026-10-30-reporte-tareas)",
-  "fase": "",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41324443020",
   "duraciones": [
-   18.4,
    3.6,
    2.6,
    1.2,
@@ -36,7 +36,8 @@
    2.8,
    1.2,
    0.7,
-   1.0
+   1.0,
+   31.0
   ],
   "estimado_min": 1.2
  },
