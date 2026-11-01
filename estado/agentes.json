@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-01T01:34:17-06:00",
-  "desde": "2026-11-01T01:04:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-01T04:14:45-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer: lo único pendiente son tres cambios de Sunday que no se pueden probar sin una copia de la base de datos de prueba, que todavía no existe. La actualización de pr",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
