@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-02T01:03:42-06:00",
   "desde": "2026-11-02T01:02:07-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Los tres trabajos de Sunday siguen parados porque falta la copia de prueba de la base de datos que debe dar FN, y sin ella no es seguro tocar pedidos",
   "url": "",
   "duraciones": [
-   30.1,
    12.3,
    0.7,
    9.6,
@@ -78,9 +78,10 @@
    0.9,
    6.2,
    0.7,
-   1.2
+   1.2,
+   1.6
   ],
-  "estimado_min": 3.7
+  "estimado_min": 1.4
  },
  "gerente-de-zara": {
   "estado": "fallo",
