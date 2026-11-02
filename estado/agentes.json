@@ -63,11 +63,10 @@
   "estimado_min": 16.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-02T13:23:57-06:00",
-  "desde": "2026-11-02T13:21:04-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-02T14:16:00-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. Sunday sigue parado hasta que FN entregue la copia de prueba de su base de datos; tienes que conseguirla con FN. Además, el arr",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.2,
