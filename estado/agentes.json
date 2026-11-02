@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-02T01:01:37-06:00",
   "desde": "2026-11-02T01:00:25-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer, así que no cambié nada. La versión de prueba de la Bitácora sigue sin actualizarse hasta que se ponga al día su corrección (PR #65). Sunday sigue esper",
   "url": "",
   "duraciones": [
-   53.9,
    30.1,
    12.3,
    0.7,
@@ -78,9 +78,10 @@
    19.0,
    0.9,
    6.2,
-   0.7
+   0.7,
+   1.2
   ],
-  "estimado_min": 7.9
+  "estimado_min": 3.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
