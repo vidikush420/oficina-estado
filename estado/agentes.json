@@ -21,13 +21,13 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T05:01:05-06:00",
   "desde": "2026-11-03T04:57:31-06:00",
   "que": "revisando el PR #6 (chalan-local/2026-11-03-puerto-islas)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #6 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41623501126",
   "duraciones": [
-   0.7,
    1.0,
    31.0,
    5.6,
@@ -36,10 +36,10 @@
    3.5,
    5.3,
    3.5,
-   0.9
+   0.9,
+   3.6
   ],
-  "estimado_min": 3.5,
-  "fase_desde": "2026-11-03T05:00:56-06:00"
+  "estimado_min": 3.6
  },
  "sherlock": {
   "estado": "termino",
