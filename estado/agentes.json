@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T13:28:11-06:00",
   "desde": "2026-11-03T13:25:45-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Probé el juego Marea con dos jugadores conectados de verdad por red dentro de la Mac: entraron a la misma sala con un código y el servidor decidió qué pescó cada uno, sin que ellos pudieran inventarlo",
   "url": "",
   "duraciones": [
-   3.4,
    1.1,
    2.4,
    1.1,
@@ -78,7 +78,8 @@
    1.4,
    4.4,
    9.3,
-   10.4
+   10.4,
+   2.4
   ],
   "estimado_min": 1.9
  },
