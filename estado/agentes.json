@@ -22,9 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-03T13:47:54-06:00",
-  "que": "",
-  "url": "",
+  "desde": "2026-11-03T13:55:08-06:00",
+  "que": "revisando el PR #3 (chalan/2026-11-03-prueba-links)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41707348780",
   "duraciones": [
    14.4,
    3.4,
@@ -37,8 +38,6 @@
    0.8,
    0.7
   ],
-  "fase": "4/4 registrando en la oficina",
-  "fase_desde": "2026-11-03T13:49:12-06:00",
   "estimado_min": 1.9
  },
  "sherlock": {
