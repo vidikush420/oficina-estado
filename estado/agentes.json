@@ -62,11 +62,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:35:32-06:00",
-  "desde": "2026-11-03T04:32:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:36:19-06:00",
   "que": "corrida programada",
-  "resumen": "Avancé el juego Marea: ya existe la pantalla del minijuego de pescar, donde mantienes el clic para recoger la línea y sueltas para aflojarla, y las pruebas automáticas pasan. Todavía no se puede abrir",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
