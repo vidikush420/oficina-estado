@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:32:00-06:00",
-  "desde": "2026-11-03T04:30:23-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:32:49-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había trabajo para mí: lo único de la Mac que tocaba es del juego Marea y ya tiene un avance esperando revisión. La versión de prueba de la Bitácora sigue sin actualizarse por un fallo conocido",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
