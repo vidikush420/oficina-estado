@@ -21,13 +21,13 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T08:18:19-06:00",
   "desde": "2026-11-03T08:15:28-06:00",
   "que": "revisando el PR #8 (chalan-local/2026-11-03-lobby-amigos)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #8 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41651852984",
   "duraciones": [
-   5.6,
    5.8,
    3.6,
    3.5,
@@ -36,10 +36,10 @@
    0.9,
    3.6,
    2.8,
-   3.5
+   3.5,
+   2.9
   ],
-  "estimado_min": 3.5,
-  "fase_desde": "2026-11-03T08:18:08-06:00"
+  "estimado_min": 3.5
  },
  "sherlock": {
   "estado": "termino",
