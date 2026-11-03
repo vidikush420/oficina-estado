@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T10:16:02-06:00",
-  "desde": "2026-11-03T10:15:04-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T11:22:13-06:00",
   "que": "corrida programada",
-  "resumen": "Otra vez no había trabajo nuevo para mí en la Mac. Para seguir con el juego Marea falta instalar las plantillas de exportación de Godot (Editor → Administrar plantillas de exportación); eso lo tienes",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.9,
