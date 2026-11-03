@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:54:19-06:00",
-  "desde": "2026-11-03T04:53:26-06:00",
-  "que": "",
-  "resumen": "Marea PR #5 → OJO cosmético, fusionado",
-  "url": "",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:57:31-06:00",
+  "que": "revisando el PR #6 (chalan-local/2026-11-03-puerto-islas)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41623501126",
   "duraciones": [
    0.7,
    1.0,
