@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T13:43:32-06:00",
   "desde": "2026-11-03T13:42:23-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que pudiera hacer yo en la Mac. La única tarea para mí que quedaba (crear el buzón de comentarios de Sistemas Vidal) implica publicar un programa en Google, y mis reglas me lo prohíb",
   "url": "",
   "duraciones": [
-   1.1,
    2.4,
    1.1,
    1.1,
@@ -78,7 +78,8 @@
    4.4,
    9.3,
    10.4,
-   2.4
+   2.4,
+   1.1
   ],
   "estimado_min": 1.9
  },
