@@ -21,12 +21,11 @@
   "estimado_min": 2.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T14:42:21-06:00",
-  "desde": "2026-11-03T14:39:20-06:00",
-  "que": "revisando el PR #5 (chalan-local/2026-11-03-buzon-backend)",
-  "resumen": "PR #5 sistemas-vidal → OJO — espera a Miguel, no fusionado",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41714408864",
+  "estado": "trabajando",
+  "desde": "2026-11-03T16:26:59-06:00",
+  "que": "revisando el PR #6 (claude/2026-11-03-deudamiki)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41728840137",
   "duraciones": [
    2.9,
    2.9,
