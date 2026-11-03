@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-02T23:41:57-06:00",
-  "desde": "2026-11-02T23:22:28-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T02:39:28-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que requiera la Mac, así que no cambié nada. Sunday sigue esperando la copia de prueba de su base de datos y la subida automática a beta sigue atorada por una",
+  "fase": "",
   "url": "",
   "duraciones": [
    39.5,
