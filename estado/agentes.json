@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T14:39:20-06:00",
   "que": "revisando el PR #5 (chalan-local/2026-11-03-buzon-backend)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41714408864",
   "duraciones": [
    2.1,
@@ -38,7 +38,8 @@
    4.4,
    4.2
   ],
-  "estimado_min": 1.9
+  "estimado_min": 1.9,
+  "fase_desde": "2026-11-03T14:40:07-06:00"
  },
  "sherlock": {
   "estado": "termino",
