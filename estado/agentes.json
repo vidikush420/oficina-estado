@@ -21,13 +21,13 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T04:32:46-06:00",
   "desde": "2026-11-03T04:29:16-06:00",
   "que": "revisando el PR #2 (chalan-local/2026-11-03-marea-tension-linea)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #2 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41619623454",
   "duraciones": [
-   0.7,
    1.2,
    2.8,
    1.2,
@@ -36,10 +36,10 @@
    31.0,
    5.6,
    5.8,
-   3.6
+   3.6,
+   3.5
   ],
-  "estimado_min": 2.0,
-  "fase_desde": "2026-11-03T04:32:38-06:00"
+  "estimado_min": 3.1
  },
  "sherlock": {
   "estado": "termino",
