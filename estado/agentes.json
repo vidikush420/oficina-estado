@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T05:13:16-06:00",
-  "desde": "2026-11-03T05:12:10-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T08:13:01-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había trabajo nuevo para mí en la Mac. Lo último que hice de Marea espera revisión, y Sunday sigue detenido por falta de datos de prueba. La versión de pruebas de la Bitácora sigue sin actualiz",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.7,
