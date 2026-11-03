@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T14:44:28-06:00",
-  "desde": "2026-11-03T14:41:40-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T14:58:32-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hay nada nuevo que pueda hacer yo en la Mac. Lo del buzón de Sistemas ya está hecho y espera revisión; Sunday sigue parado por falta de datos de prueba y del programa PHP. No tienes que hacer n",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.4,
