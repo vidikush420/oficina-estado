@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T05:14:29-06:00",
-  "desde": "2026-11-03T05:11:01-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T08:15:28-06:00",
   "que": "revisando el PR #8 (chalan-local/2026-11-03-lobby-amigos)",
-  "resumen": "Marea PR #8 → DEVUELTO, no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41625362155",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41651852984",
   "duraciones": [
    5.6,
    5.8,
