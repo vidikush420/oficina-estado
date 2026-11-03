@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T15:03:03-06:00",
   "desde": "2026-11-03T15:01:07-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No había nada que hiciera falta en la Mac, así que no cambié nada. Sunday sigue parado por falta de datos de prueba y del programa PHP. No tienes que hacer nada ahora.",
   "url": "",
   "duraciones": [
-   2.4,
    1.1,
    4.3,
    4.0,
@@ -78,7 +78,8 @@
    3.1,
    5.2,
    2.8,
-   1.7
+   1.7,
+   1.9
   ],
   "estimado_min": 3.4
  },
