@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:59:17-06:00",
-  "desde": "2026-11-03T04:58:01-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T05:01:33-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay trabajo nuevo que me toque en la Mac. El único pendiente mío es el PR de las islas de Marea, que espera revisión de Aduana. La subida automática a la versión de pru",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.9,
