@@ -62,11 +62,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:29:13-06:00",
-  "desde": "2026-11-03T04:26:58-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:30:23-06:00",
   "que": "corrida programada",
-  "resumen": "Avancé el juego Marea con la parte \"matemática\" de la pesca: qué pasa cuando el pez jala y tú sueltas o recoges la línea. Todavía no se ve en pantalla, pero las pruebas automáticas (15 de 15) confirma",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
