@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T14:38:58-06:00",
-  "desde": "2026-11-03T14:33:43-06:00",
-  "que": "",
-  "resumen": "Creé el buzón donde la gente podrá mandar comentarios desde la página de Sistemas y lo conecté a la página. Todavía no funciona: Google necesita que Miguel apruebe un permiso una sola vez. Miguel: abr",
+  "estado": "trabajando",
+  "desde": "2026-11-03T14:41:40-06:00",
+  "que": "corrida programada",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.3,
