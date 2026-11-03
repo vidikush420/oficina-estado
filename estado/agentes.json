@@ -21,13 +21,13 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T13:59:30-06:00",
   "desde": "2026-11-03T13:55:08-06:00",
   "que": "revisando el PR #3 (chalan/2026-11-03-prueba-links)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #3 → PASA, fusionado",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41707348780",
   "duraciones": [
-   14.4,
    3.4,
    2.1,
    2.9,
@@ -36,10 +36,10 @@
    0.4,
    0.1,
    0.8,
-   0.7
+   0.7,
+   4.4
   ],
-  "estimado_min": 1.9,
-  "fase_desde": "2026-11-03T13:58:11-06:00"
+  "estimado_min": 1.9
  },
  "sherlock": {
   "estado": "termino",
