@@ -62,11 +62,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T05:04:16-06:00",
-  "desde": "2026-11-03T05:01:33-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T05:05:07-06:00",
   "que": "corrida programada",
-  "resumen": "Avancé el juego Marea: ahora tiene 30 tipos de peces, un muro que guarda tu pez más grande de cada tipo y un acuario para presumir los mejores. Todo está probado con pruebas automáticas, pero aún no s",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.5,
