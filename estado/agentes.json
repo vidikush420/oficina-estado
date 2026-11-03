@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T13:49:51-06:00",
   "que": "a mano: cola: - [ ] [producto] Prueba nivel 1 pruebas/links.sh: recorre todos los href=\"https://…\" de sitio/index.html (excepto claude",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41706688532",
   "duraciones": [
    3.2,
@@ -17,7 +17,8 @@
    3.6,
    2.6
   ],
-  "estimado_min": 2.3
+  "estimado_min": 2.3,
+  "fase_desde": "2026-11-03T13:50:21-06:00"
  },
  "aduana": {
   "estado": "trabajando",
