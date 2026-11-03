@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T13:11:52-06:00",
-  "desde": "2026-11-03T13:02:34-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T13:14:09-06:00",
   "que": "corrida programada",
-  "resumen": "Hice la pantalla donde un jugador escribe su nombre y crea una sala de amigos o se une con un código de 5 letras. La probé contra un servidor de verdad y creó la sala. Todavía falta probar con dos jug",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
