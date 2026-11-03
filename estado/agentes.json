@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T03:55:35-06:00",
-  "desde": "2026-11-03T03:54:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:26:52-06:00",
   "que": "corrida programada",
-  "resumen": "El PR del esqueleto de Marea había quedado desactualizado frente a la versión principal; lo puse al día y las pruebas siguen en verde. La versión de prueba de la Bitácora sigue sin actualizarse por un",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
