@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T12:51:30-06:00",
-  "desde": "2026-11-03T12:48:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T13:00:51-06:00",
   "que": "revisando el PR #10 (chalan-local/2026-11-03-export-web)",
-  "resumen": "Marea PR #10 → DEVUELTO (falta encabezado Bloqueos en ESTADO.md), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41696679300",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41698997185",
   "duraciones": [
    3.5,
    5.3,
