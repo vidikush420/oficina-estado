@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T04:23:29-06:00",
   "que": "revisando el PR #1 (chalan-local/2026-11-03-proyecto-godot-base)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/41618829795",
   "duraciones": [
    1.2,
@@ -38,7 +38,8 @@
    5.6,
    5.8
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-11-03T04:26:12-06:00"
  },
  "sherlock": {
   "estado": "termino",
