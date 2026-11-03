@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T08:15:26-06:00",
   "desde": "2026-11-03T08:13:01-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Aduana encontró un fallo en lo último que hice de Marea: un jugador podía crear salas vacías sin fin y saturar el servidor. Ya lo arreglé, agregué una prueba que lo vigila y dejé las notas del proyect",
   "url": "",
   "duraciones": [
-   2.7,
    1.6,
    1.0,
    2.0,
@@ -78,7 +78,8 @@
    2.7,
    1.3,
    3.4,
-   1.1
+   1.1,
+   2.4
   ],
   "estimado_min": 1.8
  },
