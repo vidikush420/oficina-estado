@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T13:02:34-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 pantalla de lobby por código de sala",
+  "fase": "Marea: 3/4 corriendo pruebas",
   "url": "",
   "duraciones": [
    2.7,
@@ -81,7 +81,7 @@
    4.4
   ],
   "estimado_min": 1.4,
-  "fase_desde": "2026-11-03T13:05:03-06:00"
+  "fase_desde": "2026-11-03T13:05:58-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
