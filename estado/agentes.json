@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T08:15:28-06:00",
   "que": "revisando el PR #8 (chalan-local/2026-11-03-lobby-amigos)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/41651852984",
   "duraciones": [
    5.6,
@@ -38,7 +38,8 @@
    2.8,
    3.5
   ],
-  "estimado_min": 3.5
+  "estimado_min": 3.5,
+  "fase_desde": "2026-11-03T08:17:17-06:00"
  },
  "sherlock": {
   "estado": "termino",
