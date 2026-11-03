@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:50:32-06:00",
-  "desde": "2026-11-03T04:48:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:54:33-06:00",
   "que": "corrida programada",
-  "resumen": "Avancé el juego Marea: ahora existe la nevera del barco, que tiene un límite de peces, y el mercado, donde se venden los peces por monedas y se puede comprar el bote. Las pruebas automáticas pasan. To",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
