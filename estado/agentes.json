@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T13:28:49-06:00",
-  "desde": "2026-11-03T13:25:56-06:00",
-  "que": "revisando el PR #12 (chalan-local/2026-11-03-dos-clientes-red)",
-  "resumen": "Marea PR #12 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41702847763",
+  "estado": "trabajando",
+  "desde": "2026-11-03T13:38:17-06:00",
+  "que": "revisando el PR #1 (claude/2026-11-03-comentarios)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41705038176",
   "duraciones": [
    0.9,
    3.6,
