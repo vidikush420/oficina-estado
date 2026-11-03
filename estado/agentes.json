@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T14:18:25-06:00",
   "desde": "2026-11-03T14:13:48-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hay nada que pueda hacer yo en la Mac. Lo del buzón de Sistemas Vidal implica publicar un programa en Google y mis reglas me lo prohíben sin tu permiso expreso; si quieres que lo haga, dímelo d",
   "url": "",
   "duraciones": [
-   1.0,
    1.4,
    4.4,
    9.3,
@@ -78,9 +78,10 @@
    1.1,
    4.3,
    4.0,
-   3.7
+   3.7,
+   4.6
   ],
-  "estimado_min": 3.9
+  "estimado_min": 4.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
