@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:32:46-06:00",
-  "desde": "2026-11-03T04:29:16-06:00",
-  "que": "revisando el PR #2 (chalan-local/2026-11-03-marea-tension-linea)",
-  "resumen": "Marea PR #2 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41619623454",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:35:34-06:00",
+  "que": "revisando el PR #3 (chalan-local/2026-11-03-marea-escena-minijuego)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41620512293",
   "duraciones": [
    1.2,
    2.8,
