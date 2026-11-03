@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T12:43:42-06:00",
-  "desde": "2026-11-03T12:29:17-06:00",
-  "que": "revisando el PR #9 (claude/2026-11-03-juego-yml)",
-  "resumen": "Marea PR #9 → NO PASA (toca workflows, lo fusiona Miguel), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41693899920",
+  "estado": "trabajando",
+  "desde": "2026-11-03T12:48:06-06:00",
+  "que": "revisando el PR #10 (chalan-local/2026-11-03-export-web)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41696679300",
   "duraciones": [
    3.6,
    3.5,
