@@ -21,12 +21,10 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:47:32-06:00",
-  "desde": "2026-11-03T04:43:59-06:00",
-  "que": "revisando el PR #4 (chalan-local/2026-11-03-drops-mutaciones)",
-  "resumen": "PR #4 Marea → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41621648045",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:53:26-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    1.2,
    0.7,
@@ -39,6 +37,8 @@
    5.3,
    3.5
   ],
+  "fase": "1/4 leyendo el PR",
+  "fase_desde": "2026-11-03T04:53:26-06:00",
   "estimado_min": 3.5
  },
  "sherlock": {
