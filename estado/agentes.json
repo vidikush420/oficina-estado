@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T12:29:17-06:00",
   "que": "revisando el PR #9 (claude/2026-11-03-juego-yml)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/41693899920",
   "duraciones": [
    5.8,
@@ -38,7 +38,8 @@
    3.5,
    2.9
   ],
-  "estimado_min": 3.5
+  "estimado_min": 3.5,
+  "fase_desde": "2026-11-03T12:42:05-06:00"
  },
  "sherlock": {
   "estado": "termino",
