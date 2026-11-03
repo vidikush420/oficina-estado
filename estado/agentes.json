@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T05:04:09-06:00",
   "que": "revisando el PR #7 (chalan-local/2026-11-03-especies-trofeos)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/41624411944",
   "duraciones": [
    1.0,
@@ -38,7 +38,8 @@
    0.9,
    3.6
   ],
-  "estimado_min": 3.6
+  "estimado_min": 3.6,
+  "fase_desde": "2026-11-03T05:06:02-06:00"
  },
  "sherlock": {
   "estado": "termino",
