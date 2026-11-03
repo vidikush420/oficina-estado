@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T05:10:48-06:00",
   "desde": "2026-11-03T05:07:24-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Avancé el juego Marea: ahora se puede crear una sala de amigos con un código corto de 5 letras y entran hasta 20. El servidor decide qué pesca cada quien y cuánto gana, para que nadie pueda hacer tram",
   "url": "",
   "duraciones": [
-   2.2,
    1.6,
    2.7,
    1.6,
@@ -78,7 +78,8 @@
    2.9,
    1.3,
    2.7,
-   1.3
+   1.3,
+   3.4
   ],
   "estimado_min": 1.8
  },
