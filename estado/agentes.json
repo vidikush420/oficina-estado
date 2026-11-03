@@ -21,12 +21,10 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T13:47:36-06:00",
-  "desde": "2026-11-03T13:46:56-06:00",
-  "que": "revisando el PR #14 (claude/2026-11-03-publicar)",
-  "resumen": "PR #2 → NO PASA (toca workflows), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41705839538",
+  "estado": "trabajando",
+  "desde": "2026-11-03T13:47:54-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    14.4,
    3.4,
@@ -39,6 +37,8 @@
    0.8,
    0.7
   ],
+  "fase": "1/4 leyendo el PR",
+  "fase_desde": "2026-11-03T13:47:54-06:00",
   "estimado_min": 1.9
  },
  "sherlock": {
