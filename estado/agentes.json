@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:27:08-06:00",
-  "desde": "2026-11-03T04:23:29-06:00",
-  "que": "revisando el PR #1 (chalan-local/2026-11-03-proyecto-godot-base)",
-  "resumen": "Marea PR #1 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41618829795",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:29:16-06:00",
+  "que": "revisando el PR #2 (chalan-local/2026-11-03-marea-tension-linea)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41619623454",
   "duraciones": [
    0.7,
    1.2,
