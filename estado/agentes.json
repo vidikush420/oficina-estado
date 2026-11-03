@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T14:29:31-06:00",
   "desde": "2026-11-03T14:26:23-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 empujando la rama",
+  "resumen": "Aduana encontró que en el juego se podía seguir pescando con la nevera llena y perder el pez en silencio. Ya lo arreglé: con la nevera llena solo sale «Volver» para ir a vender. Las pruebas automática",
   "url": "",
   "duraciones": [
-   1.4,
    4.4,
    9.3,
    10.4,
@@ -78,10 +78,10 @@
    4.3,
    4.0,
    3.7,
-   4.6
+   4.6,
+   3.1
   ],
-  "estimado_min": 4.2,
-  "fase_desde": "2026-11-03T14:28:46-06:00"
+  "estimado_min": 4.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
