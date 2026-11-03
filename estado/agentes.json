@@ -21,13 +21,13 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T13:43:46-06:00",
   "desde": "2026-11-03T13:43:20-06:00",
   "que": "revisando el PR #2 (claude/2026-11-03-desplegar-backend)",
-  "fase": "1/4 leyendo el PR",
+  "resumen": "PR #13 Marea → DEVUELTO, no fusionado",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41705239628",
   "duraciones": [
-   3.6,
    2.8,
    3.5,
    2.9,
@@ -36,10 +36,10 @@
    2.1,
    2.9,
    2.9,
-   1.6
+   1.6,
+   0.4
   ],
-  "estimado_min": 2.9,
-  "fase_desde": "2026-11-03T13:43:41-06:00"
+  "estimado_min": 2.9
  },
  "sherlock": {
   "estado": "termino",
