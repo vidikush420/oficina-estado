@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T04:40:52-06:00",
-  "desde": "2026-11-03T04:35:34-06:00",
-  "que": "revisando el PR #3 (chalan-local/2026-11-03-marea-escena-minijuego)",
-  "resumen": "Marea PR #3 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41620512293",
+  "estado": "trabajando",
+  "desde": "2026-11-03T04:43:53-06:00",
+  "que": "revisando el PR #4 (chalan-local/2026-11-03-drops-mutaciones)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41621648045",
   "duraciones": [
    2.8,
    1.2,
