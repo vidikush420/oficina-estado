@@ -63,11 +63,10 @@
   "estimado_min": 16.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-02T20:18:33-06:00",
-  "desde": "2026-11-02T20:17:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-02T23:22:28-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que requiera la Mac, así que no hice cambios. La subida automática a beta sigue atorada desde el 1 de noviembre por una prueba que falla; esa causa ya estaba a",
+  "fase": "",
   "url": "",
   "duraciones": [
    22.3,
