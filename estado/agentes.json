@@ -1,11 +1,11 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-10-30T14:37:14-06:00",
+  "estado": "fallo",
+  "cuando": "2026-11-03T13:35:09-06:00",
   "desde": "2026-10-30T14:34:38-06:00",
   "que": "PR #64 devuelto por Aduana",
-  "resumen": "PR #66 abierto: arregla la prueba v56 devuelta en #64",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41121244363",
+  "resumen": "la corrida terminó con skipped (ver el enlace)",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41703608810",
   "duraciones": [
    3.2,
    0.6,
