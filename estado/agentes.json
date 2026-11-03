@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T04:57:24-06:00",
   "desde": "2026-11-03T04:54:33-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Avancé el juego Marea: ahora existe el puerto con dos islas (laguna y arrecife) y se puede viajar entre ellas. La lancha inicial solo llega a la laguna; para el arrecife hace falta el bote. Cada isla",
   "url": "",
   "duraciones": [
-   0.8,
    1.4,
    2.9,
    1.5,
@@ -78,9 +78,10 @@
    2.7,
    1.6,
    1.0,
-   2.0
+   2.0,
+   2.9
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.8
  },
  "gerente-de-zara": {
   "estado": "fallo",
