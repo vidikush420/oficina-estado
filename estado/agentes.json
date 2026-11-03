@@ -21,13 +21,13 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T04:01:25-06:00",
   "desde": "2026-11-03T03:55:48-06:00",
   "que": "revisando el PR #1 (chalan-local/2026-11-03-proyecto-godot-base)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #1 → DEVUELTO (falta --import en correr.sh), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41614954940",
   "duraciones": [
-   3.6,
    2.6,
    1.2,
    0.7,
@@ -36,10 +36,10 @@
    1.2,
    0.7,
    1.0,
-   31.0
+   31.0,
+   5.6
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-03T04:01:12-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
