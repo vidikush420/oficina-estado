@@ -63,13 +63,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T03:49:45-06:00",
   "desde": "2026-11-03T03:48:23-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Encontré trabajo nuevo para la Mac: arrancar el juego Marea. No puedo hacerlo porque falta instalar Godot, el programa con el que se hace, y yo no instalo programas. Para destrabarlo, abre Terminal y",
   "url": "",
   "duraciones": [
-   21.6,
    0.9,
    2.9,
    0.8,
@@ -78,7 +78,8 @@
    1.1,
    1.1,
    19.5,
-   0.8
+   0.8,
+   1.4
   ],
   "estimado_min": 1.1
  },
