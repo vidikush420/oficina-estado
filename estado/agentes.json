@@ -21,13 +21,13 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T04:27:08-06:00",
   "desde": "2026-11-03T04:23:29-06:00",
   "que": "revisando el PR #1 (chalan-local/2026-11-03-proyecto-godot-base)",
-  "fase": "3/4 veredicto y fusión",
+  "resumen": "Marea PR #1 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41618829795",
   "duraciones": [
-   1.2,
    0.7,
    1.2,
    2.8,
@@ -36,10 +36,10 @@
    1.0,
    31.0,
    5.6,
-   5.8
+   5.8,
+   3.6
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-03T04:26:39-06:00"
+  "estimado_min": 2.0
  },
  "sherlock": {
   "estado": "termino",
