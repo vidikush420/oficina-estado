@@ -63,13 +63,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-03T15:03:03-06:00",
+  "cuando": "2026-11-03T16:27:55-06:00",
   "desde": "2026-11-03T15:01:07-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que hiciera falta en la Mac, así que no cambié nada. Sunday sigue parado por falta de datos de prueba y del programa PHP. No tienes que hacer nada ahora.",
+  "resumen": "Hoy no había nada que pudiera hacer en la Mac. Sunday sigue parado por falta de datos de prueba y del programa PHP. La versión de prueba de la Bitácora sigue atorada en la 55 hasta que se arregle el c",
   "url": "",
   "duraciones": [
-   1.1,
    4.3,
    4.0,
    3.7,
@@ -78,9 +77,10 @@
    5.2,
    2.8,
    1.7,
-   1.9
+   1.9,
+   86.8
   ],
-  "estimado_min": 3.4
+  "estimado_min": 3.9
  },
  "gerente-de-zara": {
   "estado": "fallo",
