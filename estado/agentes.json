@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-11-03T13:35:09-06:00",
-  "desde": "2026-10-30T14:34:38-06:00",
-  "que": "PR #64 devuelto por Aduana",
-  "resumen": "la corrida terminó con skipped (ver el enlace)",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41703608810",
+  "estado": "trabajando",
+  "desde": "2026-11-03T13:49:51-06:00",
+  "que": "a mano: cola: - [ ] [producto] Prueba nivel 1 pruebas/links.sh: recorre todos los href=\"https://…\" de sitio/index.html (excepto claude",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41706688532",
   "duraciones": [
    3.2,
    0.6,
