@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T12:44:51-06:00",
-  "desde": "2026-11-03T12:40:28-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T13:02:34-06:00",
   "que": "corrida programada",
-  "resumen": "El juego Marea ya se puede exportar para el navegador y abre bien: se ve el muelle y el minijuego de pesca, sin errores. Es la base para que lo pruebes en línea. No tienes que hacer nada ahora. Aparte",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.7,
