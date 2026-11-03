@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-03T13:52:58-06:00",
-  "desde": "2026-11-03T13:49:51-06:00",
-  "que": "a mano: cola: - [ ] [producto] Prueba nivel 1 pruebas/links.sh: recorre todos los href=\"https://…\" de sitio/index.html (excepto claude",
-  "resumen": "PR #3 sistemas-vidal: prueba nivel 1 links.sh",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41706688532",
+  "estado": "trabajando",
+  "desde": "2026-11-03T14:01:04-06:00",
+  "que": "a mano: cola: - [ ] [producto] Pie de página: sustituir el texto fijo «Última actualización: noviembre 2026» por la fecha del último c",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41708488489",
   "duraciones": [
    0.6,
    4.5,
