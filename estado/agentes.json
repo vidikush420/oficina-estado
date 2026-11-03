@@ -21,12 +21,11 @@
   "estimado_min": 2.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T13:42:40-06:00",
-  "desde": "2026-11-03T13:41:02-06:00",
-  "que": "revisando el PR #13 (chalan-local/2026-11-03-flujo-solitario)",
-  "resumen": "PR #1 sistemas-vidal → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41705172524",
+  "estado": "trabajando",
+  "desde": "2026-11-03T13:42:57-06:00",
+  "que": "revisando el PR #24 (claude/2026-11-03-publicar-marea)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41705719972",
   "duraciones": [
    3.6,
    2.8,
