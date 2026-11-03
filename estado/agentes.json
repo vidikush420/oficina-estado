@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T15:00:16-06:00",
-  "desde": "2026-11-03T14:58:32-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T15:01:07-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que requiriera la Mac, así que no hice cambios. Un aviso: la versión de prueba (beta) de la Bitácora lleva días atorada en la versión 55 porque una revisión automática de colores fal",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.4,
