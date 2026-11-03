@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T05:04:09-06:00",
   "que": "revisando el PR #7 (chalan-local/2026-11-03-especies-trofeos)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/41624411944",
   "duraciones": [
    1.0,
@@ -39,7 +39,7 @@
    3.6
   ],
   "estimado_min": 3.6,
-  "fase_desde": "2026-11-03T05:06:33-06:00"
+  "fase_desde": "2026-11-03T05:06:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
