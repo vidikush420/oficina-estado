@@ -21,13 +21,13 @@
   "estimado_min": 2.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T16:29:00-06:00",
   "desde": "2026-11-03T16:26:59-06:00",
   "que": "revisando el PR #6 (claude/2026-11-03-deudamiki)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #6 → NO PASA (toca workflows), no fusionado",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41728840137",
   "duraciones": [
-   2.9,
    2.9,
    1.6,
    0.4,
@@ -36,10 +36,10 @@
    0.7,
    4.4,
    4.2,
-   3.0
+   3.0,
+   2.0
   ],
-  "estimado_min": 2.2,
-  "fase_desde": "2026-11-03T16:28:55-06:00"
+  "estimado_min": 1.8
  },
  "sherlock": {
   "estado": "termino",
