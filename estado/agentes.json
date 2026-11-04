@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T12:51:30-06:00",
   "que": "revisando el PR #71 (chalan/2026-11-04-franja-beta-prueba)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41891169634",
   "duraciones": [
    1.4,
@@ -38,7 +38,8 @@
    3.2,
    1.5
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.4,
+  "fase_desde": "2026-11-04T12:52:01-06:00"
  },
  "sherlock": {
   "estado": "termino",
