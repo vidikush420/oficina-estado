@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-04T11:28:05-06:00",
-  "que": "revisando el PR #28 (claude/2026-11-04-demo-referencia-beta)",
-  "fase": "4/4 registrando en la oficina",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41877754792",
+  "desde": "2026-11-04T11:29:41-06:00",
+  "que": "revisando el PR #34 (claude/2026-11-04-catalogo-dup)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41877698242",
   "duraciones": [
    8.6,
    4.4,
@@ -38,8 +38,7 @@
    1.9,
    1.4
   ],
-  "estimado_min": 3.4,
-  "fase_desde": "2026-11-04T11:29:24-06:00"
+  "estimado_min": 3.4
  },
  "sherlock": {
   "estado": "termino",
