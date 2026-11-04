@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:07:24-06:00",
-  "desde": "2026-11-03T18:00:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:08:17-06:00",
   "que": "corrida programada",
-  "resumen": "Ahora Marea recuerda tu partida: si cierras o recargas la página, siguen tus monedas, tu barco y los peces de la nevera. Agregué un botón «Empezar de nuevo» que pregunta antes de borrar todo. Lo probé",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.0,
