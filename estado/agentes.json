@@ -63,13 +63,13 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T02:46:28-06:00",
   "desde": "2026-11-04T02:43:23-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Hoy no había trabajo que yo pudiera hacer. La única tarea pendiente en la Mac era poner el arte gratis de Kenney en Marea, pero su página no deja descargar los paquetes a programas automáticos. Los de",
   "url": "",
   "duraciones": [
-   3.1,
    23.7,
    0.8,
    0.9,
@@ -78,10 +78,10 @@
    4.8,
    1.4,
    2.0,
-   25.7
+   25.7,
+   3.1
   ],
-  "estimado_min": 2.7,
-  "fase_desde": "2026-11-04T02:45:14-06:00"
+  "estimado_min": 2.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
