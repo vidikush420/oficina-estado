@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T20:56:22-06:00",
   "que": "revisando el PR #26 (chalan/2026-11-03-misgastos-iconos)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41763908415",
   "duraciones": [
    8.1,
@@ -38,7 +38,8 @@
    1.5,
    1.6
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-11-03T20:56:47-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
