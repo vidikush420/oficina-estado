@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T02:17:05-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 peces procedurales por especie",
   "url": "",
   "duraciones": [
    2.7,
@@ -81,7 +81,7 @@
    2.0
   ],
   "estimado_min": 2.5,
-  "fase_desde": "2026-11-04T02:18:20-06:00"
+  "fase_desde": "2026-11-04T02:31:30-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
