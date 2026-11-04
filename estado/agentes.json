@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T11:19:21-06:00",
-  "desde": "2026-11-04T10:20:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T11:20:48-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que yo pueda hacer ahora en la Mac. En Marea, lo último que hice (la pesca por ritmo) sigue esperando revisión. Lo demás espera cosas tuyas: aprobar el arte y",
+  "fase": "",
   "url": "",
   "duraciones": [
    7.4,
