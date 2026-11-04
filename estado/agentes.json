@@ -21,12 +21,11 @@
   "estimado_min": 3.2
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T12:39:51-06:00",
-  "desde": "2026-11-04T12:38:22-06:00",
-  "que": "revisando el PR #34 (claude/2026-11-04-cinco-categorias)",
-  "resumen": "PR #34 → PASA, ya estaba fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41887780496",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:51:30-06:00",
+  "que": "revisando el PR #71 (chalan/2026-11-04-franja-beta-prueba)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41891169634",
   "duraciones": [
    1.4,
    3.9,
