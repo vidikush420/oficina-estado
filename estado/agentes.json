@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T13:07:17-06:00",
-  "desde": "2026-11-04T12:58:12-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T14:21:33-06:00",
   "que": "corrida programada",
-  "resumen": "Ya se puede pescar con el juego completo dentro de una sala de amigos: lanzas, esperas la picada y sigues el ritmo, y el servidor es quien decide qué pez te toca y si te lo da. Falta probarlo a mano e",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
