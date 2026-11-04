@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T05:15:15-06:00",
   "desde": "2026-11-04T05:07:51-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Dejé listo el interruptor que permite a DaVinci pedir modelos 3D a Meshy. Queda apagado hasta que tú fusiones el cambio en GitHub. Para los gráficos de Kenney todavía faltan los archivos que debes baj",
   "url": "",
   "duraciones": [
-   25.7,
    3.1,
    1.4,
    3.3,
@@ -78,10 +78,10 @@
    0.6,
    14.9,
    1.1,
-   1.7
+   1.7,
+   7.4
   ],
-  "estimado_min": 2.4,
-  "fase_desde": "2026-11-04T05:13:42-06:00"
+  "estimado_min": 2.4
  },
  "gerente-de-zara": {
   "estado": "fallo",
