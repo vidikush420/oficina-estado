@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T12:48:12-06:00",
-  "desde": "2026-11-04T12:39:20-06:00",
-  "que": "",
-  "resumen": "En Marea, el jugador que visita la isla de un amigo ahora puede lanzar la caña con un gesto y con la carnada que escoja, y el servidor lo respeta. También quité una tabla vieja de probabilidades que y",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:50:35-06:00",
+  "que": "corrida programada",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
