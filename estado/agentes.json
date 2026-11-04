@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T12:08:25-06:00",
-  "desde": "2026-11-04T12:04:33-06:00",
-  "que": "revisando el PR #38 (chalan-local/2026-11-04-sorteo-cuatro-capas)",
-  "resumen": "Marea PR #38 → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41883081075",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:10:13-06:00",
+  "que": "revisando el PR #31 (claude/2026-11-04-agroalim-ruta)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41884346450",
   "duraciones": [
    1.4,
    1.4,
