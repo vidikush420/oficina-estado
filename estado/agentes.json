@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T02:08:03-06:00",
   "que": "revisando el PR #24 (chalan-local/2026-11-04-puesta-en-escena-rareza)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/41797034173",
   "duraciones": [
    1.7,
@@ -39,7 +39,7 @@
    15.2
   ],
   "estimado_min": 4.8,
-  "fase_desde": "2026-11-04T02:16:08-06:00"
+  "fase_desde": "2026-11-04T02:16:22-06:00"
  },
  "sherlock": {
   "estado": "termino",
