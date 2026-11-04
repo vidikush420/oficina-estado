@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T20:26:21-06:00",
   "que": "PR #8 devuelto por Aduana",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41760677616",
   "duraciones": [
    2.2,
@@ -18,7 +18,7 @@
    1.4
   ],
   "estimado_min": 2.9,
-  "fase_desde": "2026-11-03T20:26:56-06:00"
+  "fase_desde": "2026-11-03T20:27:09-06:00"
  },
  "aduana": {
   "estado": "termino",
