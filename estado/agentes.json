@@ -62,11 +62,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:12:47-06:00",
-  "desde": "2026-11-03T18:34:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T20:13:13-06:00",
   "que": "corrida programada",
-  "resumen": "Ahora, cuando pescas algo en Marea, el pez salta del agua con su propio color y forma, salpica, y aparece una tarjeta con su nombre, peso y valor; los peces raros suenan y brillan más. Probé que abre",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
