@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T02:38:46-06:00",
   "que": "revisando el PR #25 (chalan-local/2026-11-04-peces-procedurales)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/41800713567",
   "duraciones": [
    1.6,
@@ -38,7 +38,8 @@
    8.4,
    8.6
   ],
-  "estimado_min": 6.1
+  "estimado_min": 6.1,
+  "fase_desde": "2026-11-04T02:42:17-06:00"
  },
  "sherlock": {
   "estado": "termino",
