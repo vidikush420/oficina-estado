@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T12:09:09-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 carnada, suerte y zona caliente al sorteo",
+  "fase": "Marea: 3/4 corriendo pruebas",
   "url": "",
   "duraciones": [
    1.2,
@@ -81,7 +81,7 @@
    1.6
   ],
   "estimado_min": 1.9,
-  "fase_desde": "2026-11-04T12:10:42-06:00"
+  "fase_desde": "2026-11-04T12:11:39-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
