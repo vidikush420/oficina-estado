@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T18:30:44-06:00",
   "que": "PR #2 devuelto por Aduana",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41747277323",
   "duraciones": [
    1.8,
@@ -18,7 +18,7 @@
    2.6
   ],
   "estimado_min": 2.6,
-  "fase_desde": "2026-11-03T18:31:22-06:00"
+  "fase_desde": "2026-11-03T18:31:42-06:00"
  },
  "aduana": {
   "estado": "termino",
