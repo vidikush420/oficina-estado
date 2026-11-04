@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-04T02:16:28-06:00",
+  "cuando": "2026-11-04T02:16:40-06:00",
   "desde": "2026-11-04T02:08:03-06:00",
   "que": "revisando el PR #24 (chalan-local/2026-11-04-puesta-en-escena-rareza)",
   "resumen": "PR #24 Marea → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41797034173",
   "duraciones": [
-   1.5,
    1.6,
    1.0,
    4.5,
@@ -37,9 +36,10 @@
    5.2,
    15.0,
    15.2,
-   8.4
+   8.4,
+   8.6
   ],
-  "estimado_min": 5.3
+  "estimado_min": 6.1
  },
  "sherlock": {
   "estado": "termino",
