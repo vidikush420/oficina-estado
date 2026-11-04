@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-04T05:15:15-06:00",
+  "cuando": "2026-11-04T05:19:20-06:00",
   "desde": "2026-11-04T05:07:51-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé listo el interruptor que permite a DaVinci pedir modelos 3D a Meshy. Queda apagado hasta que tú fusiones el cambio en GitHub. Para los gráficos de Kenney todavía faltan los archivos que debes baj",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Marea espera a que bajes a mano los paquetes gratis de Kenney a ~/chalan-local/buzon/. Lo demás necesita tus cuentas o programas que faltan en la Mac.",
   "url": "",
   "duraciones": [
-   3.1,
    1.4,
    3.3,
    1.2,
@@ -79,9 +78,10 @@
    14.9,
    1.1,
    1.7,
-   7.4
+   7.4,
+   11.5
   ],
-  "estimado_min": 2.4
+  "estimado_min": 2.5
  },
  "gerente-de-zara": {
   "estado": "fallo",
