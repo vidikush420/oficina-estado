@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-03T14:05:28-06:00",
-  "desde": "2026-11-03T14:01:04-06:00",
-  "que": "a mano: cola: - [ ] [producto] Pie de página: sustituir el texto fijo «Última actualización: noviembre 2026» por la fecha del último c",
-  "resumen": "PR #4 sistemas-vidal: pie con fecha real",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41708488489",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:18:37-06:00",
+  "que": "a mano: cola: - [ ] [producto] Frontend real app/index.html a partir de la demo (rhwellness-encuesta/sitio/democajas/index.html): mism",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41745443001",
   "duraciones": [
    4.5,
    2.4,
