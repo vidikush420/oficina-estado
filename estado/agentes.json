@@ -20,13 +20,13 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-04T12:29:29-06:00",
   "desde": "2026-11-04T12:25:23-06:00",
   "que": "revisando el PR #4 (claude/2026-11-04-secretos-doc)",
-  "fase": "",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41886816031",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41886433401",
   "duraciones": [
-   0.1,
    0.4,
    0.2,
    0.3,
@@ -35,9 +35,10 @@
    1.4,
    3.9,
    1.2,
-   2.8
+   2.8,
+   4.1
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.4
  },
  "sherlock": {
   "estado": "termino",
