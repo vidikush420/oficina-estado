@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:57:23-06:00",
-  "desde": "2026-11-03T20:56:22-06:00",
-  "que": "revisando el PR #26 (chalan/2026-11-03-misgastos-iconos)",
-  "resumen": "PR #26 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41763908415",
+  "estado": "trabajando",
+  "desde": "2026-11-03T22:29:22-06:00",
+  "que": "revisando el PR #22 (claude/2026-11-03-juego-puerto)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41773441609",
   "duraciones": [
    1.6,
    1.3,
