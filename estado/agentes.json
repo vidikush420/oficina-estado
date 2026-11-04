@@ -62,13 +62,13 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-03T20:36:47-06:00",
   "desde": "2026-11-03T20:34:06-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Marea: bloqueo, assets Kenney no descargables",
   "url": "",
   "duraciones": [
-   5.2,
    5.3,
    98.4,
    98.6,
@@ -77,10 +77,10 @@
    9.4,
    1.6,
    1.7,
-   2.0
+   2.0,
+   2.7
   ],
-  "estimado_min": 5.2,
-  "fase_desde": "2026-11-03T20:34:48-06:00"
+  "estimado_min": 5.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
