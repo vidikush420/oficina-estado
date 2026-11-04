@@ -21,13 +21,13 @@
   "estimado_min": 3.2
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T12:39:51-06:00",
   "desde": "2026-11-04T12:38:22-06:00",
   "que": "revisando el PR #34 (claude/2026-11-04-cinco-categorias)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #34 → PASA, ya estaba fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41887780496",
   "duraciones": [
-   1.6,
    1.4,
    3.9,
    1.2,
@@ -36,10 +36,10 @@
    0.1,
    0.8,
    0.5,
-   3.2
+   3.2,
+   1.5
   ],
-  "estimado_min": 1.5,
-  "fase_desde": "2026-11-04T12:39:43-06:00"
+  "estimado_min": 1.4
  },
  "sherlock": {
   "estado": "termino",
