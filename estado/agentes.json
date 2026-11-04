@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:18:17-06:00",
-  "desde": "2026-11-03T20:13:13-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T20:18:49-06:00",
   "que": "corrida programada",
-  "resumen": "En Marea ya existe tu isla propia: llegas en barco y hay un muelle, una pecera con tus mejores peces y una pared con tus récords. Las pruebas automáticas pasan, pero no pude ver cómo luce en pantalla.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.9,
