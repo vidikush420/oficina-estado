@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T06:39:26-06:00",
-  "desde": "2026-11-04T06:37:31-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T09:38:46-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Lo de Marea espera a que bajes los archivos de arte gratis a la carpeta buzón y apruebes la licencia de Quaternius. Lo de conectar la base de datos de",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.1,
