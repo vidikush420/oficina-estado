@@ -63,11 +63,10 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T01:34:15-06:00",
-  "desde": "2026-11-04T01:30:17-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T02:02:30-06:00",
   "que": "corrida programada",
-  "resumen": "Quise bajar los dibujos 3D gratuitos de Kenney para que Marea se vea más como un juego de verdad, pero su página no deja descargarlos desde un programa y no quise saltarme ese control. No cambié nada",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
