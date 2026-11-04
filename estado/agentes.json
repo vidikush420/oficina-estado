@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T14:40:22-06:00",
   "desde": "2026-11-04T14:39:35-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Ahora, dentro de una sala de amigos, el jugador puede ver sus peces con lo que valen y venderlos de uno en uno o todos juntos. Así ya hay de dónde sacar monedas para el combustible y viajar. Falta pro",
   "url": "",
   "duraciones": [
-   15.0,
    1.6,
    7.8,
    1.8,
@@ -78,9 +78,10 @@
    1.6,
    9.1,
    6.1,
-   6.7
+   6.7,
+   0.8
   ],
-  "estimado_min": 7.2
+  "estimado_min": 6.4
  },
  "gerente-de-zara": {
   "estado": "fallo",
