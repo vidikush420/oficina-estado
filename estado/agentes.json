@@ -62,11 +62,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T12:20:05-06:00",
-  "desde": "2026-11-04T12:18:20-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:25:14-06:00",
   "que": "corrida programada",
-  "resumen": "No hay nada nuevo que solo la Mac pueda hacer ahora. Lo último que hice en Marea espera revisión y Sunday sigue esperando respuestas de Héctor. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    58.6,
