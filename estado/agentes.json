@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T18:18:43-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 barco navegable entre islas",
+  "fase": "Marea: 3/4 corriendo pruebas",
   "url": "",
   "duraciones": [
    5.2,
@@ -81,7 +81,7 @@
    3.9
   ],
   "estimado_min": 3.3,
-  "fase_desde": "2026-11-03T18:20:10-06:00"
+  "fase_desde": "2026-11-03T18:21:20-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
