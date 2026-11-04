@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:09:35-06:00",
-  "desde": "2026-11-03T18:08:17-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:10:29-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer: el juego Marea tiene un cambio mío esperando revisión y Sunday sigue sin lo necesario para probar. Algo a vigilar: la subida automática de la Bitácora a la vers",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.7,
