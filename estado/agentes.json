@@ -21,12 +21,10 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:31:56-06:00",
-  "desde": "2026-11-03T20:31:39-06:00",
-  "que": "revisando el PR #68 (claude/2026-11-03-v58-sombra)",
-  "resumen": "PR #21 Marea → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41761278443",
+  "estado": "trabajando",
+  "desde": "2026-11-03T20:32:05-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    0.8,
    0.3,
@@ -39,6 +37,8 @@
    0.1,
    0.3
   ],
+  "fase": "1/4 leyendo el PR",
+  "fase_desde": "2026-11-03T20:32:05-06:00",
   "estimado_min": 1.2
  },
  "sherlock": {
