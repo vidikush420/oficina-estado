@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T12:20:05-06:00",
   "desde": "2026-11-04T12:18:20-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No hay nada nuevo que solo la Mac pueda hacer ahora. Lo último que hice en Marea espera revisión y Sunday sigue esperando respuestas de Héctor. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   2.1,
    58.6,
    3.0,
    1.3,
@@ -78,9 +78,10 @@
    6.3,
    15.0,
    1.6,
-   7.8
+   7.8,
+   1.8
   ],
-  "estimado_min": 2.5
+  "estimado_min": 2.4
  },
  "gerente-de-zara": {
   "estado": "fallo",
