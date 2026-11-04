@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T12:16:55-06:00",
   "desde": "2026-11-04T12:09:09-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Hice que lo que pescas dependa de la carnada, de la caña y de si lanzas donde hay burbujas: el servidor lo decide y el jugador no puede hacer trampa. Todavía no hay botones para elegir carnada. No tie",
   "url": "",
   "duraciones": [
-   1.2,
    2.1,
    58.6,
    3.0,
@@ -78,10 +78,10 @@
    0.9,
    6.3,
    15.0,
-   1.6
+   1.6,
+   7.8
   ],
-  "estimado_min": 1.9,
-  "fase_desde": "2026-11-04T12:16:15-06:00"
+  "estimado_min": 2.5
  },
  "gerente-de-zara": {
   "estado": "fallo",
