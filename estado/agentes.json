@@ -63,13 +63,13 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T00:39:41-06:00",
   "desde": "2026-11-04T00:38:49-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada nuevo que solo la Mac pudiera hacer. Marea sigue esperando los dibujos gratis de Kenney, que tú tendrías que bajar a mano (Nature Kit y Pirate Kit, a ~/chalan-local/buzon/kenney/). L",
   "url": "",
   "duraciones": [
-   5.1,
    9.0,
    9.4,
    1.6,
@@ -78,9 +78,10 @@
    2.7,
    3.1,
    23.7,
-   0.8
+   0.8,
+   0.9
   ],
-  "estimado_min": 2.9
+  "estimado_min": 2.4
  },
  "gerente-de-zara": {
   "estado": "fallo",
