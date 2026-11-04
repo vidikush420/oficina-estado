@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-03T20:31:01-06:00",
+  "cuando": "2026-11-03T20:31:06-06:00",
   "desde": "2026-11-03T20:29:22-06:00",
   "que": "corrida programada",
   "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Lo siguiente de Marea espera a que se revise lo que ya entregué, y lo de Siniestros espera a que crees la cuenta de Supabase. Tú no tienes que hacer na",
   "url": "",
   "duraciones": [
-   4.2,
    3.1,
    5.2,
    5.3,
@@ -79,7 +78,8 @@
    5.1,
    9.0,
    9.4,
-   1.6
+   1.6,
+   1.7
   ],
   "estimado_min": 5.2
  },
