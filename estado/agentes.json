@@ -37,8 +37,8 @@
    0.1,
    0.3
   ],
-  "fase": "1/4 leyendo el PR",
-  "fase_desde": "2026-11-03T20:32:05-06:00",
+  "fase": "2/4 revisando el código y las pruebas",
+  "fase_desde": "2026-11-03T20:32:13-06:00",
   "estimado_min": 1.2
  },
  "sherlock": {
