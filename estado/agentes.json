@@ -21,13 +21,13 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T06:37:07-06:00",
   "desde": "2026-11-04T06:33:52-06:00",
   "que": "revisando el PR #31 (claude/2026-11-04-loot)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #31 Marea → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41830014217",
   "duraciones": [
-   5.2,
    15.0,
    15.2,
    8.4,
@@ -36,10 +36,10 @@
    10.3,
    0.6,
    3.5,
-   3.0
+   3.0,
+   3.2
   ],
-  "estimado_min": 6.8,
-  "fase_desde": "2026-11-04T06:36:59-06:00"
+  "estimado_min": 6.4
  },
  "sherlock": {
   "estado": "termino",
