@@ -21,12 +21,11 @@
   "estimado_min": 2.6
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:25:24-06:00",
-  "desde": "2026-11-03T18:23:58-06:00",
-  "que": "revisando el PR #1 (chalan/2026-11-03-frontend-app)",
-  "resumen": "PR #1 siniestros-cajas → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41746456460",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:29:02-06:00",
+  "que": "revisando el PR #2 (chalan/2026-11-03-login-real)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41747091748",
   "duraciones": [
    0.1,
    0.8,
