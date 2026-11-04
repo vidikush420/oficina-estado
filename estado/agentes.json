@@ -21,13 +21,13 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-04T06:32:44-06:00",
   "desde": "2026-11-04T06:29:42-06:00",
   "que": "revisando el PR #31 (claude/2026-11-04-loot)",
-  "fase": "",
+  "resumen": "la corrida terminó con cancelled (ver el enlace)",
   "url": "https://github.com/vidikush420/marea/actions/runs/41829604956",
   "duraciones": [
-   5.4,
    5.2,
    15.0,
    15.2,
@@ -36,9 +36,10 @@
    4.4,
    10.3,
    0.6,
-   3.5
+   3.5,
+   3.0
   ],
-  "estimado_min": 6.9
+  "estimado_min": 6.8
  },
  "sherlock": {
   "estado": "termino",
