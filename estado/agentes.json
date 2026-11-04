@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T11:58:11-06:00",
-  "desde": "2026-11-04T11:43:13-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T11:59:06-06:00",
   "que": "corrida programada",
-  "resumen": "Ahora el juego decide qué pica con las reglas del Excel de diseño: primero si sale una carta rara especial, luego el tipo de cosa, luego su rareza, con ajustes por hora del día. Probé 100 000 pescadas",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.1,
