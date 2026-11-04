@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T11:33:16-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 mapeando datos actuales con el Excel",
+  "fase": "Marea: 2/4 escribiendo excel_a_json.py",
   "url": "",
   "duraciones": [
    1.9,
@@ -81,7 +81,7 @@
    0.9
   ],
   "estimado_min": 1.8,
-  "fase_desde": "2026-11-04T11:34:30-06:00"
+  "fase_desde": "2026-11-04T11:35:55-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
