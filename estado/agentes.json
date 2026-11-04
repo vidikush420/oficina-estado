@@ -63,12 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T12:48:12-06:00",
   "desde": "2026-11-04T12:39:20-06:00",
   "que": "",
+  "resumen": "En Marea, el jugador que visita la isla de un amigo ahora puede lanzar la caña con un gesto y con la carnada que escoja, y el servidor lo respeta. También quité una tabla vieja de probabilidades que y",
   "url": "",
   "duraciones": [
-   3.0,
    1.3,
    1.6,
    0.9,
@@ -77,11 +78,10 @@
    1.6,
    7.8,
    1.8,
-   9.6
+   9.6,
+   8.9
   ],
-  "fase": "Marea: 4/4 abriendo el PR",
-  "fase_desde": "2026-11-04T12:47:05-06:00",
-  "estimado_min": 2.4
+  "estimado_min": 4.0
  },
  "gerente-de-zara": {
   "estado": "fallo",
