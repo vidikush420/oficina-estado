@@ -21,12 +21,10 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T11:41:47-06:00",
-  "desde": "2026-11-04T11:41:41-06:00",
-  "que": "revisando el PR #67 (chalan/2026-10-30-reporte-tareas)",
-  "resumen": "PR #29 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41879522683",
+  "estado": "trabajando",
+  "desde": "2026-11-04T11:42:09-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    0.6,
    3.5,
@@ -39,6 +37,8 @@
    1.4,
    0.1
   ],
+  "fase": "3/4 veredicto y fusión",
+  "fase_desde": "2026-11-04T11:42:09-06:00",
   "estimado_min": 1.6
  },
  "sherlock": {
