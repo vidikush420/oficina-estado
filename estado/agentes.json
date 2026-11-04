@@ -63,11 +63,9 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T12:34:52-06:00",
-  "desde": "2026-11-04T12:25:14-06:00",
-  "que": "corrida programada",
-  "resumen": "En Marea ahora puedes elegir con qué carnada y con qué caña pescas, antes de lanzar; lo que elijas se recuerda. Las pruebas automáticas pasaron, pero no he visto cómo se ve en un celular real. Aparte,",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:39:20-06:00",
+  "que": "",
   "url": "",
   "duraciones": [
    3.0,
@@ -81,6 +79,8 @@
    1.8,
    9.6
   ],
+  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase_desde": "2026-11-04T12:39:20-06:00",
   "estimado_min": 2.4
  },
  "gerente-de-zara": {
