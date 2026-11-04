@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T11:23:50-06:00",
-  "desde": "2026-11-04T11:20:48-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T11:24:35-06:00",
   "que": "corrida programada",
-  "resumen": "El trabajo de pesca de Marea había quedado desfasado respecto a lo último del proyecto; lo puse al día sin cambiar el juego. Las pruebas automáticas siguen pasando todas. No tienes que hacer nada; Adu",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.5,
