@@ -63,12 +63,13 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T00:37:34-06:00",
   "desde": "2026-11-04T00:36:45-06:00",
   "que": "",
+  "resumen": "Hoy no pude avanzar: los dibujos gratis de barcos e islas para Marea se bajan de una página que bloquea a los programas automáticos, y no quise saltarme ese bloqueo. Marea sigue funcionando igual que",
   "url": "",
   "duraciones": [
-   98.6,
    5.1,
    9.0,
    9.4,
@@ -77,11 +78,10 @@
    2.0,
    2.7,
    3.1,
-   23.7
+   23.7,
+   0.8
   ],
-  "fase": "Marea: 1/4 leyendo el proyecto",
-  "fase_desde": "2026-11-04T00:36:45-06:00",
-  "estimado_min": 4.1
+  "estimado_min": 2.9
  },
  "gerente-de-zara": {
   "estado": "fallo",
