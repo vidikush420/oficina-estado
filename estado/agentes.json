@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:14:18-06:00",
-  "desde": "2026-11-03T20:12:42-06:00",
-  "que": "revisando el PR #19 (chalan-local/2026-11-04-captura-se-ve)",
-  "resumen": "PR #19 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41759211892",
+  "estado": "trabajando",
+  "desde": "2026-11-03T20:18:08-06:00",
+  "que": "revisando el PR #20 (chalan-local/2026-11-03-isla-propia)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41759817059",
   "duraciones": [
    1.4,
    1.2,
