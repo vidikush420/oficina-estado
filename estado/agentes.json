@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T16:27:55-06:00",
-  "desde": "2026-11-03T15:01:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:00:38-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que pudiera hacer en la Mac. Sunday sigue parado por falta de datos de prueba y del programa PHP. La versión de prueba de la Bitácora sigue atorada en la 55 hasta que se arregle el c",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.3,
