@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:31:44-06:00",
-  "desde": "2026-11-03T18:26:25-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:34:11-06:00",
   "que": "corrida programada",
-  "resumen": "En Marea ahora puedes bajar del barco y caminar por las dos islas: cada una tiene su color de agua y su puesto para vender, y se pesca desde la orilla. También se puede comprar el bote de motor en el",
+  "fase": "",
   "url": "",
   "duraciones": [
    86.8,
