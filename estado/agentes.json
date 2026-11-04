@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T14:27:39-06:00",
-  "desde": "2026-11-04T14:21:33-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T14:31:22-06:00",
   "que": "corrida programada",
-  "resumen": "Ahora, en una sala de amigos, el jugador puede navegar a la laguna y pescar allá. Además el servidor ya no se cree cuando el jugador dice \"gané\": repite la pelea con los toques que dio y así evita tra",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.3,
