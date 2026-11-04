@@ -21,12 +21,11 @@
   "estimado_min": 3.2
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-04T12:30:36-06:00",
-  "desde": "2026-11-04T12:30:30-06:00",
-  "que": "revisando el PR #33 (claude/2026-11-04-actividad-principal)",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41886816031",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:31:23-06:00",
+  "que": "revisando el PR #70 (chalan-local/2026-11-04-causa-beta-v59)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41887801261",
   "duraciones": [
    0.2,
    0.3,
