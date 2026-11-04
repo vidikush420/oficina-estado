@@ -62,13 +62,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T13:07:17-06:00",
   "desde": "2026-11-04T12:58:12-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ya se puede pescar con el juego completo dentro de una sala de amigos: lanzas, esperas la picada y sigues el ritmo, y el servidor es quien decide qué pez te toca y si te lo da. Falta probarlo a mano e",
   "url": "",
   "duraciones": [
-   1.6,
    0.9,
    6.3,
    15.0,
@@ -77,10 +77,10 @@
    1.8,
    9.6,
    8.9,
-   1.6
+   1.6,
+   9.1
   ],
-  "estimado_min": 4.0,
-  "fase_desde": "2026-11-04T13:06:35-06:00"
+  "estimado_min": 7.0
  },
  "gerente-de-zara": {
   "estado": "fallo",
