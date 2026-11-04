@@ -22,9 +22,9 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-04T11:41:35-06:00",
+  "desde": "2026-11-04T11:41:41-06:00",
   "que": "revisando el PR #67 (chalan/2026-10-30-reporte-tareas)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41879522683",
   "duraciones": [
    10.3,
@@ -38,8 +38,7 @@
    1.4,
    1.4
   ],
-  "estimado_min": 2.5,
-  "fase_desde": "2026-11-04T11:41:39-06:00"
+  "estimado_min": 2.5
  },
  "sherlock": {
   "estado": "termino",
