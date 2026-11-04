@@ -65,7 +65,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T12:09:09-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 carnada, suerte y zona caliente al sorteo",
   "url": "",
   "duraciones": [
    1.2,
@@ -80,7 +80,7 @@
    1.6
   ],
   "estimado_min": 1.9,
-  "fase_desde": "2026-11-04T12:10:27-06:00"
+  "fase_desde": "2026-11-04T12:10:42-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
