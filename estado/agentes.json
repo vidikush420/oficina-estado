@@ -62,11 +62,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T10:19:13-06:00",
-  "desde": "2026-11-04T10:17:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T10:20:47-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. El cambio de pesca de Marea espera revisión, y lo de Sunday sigue detenido por falta de la base de datos de prueba y de respuestas de Héctor. No tienes",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.7,
