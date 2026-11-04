@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T10:16:22-06:00",
   "desde": "2026-11-04T10:15:09-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. El cambio de pesca de Marea espera revisión; lo del arte espera que bajes los paquetes gratis a la carpeta buzón. No tienes que hacer nada urgente.",
   "url": "",
   "duraciones": [
-   14.9,
    1.1,
    1.7,
    7.4,
@@ -78,9 +78,10 @@
    1.8,
    1.9,
    1.3,
-   6.1
+   6.1,
+   1.2
   ],
-  "estimado_min": 2.1
+  "estimado_min": 1.9
  },
  "gerente-de-zara": {
   "estado": "fallo",
