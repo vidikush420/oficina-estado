@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T14:21:33-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 repetir toques en servidor y viaje en sala",
+  "fase": "Marea: 3/4 corriendo pruebas",
   "url": "",
   "duraciones": [
    0.9,
@@ -81,7 +81,7 @@
    9.1
   ],
   "estimado_min": 7.0,
-  "fase_desde": "2026-11-04T14:22:41-06:00"
+  "fase_desde": "2026-11-04T14:24:15-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
