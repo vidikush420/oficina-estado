@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T23:05:54-06:00",
-  "desde": "2026-11-03T23:00:31-06:00",
-  "que": "revisando el PR #27 (claude/2026-11-03-humo-marea-tolerante)",
-  "resumen": "PR #27 → NO PASA (toca workflow, lo fusiona Miguel); no fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41775964480",
+  "estado": "trabajando",
+  "desde": "2026-11-04T00:25:05-06:00",
+  "que": "revisando el PR #69 (chalan-local/2026-11-04-arnes-buscador)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41785312281",
   "duraciones": [
    0.1,
    0.3,
