@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:12:21-06:00",
-  "desde": "2026-11-03T18:10:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:13:49-06:00",
   "que": "corrida programada",
-  "resumen": "Un cambio mío en el juego Marea (que guarda el avance) se había quedado trabado porque otro cambio se coló antes. Lo puse al día y ya se puede revisar. No tienes que hacer nada; la subida automática d",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.6,
