@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T05:25:06-06:00",
   "que": "revisando el PR #29 (claude/2026-11-04-meshy-balance)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/41820160973",
   "duraciones": [
    6.8,
@@ -38,7 +38,8 @@
    10.3,
    0.6
   ],
-  "estimado_min": 7.6
+  "estimado_min": 7.6,
+  "fase_desde": "2026-11-04T05:27:53-06:00"
  },
  "sherlock": {
   "estado": "termino",
