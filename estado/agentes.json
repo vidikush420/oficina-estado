@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T22:46:33-06:00",
-  "desde": "2026-11-03T22:39:47-06:00",
-  "que": "revisando el PR #9 (chalan/2026-11-03-misgastos-backend)",
-  "resumen": "PR #9 sistemas-vidal → OJO cosmético; ya estaba fusionado",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41774531216",
+  "estado": "trabajando",
+  "desde": "2026-11-03T23:00:31-06:00",
+  "que": "revisando el PR #27 (claude/2026-11-03-humo-marea-tolerante)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41775964480",
   "duraciones": [
    1.2,
    0.1,
