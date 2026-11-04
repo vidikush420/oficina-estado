@@ -63,13 +63,13 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T02:42:49-06:00",
   "desde": "2026-11-04T02:17:05-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Hice que los 30 peces del juego se vean distintos entre sí (forma, color, aletas y dibujos en la piel) sin tener que modelar uno por uno. Es un avance visual provisional: sirve hasta que lleguen los m",
   "url": "",
   "duraciones": [
-   2.7,
    3.1,
    23.7,
    0.8,
@@ -78,10 +78,10 @@
    4.0,
    4.8,
    1.4,
-   2.0
+   2.0,
+   25.7
   ],
-  "estimado_min": 2.5,
-  "fase_desde": "2026-11-04T02:35:35-06:00"
+  "estimado_min": 2.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
