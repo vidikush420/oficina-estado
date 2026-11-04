@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T02:02:30-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 shader toon por rareza",
   "url": "",
   "duraciones": [
    1.6,
@@ -81,7 +81,7 @@
    4.0
   ],
   "estimado_min": 2.1,
-  "fase_desde": "2026-11-04T02:03:35-06:00"
+  "fase_desde": "2026-11-04T02:04:12-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
