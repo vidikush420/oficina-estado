@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T14:27:39-06:00",
   "desde": "2026-11-04T14:21:33-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ahora, en una sala de amigos, el jugador puede navegar a la laguna y pescar allá. Además el servidor ya no se cree cuando el jugador dice \"gané\": repite la pelea con los toques que dio y así evita tra",
   "url": "",
   "duraciones": [
-   0.9,
    6.3,
    15.0,
    1.6,
@@ -78,10 +78,10 @@
    9.6,
    8.9,
    1.6,
-   9.1
+   9.1,
+   6.1
   ],
-  "estimado_min": 7.0,
-  "fase_desde": "2026-11-04T14:26:58-06:00"
+  "estimado_min": 7.0
  },
  "gerente-de-zara": {
   "estado": "fallo",
