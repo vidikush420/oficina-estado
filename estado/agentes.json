@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T10:10:52-06:00",
   "que": "a mano: cola: - [ ] **Excel → JSON** (herramientas/catalogo/excel_a_json.py, con openpyxl): lee docs/diseno/catalogo_v1.xlsx y escribe",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/marea/actions/runs/41864637610",
   "duraciones": [
    3.6,
@@ -17,7 +17,8 @@
    1.4,
    1.2
   ],
-  "estimado_min": 2.9
+  "estimado_min": 2.9,
+  "fase_desde": "2026-11-04T10:16:00-06:00"
  },
  "aduana": {
   "estado": "termino",
