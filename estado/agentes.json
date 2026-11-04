@@ -63,11 +63,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:33:45-06:00",
-  "desde": "2026-11-03T20:31:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T20:34:06-06:00",
   "que": "corrida programada",
-  "resumen": "Iba a poner los dibujos gratis de Kenney en el juego Marea, pero la página de Kenney no deja que un programa los descargue. No quise esquivar esa protección. Para seguir, descarga tú los paquetes (Nat",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.2,
