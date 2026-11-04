@@ -21,12 +21,11 @@
   "estimado_min": 3.2
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T12:37:58-06:00",
-  "desde": "2026-11-04T12:34:43-06:00",
-  "que": "revisando el PR #40 (chalan-local/2026-11-04-ui-carnada-cana)",
-  "resumen": "Marea PR #40 → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41888467227",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:38:22-06:00",
+  "que": "revisando el PR #34 (claude/2026-11-04-cinco-categorias)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41887780496",
   "duraciones": [
    1.6,
    1.4,
