@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T14:31:04-06:00",
   "desde": "2026-11-04T14:28:30-06:00",
   "que": "revisando el PR #43 (chalan-local/2026-11-04-viaje-sala-repeticion)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #43 Marea → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41906763823",
   "duraciones": [
-   4.1,
    0.1,
    0.8,
    0.5,
@@ -36,10 +36,10 @@
    1.6,
    1.8,
    2.9,
-   1.4
+   1.4,
+   2.6
   ],
-  "estimado_min": 1.6,
-  "fase_desde": "2026-11-04T14:30:58-06:00"
+  "estimado_min": 1.6
  },
  "sherlock": {
   "estado": "termino",
