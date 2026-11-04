@@ -20,12 +20,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-04T12:29:29-06:00",
-  "desde": "2026-11-04T12:25:23-06:00",
-  "que": "revisando el PR #4 (claude/2026-11-04-secretos-doc)",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41886433401",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:30:30-06:00",
+  "que": "revisando el PR #33 (claude/2026-11-04-actividad-principal)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41887331776",
   "duraciones": [
    0.4,
    0.2,
