@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T12:58:12-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 pesca en sala con minijuego",
   "url": "",
   "duraciones": [
    1.6,
@@ -81,7 +81,7 @@
    1.6
   ],
   "estimado_min": 4.0,
-  "fase_desde": "2026-11-04T13:00:11-06:00"
+  "fase_desde": "2026-11-04T13:00:42-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
