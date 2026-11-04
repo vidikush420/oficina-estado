@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-03T19:59:53-06:00",
-  "desde": "2026-11-03T18:40:48-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T20:00:54-06:00",
   "que": "revisando el PR #7 (chalan/2026-11-03-deudamiki-total)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41748598101",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41752851624",
   "duraciones": [
    3.0,
    2.0,
