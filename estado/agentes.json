@@ -62,11 +62,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:17:45-06:00",
-  "desde": "2026-11-03T18:13:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:18:43-06:00",
   "que": "corrida programada",
-  "resumen": "Ahora en Marea el personaje camina por el muelle y la playa en vez de usar solo botones: con el teclado en la computadora o con un joystick en pantalla en el celular. Para pescar hay que acercarse al",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.2,
