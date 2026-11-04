@@ -62,11 +62,10 @@
   "estimado_min": 30.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:28:16-06:00",
-  "desde": "2026-11-03T20:18:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T20:29:22-06:00",
   "que": "corrida programada",
-  "resumen": "En Marea ya puedes meter a un amigo a tu sala con un código, enseñarle tu isla y que él la visite: ve tu pecera y tus récords y pesca ahí, y lo que pesque es suyo. Las pruebas automáticas pasan, inclu",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.9,
