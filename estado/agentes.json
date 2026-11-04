@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-11-04T12:30:45-06:00",
-  "desde": "2026-11-04T12:26:32-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:57:36-06:00",
   "que": "a mano: cola: - [ ] [producto] El nivel 1 (./pruebas/correr.sh) falla sobre main (v57, 412bef9) y por eso la cinta a beta aborta en el",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41887041521",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41892144019",
   "duraciones": [
    3.1,
    4.4,
