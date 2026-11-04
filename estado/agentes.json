@@ -21,13 +21,13 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T01:48:19-06:00",
   "desde": "2026-11-04T01:33:18-06:00",
   "que": "revisando el PR #23 (claude/2026-11-04-arte)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #23 Marea → OJO — espera a Miguel (CLAUDE.md), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41792916226",
   "duraciones": [
-   0.3,
    2.5,
    1.7,
    1.5,
@@ -36,10 +36,10 @@
    4.5,
    6.8,
    5.4,
-   5.2
+   5.2,
+   15.0
   ],
-  "estimado_min": 2.1,
-  "fase_desde": "2026-11-04T01:48:13-06:00"
+  "estimado_min": 3.5
  },
  "sherlock": {
   "estado": "termino",
