@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T00:25:05-06:00",
   "que": "revisando el PR #69 (chalan-local/2026-11-04-arnes-buscador)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41785312281",
   "duraciones": [
    0.1,
@@ -38,7 +38,8 @@
    6.8,
    5.4
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-11-04T00:29:56-06:00"
  },
  "sherlock": {
   "estado": "termino",
