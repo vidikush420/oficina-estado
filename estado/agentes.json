@@ -63,13 +63,13 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T00:22:06-06:00",
   "desde": "2026-11-03T23:58:26-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "La prueba automática del iPhone fallaba porque no encontraba la barra de búsqueda, que cambió de tipo; no era un fallo de la app. Lo corregí y la prueba ya pasa en el iPhone 16. Falta confirmar en el",
   "url": "",
   "duraciones": [
-   98.4,
    98.6,
    5.1,
    9.0,
@@ -78,10 +78,10 @@
    1.7,
    2.0,
    2.7,
-   3.1
+   3.1,
+   23.7
   ],
-  "estimado_min": 4.1,
-  "fase_desde": "2026-11-04T00:19:38-06:00"
+  "estimado_min": 4.1
  },
  "gerente-de-zara": {
   "estado": "fallo",
