@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T12:00:39-06:00",
-  "desde": "2026-11-04T11:59:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:09:09-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada nuevo que solo la Mac pueda hacer ahora. Lo último que hice en Marea (el sorteo de qué pica) sigue esperando revisión. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
