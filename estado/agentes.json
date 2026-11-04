@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T22:39:47-06:00",
   "que": "revisando el PR #9 (chalan/2026-11-03-misgastos-backend)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/41774531216",
   "duraciones": [
    1.3,
@@ -39,7 +39,7 @@
    4.5
   ],
   "estimado_min": 1.4,
-  "fase_desde": "2026-11-03T22:45:33-06:00"
+  "fase_desde": "2026-11-03T22:46:11-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
