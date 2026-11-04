@@ -62,11 +62,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T10:14:15-06:00",
-  "desde": "2026-11-04T10:08:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T10:15:09-06:00",
   "que": "corrida programada",
-  "resumen": "Cambié la forma de pescar en Marea: ya no hay una barra que mantener, ahora lanzas deslizando el dedo hacia las burbujas, esperas sin tocar con las mordidas falsas, tocas cuando pica de verdad y luego",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.9,
