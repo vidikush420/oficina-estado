@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T05:19:20-06:00",
-  "desde": "2026-11-04T05:07:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T05:20:36-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Marea espera a que bajes a mano los paquetes gratis de Kenney a ~/chalan-local/buzon/. Lo demás necesita tus cuentas o programas que faltan en la Mac.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
