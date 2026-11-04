@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T00:30:14-06:00",
-  "desde": "2026-11-04T00:25:05-06:00",
-  "que": "revisando el PR #69 (chalan-local/2026-11-04-arnes-buscador)",
-  "resumen": "PR #69 → ya revisado en este head (PASA); sin acción",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41785312281",
+  "estado": "trabajando",
+  "desde": "2026-11-04T01:33:18-06:00",
+  "que": "revisando el PR #23 (claude/2026-11-04-arte)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41792916226",
   "duraciones": [
    0.3,
    2.5,
