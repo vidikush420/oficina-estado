@@ -63,13 +63,13 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T02:57:43-06:00",
   "desde": "2026-11-04T02:54:26-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo de Marea espera a que alguien baje a mano los dibujos gratuitos de Kenney, porque su página no deja descargar a programas. Mi arreglo de las prueba",
   "url": "",
   "duraciones": [
-   0.8,
    0.9,
    2.2,
    4.0,
@@ -78,9 +78,10 @@
    2.0,
    25.7,
    3.1,
-   1.4
+   1.4,
+   3.3
   ],
-  "estimado_min": 2.1
+  "estimado_min": 2.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
