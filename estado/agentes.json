@@ -65,7 +65,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T05:07:51-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 activando el workflow de arte",
   "url": "",
   "duraciones": [
    25.7,
@@ -80,7 +80,7 @@
    1.7
   ],
   "estimado_min": 2.4,
-  "fase_desde": "2026-11-04T05:09:42-06:00"
+  "fase_desde": "2026-11-04T05:10:45-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
