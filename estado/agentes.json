@@ -63,11 +63,10 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T02:42:49-06:00",
-  "desde": "2026-11-04T02:17:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T02:43:23-06:00",
   "que": "corrida programada",
-  "resumen": "Hice que los 30 peces del juego se vean distintos entre sí (forma, color, aletas y dibujos en la piel) sin tener que modelar uno por uno. Es un avance visual provisional: sirve hasta que lleguen los m",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.1,
