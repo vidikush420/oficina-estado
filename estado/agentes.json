@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T12:16:55-06:00",
-  "desde": "2026-11-04T12:09:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T12:18:20-06:00",
   "que": "corrida programada",
-  "resumen": "Hice que lo que pescas dependa de la carnada, de la caña y de si lanzas donde hay burbujas: el servidor lo decide y el jugador no puede hacer trampa. Todavía no hay botones para elegir carnada. No tie",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.1,
