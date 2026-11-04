@@ -21,11 +21,9 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T11:42:31-06:00",
-  "desde": "2026-11-04T11:42:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T11:42:40-06:00",
   "que": "",
-  "resumen": "PR #67 → ya revisado en este head (e14750c, PENDIENTE DE CI); sin cambios, no fusionado",
   "url": "",
   "duraciones": [
    3.5,
@@ -39,6 +37,8 @@
    0.1,
    0.4
   ],
+  "fase": "4/4 registrando en la oficina",
+  "fase_desde": "2026-11-04T11:42:40-06:00",
   "estimado_min": 1.6
  },
  "sherlock": {
