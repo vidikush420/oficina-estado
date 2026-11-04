@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T12:10:13-06:00",
   "que": "revisando el PR #31 (claude/2026-11-04-agroalim-ruta)",
-  "fase": "",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41884346450",
   "duraciones": [
    1.4,
@@ -38,7 +38,8 @@
    1.4,
    3.9
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.4,
+  "fase_desde": "2026-11-04T12:10:47-06:00"
  },
  "sherlock": {
   "estado": "termino",
