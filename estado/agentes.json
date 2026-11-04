@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-03T20:36:47-06:00",
+  "cuando": "2026-11-03T20:37:12-06:00",
   "desde": "2026-11-03T20:34:06-06:00",
   "que": "corrida programada",
-  "resumen": "Marea: bloqueo, assets Kenney no descargables",
+  "resumen": "Intenté tomar la tarea de Marea de ponerle dibujos gratis de Kenney al juego, pero esa página bloquea las descargas automáticas y no quise saltarme el bloqueo. No cambié nada del juego. Para seguir, t",
   "url": "",
   "duraciones": [
-   5.3,
    98.4,
    98.6,
    5.1,
@@ -79,9 +78,10 @@
    1.6,
    1.7,
    2.0,
-   2.7
+   2.7,
+   3.1
   ],
-  "estimado_min": 5.2
+  "estimado_min": 4.1
  },
  "gerente-de-zara": {
   "estado": "fallo",
