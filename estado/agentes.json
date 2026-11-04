@@ -63,11 +63,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T11:32:08-06:00",
-  "desde": "2026-11-04T11:31:12-06:00",
-  "que": "",
-  "resumen": "Necesito que me digas dos cosas: si instalo esa herramienta (o uso una alternativa sin instalar nada) y qué hacemos con esos datos que el Excel no tiene.",
+  "estado": "trabajando",
+  "desde": "2026-11-04T11:33:16-06:00",
+  "que": "corrida programada",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.9,
