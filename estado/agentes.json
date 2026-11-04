@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:42:32-06:00",
-  "desde": "2026-11-03T20:40:54-06:00",
-  "que": "revisando el PR #68 (claude/2026-11-03-v58-sombra)",
-  "resumen": "PR #68 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41762287631",
+  "estado": "trabajando",
+  "desde": "2026-11-03T20:56:22-06:00",
+  "que": "revisando el PR #26 (chalan/2026-11-03-misgastos-iconos)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41763908415",
   "duraciones": [
    8.1,
    1.6,
