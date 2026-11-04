@@ -63,11 +63,10 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-03T20:37:12-06:00",
-  "desde": "2026-11-03T20:34:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-03T23:58:26-06:00",
   "que": "corrida programada",
-  "resumen": "Intenté tomar la tarea de Marea de ponerle dibujos gratis de Kenney al juego, pero esa página bloquea las descargas automáticas y no quise saltarme el bloqueo. No cambié nada del juego. Para seguir, t",
+  "fase": "",
   "url": "",
   "duraciones": [
    98.4,
