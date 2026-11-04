@@ -62,11 +62,10 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T05:22:59-06:00",
-  "desde": "2026-11-04T05:20:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T05:25:58-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Marea sigue esperando que bajes a mano los paquetes gratis de Kenney a la carpeta buzón. Lo demás necesita tus cuentas. Fuera de eso, no tienes que hac",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.3,
