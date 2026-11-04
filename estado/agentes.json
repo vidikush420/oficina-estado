@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T18:18:37-06:00",
   "que": "a mano: cola: - [ ] [producto] Frontend real app/index.html a partir de la demo (rhwellness-encuesta/sitio/democajas/index.html): mism",
-  "fase": "4/5 abriendo el PR",
+  "fase": "5/5 registrando en la oficina",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41745443001",
   "duraciones": [
    4.5,
@@ -18,7 +18,7 @@
    4.4
   ],
   "estimado_min": 2.5,
-  "fase_desde": "2026-11-03T18:23:19-06:00"
+  "fase_desde": "2026-11-03T18:23:27-06:00"
  },
  "aduana": {
   "estado": "trabajando",
