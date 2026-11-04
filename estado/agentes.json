@@ -21,12 +21,10 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T05:14:00-06:00",
-  "desde": "2026-11-04T05:03:44-06:00",
-  "que": "revisando el PR #27 (claude/2026-11-04-generar-arte)",
-  "resumen": "Marea PR #27 → OJO (cosmético); ya estaba fusionado por vidikush420, no por mí",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41818135277",
+  "estado": "trabajando",
+  "desde": "2026-11-04T05:23:46-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    4.5,
    6.8,
@@ -39,6 +37,8 @@
    4.4,
    10.3
   ],
+  "fase": "1/4 leyendo el PR",
+  "fase_desde": "2026-11-04T05:23:46-06:00",
   "estimado_min": 7.6
  },
  "sherlock": {
