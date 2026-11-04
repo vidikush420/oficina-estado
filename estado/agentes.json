@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T11:33:05-06:00",
-  "desde": "2026-11-04T11:31:38-06:00",
-  "que": "revisando el PR #35 (claude/2026-11-04-meshy-imagen)",
-  "resumen": "Marea PR #35 → PASA; ya estaba fusionado por Miguel",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41878101632",
+  "estado": "trabajando",
+  "desde": "2026-11-04T11:40:24-06:00",
+  "que": "revisando el PR #29 (claude/2026-11-04-democajas-socio)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/41879368205",
   "duraciones": [
    10.3,
    0.6,
