@@ -45,7 +45,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T03:33:12-06:00",
   "que": "veredicto de beta",
-  "fase": "3/5 humo del iPhone 16 limpio; falta SE y app instalada",
+  "fase": "4/5 escribiendo el reporte y el botón",
   "url": "",
   "duraciones": [
    9.1,
@@ -60,7 +60,7 @@
    1.5
   ],
   "estimado_min": 55.4,
-  "fase_desde": "2026-11-04T04:14:55-06:00"
+  "fase_desde": "2026-11-04T04:44:47-06:00"
  },
  "chalan-local": {
   "estado": "termino",
