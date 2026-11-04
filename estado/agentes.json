@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:33:42-06:00",
-  "desde": "2026-11-03T18:33:24-06:00",
-  "que": "",
-  "resumen": "PR #2 siniestros-cajas → PASA, fusionado",
-  "url": "",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:38:06-06:00",
+  "que": "revisando el PR #3 (chalan/2026-11-03-expediente-real)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41748229524",
   "duraciones": [
    4.4,
    4.2,
