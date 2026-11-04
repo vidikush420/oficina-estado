@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:23:36-06:00",
-  "desde": "2026-11-03T18:18:37-06:00",
-  "que": "a mano: cola: - [ ] [producto] Frontend real app/index.html a partir de la demo (rhwellness-encuesta/sitio/democajas/index.html): mism",
-  "resumen": "PR #1 abierto en siniestros-cajas: frontend app/ desde la demo",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41745443001",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:26:07-06:00",
+  "que": "a mano: cola: - [ ] [producto] Login real con Supabase Auth: invitación por correo, primer ingreso pone contraseña, rol y caja desde u",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41746745244",
   "duraciones": [
    2.4,
    1.8,
