@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-03T18:32:04-06:00",
-  "desde": "2026-11-03T18:30:44-06:00",
-  "que": "PR #2 devuelto por Aduana",
-  "resumen": "PR #2 corregido tras devolución de Aduana (XSS), pruebas 21/21",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41747277323",
+  "estado": "trabajando",
+  "desde": "2026-11-03T18:34:30-06:00",
+  "que": "a mano: cola: - [ ] [producto] Expediente real: crear siniestro (caja), subir cada documento del catálogo a Storage privado (URL firma",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/41747800642",
   "duraciones": [
    2.2,
    2.3,
