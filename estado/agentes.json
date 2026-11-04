@@ -63,13 +63,13 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T03:08:20-06:00",
   "desde": "2026-11-04T03:07:47-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Marea espera a que bajes a mano los paquetes gratis de Kenney (Nature Kit y Pirate Kit) a ~/chalan-local/buzon/kenney/. Lo demás está en revisión o nec",
   "url": "",
   "duraciones": [
-   4.0,
    4.8,
    1.4,
    2.0,
@@ -78,9 +78,10 @@
    1.4,
    3.3,
    1.2,
-   8.1
+   8.1,
+   0.6
   ],
-  "estimado_min": 3.2
+  "estimado_min": 2.5
  },
  "gerente-de-zara": {
   "estado": "fallo",
