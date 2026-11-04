@@ -21,13 +21,13 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T00:30:14-06:00",
   "desde": "2026-11-04T00:25:05-06:00",
   "que": "revisando el PR #69 (chalan-local/2026-11-04-arnes-buscador)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "resumen": "PR #69 → ya revisado en este head (PASA); sin acción",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41785312281",
   "duraciones": [
-   0.1,
    0.3,
    2.5,
    1.7,
@@ -36,10 +36,10 @@
    1.0,
    4.5,
    6.8,
-   5.4
+   5.4,
+   5.2
   ],
-  "estimado_min": 1.6,
-  "fase_desde": "2026-11-04T00:30:02-06:00"
+  "estimado_min": 2.1
  },
  "sherlock": {
   "estado": "termino",
