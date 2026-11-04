@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T11:39:37-06:00",
   "desde": "2026-11-04T11:33:16-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 reporte entregado",
+  "resumen": "Convertí la hoja de Excel con todo el catálogo del juego (peces, zonas, probabilidades) a los archivos que lee el juego, con un programa que se puede repetir cada vez que Miguel edite el Excel. Una pr",
   "url": "",
   "duraciones": [
-   1.9,
    1.3,
    6.1,
    1.2,
@@ -78,10 +78,10 @@
    3.0,
    1.3,
    1.6,
-   0.9
+   0.9,
+   6.3
   ],
-  "estimado_min": 1.8,
-  "fase_desde": "2026-11-04T11:39:10-06:00"
+  "estimado_min": 1.9
  },
  "gerente-de-zara": {
   "estado": "fallo",
