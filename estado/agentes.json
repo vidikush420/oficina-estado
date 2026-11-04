@@ -63,11 +63,10 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T02:48:14-06:00",
-  "desde": "2026-11-04T02:46:53-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T02:54:26-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada nuevo que solo la Mac pudiera hacer. Lo de Bitácora espera su revisión y lo de Marea depende de que bajes a mano los paquetes gratis de Kenney (Nature Kit y Pirate Kit) a ~/chalan-lo",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
