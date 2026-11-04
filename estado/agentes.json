@@ -62,11 +62,10 @@
   "estimado_min": 55.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-04T02:07:17-06:00",
-  "desde": "2026-11-04T02:02:30-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-04T02:08:16-06:00",
   "que": "corrida programada",
-  "resumen": "Hice que los peces raros y legendarios se vean más especiales que los comunes y que la tarjeta de captura los muestre girando. Las pruebas automáticas pasan, pero no lo vi en un celular. No pude bajar",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.7,
