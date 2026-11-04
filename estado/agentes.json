@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-04T12:57:36-06:00",
   "que": "a mano: cola: - [ ] [producto] El nivel 1 (./pruebas/correr.sh) falla sobre main (v57, 412bef9) y por eso la cinta a beta aborta en el",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41892144019",
   "duraciones": [
    3.1,
@@ -17,7 +17,8 @@
    5.6,
    4.2
   ],
-  "estimado_min": 3.2
+  "estimado_min": 3.2,
+  "fase_desde": "2026-11-04T12:58:08-06:00"
  },
  "aduana": {
   "estado": "trabajando",
