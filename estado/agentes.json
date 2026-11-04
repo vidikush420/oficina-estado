@@ -21,12 +21,11 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-04T02:16:40-06:00",
-  "desde": "2026-11-04T02:08:03-06:00",
-  "que": "revisando el PR #24 (chalan-local/2026-11-04-puesta-en-escena-rareza)",
-  "resumen": "PR #24 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/41797034173",
+  "estado": "trabajando",
+  "desde": "2026-11-04T02:38:46-06:00",
+  "que": "revisando el PR #25 (chalan-local/2026-11-04-peces-procedurales)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/41800713567",
   "duraciones": [
    1.6,
    1.0,
