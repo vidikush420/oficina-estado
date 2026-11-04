@@ -21,13 +21,13 @@
   "estimado_min": 2.9
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T11:31:08-06:00",
   "desde": "2026-11-04T11:29:41-06:00",
   "que": "revisando el PR #34 (claude/2026-11-04-catalogo-dup)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #34 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/41877698242",
   "duraciones": [
-   8.6,
    4.4,
    10.3,
    0.6,
@@ -36,10 +36,10 @@
    3.2,
    59.0,
    1.9,
+   1.4,
    1.4
   ],
-  "estimado_min": 3.4,
-  "fase_desde": "2026-11-04T11:30:58-06:00"
+  "estimado_min": 3.1
  },
  "sherlock": {
   "estado": "termino",
