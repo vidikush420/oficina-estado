@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T11:23:50-06:00",
   "desde": "2026-11-04T11:20:48-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El trabajo de pesca de Marea había quedado desfasado respecto a lo último del proyecto; lo puse al día sin cambiar el juego. Las pruebas automáticas siguen pasando todas. No tienes que hacer nada; Adu",
   "url": "",
   "duraciones": [
-   7.4,
    11.5,
    2.4,
    1.8,
@@ -78,10 +78,10 @@
    6.1,
    1.2,
    2.1,
-   58.6
+   58.6,
+   3.0
   ],
-  "estimado_min": 2.2,
-  "fase_desde": "2026-11-04T11:23:21-06:00"
+  "estimado_min": 2.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
