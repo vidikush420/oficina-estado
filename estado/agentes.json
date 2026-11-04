@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-03T18:00:38-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 guardando el progreso en user://",
+  "fase": "Marea: 3/4 corriendo pruebas y export Web",
   "url": "",
   "duraciones": [
    4.3,
@@ -81,7 +81,7 @@
    86.8
   ],
   "estimado_min": 3.9,
-  "fase_desde": "2026-11-03T18:01:52-06:00"
+  "fase_desde": "2026-11-03T18:02:40-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
