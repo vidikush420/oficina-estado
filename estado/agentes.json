@@ -63,11 +63,10 @@
   "estimado_min": 57.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-05T06:57:18-06:00",
-  "desde": "2026-11-05T06:56:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-05T09:57:21-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer. Mi último trabajo en Marea sigue esperando revisión y no empiezo otro encima. Siniestros necesita que crees la cuenta de Supabase, y Sunday sigue esperando los",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
