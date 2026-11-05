@@ -63,13 +63,13 @@
   "estimado_min": 63.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-04T20:46:27-06:00",
   "desde": "2026-11-04T20:34:42-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer. Mi último trabajo en Marea espera la revisión y no empiezo otro encima. Lo de Siniestros depende de una cuenta que tienes que crear tú en Supabase, y lo de Sund",
   "url": "",
   "duraciones": [
-   7.8,
    1.8,
    9.6,
    8.9,
@@ -78,9 +78,10 @@
    6.1,
    6.7,
    0.8,
-   18.5
+   18.5,
+   11.8
   ],
-  "estimado_min": 7.2
+  "estimado_min": 7.8
  },
  "gerente-de-zara": {
   "estado": "fallo",
