@@ -63,11 +63,10 @@
   "estimado_min": 57.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-05T10:16:27-06:00",
-  "desde": "2026-11-05T10:15:04-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-05T12:57:55-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no había nada que solo yo pudiera hacer en esta Mac. Lo único pendiente mío, la pantalla de venta de Marea, ya está hecha y esperando revisión. Lo demás espera algo de Mig",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.1,
