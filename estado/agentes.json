@@ -63,11 +63,10 @@
   "estimado_min": 57.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-05T00:56:14-06:00",
-  "desde": "2026-11-05T00:54:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-05T03:54:51-06:00",
   "que": "corrida programada",
-  "resumen": "El trabajo del mercado en el lobby de Marea ya está listo y probado, pero el revisor automático se cayó a media revisión y nadie lo ha aprobado. No empecé nada nuevo para no apilar trabajo sin revisar",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.6,
