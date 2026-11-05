@@ -63,13 +63,13 @@
   "estimado_min": 57.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-05T12:59:16-06:00",
   "desde": "2026-11-05T12:57:55-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No había nada que solo yo pudiera hacer. Mi último trabajo en Marea (vender en el lobby) está listo, pero el revisor automático se cayó a media revisión y nadie lo ha aprobado; no empiezo otro encima.",
   "url": "",
   "duraciones": [
-   6.1,
    6.7,
    0.8,
    18.5,
@@ -78,9 +78,10 @@
    1.7,
    1.2,
    1.5,
+   1.4,
    1.4
   ],
-  "estimado_min": 1.8
+  "estimado_min": 1.6
  },
  "gerente-de-zara": {
   "estado": "fallo",
