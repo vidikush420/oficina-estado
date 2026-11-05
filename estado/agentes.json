@@ -63,13 +63,13 @@
   "estimado_min": 57.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-05T09:58:51-06:00",
   "desde": "2026-11-05T09:57:21-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer. Mi último trabajo en Marea sigue esperando que el revisor automático lo revise, porque se cayó a mitad, y no empiezo otro encima. Siniestros necesita que crees",
   "url": "",
   "duraciones": [
-   1.6,
    9.1,
    6.1,
    6.7,
@@ -78,7 +78,8 @@
    11.8,
    1.9,
    1.7,
-   1.2
+   1.2,
+   1.5
   ],
   "estimado_min": 4.0
  },
