@@ -63,13 +63,13 @@
   "estimado_min": 57.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-05T10:16:27-06:00",
   "desde": "2026-11-05T10:15:04-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no había nada que solo yo pudiera hacer en esta Mac. Lo único pendiente mío, la pantalla de venta de Marea, ya está hecha y esperando revisión. Lo demás espera algo de Mig",
   "url": "",
   "duraciones": [
-   9.1,
    6.1,
    6.7,
    0.8,
@@ -78,9 +78,10 @@
    1.9,
    1.7,
    1.2,
-   1.5
+   1.5,
+   1.4
   ],
-  "estimado_min": 4.0
+  "estimado_min": 1.8
  },
  "gerente-de-zara": {
   "estado": "fallo",
