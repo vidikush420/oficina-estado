@@ -63,11 +63,10 @@
   "estimado_min": 57.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-05T13:15:58-06:00",
-  "desde": "2026-11-05T13:15:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-05T15:59:03-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que solo yo pudiera hacer. Mi último trabajo en Marea (vender en el lobby) está listo, pero la revisión automática se cayó y nadie lo ha aprobado; no empiezo otro encima. Te toca, si pue",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
