@@ -63,11 +63,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T17:57:45-06:00",
-  "desde": "2026-11-06T17:53:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T17:58:18-06:00",
   "que": "corrida programada",
-  "resumen": "El trabajo grande de Marea (modelos en 3D y look del mar) ya estaba terminado en el cambio anterior, pero la lista de pendientes seguía mostrándolo como por hacer. La puse al día. Lo que de verdad fal",
+  "fase": "",
   "url": "",
   "duraciones": [
    7.0,
