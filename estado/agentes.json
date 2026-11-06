@@ -63,11 +63,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T15:41:30-06:00",
-  "desde": "2026-11-06T15:39:23-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T15:51:39-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada nuevo que solo yo pudiera hacer. La escena de prueba del look de Marea está lista y esperando revisión; falta que saques las seis capturas con el comando del PR y decidas si el look ya e",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.1,
