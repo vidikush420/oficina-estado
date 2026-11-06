@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-06T12:56:22-06:00",
   "que": "revisando el PR #36 (claude/2026-11-06-beta-cuentas-un-clic)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42275162108",
   "duraciones": [
    3.2,
@@ -38,7 +38,8 @@
    4.0,
    5.7
   ],
-  "estimado_min": 2.2
+  "estimado_min": 2.2,
+  "fase_desde": "2026-11-06T12:56:57-06:00"
  },
  "sherlock": {
   "estado": "fallo",
