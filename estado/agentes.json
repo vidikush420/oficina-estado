@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-04T13:00:17-06:00",
-  "desde": "2026-11-04T12:57:36-06:00",
-  "que": "a mano: cola: - [ ] [producto] El nivel 1 (./pruebas/correr.sh) falla sobre main (v57, 412bef9) y por eso la cinta a beta aborta en el",
-  "resumen": "PR #72: tarea del nivel 1 ya resuelta por #68, marcada en la cola",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/41892144019",
+  "estado": "trabajando",
+  "desde": "2026-11-06T05:23:35-06:00",
+  "que": "a mano: cola: - [ ] [oficina] Marea: herramientas/arte/meshy_generar.py anota creditos: 10 por variante en meta.json cuando cada una c",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42209818949",
   "duraciones": [
    4.4,
    5.0,
