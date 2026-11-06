@@ -63,13 +63,13 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T16:03:24-06:00",
   "desde": "2026-11-06T16:00:17-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo yo pudiera hacer. Lo de Marea que hice hace un rato espera revisión, y lo demás espera algo tuyo: la cuenta de Supabase para Siniestros y los datos de prueba para Sunday. La",
   "url": "",
   "duraciones": [
-   0.1,
    30.3,
    0.1,
    0.1,
@@ -78,9 +78,10 @@
    0.1,
    12.0,
    2.1,
-   7.0
+   7.0,
+   3.1
   ],
-  "estimado_min": 0.1
+  "estimado_min": 1.1
  },
  "gerente-de-zara": {
   "estado": "fallo",
