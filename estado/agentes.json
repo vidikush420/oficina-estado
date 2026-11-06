@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T05:38:03-06:00",
   "desde": "2026-11-06T05:32:22-06:00",
   "que": "revisando el PR #46 (chalan/2026-11-06-meshy-creditos-variante)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #46 Marea → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42210537499",
   "duraciones": [
-   0.5,
    3.2,
    1.5,
    1.6,
@@ -36,10 +36,10 @@
    1.4,
    2.6,
    0.7,
-   4.0
+   4.0,
+   5.7
   ],
-  "estimado_min": 1.7,
-  "fase_desde": "2026-11-06T05:37:58-06:00"
+  "estimado_min": 2.2
  },
  "sherlock": {
   "estado": "fallo",
