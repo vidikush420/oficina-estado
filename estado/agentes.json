@@ -63,13 +63,13 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T17:40:24-06:00",
   "desde": "2026-11-06T17:16:16-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Arreglé lo que pediste del aspecto del puerto: faroles chicos, muelle de tablas sobre el agua y arena menos blanca. El juego ahora pesa 46 MB en vez de 86. Puse casi todos los modelos nuevos dentro de",
   "url": "",
   "duraciones": [
-   0.1,
    0.1,
    12.0,
    2.1,
@@ -78,10 +78,10 @@
    20.9,
    4.2,
    1.8,
-   1.0
+   1.0,
+   24.1
   ],
-  "estimado_min": 2.6,
-  "fase_desde": "2026-11-06T17:38:06-06:00"
+  "estimado_min": 3.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
