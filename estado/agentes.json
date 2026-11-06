@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-06T05:32:22-06:00",
   "que": "revisando el PR #46 (chalan/2026-11-06-meshy-creditos-variante)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/42210537499",
   "duraciones": [
    0.5,
@@ -39,7 +39,7 @@
    4.0
   ],
   "estimado_min": 1.7,
-  "fase_desde": "2026-11-06T05:37:37-06:00"
+  "fase_desde": "2026-11-06T05:37:44-06:00"
  },
  "sherlock": {
   "estado": "fallo",
