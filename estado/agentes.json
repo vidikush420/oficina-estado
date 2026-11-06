@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-06T16:56:23-06:00",
   "que": "revisando el PR #53 (chalan-local/2026-11-06-lookdev-brillo-modelos)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42306494703",
   "duraciones": [
    1.8,
@@ -38,7 +38,8 @@
    9.0,
    8.6
   ],
-  "estimado_min": 2.8
+  "estimado_min": 2.8,
+  "fase_desde": "2026-11-06T17:02:18-06:00"
  },
  "sherlock": {
   "estado": "fallo",
