@@ -63,13 +63,13 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T17:42:24-06:00",
   "desde": "2026-11-06T17:41:20-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y hoy no hay nada que yo pueda hacer. En Marea espero a que apruebes el cambio que ya envié (#55) antes de empezar otro; en Sunday sigue faltando la base de datos de prueba;",
   "url": "",
   "duraciones": [
-   0.1,
    12.0,
    2.1,
    7.0,
@@ -78,7 +78,8 @@
    4.2,
    1.8,
    1.0,
-   24.1
+   24.1,
+   1.1
   ],
   "estimado_min": 3.7
  },
