@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-06T17:53:29-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 conciliando la Cola con el PR 55",
+  "fase": "Marea: 4/4 abriendo el PR",
   "url": "",
   "duraciones": [
    12.0,
@@ -81,7 +81,7 @@
    1.1
   ],
   "estimado_min": 3.7,
-  "fase_desde": "2026-11-06T17:56:44-06:00"
+  "fase_desde": "2026-11-06T17:57:04-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
