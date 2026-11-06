@@ -63,11 +63,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "fallo",
-  "cuando": "2026-11-06T11:48:01-06:00",
-  "desde": "2026-11-06T11:47:55-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T11:49:22-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada nuevo que solo yo pudiera hacer. Mi último trabajo en Marea (vender en el lobby) sigue sin aprobarse porque la revisión automática falló y nadie la ha relanzado. Si puedes, pide que se v",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.1,
