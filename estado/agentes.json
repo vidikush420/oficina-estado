@@ -63,13 +63,13 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T15:38:32-06:00",
   "desde": "2026-11-06T15:26:31-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Armé la escena de prueba del look de Marea: agua nueva, luz de atardecer, contornos y efectos. Las pruebas automáticas pasan, pero no pude tomar las seis fotos ni medir la velocidad en iPhone porque y",
   "url": "",
   "duraciones": [
-   0.1,
    0.1,
    0.1,
    0.1,
@@ -78,10 +78,10 @@
    0.1,
    0.1,
    0.1,
-   0.1
+   0.1,
+   12.0
   ],
-  "estimado_min": 0.1,
-  "fase_desde": "2026-11-06T15:37:55-06:00"
+  "estimado_min": 0.1
  },
  "gerente-de-zara": {
   "estado": "fallo",
