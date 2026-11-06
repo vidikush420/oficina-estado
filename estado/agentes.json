@@ -45,7 +45,7 @@
   "estado": "trabajando",
   "desde": "2026-11-05T23:42:55-06:00",
   "que": "ronda de beta",
-  "fase": "",
+  "fase": "1/5 arrancando el agente",
   "url": "",
   "duraciones": [
    68.0,
@@ -59,7 +59,8 @@
    71.8,
    1.8
   ],
-  "estimado_min": 57.3
+  "estimado_min": 57.3,
+  "fase_desde": "2026-11-06T00:06:41-06:00"
  },
  "chalan-local": {
   "estado": "fallo",
