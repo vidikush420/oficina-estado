@@ -63,13 +63,13 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T17:57:23-06:00",
   "desde": "2026-11-06T17:53:29-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Marea: PR 56, conciliación de la Cola",
   "url": "",
   "duraciones": [
-   12.0,
    2.1,
    7.0,
    3.1,
@@ -78,10 +78,10 @@
    1.8,
    1.0,
    24.1,
-   1.1
+   1.1,
+   3.9
   ],
-  "estimado_min": 3.7,
-  "fase_desde": "2026-11-06T17:57:04-06:00"
+  "estimado_min": 3.5
  },
  "gerente-de-zara": {
   "estado": "fallo",
