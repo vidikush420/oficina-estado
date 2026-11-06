@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T17:07:21-06:00",
   "desde": "2026-11-06T16:56:23-06:00",
   "que": "revisando el PR #53 (chalan-local/2026-11-06-lookdev-brillo-modelos)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #53 Marea → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42306494703",
   "duraciones": [
-   1.8,
    2.9,
    1.4,
    2.6,
@@ -36,10 +36,10 @@
    5.7,
    1.1,
    9.0,
-   8.6
+   8.6,
+   11.0
   ],
-  "estimado_min": 2.8,
-  "fase_desde": "2026-11-06T17:07:04-06:00"
+  "estimado_min": 3.5
  },
  "sherlock": {
   "estado": "fallo",
