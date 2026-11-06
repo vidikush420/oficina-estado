@@ -63,13 +63,13 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T16:41:17-06:00",
   "desde": "2026-11-06T16:37:06-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El trabajo del brillo del agua y los modelos nuevos de Marea no podía integrarse porque otra entrega tocó la misma nota de avance. Junté ambas y revisé que el juego sigue pasando todas sus pruebas. No",
   "url": "",
   "duraciones": [
-   0.1,
    0.1,
    0.1,
    0.1,
@@ -78,10 +78,10 @@
    2.1,
    7.0,
    3.1,
-   20.9
+   20.9,
+   4.2
   ],
-  "estimado_min": 1.1,
-  "fase_desde": "2026-11-06T16:40:44-06:00"
+  "estimado_min": 2.6
  },
  "gerente-de-zara": {
   "estado": "fallo",
