@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-06T04:41:10-06:00",
-  "desde": "2026-11-06T04:40:31-06:00",
-  "que": "",
-  "resumen": "PR #45 Marea → OJO (cosmético); ya estaba fusionado",
-  "url": "",
+  "estado": "trabajando",
+  "desde": "2026-11-06T04:45:30-06:00",
+  "que": "revisando el PR #44 (chalan-local/2026-11-04-mercado-en-sala)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42204770494",
   "duraciones": [
    0.8,
    0.5,
