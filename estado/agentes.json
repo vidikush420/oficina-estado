@@ -63,11 +63,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T16:36:03-06:00",
-  "desde": "2026-11-06T16:15:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T16:37:06-06:00",
   "que": "corrida programada",
-  "resumen": "Bajé el reflejo del sol y la luz fuerte, y ya no se ve todo blanco a mediodía ni al amanecer. Puse los modelos 3D nuevos en la escena de prueba. El juego ahora pesa más del doble. Mira las fotos en el",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.1,
