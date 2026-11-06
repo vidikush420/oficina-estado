@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-06T05:23:35-06:00",
   "que": "a mano: cola: - [ ] [oficina] Marea: herramientas/arte/meshy_generar.py anota creditos: 10 por variante en meta.json cuando cada una c",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/42209818949",
   "duraciones": [
    4.4,
@@ -18,7 +18,7 @@
    2.7
   ],
   "estimado_min": 3.0,
-  "fase_desde": "2026-11-06T05:26:52-06:00"
+  "fase_desde": "2026-11-06T05:27:01-06:00"
  },
  "aduana": {
   "estado": "termino",
