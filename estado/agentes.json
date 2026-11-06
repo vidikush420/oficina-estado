@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T12:57:31-06:00",
   "desde": "2026-11-06T12:56:22-06:00",
   "que": "revisando el PR #36 (claude/2026-11-06-beta-cuentas-un-clic)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #36 rhwellness-encuesta → OJO — espera a Miguel, no fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42275162108",
   "duraciones": [
-   3.2,
    1.5,
    1.6,
    1.8,
@@ -36,10 +36,10 @@
    2.6,
    0.7,
    4.0,
-   5.7
+   5.7,
+   1.1
   ],
-  "estimado_min": 2.2,
-  "fase_desde": "2026-11-06T12:57:26-06:00"
+  "estimado_min": 1.7
  },
  "sherlock": {
   "estado": "fallo",
