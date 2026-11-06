@@ -63,11 +63,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T17:05:21-06:00",
-  "desde": "2026-11-06T17:04:19-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T17:16:16-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no abrí ningún trabajo nuevo. Los modelos 3D de Marea ya están listos para meterse al juego, pero cada uno pesa unos 3 MB y son 34: el juego pasaría de 86 a casi 180 MB y tardaría mucho en cargar",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.1,
