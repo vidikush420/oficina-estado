@@ -63,13 +63,13 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T15:58:42-06:00",
   "desde": "2026-11-06T15:51:39-06:00",
   "que": "corrida programada",
-  "fase": "Marea: terminado",
+  "resumen": "Probé que el mercado de Marea funciona de verdad entre servidor y dos jugadores: cada uno pesca, vende y las monedas cuadran. Todo salió bien y no cambié el juego, solo agregué la prueba. No falta que",
   "url": "",
   "duraciones": [
-   0.1,
    0.1,
    30.3,
    0.1,
@@ -78,10 +78,10 @@
    0.1,
    0.1,
    12.0,
-   2.1
+   2.1,
+   7.0
   ],
-  "estimado_min": 0.1,
-  "fase_desde": "2026-11-06T15:58:21-06:00"
+  "estimado_min": 0.1
  },
  "gerente-de-zara": {
   "estado": "fallo",
