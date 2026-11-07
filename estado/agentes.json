@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-07T01:27:36-06:00",
   "que": "revisando el PR #59 (chalan-local/2026-11-07-dragon-holo-tarjeta)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/42351232784",
   "duraciones": [
    9.0,
@@ -39,7 +39,7 @@
    2.5
   ],
   "estimado_min": 6.7,
-  "fase_desde": "2026-11-07T01:30:21-06:00"
+  "fase_desde": "2026-11-07T01:34:35-06:00"
  },
  "sherlock": {
   "estado": "termino",
