@@ -62,13 +62,13 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T18:58:29-06:00",
   "desde": "2026-11-06T18:57:08-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Atendí tu aviso: no toqué Marea para no estorbar la publicación del juego. En los otros proyectos no había nada que solo la Mac pudiera hacer, o espera cosas tuyas (las llaves de Supabase para Siniest",
   "url": "",
   "duraciones": [
-   1.8,
    1.0,
    24.1,
    1.1,
@@ -77,9 +77,10 @@
    0.8,
    1.1,
    2.1,
-   2.4
+   2.4,
+   1.4
   ],
-  "estimado_min": 2.0
+  "estimado_min": 1.8
  },
  "gerente-de-zara": {
   "estado": "fallo",
