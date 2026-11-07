@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T01:26:04-06:00",
   "desde": "2026-11-07T01:13:36-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 Dragon Holo en la tarjeta de captura",
+  "resumen": "Revisé de perfil los peces que te preocupaban y se ven bien con el modelo ligero, así que no cambié nada. El Dragon Holo ya aparece como carta en la pantalla de captura. Lo del segundo runner no lo pu",
   "url": "",
   "duraciones": [
-   4.3,
    0.8,
    1.1,
    2.1,
@@ -78,10 +78,10 @@
    2.2,
    1.7,
    1.2,
-   1.1
+   1.1,
+   12.5
   ],
-  "estimado_min": 1.5,
-  "fase_desde": "2026-11-07T01:20:00-06:00"
+  "estimado_min": 1.5
  },
  "gerente-de-zara": {
   "estado": "fallo",
