@@ -62,11 +62,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-07T06:11:48-06:00",
-  "desde": "2026-11-07T05:52:58-06:00",
-  "que": "",
-  "resumen": "Construí la parte que no se ve de las cartas coleccionables: cuántas hay (121), cómo salen de los sobres, cómo funciona mandarlas a graduar, precios y límites de la tienda. Las pruebas automáticas, co",
+  "estado": "trabajando",
+  "desde": "2026-11-07T06:13:50-06:00",
+  "que": "corrida programada",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
