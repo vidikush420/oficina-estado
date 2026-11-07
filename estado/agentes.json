@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-07T05:04:58-06:00",
-  "desde": "2026-11-07T05:00:25-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-07T05:21:25-06:00",
   "que": "corrida programada",
-  "resumen": "El aviso de que el trabajo de la pesca nueva chocaba con otros cambios del juego ya está resuelto: lo puse al día y las pruebas automáticas pasaron todas. Falta lo que ya sabías: probar la pesca con e",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
