@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-07T01:37:38-06:00",
-  "desde": "2026-11-07T01:35:31-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-07T01:38:57-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que pueda hacer yo en la Mac ahora. Lo que queda en Marea espera que Miguel apruebe el arte, y lo de Siniestros necesita las cuentas reales de Supabase que sol",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
