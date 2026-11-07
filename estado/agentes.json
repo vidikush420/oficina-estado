@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-07T04:24:56-06:00",
   "que": "revisando el PR #69 (claude/2026-11-07-zarghon)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42362622886",
   "duraciones": [
    0.8,
@@ -38,7 +38,8 @@
    3.9,
    3.4
   ],
-  "estimado_min": 3.7
+  "estimado_min": 3.7,
+  "fase_desde": "2026-11-07T04:27:10-06:00"
  },
  "sherlock": {
   "estado": "termino",
