@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-07T03:11:40-06:00",
-  "desde": "2026-11-07T03:08:07-06:00",
-  "que": "revisando el PR #65 (claude/2026-11-07-zarkhon)",
-  "resumen": "Marea PR #65 → PASA, ya fusionado (solo documentos)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42358324911",
+  "estado": "trabajando",
+  "desde": "2026-11-07T03:36:03-06:00",
+  "que": "revisando el PR #63 (claude/2026-11-07-reliquia)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42356934328",
   "duraciones": [
    3.4,
    16.2,
