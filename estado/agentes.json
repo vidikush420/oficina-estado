@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-06T18:53:17-06:00",
-  "que": "revisando el PR #37 (claude/2026-11-06-marea-comprimido)",
+  "desde": "2026-11-06T18:57:58-06:00",
+  "que": "revisando el PR #57 (chalan-local/2026-11-06-concilia-cola-meshy)",
   "fase": "",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42320904635",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42320275069",
   "duraciones": [
    0.7,
    4.0,
