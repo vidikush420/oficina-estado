@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-07T02:16:01-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 pesca v2 en el mundo",
   "url": "",
   "duraciones": [
    2.1,
@@ -81,7 +81,7 @@
    35.3
   ],
   "estimado_min": 2.1,
-  "fase_desde": "2026-11-07T02:16:34-06:00"
+  "fase_desde": "2026-11-07T02:17:25-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
