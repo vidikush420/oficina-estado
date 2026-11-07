@@ -63,11 +63,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T18:44:02-06:00",
-  "desde": "2026-11-06T18:42:53-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T18:44:37-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé los proyectos y no hay nada que yo pueda hacer ahora. Lo de Marea que sigue (medir qué tan fluido corre en un iPhone) lo tienes que ver tú en el aparato; el resto espera tus aprobaciones de art",
+  "fase": "",
   "url": "",
   "duraciones": [
    20.9,
