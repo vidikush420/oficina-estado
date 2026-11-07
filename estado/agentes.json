@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-07T03:52:31-06:00",
   "que": "revisando el PR #66 (claude/2026-11-07-alpha-pack)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42359318098",
   "duraciones": [
    16.2,
@@ -38,7 +38,8 @@
    3.5,
    3.6
   ],
-  "estimado_min": 3.7
+  "estimado_min": 3.7,
+  "fase_desde": "2026-11-07T03:54:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
