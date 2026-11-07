@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-07T05:51:24-06:00",
-  "desde": "2026-11-07T05:43:14-06:00",
-  "que": "revisando el PR #71 (chalan-local/2026-11-07-reliquia)",
-  "resumen": "PR #71 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42369288986",
+  "estado": "trabajando",
+  "desde": "2026-11-07T06:12:09-06:00",
+  "que": "revisando el PR #72 (chalan-local/2026-11-07-cartas-alpha)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42371348345",
   "duraciones": [
    3.6,
    3.9,
