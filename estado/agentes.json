@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T19:25:11-06:00",
-  "desde": "2026-11-06T19:24:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-07T01:13:36-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hay nada que yo pueda hacer. Sigo sin tocar Marea mientras se publica el juego, y Siniestros y Sunday esperan cosas tuyas (llaves de Supabase y los datos de prueba de Sunday). No tienes que hac",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.3,
