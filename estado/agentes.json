@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T01:35:27-06:00",
   "desde": "2026-11-07T01:27:36-06:00",
   "que": "revisando el PR #59 (chalan-local/2026-11-07-dragon-holo-tarjeta)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #59 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42351232784",
   "duraciones": [
-   9.0,
    8.6,
    11.0,
    11.2,
@@ -36,10 +36,10 @@
    16.2,
    0.7,
    0.8,
-   2.5
+   2.5,
+   7.8
   ],
-  "estimado_min": 6.7,
-  "fase_desde": "2026-11-07T01:35:01-06:00"
+  "estimado_min": 6.3
  },
  "sherlock": {
   "estado": "termino",
