@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T03:11:40-06:00",
   "desde": "2026-11-07T03:08:07-06:00",
   "que": "revisando el PR #65 (claude/2026-11-07-zarkhon)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #65 → PASA, ya fusionado (solo documentos)",
   "url": "https://github.com/vidikush420/marea/actions/runs/42358324911",
   "duraciones": [
-   4.8,
    3.4,
    16.2,
    0.7,
@@ -36,10 +36,10 @@
    7.8,
    8.8,
    6.8,
-   3.7
+   3.7,
+   3.5
   ],
-  "estimado_min": 4.2,
-  "fase_desde": "2026-11-07T03:11:22-06:00"
+  "estimado_min": 3.6
  },
  "sherlock": {
   "estado": "termino",
