@@ -21,12 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-06T19:21:26-06:00",
   "desde": "2026-11-06T19:20:47-06:00",
   "que": "",
+  "resumen": "PR #57 → PASA, fusionado",
   "url": "",
   "duraciones": [
-   4.0,
    5.7,
    1.1,
    9.0,
@@ -35,10 +36,9 @@
    11.2,
    4.8,
    3.4,
-   16.2
+   16.2,
+   0.7
   ],
-  "fase": "4/4 registrando en la oficina",
-  "fase_desde": "2026-11-06T19:21:15-06:00",
   "estimado_min": 7.2
  },
  "sherlock": {
