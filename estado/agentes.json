@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T06:16:03-06:00",
   "desde": "2026-11-07T06:13:50-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no hay nada que yo pueda hacer ahora. Marea espera la revisión del PR de las cartas coleccionables. No tienes que hacer nada nuevo.",
   "url": "",
   "duraciones": [
-   1.2,
    1.1,
    12.5,
    2.1,
@@ -78,7 +78,8 @@
    4.5,
    21.4,
    2.4,
-   18.8
+   18.8,
+   2.2
   ],
   "estimado_min": 8.5
  },
