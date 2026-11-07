@@ -63,12 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T06:11:48-06:00",
   "desde": "2026-11-07T05:52:58-06:00",
   "que": "",
+  "resumen": "Construí la parte que no se ve de las cartas coleccionables: cuántas hay (121), cómo salen de los sobres, cómo funciona mandarlas a graduar, precios y límites de la tienda. Las pruebas automáticas, co",
   "url": "",
   "duraciones": [
-   1.7,
    1.2,
    1.1,
    12.5,
@@ -77,11 +78,10 @@
    162.9,
    4.5,
    21.4,
-   2.4
+   2.4,
+   18.8
   ],
-  "fase": "Marea: 4/4 abriendo el PR",
-  "fase_desde": "2026-11-07T06:00:52-06:00",
-  "estimado_min": 3.5
+  "estimado_min": 8.5
  },
  "gerente-de-zara": {
   "estado": "fallo",
