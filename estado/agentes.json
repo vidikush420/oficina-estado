@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-07T05:43:14-06:00",
   "que": "revisando el PR #71 (chalan-local/2026-11-07-reliquia)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42369288986",
   "duraciones": [
    6.8,
@@ -38,7 +38,8 @@
    3.5,
    6.8
   ],
-  "estimado_min": 3.7
+  "estimado_min": 3.7,
+  "fase_desde": "2026-11-07T05:45:27-06:00"
  },
  "sherlock": {
   "estado": "termino",
