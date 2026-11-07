@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T04:16:40-06:00",
   "desde": "2026-11-07T04:13:15-06:00",
   "que": "revisando el PR #68 (claude/2026-11-07-tienda-tcg)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #68 Marea → PASA, ya estaba fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42361934787",
   "duraciones": [
-   0.7,
    0.8,
    2.5,
    7.8,
@@ -36,10 +36,10 @@
    3.7,
    3.5,
    3.6,
-   3.9
+   3.9,
+   3.4
   ],
-  "estimado_min": 3.7,
-  "fase_desde": "2026-11-07T04:16:28-06:00"
+  "estimado_min": 3.7
  },
  "sherlock": {
   "estado": "termino",
