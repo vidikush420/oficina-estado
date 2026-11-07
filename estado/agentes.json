@@ -63,11 +63,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T19:02:11-06:00",
-  "desde": "2026-11-06T18:59:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T19:15:07-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hay nada que yo pueda hacer. En Marea me pediste esperar a que se publique el juego antes de enviar más cambios, y lo respeto. En los demás proyectos falta algo tuyo (accesos o datos). No tiene",
+  "fase": "",
   "url": "",
   "duraciones": [
    24.1,
