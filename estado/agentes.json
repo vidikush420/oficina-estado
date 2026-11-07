@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-07T03:36:03-06:00",
   "que": "revisando el PR #63 (claude/2026-11-07-reliquia)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42356934328",
   "duraciones": [
    3.4,
@@ -38,7 +38,8 @@
    3.7,
    3.5
   ],
-  "estimado_min": 3.6
+  "estimado_min": 3.6,
+  "fase_desde": "2026-11-07T03:38:29-06:00"
  },
  "sherlock": {
   "estado": "termino",
