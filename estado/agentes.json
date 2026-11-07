@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T05:42:47-06:00",
   "desde": "2026-11-07T05:21:25-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Agregué al juego el cofre más grande, el de diamante, que muy rara vez (1 de cada 2 000) trae la carta Dragon Holo; ya no sale directo del agua. Las pruebas automáticas pasan. No lo vi en pantalla, as",
   "url": "",
   "duraciones": [
-   1.4,
    2.2,
    1.7,
    1.2,
@@ -78,10 +78,10 @@
    2.1,
    35.3,
    162.9,
-   4.5
+   4.5,
+   21.4
   ],
-  "estimado_min": 2.2,
-  "fase_desde": "2026-11-07T05:29:36-06:00"
+  "estimado_min": 3.4
  },
  "gerente-de-zara": {
   "estado": "fallo",
