@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-06T19:34:22-06:00",
   "que": "revisando el PR #38 (claude/2026-11-06-marea-sin-rewrite)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42324760804",
   "duraciones": [
    1.1,
@@ -38,7 +38,8 @@
    0.7,
    0.8
   ],
-  "estimado_min": 6.7
+  "estimado_min": 6.7,
+  "fase_desde": "2026-11-06T19:36:21-06:00"
  },
  "sherlock": {
   "estado": "fallo",
