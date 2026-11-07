@@ -62,11 +62,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T18:47:03-06:00",
-  "desde": "2026-11-06T18:44:37-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T18:57:08-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé las tareas pendientes de Marea y dos de ellas ya estaban hechas desde antes; solo las taché de la lista. No cambié nada del juego. Lo demás que queda espera que tú apruebes arte o que DaVinci e",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.8,
