@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T05:20:15-06:00",
   "desde": "2026-11-07T05:13:28-06:00",
   "que": "revisando el PR #70 (chalan-local/2026-11-07-pesca-v2)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #70 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42366620944",
   "duraciones": [
-   8.8,
    6.8,
    3.7,
    3.5,
@@ -36,10 +36,10 @@
    3.4,
    3.7,
    3.9,
-   3.5
+   3.5,
+   6.8
   ],
-  "estimado_min": 3.7,
-  "fase_desde": "2026-11-07T05:20:02-06:00"
+  "estimado_min": 3.7
  },
  "sherlock": {
   "estado": "termino",
