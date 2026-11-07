@@ -63,11 +63,9 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-07T05:46:52-06:00",
-  "desde": "2026-11-07T05:44:31-06:00",
-  "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que yo pueda hacer ahora. Marea espera tu revisión del cofre de diamante (PR #71). Sunday sigue esperando respuestas de Héctor y la base de datos de prueba. No",
+  "estado": "trabajando",
+  "desde": "2026-11-07T05:52:58-06:00",
+  "que": "",
   "url": "",
   "duraciones": [
    1.7,
@@ -81,6 +79,8 @@
    21.4,
    2.4
   ],
+  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase_desde": "2026-11-07T05:52:58-06:00",
   "estimado_min": 3.5
  },
  "gerente-de-zara": {
