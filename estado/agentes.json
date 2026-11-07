@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-07T04:13:15-06:00",
   "que": "revisando el PR #68 (claude/2026-11-07-tienda-tcg)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42361934787",
   "duraciones": [
    0.7,
@@ -38,7 +38,8 @@
    3.6,
    3.9
   ],
-  "estimado_min": 3.7
+  "estimado_min": 3.7,
+  "fase_desde": "2026-11-07T04:15:30-06:00"
  },
  "sherlock": {
   "estado": "termino",
