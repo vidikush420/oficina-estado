@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-06T18:46:45-06:00",
+  "cuando": "2026-11-06T18:47:03-06:00",
   "desde": "2026-11-06T18:44:37-06:00",
   "que": "corrida programada",
-  "resumen": "Marea: PR 57 concilia la Cola",
+  "resumen": "Revisé las tareas pendientes de Marea y dos de ellas ya estaban hechas desde antes; solo las taché de la lista. No cambié nada del juego. Lo demás que queda espera que tú apruebes arte o que DaVinci e",
   "url": "",
   "duraciones": [
-   4.2,
    1.8,
    1.0,
    24.1,
@@ -79,7 +78,8 @@
    4.3,
    0.8,
    1.1,
-   2.1
+   2.1,
+   2.4
   ],
   "estimado_min": 2.0
  },
