@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-06T19:21:26-06:00",
+  "cuando": "2026-11-06T19:21:35-06:00",
   "desde": "2026-11-06T19:20:47-06:00",
   "que": "",
   "resumen": "PR #57 → PASA, fusionado",
   "url": "",
   "duraciones": [
-   5.7,
    1.1,
    9.0,
    8.6,
@@ -37,9 +36,10 @@
    4.8,
    3.4,
    16.2,
-   0.7
+   0.7,
+   0.8
   ],
-  "estimado_min": 7.2
+  "estimado_min": 6.7
  },
  "sherlock": {
   "estado": "fallo",
