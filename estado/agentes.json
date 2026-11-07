@@ -63,11 +63,10 @@
   "estimado_min": 51.2
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-06T19:16:47-06:00",
-  "desde": "2026-11-06T19:15:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-06T19:21:32-06:00",
   "que": "corrida programada",
-  "resumen": "No hay nada que yo pueda hacer ahora. Sigo sin tocar Marea para no estorbar la publicación del juego, y Siniestros espera las llaves de Supabase que solo tú puedes pegar. No tienes que hacer nada nuev",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
