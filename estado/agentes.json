@@ -21,12 +21,10 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-06T19:14:09-06:00",
-  "desde": "2026-11-06T18:57:58-06:00",
-  "que": "revisando el PR #57 (chalan-local/2026-11-06-concilia-cola-meshy)",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42320904635",
+  "estado": "trabajando",
+  "desde": "2026-11-06T19:20:47-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    4.0,
    5.7,
@@ -39,6 +37,8 @@
    3.4,
    16.2
   ],
+  "fase": "1/4 leyendo el PR",
+  "fase_desde": "2026-11-06T19:20:47-06:00",
   "estimado_min": 7.2
  },
  "sherlock": {
