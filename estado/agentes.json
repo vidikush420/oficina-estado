@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-06T18:38:44-06:00",
   "que": "revisando el PR #56 (chalan-local/2026-11-06-cola-integracion-glb)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/42315188890",
   "duraciones": [
    2.6,
@@ -39,7 +39,7 @@
    4.8
   ],
   "estimado_min": 5.2,
-  "fase_desde": "2026-11-06T18:41:33-06:00"
+  "fase_desde": "2026-11-06T18:41:51-06:00"
  },
  "sherlock": {
   "estado": "fallo",
