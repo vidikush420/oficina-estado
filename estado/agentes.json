@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-07T05:04:58-06:00",
   "desde": "2026-11-07T05:00:25-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "El aviso de que el trabajo de la pesca nueva chocaba con otros cambios del juego ya está resuelto: lo puse al día y las pruebas automáticas pasaron todas. Falta lo que ya sabías: probar la pesca con e",
   "url": "",
   "duraciones": [
-   2.4,
    1.4,
    2.2,
    1.7,
@@ -78,10 +78,10 @@
    12.5,
    2.1,
    35.3,
-   162.9
+   162.9,
+   4.5
   ],
-  "estimado_min": 2.2,
-  "fase_desde": "2026-11-07T05:02:43-06:00"
+  "estimado_min": 2.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
