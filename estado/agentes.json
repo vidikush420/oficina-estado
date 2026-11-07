@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-07T05:51:08-06:00",
+  "cuando": "2026-11-07T05:51:24-06:00",
   "desde": "2026-11-07T05:43:14-06:00",
   "que": "revisando el PR #71 (chalan-local/2026-11-07-reliquia)",
   "resumen": "PR #71 Marea → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42369288986",
   "duraciones": [
-   3.5,
    3.6,
    3.9,
    3.4,
@@ -37,9 +36,10 @@
    3.5,
    6.8,
    7.7,
-   7.9
+   7.9,
+   8.2
   ],
-  "estimado_min": 3.8
+  "estimado_min": 3.9
  },
  "sherlock": {
   "estado": "termino",
