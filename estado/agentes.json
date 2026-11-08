@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-08T15:59:32-06:00",
   "que": "revisando el PR #72 (chalan-local/2026-11-07-cartas-alpha)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42525951400",
   "duraciones": [
    3.9,
@@ -38,7 +38,8 @@
    8.2,
    8.0
   ],
-  "estimado_min": 5.3
+  "estimado_min": 5.3,
+  "fase_desde": "2026-11-08T16:04:05-06:00"
  },
  "sherlock": {
   "estado": "termino",
