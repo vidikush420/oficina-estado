@@ -62,13 +62,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T15:35:33-06:00",
   "desde": "2026-11-08T15:25:47-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El trabajo de las cartas coleccionables chocaba con otros cambios del juego; lo puse al día y las pruebas automáticas pasan. Una prueba falló una vez y no se repitió (es de azar), lo menciono por tran",
   "url": "",
   "duraciones": [
-   12.5,
    2.1,
    35.3,
    162.9,
@@ -77,10 +77,10 @@
    2.4,
    18.8,
    2.2,
-   1.4
+   1.4,
+   9.8
   ],
-  "estimado_min": 8.5,
-  "fase_desde": "2026-11-08T15:35:04-06:00"
+  "estimado_min": 7.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
