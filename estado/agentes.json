@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T17:56:04-06:00",
-  "desde": "2026-11-08T17:51:08-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T17:56:51-06:00",
   "que": "corrida programada",
-  "resumen": "La tienda de cartas de Marea ahora funciona también cuando juegas en sala con amigos: comprar y abrir sobres lo decide el servidor, y si alguien abre una carta rara los demás ven un aviso. Las pruebas",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
