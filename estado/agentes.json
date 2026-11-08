@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T15:58:03-06:00",
   "desde": "2026-11-08T15:56:58-06:00",
   "que": "leyendo",
-  "fase": "",
+  "resumen": "Marea: sin tarea nueva, PR #72 y #74 esperan revisión",
   "url": "",
   "duraciones": [
-   35.3,
    162.9,
    4.5,
    21.4,
@@ -78,9 +78,10 @@
    2.2,
    1.4,
    9.8,
-   9.8
+   9.8,
+   1.1
   ],
-  "estimado_min": 9.8
+  "estimado_min": 7.2
  },
  "gerente-de-zara": {
   "estado": "fallo",
