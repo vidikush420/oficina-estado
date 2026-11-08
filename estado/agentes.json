@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-08T15:36:53-06:00",
-  "desde": "2026-11-08T15:28:53-06:00",
-  "que": "revisando el PR #73 (claude/2026-11-07-rx-versiones)",
-  "resumen": "Marea PR #73 → PASA; ya estaba fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42422671951",
+  "estado": "trabajando",
+  "desde": "2026-11-08T15:59:32-06:00",
+  "que": "revisando el PR #72 (chalan-local/2026-11-07-cartas-alpha)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42525951400",
   "duraciones": [
    3.9,
    3.4,
