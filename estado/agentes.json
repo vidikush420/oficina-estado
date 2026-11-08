@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T15:36:53-06:00",
   "desde": "2026-11-08T15:28:53-06:00",
   "que": "revisando el PR #73 (claude/2026-11-07-rx-versiones)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #73 → PASA; ya estaba fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42422671951",
   "duraciones": [
-   3.6,
    3.9,
    3.4,
    3.7,
@@ -36,10 +36,10 @@
    6.8,
    7.7,
    7.9,
-   8.2
+   8.2,
+   8.0
   ],
-  "estimado_min": 3.9,
-  "fase_desde": "2026-11-08T15:36:44-06:00"
+  "estimado_min": 5.3
  },
  "sherlock": {
   "estado": "termino",
