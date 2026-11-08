@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T17:27:59-06:00",
-  "desde": "2026-11-08T17:26:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T17:51:08-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había trabajo nuevo que yo pudiera tomar. En Marea ya tengo dos entregas esperando revisión, que es el máximo que autorizaste. En Siniestros falta que tú crees el proyecto en Supabase y pegues",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.8,
