@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T16:28:47-06:00",
-  "desde": "2026-11-08T16:26:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T16:30:11-06:00",
   "que": "corrida programada",
-  "resumen": "No hice nada nuevo en esta corrida. El último trabajo del juego (las cartas y la tienda) está esperando revisión, y lo demás espera algo tuyo, como aprobar imágenes o crear la cuenta de Supabase. No t",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.4,
