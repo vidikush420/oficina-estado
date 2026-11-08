@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T16:09:49-06:00",
   "desde": "2026-11-08T15:59:32-06:00",
   "que": "revisando el PR #72 (chalan-local/2026-11-07-cartas-alpha)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #72 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42525951400",
   "duraciones": [
-   3.9,
    3.4,
    3.7,
    3.9,
@@ -36,10 +36,10 @@
    7.7,
    7.9,
    8.2,
-   8.0
+   8.0,
+   10.3
   ],
-  "estimado_min": 5.3,
-  "fase_desde": "2026-11-08T16:09:45-06:00"
+  "estimado_min": 7.2
  },
  "sherlock": {
   "estado": "termino",
