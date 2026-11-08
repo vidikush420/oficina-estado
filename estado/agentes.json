@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T16:26:05-06:00",
   "desde": "2026-11-08T16:15:06-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "La tienda de cartas del juego Marea no había llegado al juego porque su paquete de cambios se cerró por un choque con otro. Lo volví a armar sobre la versión actual y las pruebas pasan. No tienes que",
   "url": "",
   "duraciones": [
-   4.5,
    21.4,
    2.4,
    18.8,
@@ -78,10 +78,10 @@
    9.8,
    9.8,
    1.1,
-   1.3
+   1.3,
+   11.0
   ],
-  "estimado_min": 3.5,
-  "fase_desde": "2026-11-08T16:24:48-06:00"
+  "estimado_min": 6.1
  },
  "gerente-de-zara": {
   "estado": "fallo",
