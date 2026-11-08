@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T15:55:01-06:00",
   "desde": "2026-11-08T15:45:13-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Puse en el juego el arte de cartas que aprobaste y armé la tienda de cartas en el puerto: compras sobres, los abres carta por carta, ves tu carpeta y mandas cartas a calificar. Aún falta que funcione",
   "url": "",
   "duraciones": [
-   2.1,
    35.3,
    162.9,
    4.5,
@@ -78,10 +78,10 @@
    18.8,
    2.2,
    1.4,
+   9.8,
    9.8
   ],
-  "estimado_min": 7.2,
-  "fase_desde": "2026-11-08T15:50:28-06:00"
+  "estimado_min": 9.8
  },
  "gerente-de-zara": {
   "estado": "fallo",
