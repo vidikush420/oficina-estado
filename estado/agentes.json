@@ -62,11 +62,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T16:33:41-06:00",
-  "desde": "2026-11-08T16:30:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T17:10:51-06:00",
   "que": "corrida programada",
-  "resumen": "No hice trabajo nuevo en esta corrida. La tienda de cartas de Marea ya está terminada y esperando revisión; hasta que se revise no abro otro trabajo en ese juego. Lo demás que me tocaría depende de ti",
+  "fase": "",
   "url": "",
   "duraciones": [
    18.8,
