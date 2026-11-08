@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T16:26:05-06:00",
-  "desde": "2026-11-08T16:15:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T16:26:56-06:00",
   "que": "corrida programada",
-  "resumen": "La tienda de cartas del juego Marea no había llegado al juego porque su paquete de cambios se cerró por un choque con otro. Lo volví a armar sobre la versión actual y las pruebas pasan. No tienes que",
+  "fase": "",
   "url": "",
   "duraciones": [
    21.4,
