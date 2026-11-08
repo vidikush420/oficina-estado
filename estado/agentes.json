@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T17:24:19-06:00",
   "desde": "2026-11-08T17:19:09-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Avancé la tienda de cartas de Marea: ahora el servidor sabe atender compras, apertura de sobres y gradeo cuando se juega en sala con amigos, y la tienda ya tiene textos en español e inglés. Todavía fa",
   "url": "",
   "duraciones": [
-   1.4,
    9.8,
    9.8,
    1.1,
@@ -78,10 +78,10 @@
    1.9,
    3.5,
    4.0,
-   1.0
+   1.0,
+   5.2
   ],
-  "estimado_min": 2.7,
-  "fase_desde": "2026-11-08T17:23:42-06:00"
+  "estimado_min": 3.8
  },
  "gerente-de-zara": {
   "estado": "fallo",
