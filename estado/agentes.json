@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T17:50:44-06:00",
   "desde": "2026-11-08T17:42:19-06:00",
   "que": "revisando el PR #79 (chalan-local/2026-11-08-cartas-sala-textos)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #79 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42534988594",
   "duraciones": [
-   3.9,
    3.5,
    6.8,
    7.7,
@@ -36,10 +36,10 @@
    8.0,
    10.3,
    7.9,
-   9.2
+   9.2,
+   8.4
   ],
-  "estimado_min": 7.9,
-  "fase_desde": "2026-11-08T17:50:37-06:00"
+  "estimado_min": 8.0
  },
  "sherlock": {
   "estado": "termino",
