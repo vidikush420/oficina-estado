@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-08T17:51:08-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 tienda de cartas conectada a la red",
+  "fase": "Marea: 3/4 corriendo pruebas",
   "url": "",
   "duraciones": [
    9.8,
@@ -81,7 +81,7 @@
    1.6
   ],
   "estimado_min": 2.7,
-  "fase_desde": "2026-11-08T17:52:58-06:00"
+  "fase_desde": "2026-11-08T17:54:59-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
