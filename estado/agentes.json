@@ -62,11 +62,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T17:14:51-06:00",
-  "desde": "2026-11-08T17:10:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T17:16:13-06:00",
   "que": "corrida programada",
-  "resumen": "Preparé la herramienta que le pondrá \"huesos\" al personaje del juego y lo hará caminar, lanzar la caña y celebrar. La probé con un servicio de mentira, así que todavía no se gastó ningún crédito real.",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.2,
