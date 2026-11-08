@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T15:35:33-06:00",
-  "desde": "2026-11-08T15:25:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T15:45:13-06:00",
   "que": "corrida programada",
-  "resumen": "El trabajo de las cartas coleccionables chocaba con otros cambios del juego; lo puse al día y las pruebas automáticas pasan. Una prueba falló una vez y no se repitió (es de azar), lo menciono por tran",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.1,
