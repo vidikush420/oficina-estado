@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-08T15:28:53-06:00",
   "que": "revisando el PR #73 (claude/2026-11-07-rx-versiones)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42422671951",
   "duraciones": [
    3.6,
@@ -38,7 +38,8 @@
    7.9,
    8.2
   ],
-  "estimado_min": 3.9
+  "estimado_min": 3.9,
+  "fase_desde": "2026-11-08T15:36:13-06:00"
  },
  "sherlock": {
   "estado": "termino",
