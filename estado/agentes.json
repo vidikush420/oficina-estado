@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T15:40:06-06:00",
   "que": "revisando el PR #79 (chalan-local/2026-11-09-matriz-android-chip)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42703384087",
   "duraciones": [
    5.7,
@@ -39,7 +39,7 @@
    1.8
   ],
   "estimado_min": 1.1,
-  "fase_desde": "2026-11-09T15:41:56-06:00"
+  "fase_desde": "2026-11-09T15:42:12-06:00"
  },
  "sherlock": {
   "estado": "termino",
