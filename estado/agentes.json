@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T04:06:23-06:00",
   "que": "revisando el PR #83 (chalan-local/2026-11-08-arte-sin-merges)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42598047067",
   "duraciones": [
    10.3,
@@ -38,7 +38,8 @@
    6.4,
    7.7
   ],
-  "estimado_min": 8.2
+  "estimado_min": 8.2,
+  "fase_desde": "2026-11-09T04:09:56-06:00"
  },
  "sherlock": {
   "estado": "termino",
