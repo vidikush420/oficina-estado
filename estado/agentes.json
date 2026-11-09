@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T15:55:23-06:00",
   "desde": "2026-11-09T15:54:16-06:00",
   "que": "revisando el PR #80 (claude/2026-11-09-produccion-por-sha)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #80 → PASA, fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42706814308",
   "duraciones": [
-   1.1,
    1.2,
    1.1,
    1.1,
@@ -36,10 +36,10 @@
    2.2,
    2.5,
    1.9,
-   0.9
+   0.9,
+   1.1
   ],
-  "estimado_min": 1.1,
-  "fase_desde": "2026-11-09T15:55:17-06:00"
+  "estimado_min": 1.1
  },
  "sherlock": {
   "estado": "termino",
