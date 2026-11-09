@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T12:27:23-06:00",
-  "desde": "2026-11-09T11:57:24-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T12:45:37-06:00",
   "que": "corrida programada",
-  "resumen": "Hice el aviso de «Subiendo…» que pediste: al crear una tarea o proyecto ahora se ve un círculo que gira y luego una palomita verde; si algo falla sale en rojo con un botón para reintentar sin perder l",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.7,
