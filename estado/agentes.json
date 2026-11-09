@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-08T19:25:17-06:00",
   "que": "revisando el PR #82 (chalan-local/2026-11-08-carpintero-astillero)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42543792183",
   "duraciones": [
    7.9,
@@ -38,7 +38,8 @@
    8.9,
    7.9
   ],
-  "estimado_min": 8.1
+  "estimado_min": 8.1,
+  "fase_desde": "2026-11-08T19:33:34-06:00"
  },
  "sherlock": {
   "estado": "termino",
