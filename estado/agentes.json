@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T01:50:41-06:00",
-  "desde": "2026-11-09T01:43:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T02:34:44-06:00",
   "que": "corrida programada",
-  "resumen": "Cambié la carta rara del dragón dorado en Marea por la versión que aprobaste (Zarghon, con su nombre ya bien escrito). Las pruebas automáticas pasaron, aunque una falla de vez en cuando sin razón clar",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
