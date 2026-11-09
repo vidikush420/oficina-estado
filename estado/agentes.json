@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T15:50:58-06:00",
   "que": "revisando el PR #90 (chalan-local/2026-11-09-carga-rapida)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/42704563773",
   "duraciones": [
    1.3,
@@ -39,7 +39,7 @@
    1.9
   ],
   "estimado_min": 1.2,
-  "fase_desde": "2026-11-09T15:51:43-06:00"
+  "fase_desde": "2026-11-09T15:51:48-06:00"
  },
  "sherlock": {
   "estado": "termino",
