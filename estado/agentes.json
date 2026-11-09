@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T04:46:22-06:00",
   "desde": "2026-11-09T04:42:34-06:00",
   "que": "revisando el PR #85 (claude/2026-11-09-marco-unico)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #85 → OJO cosmético, ya fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42599221736",
   "duraciones": [
-   9.2,
    8.4,
    6.3,
    8.9,
@@ -36,10 +36,10 @@
    6.4,
    7.7,
    4.1,
-   4.6
+   4.6,
+   3.8
   ],
-  "estimado_min": 7.8,
-  "fase_desde": "2026-11-09T04:46:18-06:00"
+  "estimado_min": 7.1
  },
  "sherlock": {
   "estado": "termino",
