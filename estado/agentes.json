@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T02:34:34-06:00",
-  "desde": "2026-11-09T02:26:55-06:00",
-  "que": "revisando el PR #84 (chalan-local/2026-11-09-zarghon-reliquia)",
-  "resumen": "PR #84 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42581850250",
+  "estado": "trabajando",
+  "desde": "2026-11-09T04:06:23-06:00",
+  "que": "revisando el PR #83 (chalan-local/2026-11-08-arte-sin-merges)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42598047067",
   "duraciones": [
    10.3,
    7.9,
