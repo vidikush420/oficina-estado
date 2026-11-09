@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T02:36:14-06:00",
-  "desde": "2026-11-09T02:34:44-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T02:37:42-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pueda hacer. Lo pendiente en el juego espera tu aprobación de arte o el trabajo de DaVinci, y el cambio #83 de Marea solo lo puedes fusionar tú. No tienes que hacer n",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.2,
