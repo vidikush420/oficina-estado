@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T19:45:31-06:00",
   "desde": "2026-11-08T19:42:21-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "El arreglo del generador de arte de Marea se había quedado desactualizado frente al resto del juego; lo puse al día y quedó listo. Las pruebas del juego pasan. Como toca la parte automática de GitHub,",
   "url": "",
   "duraciones": [
-   4.9,
    1.3,
    1.6,
    1.3,
@@ -78,10 +78,10 @@
    4.6,
    4.6,
    1.3,
-   2.2
+   2.2,
+   3.2
   ],
-  "estimado_min": 1.9,
-  "fase_desde": "2026-11-08T19:43:51-06:00"
+  "estimado_min": 1.9
  },
  "gerente-de-zara": {
   "estado": "fallo",
