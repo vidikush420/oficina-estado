@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T15:32:09-06:00",
   "desde": "2026-11-09T15:24:02-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 1/4 leyendo el proyecto",
+  "resumen": "La subida automática del micrófono a pruebas se detuvo por un fallo que apareció una sola vez en la prueba de Android. Lo repetí completo y pasó todo, así que fue un tropiezo pasajero. Dejé un aviso e",
   "url": "",
   "duraciones": [
-   3.4,
    2.5,
    0.9,
    1.1,
@@ -78,10 +78,10 @@
    0.6,
    53.4,
    0.7,
-   2.3
+   2.3,
+   8.1
   ],
-  "estimado_min": 1.7,
-  "fase_desde": "2026-11-09T15:24:37-06:00"
+  "estimado_min": 1.7
  },
  "gerente-de-zara": {
   "estado": "trabajando",
