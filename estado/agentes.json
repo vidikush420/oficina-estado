@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T11:45:59-06:00",
-  "desde": "2026-11-09T11:44:50-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T11:47:13-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo yo pudiera hacer en la Mac. Lo pendiente depende de que apruebes arte de Marea, de medir en un iPhone de verdad o de pegar las claves de Supabase. No tienes que hacer nada p",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.2,
