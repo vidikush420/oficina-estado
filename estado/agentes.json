@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T04:28:24-06:00",
-  "desde": "2026-11-09T04:26:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T04:29:52-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que yo pudiera hacer hoy: lo que queda depende de que Miguel apruebe ilustraciones o cree unas cuentas. El marco de las cartas de Marea ya está entregado y espera revisión. No tienes que",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.2,
