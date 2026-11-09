@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T15:08:20-06:00",
   "desde": "2026-11-09T15:06:01-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No había nada que solo yo pudiera hacer en la Mac. El micrófono de la Bitácora ya quedó integrado; lo de Marea espera medir en un iPhone de verdad. Si aún no ves el micrófono en beta, la cinta lo sube",
   "url": "",
   "duraciones": [
-   1.7,
    3.4,
    2.5,
    0.9,
@@ -78,9 +78,10 @@
    30.0,
    0.6,
    53.4,
-   0.7
+   0.7,
+   2.3
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
