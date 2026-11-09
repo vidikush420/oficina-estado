@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T15:51:54-06:00",
-  "desde": "2026-11-09T15:50:58-06:00",
-  "que": "revisando el PR #90 (chalan-local/2026-11-09-carga-rapida)",
-  "resumen": "PR #90 Marea → NO PASA (toca workflow), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42704563773",
+  "estado": "trabajando",
+  "desde": "2026-11-09T15:54:16-06:00",
+  "que": "revisando el PR #80 (claude/2026-11-09-produccion-por-sha)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42706814308",
   "duraciones": [
    1.1,
    1.2,
