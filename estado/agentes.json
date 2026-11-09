@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T12:51:34-06:00",
   "desde": "2026-11-09T12:50:17-06:00",
   "que": "revisando el PR #11 (claude/2026-11-09-solicitar-proyecto)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "sistemas-vidal #11 → OJO cosmético; ya estaba fusionado",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42677512711",
   "duraciones": [
-   7.9,
    12.8,
    6.4,
    7.7,
@@ -36,10 +36,10 @@
    3.8,
    5.7,
    4.1,
-   0.9
+   0.9,
+   1.3
   ],
-  "estimado_min": 5.2,
-  "fase_desde": "2026-11-09T12:51:30-06:00"
+  "estimado_min": 4.3
  },
  "sherlock": {
   "estado": "termino",
