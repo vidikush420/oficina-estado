@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T15:02:25-06:00",
   "que": "revisando el PR #78 (chalan-local/2026-11-09-dictado)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42698574696",
   "duraciones": [
    4.6,
@@ -38,7 +38,8 @@
    1.1,
    1.1
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-11-09T15:02:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
