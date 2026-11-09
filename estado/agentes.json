@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T04:31:36-06:00",
-  "desde": "2026-11-09T04:29:52-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T05:04:11-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer solo. Lo pendiente depende de que apruebes imágenes de Marea, de medir en un iPhone de verdad o de pegar claves de Supabase. El marco de cartas (PR #87) sigue es",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
