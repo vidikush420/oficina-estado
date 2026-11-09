@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T04:58:14-06:00",
   "que": "revisando el PR #87 (chalan-local/2026-11-09-marco-unico-cartas)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42603153994",
   "duraciones": [
    8.4,
@@ -38,7 +38,8 @@
    4.6,
    3.8
   ],
-  "estimado_min": 7.1
+  "estimado_min": 7.1,
+  "fase_desde": "2026-11-09T05:01:33-06:00"
  },
  "sherlock": {
   "estado": "termino",
