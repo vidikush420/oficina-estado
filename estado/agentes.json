@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T16:07:36-06:00",
   "desde": "2026-11-09T15:44:23-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "La prueba automática en el iPhone SE fallaba a veces al buscar una tarea recién creada, porque la app la guarda por detrás y la prueba no esperaba lo suficiente. Ahora la prueba reintenta unos segundo",
   "url": "",
   "duraciones": [
-   0.9,
    1.1,
    0.7,
    30.0,
@@ -78,10 +78,10 @@
    0.7,
    2.3,
    8.1,
-   6.5
+   6.5,
+   23.2
   ],
-  "estimado_min": 1.7,
-  "fase_desde": "2026-11-09T16:07:25-06:00"
+  "estimado_min": 4.4
  },
  "gerente-de-zara": {
   "estado": "fallo",
