@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T04:22:25-06:00",
   "que": "revisando el PR #86 (chalan-local/2026-11-09-cola-cartas-marcada)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42599302353",
   "duraciones": [
    7.9,
@@ -38,7 +38,8 @@
    7.7,
    4.1
   ],
-  "estimado_min": 7.9
+  "estimado_min": 7.9,
+  "fase_desde": "2026-11-09T04:26:08-06:00"
  },
  "sherlock": {
   "estado": "termino",
