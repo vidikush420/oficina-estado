@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T18:48:02-06:00",
-  "desde": "2026-11-08T18:38:50-06:00",
-  "que": "",
-  "resumen": "Terminé la parte visible de las cartas de Marea: al abrir un sobre las cartas salen boca abajo y las volteas tocándolas, la mejor va al final con suspenso; el gradeo revela la nota con tensión; y en t",
+  "estado": "trabajando",
+  "desde": "2026-11-08T18:49:14-06:00",
+  "que": "corrida programada",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.5,
