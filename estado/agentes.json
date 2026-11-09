@@ -84,10 +84,11 @@
   "estimado_min": 1.7
  },
  "gerente-de-zara": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-09T15:20:33-06:00",
   "desde": "2026-11-09T15:13:18-06:00",
   "que": "despliegue a producción de puente v2.36 build v60 (workflow)",
-  "fase": "",
+  "resumen": "REVERTIDO: falló la verificación y se revirtió a la versión anterior:         ✗ index.html no dice BUILD: 'v60'",
   "url": "",
   "duraciones": [
    6.0,
@@ -95,8 +96,9 @@
    7.4,
    7.5,
    1.1,
-   25.5
+   25.5,
+   7.2
   ],
-  "estimado_min": 6.7
+  "estimado_min": 7.2
  }
 }
