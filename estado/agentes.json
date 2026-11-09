@@ -62,11 +62,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T04:21:02-06:00",
-  "desde": "2026-11-09T04:15:20-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T04:22:31-06:00",
   "que": "corrida programada",
-  "resumen": "Programé el marco plateado único para las 121 cartas, en sus tres versiones, y ya se ve en todas las pantallas de cartas. Por ahora usa recortes del arte viejo hasta que lleguen las ilustraciones sin",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
