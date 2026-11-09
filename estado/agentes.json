@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T05:03:54-06:00",
-  "desde": "2026-11-09T04:58:14-06:00",
-  "que": "revisando el PR #87 (chalan-local/2026-11-09-marco-unico-cartas)",
-  "resumen": "PR #87 Marea → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42603153994",
+  "estado": "trabajando",
+  "desde": "2026-11-09T12:31:58-06:00",
+  "que": "revisando el PR #73 (chalan-local/2026-11-09-aviso-subida)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42674735459",
   "duraciones": [
    6.3,
    8.9,
