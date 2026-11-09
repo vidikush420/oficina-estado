@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-08T18:29:27-06:00",
   "que": "revisando el PR #80 (chalan-local/2026-11-08-tienda-cartas-red)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42537490817",
   "duraciones": [
    6.8,
@@ -38,7 +38,8 @@
    8.4,
    6.3
   ],
-  "estimado_min": 8.0
+  "estimado_min": 8.0,
+  "fase_desde": "2026-11-08T18:35:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
