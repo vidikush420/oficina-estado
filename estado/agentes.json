@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T13:41:58-06:00",
   "que": "revisando el PR #77 (claude/2026-11-09-chat-aviso)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42685769762",
   "duraciones": [
    4.1,
@@ -38,7 +38,8 @@
    1.2,
    1.1
   ],
-  "estimado_min": 2.5
+  "estimado_min": 2.5,
+  "fase_desde": "2026-11-09T13:42:22-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
