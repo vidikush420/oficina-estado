@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T13:12:40-06:00",
   "que": "revisando el PR #74 (claude/2026-11-09-dictado-y-chat)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42681114293",
   "duraciones": [
    6.4,
@@ -39,7 +39,7 @@
    1.1
   ],
   "estimado_min": 4.1,
-  "fase_desde": "2026-11-09T13:13:32-06:00"
+  "fase_desde": "2026-11-09T13:13:43-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
