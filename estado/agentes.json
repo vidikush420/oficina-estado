@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T01:43:47-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 Zarghon dorado como carta Reliquia",
   "url": "",
   "duraciones": [
    1.6,
@@ -81,7 +81,7 @@
    1.0
   ],
   "estimado_min": 1.9,
-  "fase_desde": "2026-11-09T01:45:26-06:00"
+  "fase_desde": "2026-11-09T01:45:43-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
