@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T19:40:51-06:00",
-  "desde": "2026-11-08T19:38:40-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T19:42:21-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pueda hacer. Lo que queda en el juego espera tu aprobación del arte o el trabajo de DaVinci, y hay un cambio mío (#83) que solo tú puedes aprobar. No tienes que hacer",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.9,
