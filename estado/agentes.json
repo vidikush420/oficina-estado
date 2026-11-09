@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T04:13:48-06:00",
-  "desde": "2026-11-09T04:11:26-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T04:15:20-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé lo que quedaba pendiente de las cartas de Marea y resultó que ya estaba hecho; solo faltaba tacharlo de la lista. Lo taché en un cambio pequeño que no toca el juego. Lo demás de la lista espera",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.6,
