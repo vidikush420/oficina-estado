@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T14:50:10-06:00",
-  "desde": "2026-11-09T13:56:45-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T14:50:51-06:00",
   "que": "corrida programada",
-  "resumen": "Agregué un botón de micrófono en las cajas donde se escribe en la Bitácora (comentarios, descripción, notas y actividades) para dictar con la voz. Si el navegador no lo permite, el botón simplemente n",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
