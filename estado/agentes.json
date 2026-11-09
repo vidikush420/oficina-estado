@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T12:27:23-06:00",
   "desde": "2026-11-09T11:57:24-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "Hice el aviso de «Subiendo…» que pediste: al crear una tarea o proyecto ahora se ve un círculo que gira y luego una palomita verde; si algo falla sale en rojo con un botón para reintentar sin perder l",
   "url": "",
   "duraciones": [
-   2.4,
    5.7,
    1.3,
    1.6,
@@ -78,10 +78,10 @@
    2.5,
    0.9,
    1.1,
-   0.7
+   0.7,
+   30.0
   ],
-  "estimado_min": 1.6,
-  "fase_desde": "2026-11-09T12:26:54-06:00"
+  "estimado_min": 1.6
  },
  "gerente-de-zara": {
   "estado": "fallo",
