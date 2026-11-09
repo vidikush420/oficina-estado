@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T15:32:09-06:00",
-  "desde": "2026-11-09T15:24:02-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T15:33:19-06:00",
   "que": "corrida programada",
-  "resumen": "La subida automática del micrófono a pruebas se detuvo por un fallo que apareció una sola vez en la prueba de Android. Lo repetí completo y pasó todo, así que fue un tropiezo pasajero. Dejé un aviso e",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.5,
