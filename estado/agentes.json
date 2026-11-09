@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-08T18:15:05-06:00",
-  "desde": "2026-11-08T18:08:49-06:00",
-  "que": "revisando el PR #78 (chalan-local/2026-11-08-rig-animar)",
-  "resumen": "PR #78 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42534213276",
+  "estado": "trabajando",
+  "desde": "2026-11-08T18:29:27-06:00",
+  "que": "revisando el PR #80 (chalan-local/2026-11-08-tienda-cartas-red)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42537490817",
   "duraciones": [
    6.8,
    7.7,
