@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T19:01:34-06:00",
   "desde": "2026-11-08T18:53:40-06:00",
   "que": "revisando el PR #81 (chalan-local/2026-11-08-cartas-visible)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #81 Marea → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42542095749",
   "duraciones": [
-   7.7,
    7.9,
    8.2,
    8.0,
@@ -36,10 +36,10 @@
    9.2,
    8.4,
    6.3,
-   8.9
+   8.9,
+   7.9
   ],
-  "estimado_min": 8.1,
-  "fase_desde": "2026-11-08T19:01:29-06:00"
+  "estimado_min": 8.1
  },
  "sherlock": {
   "estado": "termino",
