@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T15:30:02-06:00",
   "que": "revisando el PR #88 (claude/2026-11-09-plan-se-vea-juego)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42701915317",
   "duraciones": [
    3.8,
@@ -38,7 +38,8 @@
    1.1,
    1.1
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.1,
+  "fase_desde": "2026-11-09T15:31:12-06:00"
  },
  "sherlock": {
   "estado": "termino",
