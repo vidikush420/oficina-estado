@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T16:10:25-06:00",
   "que": "revisando el PR #92 (claude/2026-11-09-pesca-primero)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42709289504",
   "duraciones": [
    1.1,
@@ -38,7 +38,8 @@
    1.1,
    1.1
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.1,
+  "fase_desde": "2026-11-09T16:11:48-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
