@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T15:31:50-06:00",
   "desde": "2026-11-09T15:30:02-06:00",
   "que": "revisando el PR #88 (claude/2026-11-09-plan-se-vea-juego)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #88 → PASA, ya estaba fusionado por Miguel",
   "url": "https://github.com/vidikush420/marea/actions/runs/42701915317",
   "duraciones": [
-   3.8,
    5.7,
    4.1,
    0.9,
@@ -36,10 +36,10 @@
    1.2,
    1.1,
    1.1,
-   1.1
+   1.1,
+   1.8
   ],
-  "estimado_min": 1.1,
-  "fase_desde": "2026-11-09T15:31:44-06:00"
+  "estimado_min": 1.1
  },
  "sherlock": {
   "estado": "termino",
