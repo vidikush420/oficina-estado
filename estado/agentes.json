@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T15:42:18-06:00",
   "desde": "2026-11-09T15:40:06-06:00",
   "que": "revisando el PR #79 (chalan-local/2026-11-09-matriz-android-chip)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #79 → PASA, fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42703384087",
   "duraciones": [
-   5.7,
    4.1,
    0.9,
    1.3,
@@ -36,10 +36,10 @@
    1.1,
    1.1,
    1.1,
-   1.8
+   1.8,
+   2.2
   ],
-  "estimado_min": 1.1,
-  "fase_desde": "2026-11-09T15:42:12-06:00"
+  "estimado_min": 1.1
  },
  "sherlock": {
   "estado": "termino",
