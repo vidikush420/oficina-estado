@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T19:38:04-06:00",
   "desde": "2026-11-08T19:25:17-06:00",
   "que": "revisando el PR #82 (chalan-local/2026-11-08-carpintero-astillero)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #82 Marea → OJO (fusionado)",
   "url": "https://github.com/vidikush420/marea/actions/runs/42543792183",
   "duraciones": [
-   7.9,
    8.2,
    8.0,
    10.3,
@@ -36,10 +36,10 @@
    8.4,
    6.3,
    8.9,
-   7.9
+   7.9,
+   12.8
   ],
-  "estimado_min": 8.1,
-  "fase_desde": "2026-11-08T19:37:56-06:00"
+  "estimado_min": 8.3
  },
  "sherlock": {
   "estado": "termino",
