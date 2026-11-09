@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T17:58:11-06:00",
-  "desde": "2026-11-08T17:56:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T18:15:35-06:00",
   "que": "corrida programada",
-  "resumen": "No hice trabajo nuevo. Los dos cambios míos en el juego Marea esperan revisión y ya llegué al máximo de dos que autorizaste. Lo demás depende de ti (claves de Supabase, aprobar arte) o de datos de Sun",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
