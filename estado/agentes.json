@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T19:07:01-06:00",
-  "desde": "2026-11-08T19:02:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T19:08:40-06:00",
   "que": "corrida programada",
-  "resumen": "Puse al carpintero del astillero, ya con su figura en 3D, parado junto al astillero del puerto del juego. Las pruebas automáticas pasan. No pude verlo en pantalla, así que puede que quede de espaldas",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
