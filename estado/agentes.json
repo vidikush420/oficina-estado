@@ -42,12 +42,13 @@
   "estimado_min": 1.5
  },
  "sherlock": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T17:38:38-06:00",
   "desde": "2026-11-09T17:18:46-06:00",
   "que": "",
+  "resumen": "e14be417356e868f818a49653697f0ae1b998655 incompleto",
   "url": "",
   "duraciones": [
-   75.4,
    71.8,
    1.8,
    52.8,
@@ -56,11 +57,10 @@
    1.9,
    62.1,
    192.9,
-   70.5
+   70.5,
+   19.9
   ],
-  "fase": "5/5 cerrando la corrida",
-  "fase_desde": "2026-11-09T17:18:46-06:00",
-  "estimado_min": 57.5
+  "estimado_min": 52.5
  },
  "chalan-local": {
   "estado": "termino",
