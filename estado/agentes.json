@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T15:54:16-06:00",
   "que": "revisando el PR #80 (claude/2026-11-09-produccion-por-sha)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42706814308",
   "duraciones": [
    1.1,
@@ -38,7 +38,8 @@
    1.9,
    0.9
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.1,
+  "fase_desde": "2026-11-09T15:54:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
