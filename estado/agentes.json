@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T04:10:28-06:00",
-  "desde": "2026-11-09T04:06:23-06:00",
-  "que": "revisando el PR #83 (chalan-local/2026-11-08-arte-sin-merges)",
-  "resumen": "PR #83 → NO PASA (toca workflows), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42598047067",
+  "estado": "trabajando",
+  "desde": "2026-11-09T04:22:25-06:00",
+  "que": "revisando el PR #86 (chalan-local/2026-11-09-cola-cartas-marcada)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42599302353",
   "duraciones": [
    7.9,
    9.2,
