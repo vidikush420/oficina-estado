@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T20:12:08-06:00",
   "desde": "2026-11-08T20:05:43-06:00",
   "que": "revisando el PR #83 (chalan-local/2026-11-08-arte-sin-merges)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #83 Marea → NO PASA (toca workflows), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42547209766",
   "duraciones": [
-   8.2,
    8.0,
    10.3,
    7.9,
@@ -36,10 +36,10 @@
    6.3,
    8.9,
    7.9,
-   12.8
+   12.8,
+   6.4
   ],
-  "estimado_min": 8.3,
-  "fase_desde": "2026-11-08T20:12:02-06:00"
+  "estimado_min": 8.2
  },
  "sherlock": {
   "estado": "termino",
