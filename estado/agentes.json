@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-08T18:53:40-06:00",
   "que": "revisando el PR #81 (chalan-local/2026-11-08-cartas-visible)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/42542095749",
   "duraciones": [
    7.7,
@@ -39,7 +39,7 @@
    8.9
   ],
   "estimado_min": 8.1,
-  "fase_desde": "2026-11-08T19:01:17-06:00"
+  "fase_desde": "2026-11-08T19:01:29-06:00"
  },
  "sherlock": {
   "estado": "termino",
