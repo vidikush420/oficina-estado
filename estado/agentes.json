@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T04:27:02-06:00",
   "desde": "2026-11-09T04:22:25-06:00",
   "que": "revisando el PR #86 (chalan-local/2026-11-09-cola-cartas-marcada)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #86 Marea → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42599302353",
   "duraciones": [
-   7.9,
    9.2,
    8.4,
    6.3,
@@ -36,10 +36,10 @@
    12.8,
    6.4,
    7.7,
-   4.1
+   4.1,
+   4.6
   ],
-  "estimado_min": 7.9,
-  "fase_desde": "2026-11-09T04:26:44-06:00"
+  "estimado_min": 7.8
  },
  "sherlock": {
   "estado": "termino",
