@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T02:26:55-06:00",
   "que": "revisando el PR #84 (chalan-local/2026-11-09-zarghon-reliquia)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42581850250",
   "duraciones": [
    8.0,
@@ -38,7 +38,8 @@
    12.8,
    6.4
   ],
-  "estimado_min": 8.2
+  "estimado_min": 8.2,
+  "fase_desde": "2026-11-09T02:32:06-06:00"
  },
  "sherlock": {
   "estado": "termino",
