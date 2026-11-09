@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T15:31:50-06:00",
-  "desde": "2026-11-09T15:30:02-06:00",
-  "que": "revisando el PR #88 (claude/2026-11-09-plan-se-vea-juego)",
-  "resumen": "Marea PR #88 → PASA, ya estaba fusionado por Miguel",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42701915317",
+  "estado": "trabajando",
+  "desde": "2026-11-09T15:40:06-06:00",
+  "que": "revisando el PR #79 (chalan-local/2026-11-09-matriz-android-chip)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42703384087",
   "duraciones": [
    5.7,
    4.1,
