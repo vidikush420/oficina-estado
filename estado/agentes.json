@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T05:07:37-06:00",
-  "desde": "2026-11-09T05:04:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T05:08:19-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo yo pudiera hacer en la Mac. Lo que queda de Marea espera que apruebes arte o que DaVinci entregue sus piezas. No tienes que hacer nada por mí.",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.9,
