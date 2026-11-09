@@ -42,11 +42,9 @@
   "estimado_min": 1.5
  },
  "sherlock": {
-  "estado": "termino",
-  "cuando": "2026-11-09T17:18:31-06:00",
-  "desde": "2026-11-09T16:08:01-06:00",
-  "que": "veredicto de beta",
-  "resumen": "v61 INCOMPLETO: 5 de 7 renglones ok, 2 sin correr por el simulador",
+  "estado": "trabajando",
+  "desde": "2026-11-09T17:18:46-06:00",
+  "que": "",
   "url": "",
   "duraciones": [
    75.4,
@@ -60,6 +58,8 @@
    192.9,
    70.5
   ],
+  "fase": "5/5 cerrando la corrida",
+  "fase_desde": "2026-11-09T17:18:46-06:00",
   "estimado_min": 57.5
  },
  "chalan-local": {
