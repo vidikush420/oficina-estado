@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T18:17:11-06:00",
-  "desde": "2026-11-08T18:15:35-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T18:18:47-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no tomé trabajo nuevo. La entrega de la tienda de cartas de Marea sigue esperando revisión y lo que falta del juego se pisaría con ella, o depende de que apruebes arte. No tienes que hacer nada; e",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.0,
