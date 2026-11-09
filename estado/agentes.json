@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T16:12:29-06:00",
   "desde": "2026-11-09T16:10:25-06:00",
   "que": "revisando el PR #92 (claude/2026-11-09-pesca-primero)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #92 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42709289504",
   "duraciones": [
-   1.1,
    1.1,
    1.1,
    1.8,
@@ -36,10 +36,10 @@
    1.9,
    0.9,
    1.1,
-   1.1
+   1.1,
+   2.1
   ],
-  "estimado_min": 1.1,
-  "fase_desde": "2026-11-09T16:12:21-06:00"
+  "estimado_min": 1.5
  },
  "sherlock": {
   "estado": "trabajando",
