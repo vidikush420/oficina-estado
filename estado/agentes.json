@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T15:39:46-06:00",
-  "desde": "2026-11-09T15:33:19-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T15:44:23-06:00",
   "que": "corrida programada",
-  "resumen": "Hice que Marea cargue más rápido en el navegador: el archivo más pesado ahora viaja comprimido a una cuarta parte y la pantalla de espera ya tiene el nombre del juego y una barra que avanza de verdad.",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
