@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T15:39:46-06:00",
   "desde": "2026-11-09T15:33:19-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Hice que Marea cargue más rápido en el navegador: el archivo más pesado ahora viaja comprimido a una cuarta parte y la pantalla de espera ya tiene el nombre del juego y una barra que avanza de verdad.",
   "url": "",
   "duraciones": [
-   2.5,
    0.9,
    1.1,
    0.7,
@@ -78,10 +78,10 @@
    53.4,
    0.7,
    2.3,
-   8.1
+   8.1,
+   6.5
   ],
-  "estimado_min": 1.7,
-  "fase_desde": "2026-11-09T15:39:18-06:00"
+  "estimado_min": 1.7
  },
  "gerente-de-zara": {
   "estado": "fallo",
