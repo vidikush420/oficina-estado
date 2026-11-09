@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T12:51:34-06:00",
-  "desde": "2026-11-09T12:50:17-06:00",
-  "que": "revisando el PR #11 (claude/2026-11-09-solicitar-proyecto)",
-  "resumen": "sistemas-vidal #11 → OJO cosmético; ya estaba fusionado",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42677512711",
+  "estado": "trabajando",
+  "desde": "2026-11-09T12:59:26-06:00",
+  "que": "revisando el PR #12 (claude/2026-11-09-adjuntos)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42678978656",
   "duraciones": [
    12.8,
    6.4,
