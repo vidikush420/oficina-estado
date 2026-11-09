@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T14:51:33-06:00",
-  "desde": "2026-11-09T14:50:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T15:06:01-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada nuevo que solo yo pudiera hacer en la Mac. El micrófono de la Bitácora ya está listo y espera revisión; lo de Marea espera tu aprobación de arte. Tienes que correr tú ./desplegar.sh 2.36",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.7,
