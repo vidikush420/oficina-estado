@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T12:31:58-06:00",
   "que": "revisando el PR #73 (chalan-local/2026-11-09-aviso-subida)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42674735459",
   "duraciones": [
    6.3,
@@ -38,7 +38,8 @@
    3.8,
    5.7
   ],
-  "estimado_min": 6.3
+  "estimado_min": 6.3,
+  "fase_desde": "2026-11-09T12:35:54-06:00"
  },
  "sherlock": {
   "estado": "termino",
