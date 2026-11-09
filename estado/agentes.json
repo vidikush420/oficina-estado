@@ -84,11 +84,10 @@
   "fase_desde": "2026-11-09T15:24:37-06:00"
  },
  "gerente-de-zara": {
-  "estado": "fallo",
-  "cuando": "2026-11-09T15:20:33-06:00",
-  "desde": "2026-11-09T15:13:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T15:26:59-06:00",
   "que": "despliegue a producción de puente v2.36 build v60 (workflow)",
-  "resumen": "REVERTIDO: falló la verificación y se revirtió a la versión anterior:         ✗ index.html no dice BUILD: 'v60'",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.0,
