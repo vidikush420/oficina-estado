@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T02:34:34-06:00",
   "desde": "2026-11-09T02:26:55-06:00",
   "que": "revisando el PR #84 (chalan-local/2026-11-09-zarghon-reliquia)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #84 Marea → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42581850250",
   "duraciones": [
-   8.0,
    10.3,
    7.9,
    9.2,
@@ -36,10 +36,10 @@
    8.9,
    7.9,
    12.8,
-   6.4
+   6.4,
+   7.7
   ],
-  "estimado_min": 8.2,
-  "fase_desde": "2026-11-09T02:34:27-06:00"
+  "estimado_min": 8.2
  },
  "sherlock": {
   "estado": "termino",
