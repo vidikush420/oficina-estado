@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T04:15:20-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 programando el marco único de cartas",
+  "fase": "Marea: 3/4 corriendo pruebas y capturas",
   "url": "",
   "duraciones": [
    4.6,
@@ -81,7 +81,7 @@
    2.4
   ],
   "estimado_min": 2.2,
-  "fase_desde": "2026-11-09T04:17:26-06:00"
+  "fase_desde": "2026-11-09T04:18:17-06:00"
  },
  "gerente-de-zara": {
   "estado": "fallo",
