@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T22:43:32-06:00",
-  "desde": "2026-11-08T22:42:33-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T01:43:47-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pueda hacer. Lo que queda en el juego espera que apruebes arte o dejes archivos; además, el cambio #83 de Marea solo lo puedes fusionar tú. No tienes que hacer nada m",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
