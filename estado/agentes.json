@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T13:00:30-06:00",
-  "desde": "2026-11-09T12:59:26-06:00",
-  "que": "revisando el PR #12 (claude/2026-11-09-adjuntos)",
-  "resumen": "PR #12 → OJO cosmético; ya estaba fusionado",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42678978656",
+  "estado": "trabajando",
+  "desde": "2026-11-09T13:12:40-06:00",
+  "que": "revisando el PR #74 (claude/2026-11-09-dictado-y-chat)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42681114293",
   "duraciones": [
    6.4,
    7.7,
