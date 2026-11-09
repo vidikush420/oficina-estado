@@ -21,13 +21,13 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T15:58:45-06:00",
   "desde": "2026-11-09T15:57:40-06:00",
   "que": "revisando el PR #91 (claude/2026-11-09-nombre-oficial)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #91 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42704769206",
   "duraciones": [
-   1.2,
    1.1,
    1.1,
    1.1,
@@ -36,10 +36,10 @@
    2.5,
    1.9,
    0.9,
+   1.1,
    1.1
   ],
-  "estimado_min": 1.1,
-  "fase_desde": "2026-11-09T15:58:38-06:00"
+  "estimado_min": 1.1
  },
  "sherlock": {
   "estado": "termino",
