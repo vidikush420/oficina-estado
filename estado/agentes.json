@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T04:23:50-06:00",
-  "desde": "2026-11-09T04:22:31-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T04:26:47-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había trabajo que yo pudiera hacer en la Mac: todo lo pendiente espera una aprobación tuya, los accesos de Supabase o los datos de Sunday. No toqué nada. No tienes que hacer nada por mi parte.",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.2,
