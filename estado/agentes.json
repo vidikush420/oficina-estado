@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-08T19:01:34-06:00",
-  "desde": "2026-11-08T18:53:40-06:00",
-  "que": "revisando el PR #81 (chalan-local/2026-11-08-cartas-visible)",
-  "resumen": "PR #81 Marea → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42542095749",
+  "estado": "trabajando",
+  "desde": "2026-11-08T19:25:17-06:00",
+  "que": "revisando el PR #82 (chalan-local/2026-11-08-carpintero-astillero)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42543792183",
   "duraciones": [
    7.9,
    8.2,
