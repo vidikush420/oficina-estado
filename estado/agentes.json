@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T15:03:31-06:00",
-  "desde": "2026-11-09T15:02:25-06:00",
-  "que": "revisando el PR #78 (chalan-local/2026-11-09-dictado)",
-  "resumen": "PR #78 → PASA, fusionado (beta pendiente: requiere la Mac)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42698574696",
+  "estado": "trabajando",
+  "desde": "2026-11-09T15:30:02-06:00",
+  "que": "revisando el PR #88 (claude/2026-11-09-plan-se-vea-juego)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42701915317",
   "duraciones": [
    3.8,
    5.7,
