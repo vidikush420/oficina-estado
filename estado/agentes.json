@@ -63,11 +63,10 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-08T19:16:22-06:00",
-  "desde": "2026-11-08T19:15:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-08T19:38:40-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no empecé nada nuevo en el juego: ya tengo dos trabajos esperando revisión y ese es el máximo que autorizaste. En los demás proyectos no hay nada que dependa de la Mac. No tienes que hacer nada; c",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
