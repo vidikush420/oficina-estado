@@ -63,13 +63,13 @@
   "estimado_min": 52.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-08T19:16:22-06:00",
   "desde": "2026-11-08T19:15:06-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no empecé nada nuevo en el juego: ya tengo dos trabajos esperando revisión y ese es el máximo que autorizaste. En los demás proyectos no hay nada que dependa de la Mac. No tienes que hacer nada; c",
   "url": "",
   "duraciones": [
-   5.2,
    1.6,
    4.9,
    1.3,
@@ -78,9 +78,10 @@
    9.2,
    1.0,
    4.6,
-   4.6
+   4.6,
+   1.3
   ],
-  "estimado_min": 3.1
+  "estimado_min": 1.6
  },
  "gerente-de-zara": {
   "estado": "fallo",
