@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-08T18:08:49-06:00",
   "que": "revisando el PR #78 (chalan-local/2026-11-08-rig-animar)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/42534213276",
   "duraciones": [
    3.5,
@@ -39,7 +39,7 @@
    8.4
   ],
   "estimado_min": 8.0,
-  "fase_desde": "2026-11-08T18:14:30-06:00"
+  "fase_desde": "2026-11-08T18:14:44-06:00"
  },
  "sherlock": {
   "estado": "termino",
