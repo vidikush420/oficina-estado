@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T15:36:51-06:00",
-  "desde": "2026-11-10T15:17:44-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T15:37:48-06:00",
   "que": "corrida programada",
-  "resumen": "Mejoré cómo se ven las rocas, las plantas y la madera del puerto de Marea. Las rocas ya no parecen cajas y las palmeras tienen más detalle. El juego corre igual de fluido en el celular simulado. Falta",
+  "fase": "",
   "url": "",
   "duraciones": [
    7.2,
