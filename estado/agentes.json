@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T05:30:26-06:00",
-  "desde": "2026-11-10T05:03:08-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T05:32:00-06:00",
   "que": "corrida programada",
-  "resumen": "Probé el juego en un iPhone simulado y va muy lento: unos 3 cuadros por segundo cuando necesita al menos 30. La culpa es la madera nueva del puerto: son demasiadas piezas sueltas y el teléfono se ahog",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.5,
