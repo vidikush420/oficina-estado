@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T01:17:52-06:00",
-  "desde": "2026-11-10T01:10:04-06:00",
-  "que": "revisando el PR #100 (chalan-local/2026-11-09-sprint-largo)",
-  "resumen": "PR #100 Marea → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42771683552",
+  "estado": "trabajando",
+  "desde": "2026-11-10T02:40:42-06:00",
+  "que": "revisando el PR #82 (chalan-local/2026-11-10-tope-humo)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42783902543",
   "duraciones": [
    8.0,
    8.2,
