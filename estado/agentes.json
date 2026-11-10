@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T15:36:51-06:00",
   "desde": "2026-11-10T15:17:44-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Mejoré cómo se ven las rocas, las plantas y la madera del puerto de Marea. Las rocas ya no parecen cajas y las palmeras tienen más detalle. El juego corre igual de fluido en el celular simulado. Falta",
   "url": "",
   "duraciones": [
-   39.4,
    7.2,
    2.1,
    8.7,
@@ -78,10 +78,10 @@
    1.2,
    1.5,
    0.7,
-   11.0
+   11.0,
+   19.1
   ],
-  "estimado_min": 2.0,
-  "fase_desde": "2026-11-10T15:36:20-06:00"
+  "estimado_min": 2.0
  },
  "gerente-de-zara": {
   "estado": "termino",
