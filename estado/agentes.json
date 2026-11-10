@@ -21,13 +21,13 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-10T03:05:30-06:00",
   "desde": "2026-11-10T02:45:54-06:00",
   "que": "revisando el PR #101 (chalan-local/2026-11-10-tutorial)",
-  "fase": "",
+  "resumen": "la corrida terminó con cancelled (ver el enlace)",
   "url": "https://github.com/vidikush420/marea/actions/runs/42779229892",
   "duraciones": [
-   8.0,
    8.2,
    8.3,
    10.4,
@@ -36,7 +36,8 @@
    6.1,
    6.3,
    0.8,
-   7.8
+   7.8,
+   19.6
   ],
   "estimado_min": 7.4
  },
