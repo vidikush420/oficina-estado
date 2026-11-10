@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T14:01:14-06:00",
   "desde": "2026-11-10T13:52:32-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Arreglé que la cámara se quedara metida entre las hojas y los techos: en computadora ahora lo que estorba al frente se hace transparente u oculta. Se ve mejor en los tres puntos del puerto que revisas",
   "url": "",
   "duraciones": [
-   3.9,
    1.1,
    2.7,
    1.1,
@@ -78,10 +78,10 @@
    2.0,
    39.4,
    7.2,
-   2.1
+   2.1,
+   8.7
   ],
-  "estimado_min": 2.1,
-  "fase_desde": "2026-11-10T14:01:02-06:00"
+  "estimado_min": 2.1
  },
  "gerente-de-zara": {
   "estado": "termino",
