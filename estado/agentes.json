@@ -62,13 +62,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T03:36:54-06:00",
   "desde": "2026-11-10T03:25:18-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Ajusté la pesca para que un jugador nuevo vea su primer pez legendario en unos 13 minutos; antes tardaba como dos horas. Las pruebas del juego entre amigos por código siguen funcionando. No pude medir",
   "url": "",
   "duraciones": [
-   5.7,
    5.3,
    4.1,
    13.4,
@@ -77,9 +77,10 @@
    7.5,
    11.5,
    5.1,
-   5.0
+   5.0,
+   11.6
   ],
-  "estimado_min": 6.0
+  "estimado_min": 6.9
  },
  "gerente-de-zara": {
   "estado": "termino",
