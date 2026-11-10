@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T18:56:40-06:00",
-  "desde": "2026-11-09T18:54:36-06:00",
-  "que": "Marea: nombre oficial Lumora's ONE MORE CAST",
-  "resumen": "No tienes que hacer nada; en las siguientes corridas sigo con que el juego se vea más bonito.",
+  "estado": "trabajando",
+  "desde": "2026-11-09T18:57:30-06:00",
+  "que": "corrida programada",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
