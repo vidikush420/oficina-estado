@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T13:03:35-06:00",
-  "desde": "2026-11-10T13:02:21-06:00",
-  "que": "revisando el PR #16 (chalan/2026-11-10-prioridades-fase1)",
-  "resumen": "PR #16 → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42881102600",
+  "estado": "trabajando",
+  "desde": "2026-11-10T13:26:38-06:00",
+  "que": "revisando el PR #109 (chalan-local/2026-11-10-mundo-propio-tanda2)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42885187019",
   "duraciones": [
    10.5,
    12.5,
