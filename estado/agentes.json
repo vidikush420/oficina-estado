@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T00:49:39-06:00",
-  "desde": "2026-11-10T00:44:19-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T00:51:04-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé lo que alcancé de tu lista: el barco ahora deja una estela de espuma al navegar y los letreros de monedas y los botones tienen el estilo del juego, ya no se ven de prototipo. Faltan el video d",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.4,
