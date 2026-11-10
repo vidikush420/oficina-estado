@@ -21,13 +21,13 @@
   "fase_desde": "2026-11-09T18:50:16-06:00"
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T18:53:08-06:00",
   "desde": "2026-11-09T18:49:38-06:00",
   "que": "revisando el PR #93 (chalan-local/2026-11-09-pesca-dopaminosa)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #93 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42730796235",
   "duraciones": [
-   0.9,
    1.1,
    1.1,
    2.1,
@@ -36,10 +36,10 @@
    3.6,
    0.6,
    1.4,
-   1.1
+   1.1,
+   3.5
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-09T18:53:03-06:00"
+  "estimado_min": 1.8
  },
  "sherlock": {
   "estado": "termino",
