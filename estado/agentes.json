@@ -21,13 +21,13 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T20:29:20-06:00",
   "desde": "2026-11-09T20:21:08-06:00",
   "que": "revisando el PR #90 (chalan-local/2026-11-09-carga-rapida)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #90 → ya estaba fusionado por Miguel; sin comentario nuevo",
   "url": "https://github.com/vidikush420/marea/actions/runs/42734815958",
   "duraciones": [
-   3.5,
    3.6,
    0.6,
    1.4,
@@ -36,10 +36,10 @@
    1.6,
    5.2,
    13.8,
-   8.0
+   8.0,
+   8.2
   ],
-  "estimado_min": 3.5,
-  "fase_desde": "2026-11-09T20:29:14-06:00"
+  "estimado_min": 3.5
  },
  "sherlock": {
   "estado": "termino",
