@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T15:14:48-06:00",
   "desde": "2026-11-10T15:03:50-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 rehaciendo rocas y vegetación",
+  "resumen": "No había nada que pudiera hacer yo solo en la Mac; todo lo pendiente espera una decisión o aprobación tuya. No tienes que hacer nada nuevo respecto a la corrida anterior.",
   "url": "",
   "duraciones": [
-   2.0,
    39.4,
    7.2,
    2.1,
@@ -78,10 +78,10 @@
    1.9,
    1.2,
    1.5,
-   0.7
+   0.7,
+   11.0
   ],
-  "estimado_min": 1.9,
-  "fase_desde": "2026-11-10T15:04:49-06:00"
+  "estimado_min": 2.0
  },
  "gerente-de-zara": {
   "estado": "termino",
