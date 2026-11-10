@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T22:27:54-06:00",
-  "desde": "2026-11-09T22:12:31-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T22:28:42-06:00",
   "que": "corrida programada",
-  "resumen": "Falta el video corto y verlo ya publicado en la página; el personaje animado sigue después. Por ahora solo revisa las fotos del PR.",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.4,
