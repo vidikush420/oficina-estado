@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-09T22:37:54-06:00",
-  "que": "revisando el PR #98 (chalan-local/2026-11-09-marea-se-ve-bien)",
+  "desde": "2026-11-09T23:02:11-06:00",
+  "que": "revisando el PR #99 (chalan-local/2026-11-09-medir-carga)",
   "fase": "",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42756006447",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42759498867",
   "duraciones": [
    3.5,
    1.6,
