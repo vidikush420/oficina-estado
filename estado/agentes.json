@@ -62,11 +62,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T06:32:48-06:00",
-  "desde": "2026-11-10T05:32:00-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T06:33:37-06:00",
   "que": "corrida programada",
-  "resumen": "Hice que el puerto del juego corra mucho más fluido en un iPhone simulado: pasó de unos 3 cuadros por segundo a unos 15 a 19. Todavía no llega a los 30 que queríamos para que se sienta suave, así que",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.1,
