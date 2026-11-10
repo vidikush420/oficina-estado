@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-10T02:40:42-06:00",
-  "que": "revisando el PR #82 (chalan-local/2026-11-10-tope-humo)",
+  "desde": "2026-11-10T02:45:54-06:00",
+  "que": "revisando el PR #101 (chalan-local/2026-11-10-tutorial)",
   "fase": "",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42783902543",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42779229892",
   "duraciones": [
    8.0,
    8.2,
