@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T09:07:02-06:00",
-  "desde": "2026-11-10T08:56:51-06:00",
-  "que": "revisando el PR #101 (chalan-local/2026-11-10-tutorial)",
-  "resumen": "Marea PR #101 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42836862187",
+  "estado": "trabajando",
+  "desde": "2026-11-10T09:37:11-06:00",
+  "que": "revisando el PR #107 (chalan-local/2026-11-10-conciliar-fps)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42842342419",
   "duraciones": [
    13.9,
    14.3,
