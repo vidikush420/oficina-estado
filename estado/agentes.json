@@ -21,13 +21,13 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T20:55:31-06:00",
   "desde": "2026-11-09T20:45:04-06:00",
   "que": "revisando el PR #95 (chalan-local/2026-11-09-se-ve-como-juego)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #95 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42741591007",
   "duraciones": [
-   0.6,
    1.4,
    1.1,
    3.5,
@@ -36,10 +36,10 @@
    13.8,
    8.0,
    8.2,
-   8.3
+   8.3,
+   10.4
   ],
-  "estimado_min": 4.3,
-  "fase_desde": "2026-11-09T20:55:26-06:00"
+  "estimado_min": 6.6
  },
  "sherlock": {
   "estado": "termino",
