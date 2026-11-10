@@ -21,12 +21,10 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T14:06:03-06:00",
-  "desde": "2026-11-10T14:05:18-06:00",
-  "que": "revisando el PR #110 (chalan-local/2026-11-10-camara-vegetacion)",
-  "resumen": "PR #17 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42890991161",
+  "estado": "trabajando",
+  "desde": "2026-11-10T14:09:38-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    8.2,
    7.2,
@@ -39,6 +37,8 @@
    0.6,
    0.8
   ],
+  "fase": "3/4 veredicto y fusión",
+  "fase_desde": "2026-11-10T14:09:38-06:00",
   "estimado_min": 1.1
  },
  "sherlock": {
