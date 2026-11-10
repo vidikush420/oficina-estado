@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T18:18:15-06:00",
-  "desde": "2026-11-09T18:16:28-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T18:19:05-06:00",
   "que": "corrida programada",
-  "resumen": "Un cambio mío a las pruebas de la Bitácora chocaba con otro más reciente y Aduana no podía integrarlo. Lo puse al día, sin tocar la app. No tienes que hacer nada; Aduana lo revisará de nuevo. La pesca",
+  "fase": "",
   "url": "",
   "duraciones": [
    30.0,
