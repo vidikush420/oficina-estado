@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T09:09:43-06:00",
   "desde": "2026-11-10T09:05:10-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "Aduana pidió un ajuste a la herramienta que corta las pruebas del simulador de iPhone cuando se quedan colgadas: no debía cortar también pruebas de otros simuladores corriendo al mismo tiempo. Ya está",
   "url": "",
   "duraciones": [
-   5.5,
    27.3,
    60.8,
    15.9,
@@ -78,10 +78,10 @@
    3.6,
    4.0,
    3.2,
-   1.3
+   1.3,
+   4.5
   ],
-  "estimado_min": 10.7,
-  "fase_desde": "2026-11-10T09:09:09-06:00"
+  "estimado_min": 10.2
  },
  "gerente-de-zara": {
   "estado": "termino",
