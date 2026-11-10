@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-09T23:08:16-06:00",
+  "cuando": "2026-11-09T23:08:28-06:00",
   "desde": "2026-11-09T23:02:11-06:00",
   "que": "revisando el PR #99 (chalan-local/2026-11-09-medir-carga)",
   "resumen": "PR #99 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42759498867",
   "duraciones": [
-   1.6,
    5.2,
    13.8,
    8.0,
@@ -37,7 +36,8 @@
    10.4,
    7.0,
    5.2,
-   6.1
+   6.1,
+   6.3
   ],
   "estimado_min": 7.5
  },
