@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T04:15:50-06:00",
-  "desde": "2026-11-10T04:01:44-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T04:20:20-06:00",
   "que": "corrida programada",
-  "resumen": "Quité el cambio que hacía fácil el primer legendario: vuelven a ser difíciles. Agregué 8 misiones cortas (pescar, vender, viajar, llenar la pecera...) que regalan sobres de cartas, y una misión grande",
+  "fase": "",
   "url": "",
   "duraciones": [
    13.4,
