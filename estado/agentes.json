@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T16:07:36-06:00",
-  "desde": "2026-11-09T15:44:23-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T18:07:56-06:00",
   "que": "corrida programada",
-  "resumen": "La prueba automática en el iPhone SE fallaba a veces al buscar una tarea recién creada, porque la app la guarda por detrás y la prueba no esperaba lo suficiente. Ahora la prueba reintenta unos segundo",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
