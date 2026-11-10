@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T10:26:49-06:00",
   "que": "revisando el PR #108 (chalan-local/2026-11-10-conciliar-pesca)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/42848093666",
   "duraciones": [
    14.3,
@@ -39,7 +39,7 @@
    8.2
   ],
   "estimado_min": 11.5,
-  "fase_desde": "2026-11-10T10:33:17-06:00"
+  "fase_desde": "2026-11-10T10:33:29-06:00"
  },
  "sherlock": {
   "estado": "termino",
