@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-09T18:56:33-06:00",
+  "cuando": "2026-11-09T18:56:40-06:00",
   "desde": "2026-11-09T18:54:36-06:00",
   "que": "Marea: nombre oficial Lumora's ONE MORE CAST",
-  "resumen": "Marea: PR 94 nombre oficial",
+  "resumen": "No tienes que hacer nada; en las siguientes corridas sigo con que el juego se vea más bonito.",
   "url": "",
   "duraciones": [
-   53.4,
    0.7,
    2.3,
    8.1,
@@ -79,9 +78,10 @@
    7.0,
    1.8,
    27.1,
-   1.9
+   1.9,
+   2.1
   ],
-  "estimado_min": 6.8
+  "estimado_min": 4.4
  },
  "gerente-de-zara": {
   "estado": "termino",
