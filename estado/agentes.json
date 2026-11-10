@@ -63,13 +63,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-09T23:01:53-06:00",
+  "cuando": "2026-11-09T23:02:05-06:00",
   "desde": "2026-11-09T22:58:15-06:00",
   "que": "corrida programada",
-  "resumen": "Marea: medición de carga, PR #99",
+  "resumen": "Medí cuánto tarda en bajar Marea desde tu página: unos 45 segundos el motor y otros 68 segundos los datos del juego, porque el servidor entrega solo unos 200 KB por segundo. Mientras eso no cambie, la",
   "url": "",
   "duraciones": [
-   1.4,
    1.4,
    4.2,
    2.1,
@@ -78,9 +77,10 @@
    14.1,
    15.4,
    1.0,
-   3.6
+   3.6,
+   3.8
   ],
-  "estimado_min": 3.9
+  "estimado_min": 4.0
  },
  "gerente-de-zara": {
   "estado": "termino",
