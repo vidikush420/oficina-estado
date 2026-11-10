@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T18:43:24-06:00",
   "que": "a mano: cola: URGENTE Bóveda: demo navegable en rhwellness.mx/boveda/ con cartas reales",
-  "fase": "2/5 haciendo el cambio",
+  "fase": "3/5 corriendo pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42730410333",
   "duraciones": [
    2.6,
@@ -18,7 +18,7 @@
    5.5
   ],
   "estimado_min": 3.0,
-  "fase_desde": "2026-11-09T18:44:10-06:00"
+  "fase_desde": "2026-11-09T18:50:16-06:00"
  },
  "aduana": {
   "estado": "trabajando",
