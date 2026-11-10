@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T21:34:05-06:00",
   "desde": "2026-11-09T20:56:33-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Ya puedes ver Marea tal como está publicada: grabé videos y capturas en computadora y celular y los dejé en un cambio para que los abras. En la computadora se ve bien: inicio, muelle, lanzar y pescar",
   "url": "",
   "duraciones": [
-   1.9,
    2.1,
    11.8,
    3.8,
@@ -78,9 +78,10 @@
    1.4,
    1.4,
    4.2,
-   2.1
+   2.1,
+   37.5
   ],
-  "estimado_min": 2.1
+  "estimado_min": 2.8
  },
  "gerente-de-zara": {
   "estado": "termino",
