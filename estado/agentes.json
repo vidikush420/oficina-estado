@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T19:14:09-06:00",
-  "desde": "2026-11-09T19:10:20-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T19:15:07-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio que hace que Marea se vea más como juego chocaba con otro cambio ya integrado (el del nombre). Lo puse al día y las pruebas pasan. No tienes que hacer nada ahora; Aduana lo revisará. Sigue p",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.1,
