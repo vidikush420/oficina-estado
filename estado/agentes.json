@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-06T05:29:05-06:00",
-  "desde": "2026-11-06T05:23:35-06:00",
-  "que": "a mano: cola: - [ ] [oficina] Marea: herramientas/arte/meshy_generar.py anota creditos: 10 por variante en meta.json cuando cada una c",
-  "resumen": "Marea: PR #46 abierto (créditos por variante en meshy_generar.py)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42209818949",
+  "estado": "trabajando",
+  "desde": "2026-11-09T18:43:24-06:00",
+  "que": "a mano: cola: URGENTE Bóveda: demo navegable en rhwellness.mx/boveda/ con cartas reales",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42730410333",
   "duraciones": [
    2.6,
    1.3,
