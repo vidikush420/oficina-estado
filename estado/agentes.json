@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T19:14:09-06:00",
   "desde": "2026-11-09T19:10:20-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El cambio que hace que Marea se vea más como juego chocaba con otro cambio ya integrado (el del nombre). Lo puse al día y las pruebas pasan. No tienes que hacer nada ahora; Aduana lo revisará. Sigue p",
   "url": "",
   "duraciones": [
-   2.3,
    8.1,
    6.5,
    23.2,
@@ -78,10 +78,10 @@
    27.1,
    1.9,
    2.1,
-   11.8
+   11.8,
+   3.8
   ],
-  "estimado_min": 6.8,
-  "fase_desde": "2026-11-09T19:13:47-06:00"
+  "estimado_min": 6.8
  },
  "gerente-de-zara": {
   "estado": "termino",
