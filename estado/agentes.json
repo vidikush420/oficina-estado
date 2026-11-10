@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T09:26:15-06:00",
-  "desde": "2026-11-10T09:25:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T09:45:27-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer sin esperarte a ti. Lo único que quedaba de velocidad en Marea ya está hecho y solo falta que apruebes el cambio que lo anota. Lo demás espera tu visto bueno en",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.9,
