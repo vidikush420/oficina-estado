@@ -62,11 +62,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T13:26:16-06:00",
-  "desde": "2026-11-10T12:46:54-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T13:26:57-06:00",
   "que": "corrida programada",
-  "resumen": "Hice palmeras, plantas, flores, rocas y seis construcciones de madera nuevas (puesto con toldo, almacén, faro, cobertizo, barca con vela, muelle largo), todo dibujado por código sin comprar nada, y ya",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
