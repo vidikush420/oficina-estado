@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T08:24:15-06:00",
   "desde": "2026-11-10T07:43:07-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Probé el juego en el iPhone simulado. Cuando la Mac no está ocupada con otras cosas corre a 60 cuadros por segundo, el doble de la meta; los 25-29 de antes eran porque la Mac estaba saturada. Además a",
   "url": "",
   "duraciones": [
-   11.6,
    15.6,
    14.1,
    10.8,
@@ -78,10 +78,10 @@
    27.3,
    60.8,
    15.9,
-   32.3
+   32.3,
+   41.1
   ],
-  "estimado_min": 14.8,
-  "fase_desde": "2026-11-10T08:21:44-06:00"
+  "estimado_min": 15.8
  },
  "gerente-de-zara": {
   "estado": "termino",
