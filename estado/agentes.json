@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T16:12:29-06:00",
-  "desde": "2026-11-09T16:10:25-06:00",
-  "que": "revisando el PR #92 (claude/2026-11-09-pesca-primero)",
-  "resumen": "PR #92 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42709289504",
+  "estado": "trabajando",
+  "desde": "2026-11-09T18:14:39-06:00",
+  "que": "revisando el PR #90 (chalan-local/2026-11-09-carga-rapida)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42726309083",
   "duraciones": [
    1.1,
    1.1,
