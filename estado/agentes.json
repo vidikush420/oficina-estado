@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-09T18:55:02-06:00",
-  "desde": "2026-11-09T18:43:24-06:00",
-  "que": "a mano: cola: URGENTE Bóveda: demo navegable en rhwellness.mx/boveda/ con cartas reales",
-  "resumen": "Bóveda: demo con cartas reales en PR #40",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42730410333",
+  "estado": "trabajando",
+  "desde": "2026-11-09T19:00:32-06:00",
+  "que": "a mano: cola: - [ ] **PRIORIDAD (Miguel, 3/11 11:32 pm) · Marea: que el juego cargue más rápido en rhwellness.mx/marea** (Miguel, 3/11",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42732268233",
   "duraciones": [
    1.3,
    3.2,
