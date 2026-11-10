@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T15:38:55-06:00",
-  "desde": "2026-11-10T15:37:48-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T15:46:36-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que pudiera hacer yo solo en la Mac. El cambio de la Bitácora (PR 83) ya quedó integrado, y las mejoras de Marea esperan tu revisión. Lo único tuyo: dar las claves de Supabase para Sinie",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.1,
