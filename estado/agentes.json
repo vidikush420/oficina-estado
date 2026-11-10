@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T14:01:14-06:00",
-  "desde": "2026-11-10T13:52:32-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T14:02:34-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé que la cámara se quedara metida entre las hojas y los techos: en computadora ahora lo que estorba al frente se hace transparente u oculta. Se ve mejor en los tres puntos del puerto que revisas",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
