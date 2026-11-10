@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "fallo",
-  "cuando": "2026-11-10T03:05:30-06:00",
+  "cuando": "2026-11-10T03:21:20-06:00",
   "desde": "2026-11-10T02:45:54-06:00",
   "que": "revisando el PR #101 (chalan-local/2026-11-10-tutorial)",
   "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42779229892",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42783902543",
   "duraciones": [
-   8.2,
    8.3,
    10.4,
    7.0,
@@ -37,7 +36,8 @@
    6.3,
    0.8,
    7.8,
-   19.6
+   19.6,
+   35.4
   ],
   "estimado_min": 7.4
  },
