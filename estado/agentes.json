@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-09T18:30:35-06:00",
-  "desde": "2026-11-09T18:29:59-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T18:30:58-06:00",
   "que": "revisando el PR #39 (claude/2026-11-09-boveda-demo)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42728721816",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42728806324",
   "duraciones": [
    2.5,
    1.9,
