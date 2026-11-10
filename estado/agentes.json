@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T13:02:21-06:00",
   "que": "revisando el PR #16 (chalan/2026-11-10-prioridades-fase1)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42881102600",
   "duraciones": [
    8.3,
@@ -38,7 +38,8 @@
    1.1,
    0.9
   ],
-  "estimado_min": 7.7
+  "estimado_min": 7.7,
+  "fase_desde": "2026-11-10T13:02:43-06:00"
  },
  "sherlock": {
   "estado": "termino",
