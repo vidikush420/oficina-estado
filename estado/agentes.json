@@ -64,9 +64,9 @@
  },
  "chalan-local": {
   "estado": "trabajando",
-  "desde": "2026-11-10T01:01:27-06:00",
+  "desde": "2026-11-10T01:40:07-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
@@ -80,8 +80,7 @@
    5.3,
    4.1
   ],
-  "estimado_min": 4.7,
-  "fase_desde": "2026-11-10T01:02:30-06:00"
+  "estimado_min": 4.7
  },
  "gerente-de-zara": {
   "estado": "termino",
