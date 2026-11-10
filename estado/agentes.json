@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-10T14:10:02-06:00",
+  "cuando": "2026-11-10T14:10:10-06:00",
   "desde": "2026-11-10T14:09:38-06:00",
   "que": "",
   "resumen": "PR #110 → PASA, fusionado",
   "url": "",
   "duraciones": [
-   7.2,
    1.3,
    1.1,
    1.1,
@@ -37,9 +36,10 @@
    4.7,
    0.6,
    0.8,
-   0.4
+   0.4,
+   0.5
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.0
  },
  "sherlock": {
   "estado": "termino",
