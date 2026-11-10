@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T09:09:43-06:00",
-  "desde": "2026-11-10T09:05:10-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T09:11:30-06:00",
   "que": "corrida programada",
-  "resumen": "Aduana pidió un ajuste a la herramienta que corta las pruebas del simulador de iPhone cuando se quedan colgadas: no debía cortar también pruebas de otros simuladores corriendo al mismo tiempo. Ya está",
+  "fase": "",
   "url": "",
   "duraciones": [
    27.3,
