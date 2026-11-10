@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T13:34:11-06:00",
   "desde": "2026-11-10T13:26:57-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "Arreglé la causa del tropiezo del 9/11: al subir a producción, el sistema tomaba lo último del código en vez de la versión exacta que Sherlock había aprobado. Ahora sube justo la aprobada y se niega s",
   "url": "",
   "duraciones": [
-   1.3,
    4.5,
    3.9,
    1.1,
@@ -78,10 +78,10 @@
    2.1,
    0.7,
    2.0,
-   39.4
+   39.4,
+   7.2
   ],
-  "estimado_min": 2.0,
-  "fase_desde": "2026-11-10T13:33:48-06:00"
+  "estimado_min": 2.4
  },
  "gerente-de-zara": {
   "estado": "termino",
