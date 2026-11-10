@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T03:55:12-06:00",
-  "desde": "2026-11-10T03:39:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T04:01:44-06:00",
   "que": "corrida programada",
-  "resumen": "Hice más grandes y más bonitas la isla principal y las otras islas: caminos de arena, arbustos, rocas, lugares para pescar y una casa para el jugador. No compré nada. Todavía no medí si corre fluido e",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.1,
