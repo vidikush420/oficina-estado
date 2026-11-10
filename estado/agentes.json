@@ -62,11 +62,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T19:18:28-06:00",
-  "desde": "2026-11-09T19:15:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T19:20:10-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio que hace que el juego cargue más rápido había quedado desfasado respecto a lo último del proyecto. Lo puse al día y las pruebas pasaron. Aduana lo revisará de nuevo; como toca archivos de co",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.5,
