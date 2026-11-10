@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-09T19:01:39-06:00",
-  "desde": "2026-11-09T19:00:32-06:00",
-  "que": "a mano: cola: - [ ] **PRIORIDAD (Miguel, 3/11 11:32 pm) · Marea: que el juego cargue más rápido en rhwellness.mx/marea** (Miguel, 3/11",
-  "resumen": "Marea carga rápida: no ejecutable (toca workflow); sin PR",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42732268233",
+  "estado": "trabajando",
+  "desde": "2026-11-10T12:56:23-06:00",
+  "que": "a mano: cola: - [ ] [producto] **Módulo de prioridades, fase 1** (aprobado por Miguel el 10/11; especificación completa y mockups en d",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42880138263",
   "duraciones": [
    3.2,
    1.4,
