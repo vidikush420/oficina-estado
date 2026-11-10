@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T22:29:40-06:00",
   "desde": "2026-11-09T22:28:42-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No empecé nada nuevo porque el cambio de la apariencia de Marea todavía espera revisión y solo puedo tener uno abierto por proyecto. Cuando se integre, sigo con el video y el personaje animado. Para e",
   "url": "",
   "duraciones": [
-   3.4,
    1.6,
    1.4,
    1.4,
@@ -78,9 +78,10 @@
    37.5,
    12.7,
    14.1,
-   15.4
+   15.4,
+   1.0
   ],
-  "estimado_min": 3.8
+  "estimado_min": 3.2
  },
  "gerente-de-zara": {
   "estado": "termino",
