@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T10:39:10-06:00",
-  "desde": "2026-11-10T10:37:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T12:46:54-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer sin esperarte a ti. Lo que queda necesita que apruebes arte, decidas cómo cargar más rápido el juego o toques el botón de producción. No tienes que hacer nada ur",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.2,
