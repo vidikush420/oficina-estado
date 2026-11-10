@@ -21,13 +21,13 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T19:06:23-06:00",
   "desde": "2026-11-09T19:01:08-06:00",
   "que": "revisando el PR #94 (chalan-local/2026-11-09-nombre-oficial)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #94 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42732094002",
   "duraciones": [
-   1.1,
    2.1,
    3.2,
    3.5,
@@ -36,10 +36,10 @@
    1.4,
    1.1,
    3.5,
-   1.6
+   1.6,
+   5.2
   ],
-  "estimado_min": 1.9,
-  "fase_desde": "2026-11-09T19:06:15-06:00"
+  "estimado_min": 2.7
  },
  "sherlock": {
   "estado": "termino",
