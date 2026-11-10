@@ -21,13 +21,13 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T20:07:10-06:00",
   "desde": "2026-11-09T19:59:13-06:00",
   "que": "revisando el PR #95 (chalan-local/2026-11-09-se-ve-como-juego)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #95 Marea → DEVUELTO (borrar ESTADO.md-e), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42736549251",
   "duraciones": [
-   3.2,
    3.5,
    3.6,
    0.6,
@@ -36,10 +36,10 @@
    3.5,
    1.6,
    5.2,
-   13.8
+   13.8,
+   8.0
   ],
-  "estimado_min": 3.4,
-  "fase_desde": "2026-11-09T20:07:04-06:00"
+  "estimado_min": 3.5
  },
  "sherlock": {
   "estado": "termino",
