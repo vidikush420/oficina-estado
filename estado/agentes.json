@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T19:59:13-06:00",
   "que": "revisando el PR #95 (chalan-local/2026-11-09-se-ve-como-juego)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42736549251",
   "duraciones": [
    3.2,
@@ -38,7 +38,8 @@
    5.2,
    13.8
   ],
-  "estimado_min": 3.4
+  "estimado_min": 3.4,
+  "fase_desde": "2026-11-09T20:04:27-06:00"
  },
  "sherlock": {
   "estado": "termino",
