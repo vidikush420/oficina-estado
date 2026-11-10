@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T01:10:04-06:00",
   "que": "revisando el PR #100 (chalan-local/2026-11-09-sprint-largo)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/42771683552",
   "duraciones": [
    13.8,
@@ -39,7 +39,7 @@
    0.8
   ],
   "estimado_min": 7.5,
-  "fase_desde": "2026-11-10T01:17:29-06:00"
+  "fase_desde": "2026-11-10T01:17:44-06:00"
  },
  "sherlock": {
   "estado": "termino",
