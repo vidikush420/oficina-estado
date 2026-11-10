@@ -21,12 +21,11 @@
   "estimado_min": 3.0
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T18:32:23-06:00",
-  "desde": "2026-11-09T18:30:58-06:00",
-  "que": "revisando el PR #39 (claude/2026-11-09-boveda-demo)",
-  "resumen": "PR #39 rhwellness-encuesta → PASA, fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42728806324",
+  "estado": "trabajando",
+  "desde": "2026-11-09T18:37:46-06:00",
+  "que": "revisando el PR #81 (chalan-local/2026-11-09-humo-se-reintento)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42729710939",
   "duraciones": [
    1.9,
    0.9,
