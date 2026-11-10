@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-10T14:05:00-06:00",
-  "que": "revisando el PR #17 (claude/2026-11-10-prio-hidden)",
+  "desde": "2026-11-10T14:05:18-06:00",
+  "que": "revisando el PR #110 (chalan-local/2026-11-10-camara-vegetacion)",
   "fase": "",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42891662847",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42890991161",
   "duraciones": [
    10.2,
    8.2,
