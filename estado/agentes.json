@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T06:32:27-06:00",
   "que": "revisando el PR #102 (chalan-local/2026-11-10-rebanada-puerto)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42816445754",
   "duraciones": [
    0.8,
@@ -38,7 +38,8 @@
    12.8,
    7.9
   ],
-  "estimado_min": 13.9
+  "estimado_min": 13.9,
+  "fase_desde": "2026-11-10T06:36:57-06:00"
  },
  "sherlock": {
   "estado": "termino",
