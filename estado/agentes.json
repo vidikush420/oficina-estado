@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T11:57:58-06:00",
-  "desde": "2026-11-10T11:56:40-06:00",
-  "que": "revisando el PR #41 (chalan/demo-gmm)",
-  "resumen": "PR #41 → OJO — espera a Miguel, no fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42870044377",
+  "estado": "trabajando",
+  "desde": "2026-11-10T12:17:48-06:00",
+  "que": "revisando el PR #13 (claude/2026-11-10-links)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42873704736",
   "duraciones": [
    14.2,
    12.8,
