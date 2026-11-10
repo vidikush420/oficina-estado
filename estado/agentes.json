@@ -1,12 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T19:01:39-06:00",
   "desde": "2026-11-09T19:00:32-06:00",
   "que": "a mano: cola: - [ ] **PRIORIDAD (Miguel, 3/11 11:32 pm) · Marea: que el juego cargue más rápido en rhwellness.mx/marea** (Miguel, 3/11",
-  "fase": "5/5 registrando en la oficina",
+  "resumen": "Marea carga rápida: no ejecutable (toca workflow); sin PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42732268233",
   "duraciones": [
-   1.3,
    3.2,
    1.4,
    1.2,
@@ -15,10 +15,10 @@
    2.7,
    5.3,
    5.5,
-   11.6
+   11.6,
+   1.1
   ],
-  "estimado_min": 3.7,
-  "fase_desde": "2026-11-09T19:01:32-06:00"
+  "estimado_min": 3.7
  },
  "aduana": {
   "estado": "trabajando",
