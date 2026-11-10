@@ -62,11 +62,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T23:02:05-06:00",
-  "desde": "2026-11-09T22:58:15-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T23:03:38-06:00",
   "que": "corrida programada",
-  "resumen": "Medí cuánto tarda en bajar Marea desde tu página: unos 45 segundos el motor y otros 68 segundos los datos del juego, porque el servidor entrega solo unos 200 KB por segundo. Mientras eso no cambie, la",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
