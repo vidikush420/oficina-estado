@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T13:26:38-06:00",
   "que": "revisando el PR #109 (chalan-local/2026-11-10-mundo-propio-tanda2)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/42885187019",
   "duraciones": [
    10.5,
@@ -39,7 +39,7 @@
    1.2
   ],
   "estimado_min": 4.2,
-  "fase_desde": "2026-11-10T13:31:00-06:00"
+  "fase_desde": "2026-11-10T13:31:14-06:00"
  },
  "sherlock": {
   "estado": "termino",
