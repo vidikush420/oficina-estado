@@ -21,13 +21,13 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T18:57:13-06:00",
   "desde": "2026-11-09T18:55:37-06:00",
   "que": "revisando el PR #40 (chalan/2026-11-09-boveda-demo)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #40 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42731892826",
   "duraciones": [
-   1.1,
    1.1,
    2.1,
    3.2,
@@ -36,10 +36,10 @@
    0.6,
    1.4,
    1.1,
-   3.5
+   3.5,
+   1.6
   ],
-  "estimado_min": 1.8,
-  "fase_desde": "2026-11-09T18:57:02-06:00"
+  "estimado_min": 1.9
  },
  "sherlock": {
   "estado": "termino",
