@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T02:33:15-06:00",
   "desde": "2026-11-10T02:25:46-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: listo",
+  "resumen": "Las pruebas automáticas en el iPhone simulado de la Mac a veces se quedaban trabadas media hora y se comían la ronda de revisión. Ahora cada prueba tiene un límite de 10 minutos: si lo pasa, se corta",
   "url": "",
   "duraciones": [
-   10.6,
    12.6,
    7.3,
    3.0,
@@ -78,10 +78,10 @@
    4.1,
    13.4,
    6.3,
-   22.9
+   22.9,
+   7.5
   ],
-  "estimado_min": 6.8,
-  "fase_desde": "2026-11-10T02:33:00-06:00"
+  "estimado_min": 6.8
  },
  "gerente-de-zara": {
   "estado": "termino",
