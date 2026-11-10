@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T10:35:34-06:00",
-  "desde": "2026-11-10T10:34:53-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T10:37:11-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer sin esperarte a ti. Lo que queda en Marea necesita que apruebes arte o decidas cómo hacer que cargue más rápido. No tienes que hacer nada urgente.",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.0,
