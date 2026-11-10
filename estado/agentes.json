@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T23:59:17-06:00",
-  "desde": "2026-11-09T23:51:57-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T00:03:45-06:00",
   "que": "corrida programada",
-  "resumen": "El pescador del juego ya es un personaje de verdad: camina, lanza la caña, recoge y celebra cuando pesca. El mercader del puerto también tiene vida. Es un paquete gratuito, así que no tuviste que baja",
+  "fase": "",
   "url": "",
   "duraciones": [
    37.5,
