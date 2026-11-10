@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T14:12:05-06:00",
-  "desde": "2026-11-10T14:10:12-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T14:12:39-06:00",
   "que": "corrida programada",
-  "resumen": "Medí cuánto tarda en cargar el juego en la página: ahora unos 29 segundos, antes unos 68. Mejoró, pero la meta era menos de 15. Para llegar hay que partir el archivo grande del juego o usar un servici",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
