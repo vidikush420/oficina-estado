@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T01:53:56-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 tutorial de 3 pasos",
+  "fase": "Marea: 4/4 abriendo el PR",
   "url": "",
   "duraciones": [
    3.6,
@@ -81,7 +81,7 @@
    13.4
   ],
   "estimado_min": 5.5,
-  "fase_desde": "2026-11-10T01:54:38-06:00"
+  "fase_desde": "2026-11-10T01:59:47-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
