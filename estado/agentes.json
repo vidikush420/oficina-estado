@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T00:06:45-06:00",
-  "desde": "2026-11-10T00:03:45-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T00:25:40-06:00",
   "que": "corrida programada",
-  "resumen": "Al lanzar la caña y al picar un pez ahora se abren ondas en el agua. El resto de los efectos de pesca ya estaba hecho. El sprint sigue con sonido, pantalla de inicio, barco e interfaz; no tienes que h",
+  "fase": "",
   "url": "",
   "duraciones": [
    12.7,
