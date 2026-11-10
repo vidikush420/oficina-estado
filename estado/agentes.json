@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T02:00:12-06:00",
   "desde": "2026-11-10T01:53:56-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Agregué a Marea una guía de tres pasos para quien juega por primera vez: caminar, lanzar y pelear con el pez. Solo sale una vez y quien ya tenía partida no la ve. Las pruebas automáticas pasaron, pero",
   "url": "",
   "duraciones": [
-   3.6,
    3.8,
    10.6,
    12.6,
@@ -78,10 +78,10 @@
    5.7,
    5.3,
    4.1,
-   13.4
+   13.4,
+   6.3
   ],
-  "estimado_min": 5.5,
-  "fase_desde": "2026-11-10T01:59:47-06:00"
+  "estimado_min": 6.0
  },
  "gerente-de-zara": {
   "estado": "termino",
