@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T09:48:10-06:00",
-  "desde": "2026-11-10T09:45:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T09:51:28-06:00",
   "que": "corrida programada",
-  "resumen": "En la lista de pendientes de Marea seguía como \"sin hacer\" la pesca emocionante, aunque ya está en el juego desde hace un día. La marqué como hecha. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    32.3,
