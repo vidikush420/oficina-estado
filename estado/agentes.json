@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T09:15:25-06:00",
-  "desde": "2026-11-10T09:11:30-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T09:25:07-06:00",
   "que": "corrida programada",
-  "resumen": "En la lista de pendientes de Marea seguía apareciendo como sin hacer la mejora de velocidad en celular, aunque ya estaba lista. La marqué como hecha, con los números. Solo falta que pruebes en tu iPho",
+  "fase": "",
   "url": "",
   "duraciones": [
    60.8,
