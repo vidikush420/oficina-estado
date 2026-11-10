@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T18:49:38-06:00",
   "que": "revisando el PR #93 (chalan-local/2026-11-09-pesca-dopaminosa)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42730796235",
   "duraciones": [
    0.9,
@@ -38,7 +38,8 @@
    1.4,
    1.1
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-11-09T18:50:25-06:00"
  },
  "sherlock": {
   "estado": "termino",
