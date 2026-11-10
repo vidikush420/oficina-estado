@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T16:16:25-06:00",
   "desde": "2026-11-10T16:15:07-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Lo que queda en Marea y en Siniestros espera algo tuyo: aprobar el plano del mundo grande, decidir cómo acelerar la carga, dejar los paquetes de arte e",
   "url": "",
   "duraciones": [
-   1.1,
    1.9,
    1.2,
    1.5,
@@ -78,7 +78,8 @@
    19.1,
    1.1,
    1.1,
-   1.5
+   1.5,
+   1.3
   ],
   "estimado_min": 1.4
  },
