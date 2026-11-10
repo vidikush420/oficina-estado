@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T03:19:34-06:00",
-  "desde": "2026-11-10T03:14:31-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T03:25:18-06:00",
   "que": "corrida programada",
-  "resumen": "El puerto de Marea ahora tiene vida: pájaros volando, peces que saltan, banderitas en el muelle y un personaje que pasea. Con esto la pantalla del puerto ya tiene casi todo lo pedido. Solo faltan el c",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.7,
