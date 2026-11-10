@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T21:47:38-06:00",
-  "desde": "2026-11-09T21:34:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T21:51:02-06:00",
   "que": "corrida programada",
-  "resumen": "La pantalla de carga de Marea ya muestra el nombre correcto, «Lumora's ONE MORE CAST». Además la barra ahora sube mientras se descarga el juego, así que no debería quedarse en 2 %. Lo probé con una de",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.8,
