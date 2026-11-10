@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T14:05:18-06:00",
   "que": "revisando el PR #110 (chalan-local/2026-11-10-camara-vegetacion)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42890991161",
   "duraciones": [
    10.2,
@@ -38,7 +38,8 @@
    4.7,
    0.6
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-11-10T14:05:24-06:00"
  },
  "sherlock": {
   "estado": "termino",
