@@ -62,11 +62,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T08:24:15-06:00",
-  "desde": "2026-11-10T07:43:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T08:25:38-06:00",
   "que": "corrida programada",
-  "resumen": "Probé el juego en el iPhone simulado. Cuando la Mac no está ocupada con otras cosas corre a 60 cuadros por segundo, el doble de la meta; los 25-29 de antes eran porque la Mac estaba saturada. Además a",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.6,
