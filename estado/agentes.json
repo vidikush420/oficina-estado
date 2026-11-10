@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T08:43:19-06:00",
-  "desde": "2026-11-10T08:39:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T08:45:01-06:00",
   "que": "corrida programada",
-  "resumen": "El tutorial de Marea volvió a chocar con otro cambio reciente, solo en la hoja de notas del proyecto. Junté las dos versiones sin perder nada y las pruebas automáticas pasaron todas. No tienes que hac",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.8,
