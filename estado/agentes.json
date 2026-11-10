@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T00:51:04-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 paneles con íconos nevera y acuario",
   "url": "",
   "duraciones": [
    15.4,
@@ -81,7 +81,7 @@
    5.3
   ],
   "estimado_min": 5.5,
-  "fase_desde": "2026-11-10T00:51:52-06:00"
+  "fase_desde": "2026-11-10T00:52:25-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
