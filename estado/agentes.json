@@ -62,13 +62,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T19:21:48-06:00",
   "desde": "2026-11-09T19:20:10-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "La pesca nueva y el nombre del juego ya están en el juego. Las mejoras de cómo se ve y de carga rápida están hechas y las está revisando el revisor automático. No hay nada nuevo que yo pueda empezar h",
   "url": "",
   "duraciones": [
-   6.5,
    23.2,
    7.0,
    1.8,
@@ -77,9 +77,10 @@
    2.1,
    11.8,
    3.8,
-   3.4
+   3.4,
+   1.6
   ],
-  "estimado_min": 5.2
+  "estimado_min": 3.6
  },
  "gerente-de-zara": {
   "estado": "termino",
