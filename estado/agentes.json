@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T10:17:23-06:00",
   "desde": "2026-11-10T10:15:16-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer sin ti. Lo único pendiente en Bitácora toca el botón de producción, y eso solo lo puedes cambiar tú. Marea espera que apruebes arte o decidas cómo cargar más ráp",
   "url": "",
   "duraciones": [
-   41.1,
    3.6,
    4.0,
    3.2,
@@ -78,9 +78,10 @@
    3.9,
    1.1,
    2.7,
-   1.1
+   1.1,
+   2.1
   ],
-  "estimado_min": 3.4
+  "estimado_min": 3.0
  },
  "gerente-de-zara": {
   "estado": "termino",
