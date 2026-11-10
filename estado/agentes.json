@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T03:33:34-06:00",
   "que": "revisando el PR #103 (claude/2026-11-10-direccion-arte)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42788920509",
   "duraciones": [
    8.3,
@@ -38,7 +38,8 @@
    19.6,
    35.4
   ],
-  "estimado_min": 7.4
+  "estimado_min": 7.4,
+  "fase_desde": "2026-11-10T03:46:38-06:00"
  },
  "sherlock": {
   "estado": "termino",
