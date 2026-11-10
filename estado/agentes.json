@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T08:25:33-06:00",
   "que": "revisando el PR #106 (chalan-local/2026-11-10-fps-ronda4)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/42833678196",
   "duraciones": [
    19.6,
@@ -39,7 +39,7 @@
    10.5
   ],
   "estimado_min": 13.9,
-  "fase_desde": "2026-11-10T08:35:28-06:00"
+  "fase_desde": "2026-11-10T08:37:41-06:00"
  },
  "sherlock": {
   "estado": "termino",
