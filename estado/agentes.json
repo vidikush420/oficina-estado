@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-10T03:21:20-06:00",
-  "desde": "2026-11-10T02:45:54-06:00",
-  "que": "revisando el PR #101 (chalan-local/2026-11-10-tutorial)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42783902543",
+  "estado": "trabajando",
+  "desde": "2026-11-10T03:33:34-06:00",
+  "que": "revisando el PR #103 (claude/2026-11-10-direccion-arte)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42788920509",
   "duraciones": [
    8.3,
    10.4,
