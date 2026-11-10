@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T22:13:54-06:00",
-  "desde": "2026-11-09T22:08:43-06:00",
-  "que": "revisando el PR #97 (chalan-local/2026-11-09-carga-nombre-progreso)",
-  "resumen": "PR #97 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42752741364",
+  "estado": "trabajando",
+  "desde": "2026-11-09T22:37:54-06:00",
+  "que": "revisando el PR #98 (chalan-local/2026-11-09-marea-se-ve-bien)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42756006447",
   "duraciones": [
    3.5,
    1.6,
