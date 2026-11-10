@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T09:37:11-06:00",
   "que": "revisando el PR #107 (chalan-local/2026-11-10-conciliar-fps)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/42842342419",
   "duraciones": [
    13.9,
@@ -39,7 +39,7 @@
    10.2
   ],
   "estimado_min": 12.7,
-  "fase_desde": "2026-11-10T09:44:59-06:00"
+  "fase_desde": "2026-11-10T09:45:14-06:00"
  },
  "sherlock": {
   "estado": "termino",
