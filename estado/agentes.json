@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T14:03:37-06:00",
-  "desde": "2026-11-10T14:02:34-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T14:10:12-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada nuevo que solo la Mac pudiera hacer. La corrección de la cámara de Marea espera revisión y el cambio de seguridad de la Bitácora espera tu visto bueno. No tienes que hacer nada más.",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.7,
