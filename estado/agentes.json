@@ -62,13 +62,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T23:01:53-06:00",
   "desde": "2026-11-09T22:58:15-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Marea: medición de carga, PR #99",
   "url": "",
   "duraciones": [
-   1.6,
    1.4,
    1.4,
    4.2,
@@ -77,10 +77,10 @@
    12.7,
    14.1,
    15.4,
-   1.0
+   1.0,
+   3.6
   ],
-  "estimado_min": 3.2,
-  "fase_desde": "2026-11-09T23:01:17-06:00"
+  "estimado_min": 3.9
  },
  "gerente-de-zara": {
   "estado": "termino",
