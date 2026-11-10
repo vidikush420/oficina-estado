@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T02:56:31-06:00",
-  "desde": "2026-11-10T02:51:23-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T03:14:31-06:00",
   "que": "corrida programada",
-  "resumen": "Ya está el momento de pescar con el pez saliendo del agua y la tarjeta, y los botones y monedas quedaron en un solo estilo. Lo vi en pantalla de compu y de celular. Faltan las gaviotas y demás vida de",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.0,
