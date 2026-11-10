@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T15:47:45-06:00",
-  "desde": "2026-11-10T15:46:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T15:48:59-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que pudiera hacer yo solo en la Mac. Lo último que dejé en Marea ya quedó integrado. Lo único tuyo: dar las claves de Supabase para Siniestros y decidir cómo acelerar la carga de Marea c",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.7,
