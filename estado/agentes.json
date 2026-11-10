@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T14:20:46-06:00",
-  "desde": "2026-11-10T14:20:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T15:03:50-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que pudiera hacer yo solo en la Mac; todo lo pendiente espera una decisión o aprobación tuya. No tienes que hacer nada nuevo respecto a la corrida anterior.",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.0,
