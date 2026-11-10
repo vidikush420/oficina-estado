@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T22:05:09-06:00",
-  "desde": "2026-11-09T21:51:02-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T22:12:31-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio de la pantalla de carga de Marea (nombre oficial y barra que avanza de verdad) se había atorado porque otra actualización tocó el mismo archivo de notas. Lo puse al día y las pruebas del jue",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.8,
