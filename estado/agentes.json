@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T13:37:44-06:00",
   "desde": "2026-11-10T13:35:35-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no hay nada que solo pueda hacer la Mac y no dependa de ti. Lo que queda en Marea espera tu aprobación o una decisión tuya, y el cambio de seguridad de la Bitácora (PR 83)",
   "url": "",
   "duraciones": [
-   4.5,
    3.9,
    1.1,
    2.7,
@@ -78,9 +78,10 @@
    0.7,
    2.0,
    39.4,
-   7.2
+   7.2,
+   2.1
   ],
-  "estimado_min": 2.4
+  "estimado_min": 2.1
  },
  "gerente-de-zara": {
   "estado": "termino",
