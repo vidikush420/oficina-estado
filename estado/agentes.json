@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T13:31:20-06:00",
-  "desde": "2026-11-10T13:26:38-06:00",
-  "que": "revisando el PR #109 (chalan-local/2026-11-10-mundo-propio-tanda2)",
-  "resumen": "PR #109 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42885187019",
+  "estado": "trabajando",
+  "desde": "2026-11-10T13:37:52-06:00",
+  "que": "revisando el PR #83 (chalan-local/2026-11-10-produccion-sha-aprobado)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42887143936",
   "duraciones": [
    12.5,
    10.2,
