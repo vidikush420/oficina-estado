@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T02:00:12-06:00",
-  "desde": "2026-11-10T01:53:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T02:01:36-06:00",
   "que": "corrida programada",
-  "resumen": "Agregué a Marea una guía de tres pasos para quien juega por primera vez: caminar, lanzar y pelear con el pez. Solo sale una vez y quien ya tenía partida no la ve. Las pruebas automáticas pasaron, pero",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.8,
