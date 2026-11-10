@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T18:55:37-06:00",
   "que": "revisando el PR #40 (chalan/2026-11-09-boveda-demo)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42731892826",
   "duraciones": [
    1.1,
@@ -39,7 +39,7 @@
    3.5
   ],
   "estimado_min": 1.8,
-  "fase_desde": "2026-11-09T18:56:21-06:00"
+  "fase_desde": "2026-11-09T18:56:26-06:00"
  },
  "sherlock": {
   "estado": "termino",
