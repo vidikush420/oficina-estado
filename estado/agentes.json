@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T13:38:28-06:00",
   "desde": "2026-11-10T13:37:52-06:00",
   "que": "revisando el PR #83 (chalan-local/2026-11-10-produccion-sha-aprobado)",
-  "fase": "1/4 leyendo el PR",
+  "resumen": "PR #83 → ya revisado sobre este head (NO PASA: toca workflow), no fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42887143936",
   "duraciones": [
-   12.5,
    10.2,
    8.2,
    7.2,
@@ -36,10 +36,10 @@
    1.1,
    0.9,
    1.2,
-   4.7
+   4.7,
+   0.6
   ],
-  "estimado_min": 3.0,
-  "fase_desde": "2026-11-10T13:38:14-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
