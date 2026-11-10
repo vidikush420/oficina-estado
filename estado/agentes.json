@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-10T05:30:16-06:00",
-  "desde": "2026-11-10T05:17:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T05:51:26-06:00",
   "que": "revisando el PR #102 (chalan-local/2026-11-10-rebanada-puerto)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42803925870",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42809266396",
   "duraciones": [
    6.3,
    0.8,
