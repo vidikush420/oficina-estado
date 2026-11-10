@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T18:37:46-06:00",
   "que": "revisando el PR #81 (chalan-local/2026-11-09-humo-se-reintento)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42729710939",
   "duraciones": [
    1.9,
@@ -38,7 +38,8 @@
    0.6,
    1.4
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-11-09T18:38:35-06:00"
  },
  "sherlock": {
   "estado": "termino",
