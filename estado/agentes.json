@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T01:53:29-06:00",
   "desde": "2026-11-10T01:40:07-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Grabé dos videos de un minuto del juego, uno para computadora y otro para celular, jugándolo de verdad: pescar, vender y navegar hasta una isla. Todo funciona. Vi dos detalles feos: un letrero de «nue",
   "url": "",
   "duraciones": [
-   1.0,
    3.6,
    3.8,
    10.6,
@@ -78,9 +78,10 @@
    3.0,
    5.7,
    5.3,
-   4.1
+   4.1,
+   13.4
   ],
-  "estimado_min": 4.7
+  "estimado_min": 5.5
  },
  "gerente-de-zara": {
   "estado": "termino",
