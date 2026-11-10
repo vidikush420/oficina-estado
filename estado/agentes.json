@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T18:46:14-06:00",
   "desde": "2026-11-09T18:19:05-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Programé la nueva forma de pescar en Marea: mantienes para recoger, sueltas cuando el pez jala, y hay un momento de \"ahora\" donde recoges rápido. También hay racha y pique que avisa qué tan raro es el",
   "url": "",
   "duraciones": [
-   30.0,
    0.6,
    53.4,
    0.7,
@@ -78,10 +78,10 @@
    6.5,
    23.2,
    7.0,
-   1.8
+   1.8,
+   27.1
   ],
-  "estimado_min": 6.8,
-  "fase_desde": "2026-11-09T18:45:50-06:00"
+  "estimado_min": 6.8
  },
  "gerente-de-zara": {
   "estado": "termino",
