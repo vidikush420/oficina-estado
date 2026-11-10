@@ -21,13 +21,13 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T09:45:22-06:00",
   "desde": "2026-11-10T09:37:11-06:00",
   "que": "revisando el PR #107 (chalan-local/2026-11-10-conciliar-fps)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #107 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42842342419",
   "duraciones": [
-   13.9,
    14.3,
    14.0,
    14.2,
@@ -36,10 +36,10 @@
    8.3,
    10.5,
    12.5,
-   10.2
+   10.2,
+   8.2
   ],
-  "estimado_min": 12.7,
-  "fase_desde": "2026-11-10T09:45:14-06:00"
+  "estimado_min": 11.5
  },
  "sherlock": {
   "estado": "termino",
