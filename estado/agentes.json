@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T19:00:32-06:00",
   "que": "a mano: cola: - [ ] **PRIORIDAD (Miguel, 3/11 11:32 pm) · Marea: que el juego cargue más rápido en rhwellness.mx/marea** (Miguel, 3/11",
-  "fase": "",
+  "fase": "1/5 leyendo el proyecto",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/42732268233",
   "duraciones": [
    1.3,
@@ -17,7 +17,8 @@
    5.5,
    11.6
   ],
-  "estimado_min": 3.7
+  "estimado_min": 3.7,
+  "fase_desde": "2026-11-09T19:01:16-06:00"
  },
  "aduana": {
   "estado": "trabajando",
