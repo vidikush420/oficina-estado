@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T07:41:11-06:00",
-  "desde": "2026-11-10T07:08:52-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T07:43:07-06:00",
   "que": "corrida programada",
-  "resumen": "Hice un modo especial para celulares que aligera el juego sin cambiar nada en computadora. El puerto pasó de unos 25 a unos 28-29 cuadros por segundo en el iPhone simulado; todavía no llega a 30 estab",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.6,
