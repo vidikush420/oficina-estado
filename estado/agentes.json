@@ -21,12 +21,11 @@
   "fase_desde": "2026-11-09T18:44:10-06:00"
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-09T18:38:50-06:00",
-  "desde": "2026-11-09T18:37:46-06:00",
-  "que": "revisando el PR #81 (chalan-local/2026-11-09-humo-se-reintento)",
-  "resumen": "PR #81 → ya revisado en este head (PENDIENTE DE CI); sin cambios, no fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/42729710939",
+  "estado": "trabajando",
+  "desde": "2026-11-09T18:49:38-06:00",
+  "que": "revisando el PR #93 (chalan-local/2026-11-09-pesca-dopaminosa)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42730796235",
   "duraciones": [
    0.9,
    1.1,
