@@ -62,13 +62,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T18:14:58-06:00",
   "desde": "2026-11-09T18:07:56-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Arreglé el cambio que hace que el juego cargue más rápido: tenía un error en la pantalla de carga y chocaba con otros cambios. Ya quedó sin choques y las pruebas pasan. Como toca una parte delicada de",
   "url": "",
   "duraciones": [
-   1.1,
    0.7,
    30.0,
    0.6,
@@ -77,10 +77,10 @@
    2.3,
    8.1,
    6.5,
-   23.2
+   23.2,
+   7.0
   ],
-  "estimado_min": 4.4,
-  "fase_desde": "2026-11-09T18:08:50-06:00"
+  "estimado_min": 6.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
