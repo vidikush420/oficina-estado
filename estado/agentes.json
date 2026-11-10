@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T03:55:12-06:00",
   "desde": "2026-11-10T03:39:36-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 capturas del mundo",
+  "resumen": "Hice más grandes y más bonitas la isla principal y las otras islas: caminos de arena, arbustos, rocas, lugares para pescar y una casa para el jugador. No compré nada. Todavía no medí si corre fluido e",
   "url": "",
   "duraciones": [
-   5.3,
    4.1,
    13.4,
    6.3,
@@ -78,10 +78,10 @@
    11.5,
    5.1,
    5.0,
-   11.6
+   11.6,
+   15.6
   ],
-  "estimado_min": 6.9,
-  "fase_desde": "2026-11-10T03:53:20-06:00"
+  "estimado_min": 9.5
  },
  "gerente-de-zara": {
   "estado": "termino",
