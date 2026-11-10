@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-10T05:02:37-06:00",
+  "cuando": "2026-11-10T05:02:50-06:00",
   "desde": "2026-11-10T04:48:37-06:00",
   "que": "revisando el PR #104 (claude/2026-11-10-direccion-ajustes)",
   "resumen": "PR #104 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42791562545",
   "duraciones": [
-   5.2,
    6.1,
    6.3,
    0.8,
@@ -37,9 +36,10 @@
    35.4,
    13.9,
    14.3,
-   14.0
+   14.0,
+   14.2
   ],
-  "estimado_min": 10.8
+  "estimado_min": 13.9
  },
  "sherlock": {
   "estado": "termino",
