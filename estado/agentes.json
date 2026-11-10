@@ -84,10 +84,11 @@
   "fase_desde": "2026-11-09T18:19:47-06:00"
  },
  "gerente-de-zara": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T18:24:07-06:00",
   "desde": "2026-11-09T18:12:27-06:00",
   "que": "despliegue a producción de puente v2.36 build v61 (workflow)",
-  "fase": "",
+  "resumen": "HECHO: producción sirve puente v2.36 + frontend v61 (verificado en la URL viva)",
   "url": "",
   "duraciones": [
    6.0,
@@ -97,8 +98,9 @@
    1.1,
    25.5,
    7.2,
-   12.7
+   12.7,
+   11.7
   ],
-  "estimado_min": 7.3
+  "estimado_min": 7.4
  }
 }
