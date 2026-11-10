@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T04:31:10-06:00",
-  "desde": "2026-11-10T04:20:20-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T04:41:06-06:00",
   "que": "corrida programada",
-  "resumen": "Fabriqué un juego de piezas de madera propio, sin comprar nada: muelles, casas sobre pilotes con techo de tejas o paja, barandal, cajas, barriles, faroles, red y un bote. Ya aparecen en el puerto y se",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.3,
