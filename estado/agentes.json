@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-10T03:47:29-06:00",
+  "cuando": "2026-11-10T03:47:54-06:00",
   "desde": "2026-11-10T03:33:34-06:00",
   "que": "revisando el PR #103 (claude/2026-11-10-direccion-arte)",
   "resumen": "PR #103 → DEVUELTO (Miguel pidió cambios), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42788920509",
   "duraciones": [
-   10.4,
    7.0,
    5.2,
    6.1,
@@ -37,7 +36,8 @@
    7.8,
    19.6,
    35.4,
-   13.9
+   13.9,
+   14.3
   ],
   "estimado_min": 7.4
  },
