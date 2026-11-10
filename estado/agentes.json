@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T19:38:07-06:00",
   "desde": "2026-11-09T19:36:44-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "El cambio que hace que Marea se vea más como juego sigue esperando la revisión automática. No puedo empezar nada nuevo en Marea hasta que la termine. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   7.0,
    1.8,
    27.1,
    1.9,
@@ -78,9 +78,10 @@
    3.8,
    3.4,
    1.6,
+   1.4,
    1.4
   ],
-  "estimado_min": 2.8
+  "estimado_min": 2.0
  },
  "gerente-de-zara": {
   "estado": "termino",
