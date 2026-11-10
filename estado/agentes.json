@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T00:31:23-06:00",
   "desde": "2026-11-10T00:25:40-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "El juego ya tiene sonido: mar de fondo, un ruido al lanzar la caña, otro al caer al agua, clics del carrete y una fanfarria que suena más rica mientras más rara es la pesca. La pantalla de inicio ahor",
   "url": "",
   "duraciones": [
-   12.7,
    14.1,
    15.4,
    1.0,
@@ -78,9 +78,10 @@
    10.6,
    12.6,
    7.3,
-   3.0
+   3.0,
+   5.7
   ],
-  "estimado_min": 8.9
+  "estimado_min": 6.5
  },
  "gerente-de-zara": {
   "estado": "termino",
