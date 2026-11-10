@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-09T19:33:11-06:00",
-  "desde": "2026-11-09T19:19:26-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T19:59:13-06:00",
   "que": "revisando el PR #95 (chalan-local/2026-11-09-se-ve-como-juego)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42734287057",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42736549251",
   "duraciones": [
    3.2,
    3.5,
