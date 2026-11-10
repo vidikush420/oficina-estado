@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T05:02:50-06:00",
-  "desde": "2026-11-10T04:48:37-06:00",
-  "que": "revisando el PR #104 (claude/2026-11-10-direccion-ajustes)",
-  "resumen": "PR #104 → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42791562545",
+  "estado": "trabajando",
+  "desde": "2026-11-10T05:17:27-06:00",
+  "que": "revisando el PR #102 (chalan-local/2026-11-10-rebanada-puerto)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42803925870",
   "duraciones": [
    6.1,
    6.3,
