@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T08:56:51-06:00",
   "que": "revisando el PR #101 (chalan-local/2026-11-10-tutorial)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/42836862187",
   "duraciones": [
    35.4,
@@ -39,7 +39,7 @@
    12.5
   ],
   "estimado_min": 13.4,
-  "fase_desde": "2026-11-10T09:04:12-06:00"
+  "fase_desde": "2026-11-10T09:06:25-06:00"
  },
  "sherlock": {
   "estado": "termino",
