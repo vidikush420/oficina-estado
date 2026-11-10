@@ -62,13 +62,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T19:26:35-06:00",
   "desde": "2026-11-09T19:25:13-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Las mejoras de cómo se ve el juego y de carga rápida siguen esperando la revisión automática. No hay nada que yo pueda avanzar mientras tanto. Cuando las aprueben, grabo el video del juego para que lo",
   "url": "",
   "duraciones": [
-   23.2,
    7.0,
    1.8,
    27.1,
@@ -77,9 +77,10 @@
    11.8,
    3.8,
    3.4,
-   1.6
+   1.6,
+   1.4
   ],
-  "estimado_min": 3.6
+  "estimado_min": 2.8
  },
  "gerente-de-zara": {
   "estado": "termino",
