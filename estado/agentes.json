@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-09T21:38:13-06:00",
   "que": "revisando el PR #96 (chalan-local/2026-11-09-video-build-web)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/42750250112",
   "duraciones": [
    1.4,
@@ -39,7 +39,7 @@
    10.4
   ],
   "estimado_min": 6.6,
-  "fase_desde": "2026-11-09T21:44:10-06:00"
+  "fase_desde": "2026-11-09T21:44:26-06:00"
  },
  "sherlock": {
   "estado": "termino",
