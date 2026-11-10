@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T09:04:15-06:00",
-  "desde": "2026-11-10T09:02:57-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T09:05:10-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no tomé trabajo nuevo: lo que podía hacer ya está esperando revisión (tutorial de Marea y tope de tiempo de las pruebas de la Bitácora), y lo demás necesita algo tuyo. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.5,
