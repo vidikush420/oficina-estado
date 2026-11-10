@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T22:27:54-06:00",
   "desde": "2026-11-09T22:12:31-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Falta el video corto y verlo ya publicado en la página; el personaje animado sigue después. Por ahora solo revisa las fotos del PR.",
   "url": "",
   "duraciones": [
-   3.8,
    3.4,
    1.6,
    1.4,
@@ -78,10 +78,10 @@
    2.1,
    37.5,
    12.7,
-   14.1
+   14.1,
+   15.4
   ],
-  "estimado_min": 3.6,
-  "fase_desde": "2026-11-09T22:27:24-06:00"
+  "estimado_min": 3.8
  },
  "gerente-de-zara": {
   "estado": "termino",
