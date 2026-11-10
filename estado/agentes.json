@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T08:29:16-06:00",
-  "desde": "2026-11-10T08:25:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T08:39:18-06:00",
   "que": "corrida programada",
-  "resumen": "El tutorial de Marea no se podía integrar porque otro trabajo reciente había cambiado los mismos archivos. Los junté sin perder nada de ninguno y las pruebas automáticas pasaron todas. No tienes que h",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.1,
