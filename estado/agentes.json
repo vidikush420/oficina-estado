@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T14:13:53-06:00",
-  "desde": "2026-11-10T14:12:39-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T14:17:40-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que pudiera hacer yo solo en la Mac. Lo único urgente (que producción suba justo la versión aprobada) ya está hecho y espera tu visto bueno en el PR 83 de Bitácora. Lo demás de Marea",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.1,
