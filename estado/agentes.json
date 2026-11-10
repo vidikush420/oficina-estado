@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T12:56:23-06:00",
   "que": "a mano: cola: - [ ] [producto] **Módulo de prioridades, fase 1** (aprobado por Miguel el 10/11; especificación completa y mockups en d",
-  "fase": "3/5 corriendo pruebas",
+  "fase": "4/5 abriendo el PR",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42880138263",
   "duraciones": [
    3.2,
@@ -18,7 +18,7 @@
    1.1
   ],
   "estimado_min": 3.7,
-  "fase_desde": "2026-11-10T13:01:02-06:00"
+  "fase_desde": "2026-11-10T13:01:32-06:00"
  },
  "aduana": {
   "estado": "termino",
