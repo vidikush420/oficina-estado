@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T23:14:14-06:00",
   "desde": "2026-11-09T23:03:38-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 PR abierto",
+  "resumen": "Subí la cámara del juego y la incliné menos: ahora se ve el horizonte, el cielo y las islas al fondo, y el barco sale completo, en computadora y en celular. Es el primer punto de tu lista larga; sigo",
   "url": "",
   "duraciones": [
-   1.4,
    4.2,
    2.1,
    37.5,
@@ -78,10 +78,10 @@
    15.4,
    1.0,
    3.6,
-   3.8
+   3.8,
+   10.6
   ],
-  "estimado_min": 4.0,
-  "fase_desde": "2026-11-09T23:13:59-06:00"
+  "estimado_min": 7.4
  },
  "gerente-de-zara": {
   "estado": "termino",
