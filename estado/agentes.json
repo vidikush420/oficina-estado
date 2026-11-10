@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T13:34:11-06:00",
-  "desde": "2026-11-10T13:26:57-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T13:35:35-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé la causa del tropiezo del 9/11: al subir a producción, el sistema tomaba lo último del código en vez de la versión exacta que Sherlock había aprobado. Ahora sube justo la aprobada y se niega s",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.5,
