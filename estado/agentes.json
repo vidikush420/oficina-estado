@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T02:24:27-06:00",
-  "desde": "2026-11-10T02:01:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T02:25:46-06:00",
   "que": "corrida programada",
-  "resumen": "El puerto ahora tiene luz de atardecer, nubes y una orilla con espuma y agua que se oscurece mar adentro. Lo de los muelles, casetas y gaviotas quedó listo aparte, esperando que decidas lo del paquete",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.6,
