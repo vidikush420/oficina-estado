@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-10T00:47:04-06:00",
-  "desde": "2026-11-10T00:46:14-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T01:10:04-06:00",
   "que": "revisando el PR #100 (chalan-local/2026-11-09-sprint-largo)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42770634214",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42771683552",
   "duraciones": [
    13.8,
    8.0,
