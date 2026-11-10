@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-09T23:29:02-06:00",
   "desde": "2026-11-09T23:16:29-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "La playa ya parece arena de verdad, con ondas y una orillita de espuma, y las islas lejanas son montoncitos de rocas con varias palmeras en vez de conos verdes. No pude bajar rocas gratis de internet,",
   "url": "",
   "duraciones": [
-   4.2,
    2.1,
    37.5,
    12.7,
@@ -78,9 +78,10 @@
    1.0,
    3.6,
    3.8,
-   10.6
+   10.6,
+   12.6
   ],
-  "estimado_min": 7.4
+  "estimado_min": 11.6
  },
  "gerente-de-zara": {
   "estado": "termino",
