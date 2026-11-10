@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T19:09:21-06:00",
-  "desde": "2026-11-09T18:57:30-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T19:10:20-06:00",
   "que": "corrida programada",
-  "resumen": "Hice que el juego se vea más como un juego: es de día, la cámara está cerca del personaje, el barco es grande y se mece, y la pantalla de inicio tiene el mar de fondo con botones grandes. Faltan el pe",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.3,
