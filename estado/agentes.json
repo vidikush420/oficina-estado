@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-09T20:16:58-06:00",
-  "desde": "2026-11-09T20:14:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-09T20:56:33-06:00",
   "que": "corrida programada",
-  "resumen": "Aduana pidió quitar un archivo sobrante del trabajo de «que se vea como juego» en Marea; ya estaba quitado y dejé también el orden de las notas. Falta que Aduana lo apruebe. No tienes que hacer nada;",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.9,
