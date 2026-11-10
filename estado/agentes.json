@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T00:44:19-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 barco con estela y cámara",
   "url": "",
   "duraciones": [
    14.1,
@@ -81,7 +81,7 @@
    5.7
   ],
   "estimado_min": 6.5,
-  "fase_desde": "2026-11-10T00:44:52-06:00"
+  "fase_desde": "2026-11-10T00:45:36-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
