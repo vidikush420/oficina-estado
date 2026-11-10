@@ -21,12 +21,11 @@
   "estimado_min": 3.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T12:33:20-06:00",
-  "desde": "2026-11-10T12:32:14-06:00",
-  "que": "revisando el PR #14 (claude/2026-11-10-prioridades-espec)",
-  "resumen": "PR #14 sistemas-vidal → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42876102696",
+  "estado": "trabajando",
+  "desde": "2026-11-10T12:54:23-06:00",
+  "que": "revisando el PR #15 (claude/2026-11-10-cola-prioridades)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/42879860593",
   "duraciones": [
    7.9,
    8.3,
