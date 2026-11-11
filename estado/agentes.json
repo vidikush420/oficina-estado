@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T00:45:20-06:00",
   "que": "revisando el PR #118 (claude/2026-11-10-rocas-prototipo)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/42959844238",
   "duraciones": [
    0.4,
@@ -39,7 +39,7 @@
    2.0
   ],
   "estimado_min": 3.8,
-  "fase_desde": "2026-11-11T00:47:02-06:00"
+  "fase_desde": "2026-11-11T00:47:10-06:00"
  },
  "sherlock": {
   "estado": "termino",
