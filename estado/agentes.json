@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T11:26:23-06:00",
-  "desde": "2026-11-11T11:25:23-06:00",
-  "que": "revisando el PR #132 (chalan-local/2026-11-11-luz-cielo)",
-  "resumen": "PR #132 → ya fusionado por Miguel; sin comentario nuevo",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43058119589",
+  "estado": "trabajando",
+  "desde": "2026-11-11T11:27:38-06:00",
+  "que": "revisando el PR #137 (chalan-local/2026-11-11-barcos-mochila)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43067162160",
   "duraciones": [
    13.6,
    13.8,
