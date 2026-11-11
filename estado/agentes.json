@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T04:13:18-06:00",
   "desde": "2026-11-11T04:01:53-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Mejoré el puerto del juego: el puesto del mercado y la lancha ahora tienen el mismo estilo pintado del resto, y la casa del pescador quedó sobre el agua junto al muelle. El letrero de la tienda ya dic",
   "url": "",
   "duraciones": [
-   21.0,
    25.1,
    9.4,
    25.6,
@@ -78,9 +78,10 @@
    1.5,
    13.8,
    9.3,
-   14.9
+   14.9,
+   11.4
   ],
-  "estimado_min": 15.4
+  "estimado_min": 14.4
  },
  "gerente-de-zara": {
   "estado": "termino",
