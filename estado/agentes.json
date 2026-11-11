@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T00:47:42-06:00",
-  "desde": "2026-11-11T00:45:20-06:00",
-  "que": "revisando el PR #118 (claude/2026-11-10-rocas-prototipo)",
-  "resumen": "PR #118 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42959844238",
+  "estado": "trabajando",
+  "desde": "2026-11-11T00:53:15-06:00",
+  "que": "revisando el PR #120 (claude/2026-11-11-terreno-prototipo)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42969908896",
   "duraciones": [
    0.5,
    1.1,
