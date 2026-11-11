@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T00:57:28-06:00",
-  "desde": "2026-11-11T00:36:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T00:59:08-06:00",
   "que": "corrida programada",
-  "resumen": "Cambié las piedras de las islas para que se vean como las del dibujo de referencia: caras grandes y lisas, bordes claros y musgo arriba. Ya están en el juego y las pruebas pasan. Falta seguir con el t",
+  "fase": "",
   "url": "",
   "duraciones": [
    26.9,
