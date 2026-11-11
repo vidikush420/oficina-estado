@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T14:17:32-06:00",
-  "desde": "2026-11-11T14:16:10-06:00",
-  "que": "revisando el PR #138 (chalan-local/2026-11-11-fps-relativo)",
-  "resumen": "PR #138 → DEVUELTO (marcadores de conflicto en ESTADO.md), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43085494552",
+  "estado": "trabajando",
+  "desde": "2026-11-11T14:19:09-06:00",
+  "que": "revisando el PR #140 (chalan-local/2026-11-11-ui-escala)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43087389707",
   "duraciones": [
    0.6,
    1.0,
