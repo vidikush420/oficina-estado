@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-11T11:56:13-06:00",
+  "cuando": "2026-11-11T11:56:22-06:00",
   "desde": "2026-11-11T11:32:03-06:00",
   "que": "corrida programada",
-  "resumen": "Marea: #130 y #134 rebasados, mergeables, GUT 483/483",
+  "resumen": "Dos cambios de Marea (arena mojada y mariposas/humo) se habían trabado porque otros cambios ya se integraron antes; los puse al día y ya se pueden integrar. De paso arreglé una prueba automática que n",
   "url": "",
   "duraciones": [
-   13.4,
    16.4,
    17.3,
    18.1,
@@ -79,9 +78,10 @@
    19.6,
    14.3,
    38.4,
-   24.2
+   24.2,
+   24.3
   ],
-  "estimado_min": 18.5
+  "estimado_min": 19.2
  },
  "gerente-de-zara": {
   "estado": "termino",
