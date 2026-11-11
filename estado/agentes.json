@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T04:37:55-06:00",
-  "desde": "2026-11-11T04:31:05-06:00",
-  "que": "revisando el PR #127 (chalan-local/2026-11-11-puerto-ronda2)",
-  "resumen": "PR #127 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43004087651",
+  "estado": "trabajando",
+  "desde": "2026-11-11T04:47:33-06:00",
+  "que": "revisando el PR #128 (chalan-local/2026-11-11-pendientes-cortos)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43005130378",
   "duraciones": [
    2.6,
    12.8,
