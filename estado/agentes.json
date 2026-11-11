@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T08:36:45-06:00",
-  "desde": "2026-11-11T08:17:58-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T08:46:09-06:00",
   "que": "corrida programada",
-  "resumen": "Retoqué el cielo del juego: ahora es azul de día con nubes y las islas lejanas se ven más claras. El cambio ya se nota a simple vista. Falta rehacer el agua y medir la velocidad en iPhone; para eso úl",
+  "fase": "",
   "url": "",
   "duraciones": [
    12.5,
