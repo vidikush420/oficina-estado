@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T05:43:49-06:00",
   "que": "revisando el PR #128 (chalan-local/2026-11-11-pendientes-cortos)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43010066508",
   "duraciones": [
    1.8,
@@ -38,7 +38,8 @@
    8.5,
    3.4
   ],
-  "estimado_min": 6.8
+  "estimado_min": 6.8,
+  "fase_desde": "2026-11-11T05:45:24-06:00"
  },
  "sherlock": {
   "estado": "termino",
