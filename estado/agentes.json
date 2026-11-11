@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T22:02:48-06:00",
-  "desde": "2026-11-10T21:59:11-06:00",
-  "que": "revisando el PR #117 (claude/2026-11-10-vegetacion-objetivo)",
-  "resumen": "PR #117 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42955220096",
+  "estado": "trabajando",
+  "desde": "2026-11-11T00:13:32-06:00",
+  "que": "revisando el PR #116 (chalan-local/2026-11-10-vegetacion-port)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42968778287",
   "duraciones": [
    0.6,
    0.8,
