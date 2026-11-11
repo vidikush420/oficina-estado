@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T10:21:27-06:00",
   "que": "revisando el PR #135 (claude/2026-11-11-decisiones-visual)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/43044265905",
   "duraciones": [
    8.5,
@@ -39,7 +39,7 @@
    7.0
   ],
   "estimado_min": 10.9,
-  "fase_desde": "2026-11-11T10:22:02-06:00"
+  "fase_desde": "2026-11-11T10:22:14-06:00"
  },
  "sherlock": {
   "estado": "termino",
