@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T21:50:17-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo capturas y pruebas",
+  "fase": "Marea: 3/4 midiendo fps en el Simulador",
   "url": "",
   "duraciones": [
    130.9,
@@ -81,7 +81,7 @@
    0.6
   ],
   "estimado_min": 10.0,
-  "fase_desde": "2026-11-10T21:53:47-06:00"
+  "fase_desde": "2026-11-10T22:04:55-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
