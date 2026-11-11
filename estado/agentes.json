@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T14:31:14-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 brazo de resorte de la cámara",
+  "fase": "Marea: 3/4 corriendo pruebas",
   "url": "",
   "duraciones": [
    19.6,
@@ -81,7 +81,7 @@
    44.9
   ],
   "estimado_min": 21.9,
-  "fase_desde": "2026-11-11T14:33:08-06:00"
+  "fase_desde": "2026-11-11T14:36:26-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
