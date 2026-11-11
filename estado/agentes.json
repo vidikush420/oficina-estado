@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T18:26:00-06:00",
-  "desde": "2026-11-10T16:15:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T18:26:25-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había trabajo que yo pudiera hacer solo en la Mac. Lo que queda en Marea y Sunday espera decisiones o archivos tuyos. La publicación de pruebas (beta) está funcionando. Si quieres que avance Ma",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
