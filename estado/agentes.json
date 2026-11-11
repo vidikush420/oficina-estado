@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T01:41:10-06:00",
   "desde": "2026-11-11T01:38:43-06:00",
   "que": "revisando el PR #124 (claude/2026-11-11-interfaz-prototipo)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #124 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42976149763",
   "duraciones": [
-   6.0,
    9.9,
    4.0,
    3.6,
@@ -36,10 +36,10 @@
    2.4,
    2.2,
    2.4,
+   2.5,
    2.5
   ],
-  "estimado_min": 3.0,
-  "fase_desde": "2026-11-11T01:41:05-06:00"
+  "estimado_min": 2.5
  },
  "sherlock": {
   "estado": "termino",
