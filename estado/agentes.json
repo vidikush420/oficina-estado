@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T05:26:25-06:00",
-  "desde": "2026-11-11T05:00:15-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T05:26:45-06:00",
   "que": "corrida programada",
-  "resumen": "Saqué fotos reales del juego y las miré. Las rocas se veían verdosas y brillantes; ahora son grises como piedra. La pantalla de inicio en celular acostado se tapaba y ya cabe entera. Aún faltan detall",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.8,
