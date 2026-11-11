@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T07:02:37-06:00",
-  "desde": "2026-11-11T06:49:10-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T07:23:08-06:00",
   "que": "corrida programada",
-  "resumen": "Unos cambios de la pantalla del juego que ya habías pedido se habían quedado sin entrar; ya están listos para aprobarse. También arreglé otro cambio (la arena mojada del puerto) que se había enredado",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.9,
