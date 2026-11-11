@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T04:00:36-06:00",
-  "desde": "2026-11-11T03:45:43-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T04:01:53-06:00",
   "que": "corrida programada",
-  "resumen": "Llevé el pasto del nuevo terreno al puerto y a las otras islas; se nota poco porque las plantas lo tapan. Las pruebas pasaron. Falta el resto del plan (puerto, interfaz, luz, agua, vida), que haré en",
+  "fase": "",
   "url": "",
   "duraciones": [
    21.0,
