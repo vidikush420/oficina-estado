@@ -62,13 +62,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T06:47:38-06:00",
   "desde": "2026-11-11T06:31:05-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Terminé los cuatro retoques que pediste a la interfaz del juego: el menú de inicio ya muestra la isla del juego con el título en una línea, la mochila tiene su icono nuevo, el botón Lanzar se ve sólid",
   "url": "",
   "duraciones": [
-   13.8,
    9.3,
    14.9,
    11.4,
@@ -77,10 +77,10 @@
    12.5,
    26.2,
    32.4,
-   16.4
+   16.4,
+   16.6
   ],
-  "estimado_min": 13.2,
-  "fase_desde": "2026-11-11T06:34:53-06:00"
+  "estimado_min": 13.7
  },
  "gerente-de-zara": {
   "estado": "termino",
