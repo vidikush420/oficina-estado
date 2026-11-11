@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-10T16:16:25-06:00",
+  "cuando": "2026-11-10T18:26:00-06:00",
   "desde": "2026-11-10T16:15:07-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Lo que queda en Marea y en Siniestros espera algo tuyo: aprobar el plano del mundo grande, decidir cómo acelerar la carga, dejar los paquetes de arte e",
+  "resumen": "Hoy no había trabajo que yo pudiera hacer solo en la Mac. Lo que queda en Marea y Sunday espera decisiones o archivos tuyos. La publicación de pruebas (beta) está funcionando. Si quieres que avance Ma",
   "url": "",
   "duraciones": [
-   1.9,
    1.2,
    1.5,
    0.7,
@@ -79,7 +78,8 @@
    1.1,
    1.1,
    1.5,
-   1.3
+   1.3,
+   130.9
   ],
   "estimado_min": 1.4
  },
