@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T20:10:06-06:00",
-  "desde": "2026-11-10T19:23:46-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T20:12:27-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé cómo se ve el tutorial del juego y en el celular el texto de la misión se montaba sobre el botón Menú. Lo corregí y las pruebas automáticas pasan. Falta revisar cómo se ven los otros dos pasos",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
