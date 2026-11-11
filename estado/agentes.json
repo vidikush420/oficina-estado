@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T00:47:42-06:00",
   "desde": "2026-11-11T00:45:20-06:00",
   "que": "revisando el PR #118 (claude/2026-11-10-rocas-prototipo)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #118 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42959844238",
   "duraciones": [
-   0.4,
    0.5,
    1.1,
    4.6,
@@ -36,10 +36,10 @@
    4.0,
    3.6,
    10.3,
-   2.0
+   2.0,
+   2.4
   ],
-  "estimado_min": 3.8,
-  "fase_desde": "2026-11-11T00:47:36-06:00"
+  "estimado_min": 3.8
  },
  "sherlock": {
   "estado": "termino",
