@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T02:40:00-06:00",
   "desde": "2026-11-11T02:27:15-06:00",
   "que": "revisando el PR #123 (chalan-local/2026-11-11-rocas)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #123 → OJO (cosmético), ya estaba fusionado; revisión posterior",
   "url": "https://github.com/vidikush420/marea/actions/runs/42983731861",
   "duraciones": [
-   2.0,
    2.4,
    2.2,
    2.4,
@@ -36,10 +36,10 @@
    14.5,
    14.7,
    2.5,
-   2.6
+   2.6,
+   12.8
   ],
-  "estimado_min": 2.5,
-  "fase_desde": "2026-11-11T02:39:54-06:00"
+  "estimado_min": 2.5
  },
  "sherlock": {
   "estado": "termino",
