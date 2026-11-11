@@ -21,12 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T11:10:26-06:00",
   "desde": "2026-11-11T11:09:53-06:00",
   "que": "",
+  "resumen": "PR #130 → DEVUELTO (conflicto ESTADO.md con main), no fusionado",
   "url": "",
   "duraciones": [
-   9.9,
    13.5,
    13.6,
    13.8,
@@ -35,11 +36,10 @@
    0.9,
    1.2,
    0.9,
-   0.1
+   0.1,
+   0.6
   ],
-  "fase": "4/4 registrando en la oficina",
-  "fase_desde": "2026-11-11T11:10:22-06:00",
-  "estimado_min": 4.1
+  "estimado_min": 1.1
  },
  "sherlock": {
   "estado": "termino",
