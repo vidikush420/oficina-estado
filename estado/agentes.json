@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T14:52:44-06:00",
   "desde": "2026-11-11T14:45:48-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Arreglé un choque entre dos cambios del juego Marea para que el de la interfaz del celular se pueda aprobar. Las pruebas automáticas pasaron. Aún faltan varios puntos de tu lista (lanzar la caña hacia",
   "url": "",
   "duraciones": [
-   14.3,
    38.4,
    24.2,
    24.3,
@@ -78,10 +78,10 @@
    13.5,
    15.7,
    44.9,
-   14.1
+   14.1,
+   6.9
   ],
-  "estimado_min": 20.4,
-  "fase_desde": "2026-11-11T14:46:35-06:00"
+  "estimado_min": 20.4
  },
  "gerente-de-zara": {
   "estado": "termino",
