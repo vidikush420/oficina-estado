@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T02:09:26-06:00",
-  "desde": "2026-11-11T02:06:52-06:00",
-  "que": "revisando el PR #122 (chalan-local/2026-11-11-vegetacion-ronda3)",
-  "resumen": "PR #122 → DEVUELTO (conflicto, main ya tiene los cambios), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42973494167",
+  "estado": "trabajando",
+  "desde": "2026-11-11T02:27:15-06:00",
+  "que": "revisando el PR #123 (chalan-local/2026-11-11-rocas)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42983731861",
   "duraciones": [
    2.0,
    2.4,
