@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T04:37:21-06:00",
   "desde": "2026-11-11T04:25:15-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Arreglé lo que la revisión pidió del puerto y quité el tronco punteado que se veía en primer plano; las rocas ahora son grises y la arena de las otras islas tiene textura. No pude tomar fotos del resu",
   "url": "",
   "duraciones": [
-   25.1,
    9.4,
    25.6,
    20.6,
@@ -78,10 +78,10 @@
    13.8,
    9.3,
    14.9,
-   11.4
+   11.4,
+   12.1
   ],
-  "estimado_min": 14.4,
-  "fase_desde": "2026-11-11T04:36:58-06:00"
+  "estimado_min": 12.9
  },
  "gerente-de-zara": {
   "estado": "termino",
