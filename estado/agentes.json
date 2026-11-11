@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T03:27:24-06:00",
   "desde": "2026-11-11T03:25:39-06:00",
   "que": "revisando el PR #122 (chalan-local/2026-11-11-vegetacion-ronda3)",
-  "fase": "1/4 leyendo el PR",
+  "resumen": "PR #122 → ya cerrado y con revisión previa; sin acción, no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42984997867",
   "duraciones": [
-   2.4,
    2.5,
    2.5,
    14.5,
@@ -36,10 +36,10 @@
    2.6,
    12.8,
    15.1,
-   15.2
+   15.2,
+   1.8
   ],
-  "estimado_min": 7.7,
-  "fase_desde": "2026-11-11T03:27:10-06:00"
+  "estimado_min": 7.7
  },
  "sherlock": {
   "estado": "termino",
