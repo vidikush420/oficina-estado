@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T10:49:48-06:00",
-  "desde": "2026-11-11T10:35:32-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T10:51:06-06:00",
   "que": "corrida programada",
-  "resumen": "Agregué en Marea un carpintero junto al muelle que vende barcos, y arreglé qué pasa cuando la mochila está llena: ya no te impide pescar, te deja escoger qué soltar. Las pruebas automáticas pasaron. A",
+  "fase": "",
   "url": "",
   "duraciones": [
    16.4,
