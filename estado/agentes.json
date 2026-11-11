@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T06:24:37-06:00",
   "que": "revisando el PR #129 (chalan-local/2026-11-11-interfaz)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/43017954229",
   "duraciones": [
    8.6,
@@ -39,7 +39,7 @@
    2.4
   ],
   "estimado_min": 6.8,
-  "fase_desde": "2026-11-11T06:36:07-06:00"
+  "fase_desde": "2026-11-11T06:36:21-06:00"
  },
  "sherlock": {
   "estado": "termino",
