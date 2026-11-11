@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T03:37:25-06:00",
   "desde": "2026-11-11T03:28:06-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "El trabajo del terreno de Marea no se podía integrar porque chocaba con otro cambio reciente. Ya lo acomodé y las pruebas automáticas pasaron todas. No tienes que hacer nada; falta que se revise y que",
   "url": "",
   "duraciones": [
-   125.0,
    13.6,
    21.0,
    25.1,
@@ -78,9 +78,10 @@
    20.6,
    15.8,
    1.5,
-   13.8
+   13.8,
+   9.3
   ],
-  "estimado_min": 18.2
+  "estimado_min": 14.8
  },
  "gerente-de-zara": {
   "estado": "termino",
