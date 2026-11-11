@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T21:44:05-06:00",
-  "desde": "2026-11-10T21:16:30-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T21:45:16-06:00",
   "que": "corrida programada",
-  "resumen": "Pasé las plantas nuevas del prototipo al juego: palmeras, helechos, flores y arbustos se ven mucho más llenos y pintados. El juego corre igual de fluido que antes y las pruebas pasan. Falta una decisi",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
