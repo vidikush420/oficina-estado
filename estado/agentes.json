@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T08:42:26-06:00",
   "que": "revisando el PR #133 (chalan-local/2026-11-11-agua)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43033870514",
   "duraciones": [
    1.9,
@@ -39,7 +39,7 @@
    13.6
   ],
   "estimado_min": 9.2,
-  "fase_desde": "2026-11-11T08:46:19-06:00"
+  "fase_desde": "2026-11-11T08:55:45-06:00"
  },
  "sherlock": {
   "estado": "termino",
