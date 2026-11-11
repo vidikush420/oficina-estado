@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T20:39:20-06:00",
   "desde": "2026-11-10T20:12:27-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Hice el pulido que pediste en Marea: las rocas ya no se ven picudas, la madera tiene más detalle, quité la hoja que tapaba la vista del faro y la tarjeta blanca era el dibujo del tendero, que ahora se",
   "url": "",
   "duraciones": [
-   0.7,
    11.0,
    19.1,
    1.1,
@@ -78,10 +78,10 @@
    1.3,
    130.9,
    4.9,
-   46.3
+   46.3,
+   26.9
   ],
-  "estimado_min": 3.2,
-  "fase_desde": "2026-11-10T20:38:54-06:00"
+  "estimado_min": 8.0
  },
  "gerente-de-zara": {
   "estado": "termino",
