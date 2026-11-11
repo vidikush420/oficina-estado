@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T02:39:43-06:00",
-  "desde": "2026-11-11T02:23:52-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T02:41:21-06:00",
   "que": "corrida programada",
-  "resumen": "La isla de inicio ya no es plana: tiene una loma con pasto, un camino de arena con piedritas, arena con textura y una franja mojada junto al agua, más parecida a la imagen de referencia. Las pruebas a",
+  "fase": "",
   "url": "",
   "duraciones": [
    27.6,
