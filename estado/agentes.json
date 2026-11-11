@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T21:07:53-06:00",
   "desde": "2026-11-10T21:06:38-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Esta vez no tomé ninguna tarea: lo que queda pendiente en el juego Marea depende de decisiones tuyas (aprobar el plano del mundo grande, elegir cómo acelerar la carga) o de que DaVinci entregue sus mo",
   "url": "",
   "duraciones": [
-   1.1,
    1.5,
    1.3,
    130.9,
@@ -78,7 +78,8 @@
    26.9,
    9.9,
    10.1,
-   1.1
+   1.1,
+   1.2
   ],
   "estimado_min": 7.4
  },
