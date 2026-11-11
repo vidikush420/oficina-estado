@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T13:39:57-06:00",
   "que": "revisando el PR #141 (chalan-local/2026-11-11-colisiones)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/43088819973",
   "duraciones": [
    1.2,
@@ -39,7 +39,7 @@
    9.3
   ],
   "estimado_min": 1.1,
-  "fase_desde": "2026-11-11T13:40:19-06:00"
+  "fase_desde": "2026-11-11T13:40:23-06:00"
  },
  "sherlock": {
   "estado": "termino",
