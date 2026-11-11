@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T10:53:53-06:00",
-  "desde": "2026-11-11T10:52:40-06:00",
-  "que": "revisando el PR #84 (chalan/2026-11-11-todos-crean-proyectos)",
-  "resumen": "PR #84 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43060206498",
+  "estado": "trabajando",
+  "desde": "2026-11-11T10:57:24-06:00",
+  "que": "revisando el PR #134 (chalan-local/2026-11-12-vida)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43036957206",
   "duraciones": [
    11.9,
    12.0,
