@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T07:02:37-06:00",
   "desde": "2026-11-11T06:49:10-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Unos cambios de la pantalla del juego que ya habías pedido se habían quedado sin entrar; ya están listos para aprobarse. También arreglé otro cambio (la arena mojada del puerto) que se había enredado",
   "url": "",
   "duraciones": [
-   9.3,
    14.9,
    11.4,
    12.1,
@@ -78,10 +78,10 @@
    26.2,
    32.4,
    16.4,
-   16.6
+   16.6,
+   13.4
   ],
-  "estimado_min": 13.7,
-  "fase_desde": "2026-11-11T07:01:44-06:00"
+  "estimado_min": 14.2
  },
  "gerente-de-zara": {
   "estado": "termino",
