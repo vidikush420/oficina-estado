@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T21:59:11-06:00",
   "que": "revisando el PR #117 (claude/2026-11-10-vegetacion-objetivo)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/42955220096",
   "duraciones": [
    4.7,
@@ -39,7 +39,7 @@
    4.0
   ],
   "estimado_min": 2.5,
-  "fase_desde": "2026-11-10T22:02:16-06:00"
+  "fase_desde": "2026-11-10T22:02:25-06:00"
  },
  "sherlock": {
   "estado": "termino",
