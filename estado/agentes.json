@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T20:50:00-06:00",
   "desde": "2026-11-10T20:40:03-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Marea: PR 114 al día con main, GUT 465/465",
   "url": "",
   "duraciones": [
-   11.0,
    19.1,
    1.1,
    1.1,
@@ -78,10 +78,10 @@
    130.9,
    4.9,
    46.3,
-   26.9
+   26.9,
+   9.9
   ],
-  "estimado_min": 8.0,
-  "fase_desde": "2026-11-10T20:49:43-06:00"
+  "estimado_min": 7.4
  },
  "gerente-de-zara": {
   "estado": "termino",
