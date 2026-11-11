@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T03:42:44-06:00",
   "que": "revisando el PR #126 (chalan-local/2026-11-11-terreno)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42996718325",
   "duraciones": [
    2.5,
@@ -38,7 +38,8 @@
    15.2,
    1.8
   ],
-  "estimado_min": 7.7
+  "estimado_min": 7.7,
+  "fase_desde": "2026-11-11T03:44:45-06:00"
  },
  "sherlock": {
   "estado": "termino",
