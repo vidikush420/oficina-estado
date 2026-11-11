@@ -63,13 +63,13 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T21:05:25-06:00",
   "desde": "2026-11-10T21:04:17-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no encontré nada que yo pueda hacer solo ahora mismo. Lo pendiente de Marea espera tus decisiones: cómo acelerar la carga del juego, qué arte apruebas y el plano del mundo",
   "url": "",
   "duraciones": [
-   1.1,
    1.1,
    1.5,
    1.3,
@@ -78,7 +78,8 @@
    46.3,
    26.9,
    9.9,
-   10.1
+   10.1,
+   1.1
   ],
   "estimado_min": 7.4
  },
