@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T15:39:41-06:00",
   "desde": "2026-11-11T15:12:37-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 reporte",
+  "resumen": "Dejé listos para aprobar cuatro cambios de Marea que estaban trabados por choques con otros cambios; las pruebas automáticas pasan. Además el texto de ayuda ya no se corta y el botón «Ajustes» es más",
   "url": "",
   "duraciones": [
-   24.2,
    24.3,
    49.5,
    16.5,
@@ -78,10 +78,10 @@
    44.9,
    14.1,
    6.9,
-   13.7
+   13.7,
+   27.1
   ],
-  "estimado_min": 16.1,
-  "fase_desde": "2026-11-11T15:35:27-06:00"
+  "estimado_min": 16.1
  },
  "gerente-de-zara": {
   "estado": "termino",
