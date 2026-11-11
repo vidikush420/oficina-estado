@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T21:03:27-06:00",
-  "desde": "2026-11-10T20:53:35-06:00",
-  "que": "revisando el PR #114 (chalan-local/2026-11-10-pulido-rocas-madera)",
-  "resumen": "PR #114 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42948663556",
+  "estado": "trabajando",
+  "desde": "2026-11-10T21:37:41-06:00",
+  "que": "revisando el PR #115 (claude/2026-11-10-vegetacion-prototipo)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42951524099",
   "duraciones": [
    1.2,
    4.7,
