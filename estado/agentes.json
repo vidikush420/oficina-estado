@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T10:53:53-06:00",
   "desde": "2026-11-11T10:52:40-06:00",
   "que": "revisando el PR #84 (chalan/2026-11-11-todos-crean-proyectos)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #84 → PASA, fusionado",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43060206498",
   "duraciones": [
-   2.4,
    11.9,
    12.0,
    9.9,
@@ -36,10 +36,10 @@
    13.8,
    7.0,
    0.9,
-   0.9
+   0.9,
+   1.2
   ],
-  "estimado_min": 10.9,
-  "fase_desde": "2026-11-11T10:53:48-06:00"
+  "estimado_min": 10.9
  },
  "sherlock": {
   "estado": "termino",
