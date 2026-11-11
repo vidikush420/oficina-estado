@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T13:44:48-06:00",
   "desde": "2026-11-11T13:29:06-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ahora el personaje choca con palmeras, rocas, casas y puestos en vez de atravesarlos, y se desliza por el borde. No lo pude ver en un iPhone simulado; cuando se publique, camina contra una palmera y d",
   "url": "",
   "duraciones": [
-   18.8,
    86.4,
    19.6,
    14.3,
@@ -78,10 +78,10 @@
    24.3,
    49.5,
    16.5,
-   13.5
+   13.5,
+   15.7
   ],
-  "estimado_min": 21.9,
-  "fase_desde": "2026-11-11T13:36:35-06:00"
+  "estimado_min": 21.9
  },
  "gerente-de-zara": {
   "estado": "termino",
