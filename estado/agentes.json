@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T11:29:30-06:00",
   "desde": "2026-11-11T10:51:06-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "No pude medir qué tan fluido corre Marea en el celular simulado: la computadora estuvo siempre ocupada con otras tareas automáticas y la medición saldría falsa. Tampoco pude cerrar el aviso duplicado",
   "url": "",
   "duraciones": [
-   16.4,
    16.6,
    13.4,
    16.4,
@@ -78,10 +78,10 @@
    18.8,
    86.4,
    19.6,
-   14.3
+   14.3,
+   38.4
   ],
-  "estimado_min": 17.0,
-  "fase_desde": "2026-11-11T10:59:01-06:00"
+  "estimado_min": 17.7
  },
  "gerente-de-zara": {
   "estado": "termino",
