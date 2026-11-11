@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T18:31:20-06:00",
-  "desde": "2026-11-10T18:26:25-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T19:23:46-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Lo último que pediste de Marea (rocas, plantas y madera con más calidad) ya quedó hecho e integrado. Lo que sigue en la lista espera una decisión tuya:",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.5,
