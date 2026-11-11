@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T08:56:11-06:00",
   "desde": "2026-11-11T08:42:26-06:00",
   "que": "revisando el PR #133 (chalan-local/2026-11-11-agua)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #133 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43033870514",
   "duraciones": [
-   1.9,
    5.0,
    8.5,
    3.4,
@@ -36,10 +36,10 @@
    12.0,
    9.9,
    13.5,
-   13.6
+   13.6,
+   13.8
   ],
-  "estimado_min": 9.2,
-  "fase_desde": "2026-11-11T08:55:59-06:00"
+  "estimado_min": 10.9
  },
  "sherlock": {
   "estado": "termino",
