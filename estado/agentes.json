@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T01:38:43-06:00",
   "que": "revisando el PR #124 (claude/2026-11-11-interfaz-prototipo)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42976149763",
   "duraciones": [
    6.0,
@@ -38,7 +38,8 @@
    2.4,
    2.5
   ],
-  "estimado_min": 3.0
+  "estimado_min": 3.0,
+  "fase_desde": "2026-11-11T01:40:28-06:00"
  },
  "sherlock": {
   "estado": "termino",
