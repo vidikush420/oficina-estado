@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-11T02:45:46-06:00",
-  "que": "revisando el PR #126 (chalan-local/2026-11-11-terreno)",
-  "fase": "2/4 revisando el código y las pruebas",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42988758437",
+  "desde": "2026-11-11T02:59:13-06:00",
+  "que": "revisando el PR #125 (chalan-local/2026-11-11-puerto)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42985689134",
   "duraciones": [
    2.4,
    2.2,
@@ -38,8 +38,7 @@
    2.6,
    12.8
   ],
-  "estimado_min": 2.5,
-  "fase_desde": "2026-11-11T02:47:43-06:00"
+  "estimado_min": 2.5
  },
  "sherlock": {
   "estado": "termino",
