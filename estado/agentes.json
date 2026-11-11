@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T04:37:44-06:00",
   "desde": "2026-11-11T04:31:05-06:00",
   "que": "revisando el PR #127 (chalan-local/2026-11-11-puerto-ronda2)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #127 Marea → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43004087651",
   "duraciones": [
-   14.7,
    2.5,
    2.6,
    12.8,
@@ -36,10 +36,10 @@
    1.8,
    8.6,
    8.8,
-   10.1
+   10.1,
+   6.7
   ],
-  "estimado_min": 9.4,
-  "fase_desde": "2026-11-11T04:37:37-06:00"
+  "estimado_min": 8.7
  },
  "sherlock": {
   "estado": "termino",
