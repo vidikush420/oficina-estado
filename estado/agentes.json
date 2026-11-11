@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T15:07:21-06:00",
-  "desde": "2026-11-11T14:53:42-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T15:12:37-06:00",
   "que": "corrida programada",
-  "resumen": "Ahora el personaje lanza la caña hacia donde está mirando, y puedes girarlo con el joystick antes de lanzar, también en el barco. Si miras hacia tierra, el juego dice «Aquí no hay agua». Las pruebas a",
+  "fase": "",
   "url": "",
   "duraciones": [
    24.2,
