@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T11:09:05-06:00",
   "que": "revisando el PR #85 (chalan-local/2026-11-11-todos-crean-proyectos)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43062444590",
   "duraciones": [
    12.0,
@@ -38,7 +38,8 @@
    1.2,
    0.9
   ],
-  "estimado_min": 8.4
+  "estimado_min": 8.4,
+  "fase_desde": "2026-11-11T11:09:25-06:00"
  },
  "sherlock": {
   "estado": "termino",
