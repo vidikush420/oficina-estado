@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T21:37:41-06:00",
   "que": "revisando el PR #115 (claude/2026-11-10-vegetacion-prototipo)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/42951524099",
   "duraciones": [
    1.2,
@@ -39,7 +39,7 @@
    9.9
   ],
   "estimado_min": 1.1,
-  "fase_desde": "2026-11-10T21:41:28-06:00"
+  "fase_desde": "2026-11-10T21:41:30-06:00"
  },
  "sherlock": {
   "estado": "termino",
