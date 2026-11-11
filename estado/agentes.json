@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T07:58:03-06:00",
   "desde": "2026-11-11T07:40:46-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Mejoré el agua del juego: el borde junto a la arena tiene más espuma y se ve más transparente. El cambio es pequeño. Falta lo de la vida (gaviotas, mariposas) y medir qué tan fluido corre en el iPhone",
   "url": "",
   "duraciones": [
-   11.4,
    12.1,
    9.0,
    12.5,
@@ -78,10 +78,10 @@
    16.4,
    16.6,
    13.4,
-   16.4
+   16.4,
+   17.3
   ],
-  "estimado_min": 14.9,
-  "fase_desde": "2026-11-11T07:57:37-06:00"
+  "estimado_min": 16.4
  },
  "gerente-de-zara": {
   "estado": "termino",
