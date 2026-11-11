@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T06:47:38-06:00",
-  "desde": "2026-11-11T06:31:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T06:49:10-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé los cuatro retoques que pediste a la interfaz del juego: el menú de inicio ya muestra la isla del juego con el título en una línea, la mochila tiene su icono nuevo, el botón Lanzar se ve sólid",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.3,
