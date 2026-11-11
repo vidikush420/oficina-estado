@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T21:45:50-06:00",
-  "desde": "2026-11-10T21:45:16-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T21:50:17-06:00",
   "que": "corrida programada",
-  "resumen": "Lo último que hice, la vegetación nueva del juego, todavía está esperando revisión. Hasta que se revise no empiezo otra cosa para no amontonar trabajo. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    130.9,
