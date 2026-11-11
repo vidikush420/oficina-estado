@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T02:01:32-06:00",
-  "desde": "2026-11-11T01:46:53-06:00",
-  "que": "revisando el PR #123 (chalan-local/2026-11-11-rocas)",
-  "resumen": "PR #123 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42975998815",
+  "estado": "trabajando",
+  "desde": "2026-11-11T02:06:52-06:00",
+  "que": "revisando el PR #122 (chalan-local/2026-11-11-vegetacion-ronda3)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42973494167",
   "duraciones": [
    3.6,
    10.3,
