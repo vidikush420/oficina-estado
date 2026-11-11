@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T20:53:35-06:00",
   "que": "revisando el PR #114 (chalan-local/2026-11-10-pulido-rocas-madera)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42948663556",
   "duraciones": [
    0.9,
@@ -38,7 +38,8 @@
    4.6,
    6.0
   ],
-  "estimado_min": 1.0
+  "estimado_min": 1.0,
+  "fase_desde": "2026-11-10T20:56:48-06:00"
  },
  "sherlock": {
   "estado": "termino",
