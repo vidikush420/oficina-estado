@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T07:42:47-06:00",
-  "desde": "2026-11-11T07:29:12-06:00",
-  "que": "revisando el PR #130 (chalan-local/2026-11-11-puerto-arena)",
-  "resumen": "Marea PR #130 → DEVUELTO (conflicto con main), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43024517590",
+  "estado": "trabajando",
+  "desde": "2026-11-11T08:42:26-06:00",
+  "que": "revisando el PR #133 (chalan-local/2026-11-11-agua)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43033870514",
   "duraciones": [
    1.9,
    5.0,
