@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T04:46:50-06:00",
-  "desde": "2026-11-11T04:37:48-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T04:47:23-06:00",
   "que": "corrida programada",
-  "resumen": "En el juego, la \"nevera\" ahora se llama \"mochila\", el botón de vender ya no está fijo y aparece solo al acercarte al vendedor, y lo que pescas se guarda solo. Falta el diseño de los iconos del HUD, la",
+  "fase": "",
   "url": "",
   "duraciones": [
    25.6,
