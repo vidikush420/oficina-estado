@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T10:57:24-06:00",
   "que": "revisando el PR #134 (chalan-local/2026-11-12-vida)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43036957206",
   "duraciones": [
    11.9,
@@ -38,7 +38,8 @@
    0.9,
    1.2
   ],
-  "estimado_min": 10.9
+  "estimado_min": 10.9,
+  "fase_desde": "2026-11-11T10:57:45-06:00"
  },
  "sherlock": {
   "estado": "termino",
