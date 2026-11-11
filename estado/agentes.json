@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T20:50:09-06:00",
-  "desde": "2026-11-10T20:40:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T21:04:17-06:00",
   "que": "corrida programada",
-  "resumen": "El trabajo de pulido de Marea (rocas, madera, cámara) se había quedado atorado porque otro cambio se cruzó con él. Lo acomodé, las pruebas automáticas siguen pasando y ya puede revisarse. Lo demás pen",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
