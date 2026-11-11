@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T05:59:11-06:00",
-  "desde": "2026-11-11T05:26:45-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T05:59:39-06:00",
   "que": "corrida programada",
-  "resumen": "Rehice la pantalla del juego para que se parezca a la maqueta: botones de madera con dibujos, la misión en una tabla, la venta en su propia pantalla y la tarjeta del pez en el centro con color según l",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.5,
