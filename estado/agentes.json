@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T20:15:53-06:00",
   "que": "revisando el PR #113 (chalan-local/2026-11-10-tutorial-captura)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42944092237",
   "duraciones": [
    1.1,
@@ -38,7 +38,8 @@
    1.1,
    4.6
   ],
-  "estimado_min": 1.0
+  "estimado_min": 1.0,
+  "fase_desde": "2026-11-10T20:19:07-06:00"
  },
  "sherlock": {
   "estado": "termino",
