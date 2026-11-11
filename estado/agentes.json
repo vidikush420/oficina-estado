@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T05:26:25-06:00",
   "desde": "2026-11-11T05:00:15-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Saqué fotos reales del juego y las miré. Las rocas se veían verdosas y brillantes; ahora son grises como piedra. La pantalla de inicio en celular acostado se tapaba y ya cabe entera. Aún faltan detall",
   "url": "",
   "duraciones": [
-   20.6,
    15.8,
    1.5,
    13.8,
@@ -78,10 +78,10 @@
    11.4,
    12.1,
    9.0,
-   12.5
+   12.5,
+   26.2
   ],
-  "estimado_min": 12.3,
-  "fase_desde": "2026-11-11T05:12:34-06:00"
+  "estimado_min": 12.3
  },
  "gerente-de-zara": {
   "estado": "termino",
