@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T00:35:42-06:00",
-  "desde": "2026-11-11T00:22:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T00:36:29-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé tres detalles del juego: las sombras en la arena ya no se ven de cuadritos, las rocas viejas de bloques de las islas se cambiaron por las nuevas y revisé las hojas grandes, que ya tienen hueco",
+  "fase": "",
   "url": "",
   "duraciones": [
    46.3,
