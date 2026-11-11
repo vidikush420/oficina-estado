@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T04:13:18-06:00",
-  "desde": "2026-11-11T04:01:53-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T04:25:15-06:00",
   "que": "corrida programada",
-  "resumen": "Mejoré el puerto del juego: el puesto del mercado y la lancha ahora tienen el mismo estilo pintado del resto, y la casa del pescador quedó sobre el agua junto al muelle. El letrero de la tienda ya dic",
+  "fase": "",
   "url": "",
   "duraciones": [
    25.1,
