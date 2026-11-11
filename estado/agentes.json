@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T05:46:10-06:00",
   "desde": "2026-11-11T05:43:49-06:00",
   "que": "revisando el PR #128 (chalan-local/2026-11-11-pendientes-cortos)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #128 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43010066508",
   "duraciones": [
-   1.8,
    8.6,
    8.8,
    10.1,
@@ -36,10 +36,10 @@
    1.9,
    5.0,
    8.5,
-   3.4
+   3.4,
+   2.4
   ],
-  "estimado_min": 6.8,
-  "fase_desde": "2026-11-11T05:46:06-06:00"
+  "estimado_min": 6.8
  },
  "sherlock": {
   "estado": "termino",
