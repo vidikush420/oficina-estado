@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-11T06:55:35-06:00",
-  "desde": "2026-11-11T06:45:39-06:00",
-  "que": "revisando el PR #130 (chalan-local/2026-11-11-puerto-arena)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43018824124",
+  "estado": "trabajando",
+  "desde": "2026-11-11T07:09:34-06:00",
+  "que": "revisando el PR #131 (chalan-local/2026-11-11-interfaz-ronda3)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43025473483",
   "duraciones": [
    6.7,
    6.8,
