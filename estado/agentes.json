@@ -63,11 +63,10 @@
   "estimado_min": 39.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-10T20:39:20-06:00",
-  "desde": "2026-11-10T20:12:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-10T20:40:03-06:00",
   "que": "corrida programada",
-  "resumen": "Hice el pulido que pediste en Marea: las rocas ya no se ven picudas, la madera tiene más detalle, quité la hoja que tapaba la vista del faro y la tarjeta blanca era el dibujo del tendero, que ahora se",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.0,
