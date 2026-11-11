@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T01:34:30-06:00",
-  "desde": "2026-11-11T01:25:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T01:35:48-06:00",
   "que": "corrida programada",
-  "resumen": "Empecé a darle a la isla un suelo más bonito: arena con textura, manchas de pasto y pequeñas dunas junto al agua. Es una primera pasada; todavía no iguala la imagen meta y faltan detalles como el cami",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.1,
