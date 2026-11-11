@@ -21,14 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-11T02:01:25-06:00",
+  "estado": "termino",
+  "cuando": "2026-11-11T02:01:32-06:00",
   "desde": "2026-11-11T01:46:53-06:00",
   "que": "revisando el PR #123 (chalan-local/2026-11-11-rocas)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
+  "resumen": "PR #123 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42975998815",
   "duraciones": [
-   4.0,
    3.6,
    10.3,
    2.0,
@@ -37,7 +36,8 @@
    2.4,
    2.5,
    2.5,
-   14.5
+   14.5,
+   14.7
   ],
   "estimado_min": 2.5
  },
