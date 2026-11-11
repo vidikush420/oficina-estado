@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T15:07:51-06:00",
   "que": "revisando el PR #143 (chalan-local/2026-11-11-lanzar-direccion)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43099424243",
   "duraciones": [
    1.0,
@@ -38,7 +38,8 @@
    1.4,
    13.8
   ],
-  "estimado_min": 9.6
+  "estimado_min": 9.6,
+  "fase_desde": "2026-11-11T15:08:14-06:00"
  },
  "sherlock": {
   "estado": "termino",
