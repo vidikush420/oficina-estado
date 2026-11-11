@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-10T21:41:38-06:00",
-  "desde": "2026-11-10T21:37:41-06:00",
-  "que": "revisando el PR #115 (claude/2026-11-10-vegetacion-prototipo)",
-  "resumen": "PR #115 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/42951524099",
+  "estado": "trabajando",
+  "desde": "2026-11-10T21:59:11-06:00",
+  "que": "revisando el PR #117 (claude/2026-11-10-vegetacion-objetivo)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/42955220096",
   "duraciones": [
    4.7,
    0.6,
