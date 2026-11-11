@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T03:26:47-06:00",
-  "desde": "2026-11-11T03:12:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T03:28:06-06:00",
   "que": "corrida programada",
-  "resumen": "Mejoré la isla del juego siguiendo tus comentarios: el muro de trofeos ya es del tamaño de un mueble, el camino tiene hileras de piedras seguidas y el pasto tiene más variedad. Cerré un trabajo viejo",
+  "fase": "",
   "url": "",
   "duraciones": [
    125.0,
