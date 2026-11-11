@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T15:35:51-06:00",
   "desde": "2026-11-11T15:28:21-06:00",
   "que": "revisando el PR #140 (chalan-local/2026-11-11-ui-escala)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #140 → DEVUELTO (borrar ESTADO.md-E), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43103266138",
   "duraciones": [
-   12.5,
    15.0,
    15.1,
    1.0,
@@ -36,10 +36,10 @@
    0.9,
    1.4,
    13.8,
-   9.2
+   9.2,
+   7.5
   ],
-  "estimado_min": 9.6,
-  "fase_desde": "2026-11-11T15:35:43-06:00"
+  "estimado_min": 9.2
  },
  "sherlock": {
   "estado": "termino",
