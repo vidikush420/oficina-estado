@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T15:17:05-06:00",
   "desde": "2026-11-11T15:07:51-06:00",
   "que": "revisando el PR #143 (chalan-local/2026-11-11-lanzar-direccion)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #143 Marea → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43099424243",
   "duraciones": [
-   1.0,
    12.5,
    15.0,
    15.1,
@@ -36,10 +36,10 @@
    9.8,
    0.9,
    1.4,
-   13.8
+   13.8,
+   9.2
   ],
-  "estimado_min": 9.6,
-  "fase_desde": "2026-11-11T15:16:58-06:00"
+  "estimado_min": 9.6
  },
  "sherlock": {
   "estado": "termino",
