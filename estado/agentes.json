@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T02:23:52-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 terreno con relieve, pasto y camino",
   "url": "",
   "duraciones": [
    1.2,
@@ -81,7 +81,7 @@
    20.6
   ],
   "estimado_min": 20.8,
-  "fase_desde": "2026-11-11T02:24:28-06:00"
+  "fase_desde": "2026-11-11T02:25:41-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
