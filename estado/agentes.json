@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T13:04:37-06:00",
   "desde": "2026-11-11T12:48:06-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Arreglé por qué tu iPhone mostraba el juego viejo: guardaba archivos antiguos con el mismo nombre. Ahora cada versión tiene su propia huella y verás la versión en una esquina. No pude probarlo en un i",
   "url": "",
   "duraciones": [
-   17.3,
    18.1,
    18.8,
    86.4,
@@ -78,10 +78,10 @@
    38.4,
    24.2,
    24.3,
-   49.5
+   49.5,
+   16.5
   ],
-  "estimado_min": 21.9,
-  "fase_desde": "2026-11-11T12:49:37-06:00"
+  "estimado_min": 21.9
  },
  "gerente-de-zara": {
   "estado": "termino",
