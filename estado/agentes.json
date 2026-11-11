@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-10T19:23:46-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 arreglando misión encimada en celular",
   "url": "",
   "duraciones": [
    1.5,
@@ -81,7 +81,7 @@
    4.9
   ],
   "estimado_min": 1.5,
-  "fase_desde": "2026-11-10T19:58:13-06:00"
+  "fase_desde": "2026-11-10T19:58:50-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
