@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T02:06:52-06:00",
   "que": "revisando el PR #122 (chalan-local/2026-11-11-vegetacion-ronda3)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/42973494167",
   "duraciones": [
    3.6,
@@ -39,7 +39,7 @@
    14.7
   ],
   "estimado_min": 2.5,
-  "fase_desde": "2026-11-11T02:09:07-06:00"
+  "fase_desde": "2026-11-11T02:09:12-06:00"
  },
  "sherlock": {
   "estado": "termino",
