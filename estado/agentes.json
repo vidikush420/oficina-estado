@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T00:31:07-06:00",
   "desde": "2026-11-11T00:29:04-06:00",
   "que": "revisando el PR #119 (claude/2026-11-10-plan-visual)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #119 → PASA (ya estaba fusionado)",
   "url": "https://github.com/vidikush420/marea/actions/runs/42968996544",
   "duraciones": [
-   0.8,
    0.4,
    0.5,
    1.1,
@@ -36,10 +36,10 @@
    9.9,
    4.0,
    3.6,
-   10.3
+   10.3,
+   2.0
   ],
-  "estimado_min": 3.8,
-  "fase_desde": "2026-11-11T00:31:02-06:00"
+  "estimado_min": 3.8
  },
  "sherlock": {
   "estado": "termino",
