@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T10:58:21-06:00",
   "desde": "2026-11-11T10:57:24-06:00",
   "que": "revisando el PR #134 (chalan-local/2026-11-12-vida)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #134 → DEVUELTO (conflicto en ESTADO.md), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43036957206",
   "duraciones": [
-   11.9,
    12.0,
    9.9,
    13.5,
@@ -36,10 +36,10 @@
    7.0,
    0.9,
    0.9,
-   1.2
+   1.2,
+   0.9
   ],
-  "estimado_min": 10.9,
-  "fase_desde": "2026-11-11T10:58:16-06:00"
+  "estimado_min": 8.4
  },
  "sherlock": {
   "estado": "termino",
