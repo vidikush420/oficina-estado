@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T10:12:33-06:00",
-  "desde": "2026-11-11T08:46:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T10:14:52-06:00",
   "que": "corrida programada",
-  "resumen": "Mejoré dos de las tres láminas de Marea: la luz (ya no se ve la arena quemada y puedes votar entre atardecer dorado y día claro) y el agua (más transparente y sin la mancha oscura). Del agua faltan de",
+  "fase": "",
   "url": "",
   "duraciones": [
    26.2,
