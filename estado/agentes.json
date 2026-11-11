@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T03:45:43-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 terreno al puerto e islas",
+  "fase": "Marea: 3/4 corriendo pruebas",
   "url": "",
   "duraciones": [
    13.6,
@@ -81,7 +81,7 @@
    9.3
   ],
   "estimado_min": 14.8,
-  "fase_desde": "2026-11-11T03:47:06-06:00"
+  "fase_desde": "2026-11-11T03:48:09-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
