@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-10T22:02:48-06:00",
   "desde": "2026-11-10T21:59:11-06:00",
   "que": "revisando el PR #117 (claude/2026-11-10-vegetacion-objetivo)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #117 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42955220096",
   "duraciones": [
-   4.7,
    0.6,
    0.8,
    0.4,
@@ -36,10 +36,10 @@
    4.6,
    6.0,
    9.9,
-   4.0
+   4.0,
+   3.6
   ],
-  "estimado_min": 2.5,
-  "fase_desde": "2026-11-10T22:02:44-06:00"
+  "estimado_min": 2.4
  },
  "sherlock": {
   "estado": "termino",
