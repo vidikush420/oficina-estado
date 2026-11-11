@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T04:00:36-06:00",
   "desde": "2026-11-11T03:45:43-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Llevé el pasto del nuevo terreno al puerto y a las otras islas; se nota poco porque las plantas lo tapan. Las pruebas pasaron. Falta el resto del plan (puerto, interfaz, luz, agua, vida), que haré en",
   "url": "",
   "duraciones": [
-   13.6,
    21.0,
    25.1,
    9.4,
@@ -78,10 +78,10 @@
    15.8,
    1.5,
    13.8,
-   9.3
+   9.3,
+   14.9
   ],
-  "estimado_min": 14.8,
-  "fase_desde": "2026-11-11T03:48:09-06:00"
+  "estimado_min": 15.4
  },
  "gerente-de-zara": {
   "estado": "termino",
