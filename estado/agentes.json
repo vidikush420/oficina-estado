@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T11:25:23-06:00",
   "que": "revisando el PR #132 (chalan-local/2026-11-11-luz-cielo)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/43058119589",
   "duraciones": [
    13.5,
@@ -39,7 +39,7 @@
    0.6
   ],
   "estimado_min": 1.1,
-  "fase_desde": "2026-11-11T11:26:15-06:00"
+  "fase_desde": "2026-11-11T11:26:19-06:00"
  },
  "sherlock": {
   "estado": "termino",
