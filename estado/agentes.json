@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T14:32:57-06:00",
-  "desde": "2026-11-11T14:19:09-06:00",
-  "que": "revisando el PR #140 (chalan-local/2026-11-11-ui-escala)",
-  "resumen": "PR #140 → DEVUELTO (conflicto con main), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43087389707",
+  "estado": "trabajando",
+  "desde": "2026-11-11T15:07:51-06:00",
+  "que": "revisando el PR #143 (chalan-local/2026-11-11-lanzar-direccion)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43099424243",
   "duraciones": [
    1.0,
    12.5,
