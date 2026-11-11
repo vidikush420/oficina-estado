@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T10:20:08-06:00",
-  "desde": "2026-11-11T10:13:05-06:00",
-  "que": "revisando el PR #132 (chalan-local/2026-11-11-luz-cielo)",
-  "resumen": "Marea #132 → OJO, no fusionado (conflicto con main)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43040071691",
+  "estado": "trabajando",
+  "desde": "2026-11-11T10:21:27-06:00",
+  "que": "revisando el PR #135 (claude/2026-11-11-decisiones-visual)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43044265905",
   "duraciones": [
    8.5,
    3.4,
