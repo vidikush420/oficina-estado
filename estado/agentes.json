@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T04:24:03-06:00",
   "desde": "2026-11-11T04:13:57-06:00",
   "que": "revisando el PR #127 (chalan-local/2026-11-11-puerto-ronda2)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #127 → DEVUELTO (prueba de la lancha sin aserción real), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43001736475",
   "duraciones": [
-   14.5,
    14.7,
    2.5,
    2.6,
@@ -36,10 +36,10 @@
    15.2,
    1.8,
    8.6,
-   8.8
+   8.8,
+   10.1
   ],
-  "estimado_min": 10.8,
-  "fase_desde": "2026-11-11T04:23:57-06:00"
+  "estimado_min": 9.4
  },
  "sherlock": {
   "estado": "termino",
