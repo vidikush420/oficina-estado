@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-11T03:51:21-06:00",
+  "cuando": "2026-11-11T03:51:31-06:00",
   "desde": "2026-11-11T03:42:44-06:00",
   "que": "revisando el PR #126 (chalan-local/2026-11-11-terreno)",
   "resumen": "PR #126 Marea → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/42996718325",
   "duraciones": [
-   2.5,
    14.5,
    14.7,
    2.5,
@@ -37,9 +36,10 @@
    15.1,
    15.2,
    1.8,
-   8.6
+   8.6,
+   8.8
   ],
-  "estimado_min": 10.7
+  "estimado_min": 10.8
  },
  "sherlock": {
   "estado": "termino",
