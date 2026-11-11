@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T14:52:44-06:00",
-  "desde": "2026-11-11T14:45:48-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T14:53:42-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé un choque entre dos cambios del juego Marea para que el de la interfaz del celular se pueda aprobar. Las pruebas automáticas pasaron. Aún faltan varios puntos de tu lista (lanzar la caña hacia",
+  "fase": "",
   "url": "",
   "duraciones": [
    38.4,
