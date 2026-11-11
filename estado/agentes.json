@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T10:46:54-06:00",
   "que": "revisando el PR #136 (chalan-local/2026-11-12-fps-ios)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43059606800",
   "duraciones": [
    3.4,
@@ -38,7 +38,8 @@
    7.0,
    0.9
   ],
-  "estimado_min": 10.9
+  "estimado_min": 10.9,
+  "fase_desde": "2026-11-11T10:47:18-06:00"
  },
  "sherlock": {
   "estado": "termino",
