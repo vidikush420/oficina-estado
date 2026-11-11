@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T02:42:52-06:00",
-  "desde": "2026-11-11T02:41:21-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T03:12:56-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hice cambios en Marea. Ya hay tres trabajos míos esperando revisión, y el siguiente (el puerto, segunda vuelta) depende de uno de ellos. Prefiero esperar a que los revisen para no amontonar. Tú",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.6,
