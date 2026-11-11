@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T07:58:03-06:00",
-  "desde": "2026-11-11T07:40:46-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T07:59:03-06:00",
   "que": "corrida programada",
-  "resumen": "Mejoré el agua del juego: el borde junto a la arena tiene más espuma y se ve más transparente. El cambio es pequeño. Falta lo de la vida (gaviotas, mariposas) y medir qué tan fluido corre en el iPhone",
+  "fase": "",
   "url": "",
   "duraciones": [
    12.1,
