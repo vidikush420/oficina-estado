@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T13:27:48-06:00",
-  "desde": "2026-11-11T13:14:20-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T13:29:06-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé que en tu iPhone todo se vea diminuto: ahora el juego se agranda según el tamaño de la pantalla, y el botón ONE MORE CAST es grande y está al centro. No pude probarlo en un iPhone simulado, as",
+  "fase": "",
   "url": "",
   "duraciones": [
    18.8,
