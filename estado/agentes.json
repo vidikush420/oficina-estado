@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T14:45:22-06:00",
-  "desde": "2026-11-11T14:31:14-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T14:45:48-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé la cámara del juego: ya no se mete dentro de palmeras o casas, las hojas que estorban se vuelven transparentes también en tu iPhone, y la pantalla de inicio busca un ángulo sin palmera encima.",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.3,
