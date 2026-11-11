@@ -64,9 +64,9 @@
  },
  "chalan-local": {
   "estado": "trabajando",
-  "desde": "2026-11-11T15:40:35-06:00",
+  "desde": "2026-11-11T17:42:56-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 capturas nativas del Simulador para la cámara",
+  "fase": "",
   "url": "",
   "duraciones": [
    24.3,
@@ -80,8 +80,7 @@
    13.7,
    27.1
   ],
-  "estimado_min": 16.1,
-  "fase_desde": "2026-11-11T15:41:28-06:00"
+  "estimado_min": 16.1
  },
  "gerente-de-zara": {
   "estado": "termino",
