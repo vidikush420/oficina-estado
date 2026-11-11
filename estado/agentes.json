@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T04:49:25-06:00",
-  "desde": "2026-11-11T04:47:33-06:00",
-  "que": "revisando el PR #128 (chalan-local/2026-11-11-pendientes-cortos)",
-  "resumen": "PR #128 → DEVUELTO (conflicto con main, rebasar), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43005130378",
+  "estado": "trabajando",
+  "desde": "2026-11-11T04:55:03-06:00",
+  "que": "revisando el PR #129 (chalan-local/2026-11-11-interfaz)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43006436890",
   "duraciones": [
    12.8,
    15.1,
