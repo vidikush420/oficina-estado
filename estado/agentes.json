@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T02:23:12-06:00",
-  "desde": "2026-11-11T02:02:34-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T02:23:52-06:00",
   "que": "corrida programada",
-  "resumen": "Tres de mis cambios a Marea estaban trabados porque otro cambio se aprobó antes y chocaban. Los puse al día y ya se pueden aprobar. Las pruebas automáticas pasan. No tienes que hacer nada; Aduana los",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
