@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T01:34:30-06:00",
   "desde": "2026-11-11T01:25:07-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Empecé a darle a la isla un suelo más bonito: arena con textura, manchas de pasto y pequeñas dunas junto al agua. Es una primera pasada; todavía no iguala la imagen meta y faltan detalles como el cami",
   "url": "",
   "duraciones": [
-   9.9,
    10.1,
    1.1,
    1.2,
@@ -78,10 +78,10 @@
    125.0,
    13.6,
    21.0,
-   25.1
+   25.1,
+   9.4
   ],
-  "estimado_min": 11.8,
-  "fase_desde": "2026-11-11T01:34:00-06:00"
+  "estimado_min": 11.8
  },
  "gerente-de-zara": {
   "estado": "termino",
