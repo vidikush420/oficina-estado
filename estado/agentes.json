@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T14:32:57-06:00",
   "desde": "2026-11-11T14:19:09-06:00",
   "que": "revisando el PR #140 (chalan-local/2026-11-11-ui-escala)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #140 → DEVUELTO (conflicto con main), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43087389707",
   "duraciones": [
-   0.6,
    1.0,
    12.5,
    15.0,
@@ -36,10 +36,10 @@
    9.3,
    9.8,
    0.9,
-   1.4
+   1.4,
+   13.8
   ],
-  "estimado_min": 5.4,
-  "fase_desde": "2026-11-11T14:32:41-06:00"
+  "estimado_min": 9.6
  },
  "sherlock": {
   "estado": "termino",
