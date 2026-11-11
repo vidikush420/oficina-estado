@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-10T20:50:00-06:00",
+  "cuando": "2026-11-10T20:50:09-06:00",
   "desde": "2026-11-10T20:40:03-06:00",
   "que": "corrida programada",
-  "resumen": "Marea: PR 114 al día con main, GUT 465/465",
+  "resumen": "El trabajo de pulido de Marea (rocas, madera, cámara) se había quedado atorado porque otro cambio se cruzó con él. Lo acomodé, las pruebas automáticas siguen pasando y ya puede revisarse. Lo demás pen",
   "url": "",
   "duraciones": [
-   19.1,
    1.1,
    1.1,
    1.5,
@@ -79,7 +78,8 @@
    4.9,
    46.3,
    26.9,
-   9.9
+   9.9,
+   10.1
   ],
   "estimado_min": 7.4
  },
