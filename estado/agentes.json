@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T02:23:12-06:00",
   "desde": "2026-11-11T02:02:34-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Tres de mis cambios a Marea estaban trabados porque otro cambio se aprobó antes y chocaban. Los puse al día y ya se pueden aprobar. Las pruebas automáticas pasan. No tienes que hacer nada; Aduana los",
   "url": "",
   "duraciones": [
-   1.1,
    1.2,
    27.6,
    0.6,
@@ -78,10 +78,10 @@
    21.0,
    25.1,
    9.4,
-   25.6
+   25.6,
+   20.6
   ],
-  "estimado_min": 17.3,
-  "fase_desde": "2026-11-11T02:03:53-06:00"
+  "estimado_min": 20.8
  },
  "gerente-de-zara": {
   "estado": "termino",
