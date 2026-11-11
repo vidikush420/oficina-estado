@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T00:13:32-06:00",
   "que": "revisando el PR #116 (chalan-local/2026-11-10-vegetacion-port)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42968778287",
   "duraciones": [
    0.6,
@@ -38,7 +38,8 @@
    4.0,
    3.6
   ],
-  "estimado_min": 2.4
+  "estimado_min": 2.4,
+  "fase_desde": "2026-11-11T00:16:41-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
