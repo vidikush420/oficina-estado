@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T08:17:10-06:00",
   "desde": "2026-11-11T07:59:03-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 vida: mariposas, humo",
+  "resumen": "Agregué vida al juego: mariposas en la isla y humo saliendo de la chimenea de la casa. También destrabé un cambio anterior de la arena del puerto. Falta medir qué tan fluido corre en iPhone: para eso",
   "url": "",
   "duraciones": [
-   12.1,
    9.0,
    12.5,
    26.2,
@@ -78,10 +78,10 @@
    16.6,
    13.4,
    16.4,
-   17.3
+   17.3,
+   18.1
   ],
-  "estimado_min": 16.4,
-  "fase_desde": "2026-11-11T08:09:55-06:00"
+  "estimado_min": 16.5
  },
  "gerente-de-zara": {
   "estado": "termino",
