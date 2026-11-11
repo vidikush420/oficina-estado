@@ -21,12 +21,10 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T11:09:36-06:00",
-  "desde": "2026-11-11T11:09:33-06:00",
-  "que": "revisando el PR #130 (chalan-local/2026-11-11-puerto-arena)",
-  "resumen": "PR #85 → ya revisado en este head (PASA), sin acción nueva",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43058734530",
+  "estado": "trabajando",
+  "desde": "2026-11-11T11:09:53-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    9.9,
    13.5,
@@ -39,6 +37,8 @@
    0.9,
    0.1
   ],
+  "fase": "1/4 leyendo el PR",
+  "fase_desde": "2026-11-11T11:09:53-06:00",
   "estimado_min": 4.1
  },
  "sherlock": {
