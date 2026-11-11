@@ -1,11 +1,12 @@
 {
  "chalan": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T10:23:10-06:00",
   "desde": "2026-11-11T10:16:25-06:00",
   "que": "",
+  "resumen": "PR #85 abierto: todos crean proyectos (puente v2.37 + frontend v62)",
   "url": "",
   "duraciones": [
-   1.4,
    1.2,
    5.6,
    4.2,
@@ -14,11 +15,10 @@
    5.5,
    11.6,
    1.1,
-   5.4
+   5.4,
+   6.8
   ],
-  "fase": "5/5 registrando en la oficina",
-  "fase_desde": "2026-11-11T10:23:01-06:00",
-  "estimado_min": 4.8
+  "estimado_min": 5.3
  },
  "aduana": {
   "estado": "termino",
