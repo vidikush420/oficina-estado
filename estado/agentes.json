@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T07:39:31-06:00",
   "desde": "2026-11-11T07:23:08-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ajusté la luz del juego: el sol está más alto, las sombras son más cortas y suaves y hay un poco de bruma en el horizonte. Se ve más agradable y menos duro. Faltan el agua y los animales, que haré en",
   "url": "",
   "duraciones": [
-   14.9,
    11.4,
    12.1,
    9.0,
@@ -78,10 +78,10 @@
    32.4,
    16.4,
    16.6,
-   13.4
+   13.4,
+   16.4
   ],
-  "estimado_min": 14.2,
-  "fase_desde": "2026-11-11T07:38:53-06:00"
+  "estimado_min": 14.9
  },
  "gerente-de-zara": {
   "estado": "termino",
