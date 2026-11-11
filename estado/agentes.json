@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T14:30:51-06:00",
-  "desde": "2026-11-11T13:45:57-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T14:31:14-06:00",
   "que": "corrida programada",
-  "resumen": "Saqué las fotos del juego en un iPhone simulado y vi que el tamaño nuevo dejaba cosas cortadas (el título, el panel del vendedor, el texto de ayuda). Ya lo arreglé: el botón ONE MORE CAST ahora es gra",
+  "fase": "",
   "url": "",
   "duraciones": [
    19.6,
