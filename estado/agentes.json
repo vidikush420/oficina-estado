@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T07:29:12-06:00",
   "que": "revisando el PR #130 (chalan-local/2026-11-11-puerto-arena)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43024517590",
   "duraciones": [
    6.8,
@@ -38,7 +38,8 @@
    9.9,
    13.5
   ],
-  "estimado_min": 7.7
+  "estimado_min": 7.7,
+  "fase_desde": "2026-11-11T07:30:50-06:00"
  },
  "sherlock": {
   "estado": "termino",
