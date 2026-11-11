@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T04:37:21-06:00",
-  "desde": "2026-11-11T04:25:15-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T04:37:48-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé lo que la revisión pidió del puerto y quité el tronco punteado que se veía en primer plano; las rocas ahora son grises y la arena de las otras islas tiene textura. No pude tomar fotos del resu",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.4,
