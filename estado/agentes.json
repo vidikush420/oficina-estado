@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T11:27:38-06:00",
   "que": "revisando el PR #137 (chalan-local/2026-11-11-barcos-mochila)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43067162160",
   "duraciones": [
    13.6,
@@ -39,7 +39,7 @@
    1.0
   ],
   "estimado_min": 0.9,
-  "fase_desde": "2026-11-11T11:28:06-06:00"
+  "fase_desde": "2026-11-11T11:39:46-06:00"
  },
  "sherlock": {
   "estado": "termino",
