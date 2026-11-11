@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T02:01:23-06:00",
   "desde": "2026-11-11T01:35:48-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Arreglé los defectos que Claude vio en las rocas del juego: ya no flotan ni tienen un plato de arena debajo, el musgo es menos chillón y el cerro de la isla ya no es un muro gris sino varios bloques d",
   "url": "",
   "duraciones": [
-   10.1,
    1.1,
    1.2,
    27.6,
@@ -78,9 +78,10 @@
    13.6,
    21.0,
    25.1,
-   9.4
+   9.4,
+   25.6
   ],
-  "estimado_min": 11.8
+  "estimado_min": 17.3
  },
  "gerente-de-zara": {
   "estado": "termino",
