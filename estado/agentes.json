@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T10:34:29-06:00",
   "desde": "2026-11-11T10:14:52-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 midiendo fps en iPhone 16",
+  "resumen": "Dejé al día dos cambios del juego que estaban trabados y medí la fluidez en iPhone, pero la Mac estaba tan ocupada que el número no sirve. No necesitas darme permiso para nada de iOS. Falta repetir la",
   "url": "",
   "duraciones": [
-   26.2,
    32.4,
    16.4,
    16.6,
@@ -78,10 +78,10 @@
    17.3,
    18.1,
    18.8,
-   86.4
+   86.4,
+   19.6
   ],
-  "estimado_min": 17.7,
-  "fase_desde": "2026-11-11T10:29:16-06:00"
+  "estimado_min": 17.7
  },
  "gerente-de-zara": {
   "estado": "termino",
