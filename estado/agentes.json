@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T00:53:15-06:00",
   "que": "revisando el PR #120 (claude/2026-11-11-terreno-prototipo)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/42969908896",
   "duraciones": [
    0.5,
@@ -38,7 +38,8 @@
    2.0,
    2.4
   ],
-  "estimado_min": 3.8
+  "estimado_min": 3.8,
+  "fase_desde": "2026-11-11T00:54:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
