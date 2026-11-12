@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T08:41:17-06:00",
-  "desde": "2026-11-12T08:21:08-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T08:45:30-06:00",
   "que": "corrida programada",
-  "resumen": "Encontré que el juego estaba roto en su versión principal: dos cambios aprobados chocaron y el programa dejó de arrancar en la parte de cartas. Lo arreglé con un cambio de una línea (#164). Además dej",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.9,
