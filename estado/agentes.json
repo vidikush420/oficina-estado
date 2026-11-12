@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T00:44:31-06:00",
-  "desde": "2026-11-12T00:31:14-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T00:46:45-06:00",
   "que": "corrida programada",
-  "resumen": "Tomé las fotos del antes y el después de la cámara junto a los edificios y las puse en el PR 150. En la del puesto del mercado se ve claro: antes la pantalla se llenaba de pared; ahora la cámara sube",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.8,
