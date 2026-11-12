@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T23:51:26-06:00",
   "desde": "2026-11-11T23:43:58-06:00",
   "que": "revisando el PR #144 (claude/pueblo-vision)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #144 → OJO (cosmético), ya estaba fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43160489193",
   "duraciones": [
-   17.0,
    6.4,
    2.0,
    2.1,
@@ -36,10 +36,10 @@
    20.1,
    4.1,
    6.1,
-   15.5
+   15.5,
+   7.5
   ],
-  "estimado_min": 5.1,
-  "fase_desde": "2026-11-11T23:51:09-06:00"
+  "estimado_min": 5.1
  },
  "sherlock": {
   "estado": "trabajando",
