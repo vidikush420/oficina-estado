@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T07:31:06-06:00",
   "desde": "2026-11-12T07:19:19-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Las cartas valiosas (de RX para arriba) ya no se pueden vender al instante: se dejan en una vitrina, tardan unas horas en venderse y luego cobras. Así un sobre no regala monedas. Por ahora es solo la",
   "url": "",
   "duraciones": [
-   24.6,
    28.6,
    13.8,
    15.9,
@@ -78,9 +78,10 @@
    12.7,
    1.8,
    2.5,
-   7.0
+   7.0,
+   11.8
   ],
-  "estimado_min": 10.9
+  "estimado_min": 10.5
  },
  "gerente-de-zara": {
   "estado": "termino",
