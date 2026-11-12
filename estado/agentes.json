@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T20:04:37-06:00",
   "desde": "2026-11-11T20:02:33-06:00",
   "que": "revisando el PR #130 (chalan-local/2026-11-11-puerto-arena)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #130 → DEVUELTO (marcas de conflicto en ESTADO.md), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43137385662",
   "duraciones": [
-   9.3,
    9.8,
    0.9,
    1.4,
@@ -36,10 +36,10 @@
    7.5,
    17.0,
    6.4,
-   2.0
+   2.0,
+   2.1
   ],
-  "estimado_min": 8.3,
-  "fase_desde": "2026-11-11T20:04:29-06:00"
+  "estimado_min": 7.0
  },
  "sherlock": {
   "estado": "termino",
