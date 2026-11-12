@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-12T12:20:54-06:00",
+  "cuando": "2026-11-12T12:21:02-06:00",
   "desde": "2026-11-12T12:11:22-06:00",
   "que": "revisando el PR #146 (chalan-local/2026-11-11-red-mercader)",
   "resumen": "PR #146 → OJO — espera a Miguel, no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43260421985",
   "duraciones": [
-   10.7,
    2.7,
    15.6,
    12.1,
@@ -37,7 +36,8 @@
    9.5,
    2.7,
    1.7,
-   9.5
+   9.5,
+   9.7
   ],
   "estimado_min": 9.5
  },
