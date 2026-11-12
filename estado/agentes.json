@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T10:12:46-06:00",
-  "desde": "2026-11-12T09:59:23-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T10:14:12-06:00",
   "que": "corrida programada",
-  "resumen": "Aparte: la publicación de prueba de la Bitácora (versión 62) se quedó sin subir por un corte de red y no vuelve a intentarlo sola. Si quieres verla en beta, pídele a Claude que reactive la cinta; no e",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.5,
