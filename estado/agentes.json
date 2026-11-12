@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T17:25:22-06:00",
   "que": "revisando el PR #43 (claude/marea-beta)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/43328429715",
   "duraciones": [
    9.5,
@@ -38,7 +38,8 @@
    16.0,
    5.7
   ],
-  "estimado_min": 9.3
+  "estimado_min": 9.3,
+  "fase_desde": "2026-11-12T17:38:20-06:00"
  },
  "sherlock": {
   "estado": "termino",
