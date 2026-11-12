@@ -62,13 +62,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T11:09:53-06:00",
   "desde": "2026-11-12T11:05:45-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Dejé listo para revisión el cambio que hace que las cartas se bajen una por una y no pesen al entrar al juego. También puse al día el trabajo de los sobres de cartas con lo último del juego; sigue en",
   "url": "",
   "duraciones": [
-   10.6,
    20.1,
    14.5,
    31.7,
@@ -77,10 +77,10 @@
    13.4,
    6.8,
    5.8,
-   1.1
+   1.1,
+   4.1
   ],
-  "estimado_min": 13.2,
-  "fase_desde": "2026-11-12T11:07:19-06:00"
+  "estimado_min": 13.2
  },
  "gerente-de-zara": {
   "estado": "termino",
