@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T09:58:13-06:00",
-  "desde": "2026-11-12T09:34:13-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T09:59:23-06:00",
   "que": "corrida programada",
-  "resumen": "El juego ya usa las 360 cartas nuevas en lugar de las 121 anteriores, con las mismas probabilidades y precios. Quien ya tuviera cartas guardadas no las pierde: pasan a una carta equivalente del set nu",
+  "fase": "",
   "url": "",
   "duraciones": [
    12.7,
