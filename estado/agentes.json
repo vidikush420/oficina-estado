@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T09:00:02-06:00",
-  "desde": "2026-11-12T08:45:30-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T09:00:56-06:00",
   "que": "corrida programada",
-  "resumen": "Había un cambio mío en el juego (la tienda que rota cada dos días) que chocaba con cambios nuevos y por eso no se podía integrar. Lo arreglé y además corregí un error que impedía que el juego compilar",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.2,
