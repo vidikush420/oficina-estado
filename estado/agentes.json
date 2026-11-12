@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T21:25:20-06:00",
-  "desde": "2026-11-11T20:54:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T21:26:50-06:00",
   "que": "corrida programada",
-  "resumen": "Ya está hecha la parte de abrir sobres: sale una red con cinco sobres, tú escoges uno tocándolo (los otros se pierden sin que veas qué traían) y lo abres arrastrando el dedo. Las cartas salen una por",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.9,
