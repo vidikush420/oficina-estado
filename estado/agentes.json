@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T11:08:41-06:00",
   "que": "revisando el PR #166 (chalan-local/2026-11-12-reloj-unix-retorno)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/43257631403",
   "duraciones": [
    14.6,
@@ -39,7 +39,7 @@
    9.1
   ],
   "estimado_min": 10.3,
-  "fase_desde": "2026-11-12T11:11:07-06:00"
+  "fase_desde": "2026-11-12T11:11:14-06:00"
  },
  "sherlock": {
   "estado": "termino",
