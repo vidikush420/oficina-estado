@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T07:18:07-06:00",
   "desde": "2026-11-12T07:11:09-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Cambié el gradeo de cartas para que sea una apuesta de verdad: antes casi siempre te hacía ganar monedas, ahora solo ganas si te sale nota 9 o 10. También quedaron 3 espacios a la vez y esperas de 1 a",
   "url": "",
   "duraciones": [
-   12.1,
    24.6,
    28.6,
    13.8,
@@ -78,10 +78,10 @@
    1.5,
    12.7,
    1.8,
-   2.5
+   2.5,
+   7.0
   ],
-  "estimado_min": 12.4,
-  "fase_desde": "2026-11-12T07:17:40-06:00"
+  "estimado_min": 10.9
  },
  "gerente-de-zara": {
   "estado": "termino",
