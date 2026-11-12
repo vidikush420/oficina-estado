@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T23:43:58-06:00",
   "que": "revisando el PR #144 (claude/pueblo-vision)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/43160489193",
   "duraciones": [
    17.0,
@@ -39,7 +39,7 @@
    15.5
   ],
   "estimado_min": 5.1,
-  "fase_desde": "2026-11-11T23:51:00-06:00"
+  "fase_desde": "2026-11-11T23:51:09-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
