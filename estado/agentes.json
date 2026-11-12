@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T11:41:06-06:00",
   "desde": "2026-11-12T11:39:44-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no avancé: mis trabajos de cartas de Marea esperan revisión y la regla es no abrir otro encima. La subida de prueba (beta) de la Bitácora sigue fallando por la red desde ayer. No tienes que hacer",
   "url": "",
   "duraciones": [
-   24.0,
    12.9,
    13.4,
    6.8,
@@ -78,9 +78,10 @@
    4.1,
    7.2,
    1.2,
-   1.2
+   1.2,
+   1.4
   ],
-  "estimado_min": 6.3
+  "estimado_min": 4.9
  },
  "gerente-de-zara": {
   "estado": "termino",
