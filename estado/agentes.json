@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T23:09:11-06:00",
-  "desde": "2026-11-11T22:37:41-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T23:20:22-06:00",
   "que": "corrida programada",
-  "resumen": "Empecé a pasar al juego la escena de abrir sobres que aprobaste: la mesa de la tienda, la red, los sobres y el corte con el dedo ya se ven bien. La parte de las cartas (abanico, voltear, resumen) qued",
+  "fase": "",
   "url": "",
   "duraciones": [
    117.2,
