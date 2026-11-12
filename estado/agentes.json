@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T02:59:19-06:00",
   "que": "revisando el PR #155 (chalan-local/2026-11-12-economia-precios)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43181451181",
   "duraciones": [
    2.0,
@@ -38,7 +38,8 @@
    7.5,
    2.4
   ],
-  "estimado_min": 4.1
+  "estimado_min": 4.1,
+  "fase_desde": "2026-11-12T03:02:57-06:00"
  },
  "sherlock": {
   "estado": "termino",
