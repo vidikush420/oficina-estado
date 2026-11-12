@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T22:32:21-06:00",
   "que": "revisando el PR #148 (claude/sobres-prototipo)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43153654218",
   "duraciones": [
    9.2,
@@ -38,7 +38,8 @@
    20.1,
    4.1
   ],
-  "estimado_min": 5.2
+  "estimado_min": 5.2,
+  "fase_desde": "2026-11-11T22:37:47-06:00"
  },
  "sherlock": {
   "estado": "termino",
