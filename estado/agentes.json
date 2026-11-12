@@ -62,11 +62,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T20:36:42-06:00",
-  "desde": "2026-11-11T20:13:33-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T20:41:46-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé al día el arreglo de pruebas de la Bitácora y hice que en Marea, al tocar «Jugar», la pantalla se funda suavemente en vez de cortarse de golpe. Las pruebas automáticas pasan, pero aún no lo vi en",
+  "fase": "",
   "url": "",
   "duraciones": [
    44.9,
