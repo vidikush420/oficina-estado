@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T08:54:05-06:00",
   "que": "revisando el PR #164 (chalan-local/2026-11-12-arreglo-cupos-libres)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43239219067",
   "duraciones": [
    7.5,
@@ -38,7 +38,8 @@
    10.7,
    2.7
   ],
-  "estimado_min": 8.8
+  "estimado_min": 8.8,
+  "fase_desde": "2026-11-12T08:56:20-06:00"
  },
  "sherlock": {
   "estado": "termino",
