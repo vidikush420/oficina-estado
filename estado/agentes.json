@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T20:56:42-06:00",
   "desde": "2026-11-11T20:36:36-06:00",
   "que": "revisando el PR #145 (chalan-local/2026-11-11-transicion-jugar)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #145 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43142568027",
   "duraciones": [
-   1.4,
    13.8,
    9.2,
    7.5,
@@ -36,10 +36,10 @@
    2.0,
    2.1,
    2.9,
-   4.1
+   4.1,
+   20.1
   ],
-  "estimado_min": 5.2,
-  "fase_desde": "2026-11-11T20:56:35-06:00"
+  "estimado_min": 7.0
  },
  "sherlock": {
   "estado": "termino",
