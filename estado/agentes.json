@@ -62,13 +62,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T10:21:01-06:00",
   "desde": "2026-11-12T10:14:12-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El cambio que hace que las esperas de las cartas sobrevivan a un reinicio del servidor chocaba con la tienda del día, que se integró primero. Lo puse al día y las pruebas pasan (553 de 553); ya puede",
   "url": "",
   "duraciones": [
-   2.5,
    7.0,
    11.8,
    10.6,
@@ -77,10 +77,10 @@
    31.7,
    24.0,
    12.9,
-   13.4
+   13.4,
+   6.8
   ],
-  "estimado_min": 13.2,
-  "fase_desde": "2026-11-12T10:20:40-06:00"
+  "estimado_min": 13.2
  },
  "gerente-de-zara": {
   "estado": "termino",
