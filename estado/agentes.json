@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T08:10:25-06:00",
   "que": "revisando el PR #162 (chalan-local/2026-11-12-vitrina-consignacion)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/43227953158",
   "duraciones": [
    6.1,
@@ -39,7 +39,7 @@
    13.3
   ],
   "estimado_min": 8.8,
-  "fase_desde": "2026-11-12T08:20:45-06:00"
+  "fase_desde": "2026-11-12T08:21:00-06:00"
  },
  "sherlock": {
   "estado": "termino",
