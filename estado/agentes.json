@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-12T10:12:18-06:00",
+  "cuando": "2026-11-12T10:12:46-06:00",
   "desde": "2026-11-12T09:59:23-06:00",
   "que": "corrida programada",
-  "resumen": "Marea: PR #130 rebasado sobre main, pruebas en verde",
+  "resumen": "Aparte: la publicación de prueba de la Bitácora (versión 62) se quedó sin subir por un corte de red y no vuelve a intentarlo sola. Si quieres verla en beta, pídele a Claude que reactive la cinta; no e",
   "url": "",
   "duraciones": [
-   1.8,
    2.5,
    7.0,
    11.8,
@@ -79,9 +78,10 @@
    14.5,
    31.7,
    24.0,
-   12.9
+   12.9,
+   13.4
   ],
-  "estimado_min": 12.4
+  "estimado_min": 13.2
  },
  "gerente-de-zara": {
   "estado": "termino",
