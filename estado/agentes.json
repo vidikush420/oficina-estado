@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T03:35:06-06:00",
   "desde": "2026-11-12T03:33:35-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Encontré por qué el juego no se actualizaba desde anoche: cada cambio nuevo cancelaba la publicación del anterior. Preparé el arreglo y quedó listo para revisar; como toca la maquinaria de publicación",
   "url": "",
   "duraciones": [
-   23.9,
    4.8,
    13.3,
    28.0,
@@ -78,10 +78,10 @@
    28.6,
    13.8,
    15.9,
-   9.2
+   9.2,
+   1.5
   ],
-  "estimado_min": 14.9,
-  "fase_desde": "2026-11-12T03:34:43-06:00"
+  "estimado_min": 13.6
  },
  "gerente-de-zara": {
   "estado": "termino",
