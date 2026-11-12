@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T16:38:49-06:00",
-  "desde": "2026-11-12T16:15:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T17:02:30-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todo el puerto del juego y arreglé lo que se podía atravesar: ahora los personajes son sólidos y no se puede caminar a través de ellos. La tienda de cartas ya no se desvanece de repente; solo s",
+  "fase": "",
   "url": "",
   "duraciones": [
    7.2,
