@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T02:15:53-06:00",
-  "desde": "2026-11-12T01:51:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T02:18:39-06:00",
   "que": "corrida programada",
-  "resumen": "Subí los precios del juego según el plan de economía que aprobaste: el bote, las cañas y el sobre de cartas cuestan bastante más, y la gasolina también. Con el ritmo que tú mismo viviste, el bote se c",
+  "fase": "",
   "url": "",
   "duraciones": [
    31.3,
