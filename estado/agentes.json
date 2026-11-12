@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T15:11:57-06:00",
   "que": "revisando el PR #169 (chalan-local/2026-11-12-limpieza-textos)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/43303540234",
   "duraciones": [
    15.6,
@@ -39,7 +39,7 @@
    1.9
   ],
   "estimado_min": 9.5,
-  "fase_desde": "2026-11-12T15:27:40-06:00"
+  "fase_desde": "2026-11-12T15:27:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
