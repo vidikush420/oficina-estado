@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T04:33:42-06:00",
-  "desde": "2026-11-12T04:19:05-06:00",
-  "que": "revisando el PR #158 (chalan-local/2026-11-12-economia-prueba)",
-  "resumen": "PR #158 Marea → DEVUELTO (comprar_mochila salta el libro de monedas), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43192272051",
+  "estado": "trabajando",
+  "desde": "2026-11-12T05:26:05-06:00",
+  "que": "revisando el PR #159 (chalan-local/2026-11-12-juego-concurrencia)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43192711356",
   "duraciones": [
    4.1,
    20.1,
