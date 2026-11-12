@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T04:17:09-06:00",
-  "desde": "2026-11-12T04:15:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T06:22:33-06:00",
   "que": "corrida programada",
-  "resumen": "No hice cambios nuevos: el último cambio que dejé en el juego (las cartas) todavía espera revisión y no debo abrir otro encima. Cuando se fusione, sigo con lo que falta de cartas. Aparte, la versión d",
+  "fase": "",
   "url": "",
   "duraciones": [
    28.0,
