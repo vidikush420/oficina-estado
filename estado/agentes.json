@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T11:36:28-06:00",
-  "desde": "2026-11-12T11:33:44-06:00",
-  "que": "revisando el PR #138 (chalan-local/2026-11-11-fps-relativo)",
-  "resumen": "PR #138 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43267922781",
+  "estado": "trabajando",
+  "desde": "2026-11-12T11:58:42-06:00",
+  "que": "revisando el PR #165 (chalan-local/2026-11-12-set-alpha-datos)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43265926453",
   "duraciones": [
    10.0,
    13.3,
