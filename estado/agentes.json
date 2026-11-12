@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T06:20:53-06:00",
   "desde": "2026-11-12T06:10:54-06:00",
   "que": "revisando el PR #160 (chalan-local/2026-11-12-cartas-economia-golpe)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #160 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43198324021",
   "duraciones": [
-   20.1,
    4.1,
    6.1,
    15.5,
@@ -36,10 +36,10 @@
    10.8,
    6.3,
    14.6,
-   4.2
+   4.2,
+   10.0
   ],
-  "estimado_min": 6.9,
-  "fase_desde": "2026-11-12T06:20:48-06:00"
+  "estimado_min": 6.9
  },
  "sherlock": {
   "estado": "termino",
