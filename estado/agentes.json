@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T22:20:37-06:00",
-  "desde": "2026-11-11T21:26:50-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T22:22:06-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé lo que faltaba de tu lista de Marea. Tomé las fotos reales del simulador del iPhone: la cámara ya no se queda entre las hojas de una palmera y la caña lanza hacia donde mira el personaje (izqu",
+  "fase": "",
   "url": "",
   "duraciones": [
    13.7,
