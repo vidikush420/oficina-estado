@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T20:09:15-06:00",
-  "desde": "2026-11-11T20:06:19-06:00",
-  "que": "revisando el PR #86 (chalan-local/2026-11-11-causa-beta-v62)",
-  "resumen": "PR #86 → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43138938180",
+  "estado": "trabajando",
+  "desde": "2026-11-11T20:29:31-06:00",
+  "que": "revisando el PR #87 (chalan-local/2026-11-11-arreglo-pruebas-v62)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43141740070",
   "duraciones": [
    0.9,
    1.4,
