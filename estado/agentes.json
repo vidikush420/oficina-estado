@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T07:57:20-06:00",
   "desde": "2026-11-12T07:46:47-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Terminé la tienda del día del juego de cartas: cada dos días la tienda ofrece diez cartas, las mismas para todos los jugadores, y cuestan bastante más de lo que valen para que no se pueda hacer dinero",
   "url": "",
   "duraciones": [
-   28.6,
    13.8,
    15.9,
    9.2,
@@ -78,10 +78,10 @@
    1.8,
    2.5,
    7.0,
-   11.8
+   11.8,
+   10.6
   ],
-  "estimado_min": 10.5,
-  "fase_desde": "2026-11-12T07:56:36-06:00"
+  "estimado_min": 9.9
  },
  "gerente-de-zara": {
   "estado": "termino",
