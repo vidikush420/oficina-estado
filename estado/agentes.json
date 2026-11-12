@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T07:18:07-06:00",
-  "desde": "2026-11-12T07:11:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T07:19:19-06:00",
   "que": "corrida programada",
-  "resumen": "Cambié el gradeo de cartas para que sea una apuesta de verdad: antes casi siempre te hacía ganar monedas, ahora solo ganas si te sale nota 9 o 10. También quedaron 3 espacios a la vez y esperas de 1 a",
+  "fase": "",
   "url": "",
   "duraciones": [
    24.6,
