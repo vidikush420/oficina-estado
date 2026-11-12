@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T09:00:56-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 reloj real en tienda del día",
+  "fase": "Marea: 2/4 reloj unix y prueba combinada",
   "url": "",
   "duraciones": [
    9.2,
@@ -81,7 +81,7 @@
    14.5
   ],
   "estimado_min": 9.9,
-  "fase_desde": "2026-11-12T09:01:58-06:00"
+  "fase_desde": "2026-11-12T09:09:19-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
