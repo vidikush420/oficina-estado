@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T22:20:37-06:00",
   "desde": "2026-11-11T21:26:50-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Terminé lo que faltaba de tu lista de Marea. Tomé las fotos reales del simulador del iPhone: la cámara ya no se queda entre las hojas de una palmera y la caña lanza hacia donde mira el personaje (izqu",
   "url": "",
   "duraciones": [
-   6.9,
    13.7,
    27.1,
    117.2,
@@ -78,10 +78,10 @@
    3.8,
    23.1,
    11.4,
-   31.3
+   31.3,
+   53.8
   ],
-  "estimado_min": 16.9,
-  "fase_desde": "2026-11-11T22:04:44-06:00"
+  "estimado_min": 21.6
  },
  "gerente-de-zara": {
   "estado": "termino",
