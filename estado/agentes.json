@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T10:36:13-06:00",
-  "desde": "2026-11-12T10:30:25-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T10:37:03-06:00",
   "que": "corrida programada",
-  "resumen": "Un trabajo del juego Marea (la red del mercader) chocaba con cambios más nuevos y no podía integrarse. Lo puse al día y las pruebas pasan; Aduana lo revisa de nuevo. Queda otro trabajo viejo en el mis",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.8,
