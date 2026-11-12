@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T21:25:20-06:00",
   "desde": "2026-11-11T20:54:03-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ya está hecha la parte de abrir sobres: sale una red con cinco sobres, tú escoges uno tocándolo (los otros se pierden sin que veas qué traían) y lo abres arrastrando el dedo. Las cartas salen una por",
   "url": "",
   "duraciones": [
-   14.1,
    6.9,
    13.7,
    27.1,
@@ -78,10 +78,10 @@
    20.2,
    3.8,
    23.1,
-   11.4
+   11.4,
+   31.3
   ],
-  "estimado_min": 13.9,
-  "fase_desde": "2026-11-11T21:24:49-06:00"
+  "estimado_min": 16.9
  },
  "gerente-de-zara": {
   "estado": "termino",
