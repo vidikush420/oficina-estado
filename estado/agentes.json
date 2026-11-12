@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T15:55:06-06:00",
-  "desde": "2026-11-12T15:27:25-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T16:15:07-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé la primera de las tareas urgentes: que el juego se vea bien en pantalla de computadora. Agregué las fotos de antes y después, y la tienda de cartas ya no se estira de orilla a orilla. Faltan l",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.1,
