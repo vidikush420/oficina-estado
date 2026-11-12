@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T02:47:18-06:00",
   "desde": "2026-11-12T02:18:39-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ahora el jugador tiene su propia mochila de 12 lugares que no depende del barco, y puede ampliarla a 16, 20 y 24 pagando en el astillero. Las pruebas automáticas pasan. Falta la prueba que simula cuán",
   "url": "",
   "duraciones": [
-   31.3,
    53.8,
    14.2,
    31.5,
@@ -78,10 +78,10 @@
    13.3,
    28.0,
    12.1,
-   24.6
+   24.6,
+   28.6
   ],
-  "estimado_min": 24.2,
-  "fase_desde": "2026-11-12T02:46:29-06:00"
+  "estimado_min": 24.2
  },
  "gerente-de-zara": {
   "estado": "termino",
