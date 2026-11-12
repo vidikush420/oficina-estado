@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T12:00:26-06:00",
   "desde": "2026-11-12T11:58:42-06:00",
   "que": "revisando el PR #165 (chalan-local/2026-11-12-set-alpha-datos)",
-  "fase": "1/4 leyendo el PR",
+  "resumen": "PR #165 → ya revisado en este head (PASA); sin acción nueva",
   "url": "https://github.com/vidikush420/marea/actions/runs/43265926453",
   "duraciones": [
-   10.0,
    13.3,
    10.7,
    2.7,
@@ -36,10 +36,10 @@
    9.5,
    9.1,
    9.5,
-   2.7
+   2.7,
+   1.7
   ],
-  "estimado_min": 9.8,
-  "fase_desde": "2026-11-12T12:00:15-06:00"
+  "estimado_min": 9.5
  },
  "sherlock": {
   "estado": "termino",
