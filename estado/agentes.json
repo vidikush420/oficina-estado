@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T08:41:10-06:00",
   "que": "revisando el PR #163 (chalan-local/2026-11-12-tienda-del-dia)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43232183697",
   "duraciones": [
    15.5,
@@ -38,7 +38,8 @@
    13.3,
    10.7
   ],
-  "estimado_min": 10.3
+  "estimado_min": 10.3,
+  "fase_desde": "2026-11-12T08:43:03-06:00"
  },
  "sherlock": {
   "estado": "termino",
