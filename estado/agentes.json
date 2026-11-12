@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T07:31:06-06:00",
-  "desde": "2026-11-12T07:19:19-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T07:46:47-06:00",
   "que": "corrida programada",
-  "resumen": "Las cartas valiosas (de RX para arriba) ya no se pueden vender al instante: se dejan en una vitrina, tardan unas horas en venderse y luego cobras. Así un sobre no regala monedas. Por ahora es solo la",
+  "fase": "",
   "url": "",
   "duraciones": [
    28.6,
