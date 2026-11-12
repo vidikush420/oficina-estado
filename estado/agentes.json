@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T11:21:02-06:00",
-  "desde": "2026-11-12T11:19:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T11:36:40-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no avancé: mis dos últimos trabajos de cartas esperan revisión y la regla es no abrir otro encima. No tienes que hacer nada; en cuanto se revisen sigo con la siguiente tarea.",
+  "fase": "",
   "url": "",
   "duraciones": [
    31.7,
