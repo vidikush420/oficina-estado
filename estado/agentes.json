@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T08:10:25-06:00",
   "que": "revisando el PR #162 (chalan-local/2026-11-12-vitrina-consignacion)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43227953158",
   "duraciones": [
    6.1,
@@ -38,7 +38,8 @@
    10.0,
    13.3
   ],
-  "estimado_min": 8.8
+  "estimado_min": 8.8,
+  "fase_desde": "2026-11-12T08:15:09-06:00"
  },
  "sherlock": {
   "estado": "termino",
