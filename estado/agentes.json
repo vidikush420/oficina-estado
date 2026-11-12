@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T04:12:59-06:00",
-  "desde": "2026-11-12T04:00:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T04:15:22-06:00",
   "que": "corrida programada",
-  "resumen": "Cambié cómo funcionan los sobres de cartas del juego: ahora las cartas buenas salen con las probabilidades que aprobaste y valen menos, así que los sobres ya no regalan monedas. Quité el tope de 20 so",
+  "fase": "",
   "url": "",
   "duraciones": [
    13.3,
