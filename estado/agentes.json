@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T01:14:43-06:00",
-  "desde": "2026-11-12T00:46:45-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T01:38:19-06:00",
   "que": "corrida programada",
-  "resumen": "Ya puedes girar la cámara del juego con un dedo (o el ratón) y el personaje se mueve según hacia dónde miras. El joystick del celular ahora es mucho más grande. También arreglé que la cámara no se ale",
+  "fase": "",
   "url": "",
   "duraciones": [
    23.1,
