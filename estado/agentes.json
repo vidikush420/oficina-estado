@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T10:38:07-06:00",
   "desde": "2026-11-12T10:37:03-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no avancé en Marea porque mis dos últimos trabajos todavía esperan revisión y la regla es no abrir uno nuevo encima. No tienes que hacer nada; en cuanto se revisen sigo con los sobres de cartas.",
   "url": "",
   "duraciones": [
-   11.8,
    10.6,
    20.1,
    14.5,
@@ -78,7 +78,8 @@
    12.9,
    13.4,
    6.8,
-   5.8
+   5.8,
+   1.1
   ],
   "estimado_min": 13.2
  },
