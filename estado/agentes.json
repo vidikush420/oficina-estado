@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T15:27:57-06:00",
   "desde": "2026-11-12T15:11:57-06:00",
   "que": "revisando el PR #169 (chalan-local/2026-11-12-limpieza-textos)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #169 → OJO — espera a Miguel (diseño), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43303540234",
   "duraciones": [
-   15.6,
    12.1,
    9.5,
    9.1,
@@ -36,10 +36,10 @@
    1.7,
    9.5,
    9.7,
-   1.9
+   1.9,
+   16.0
   ],
-  "estimado_min": 9.5,
-  "fase_desde": "2026-11-12T15:27:49-06:00"
+  "estimado_min": 9.5
  },
  "sherlock": {
   "estado": "termino",
