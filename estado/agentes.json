@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T19:40:08-06:00",
-  "desde": "2026-11-11T17:42:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T19:41:28-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé listos dos cambios de Marea que estaban atorados: la interfaz a tamaño correcto en iPhone y la arena mojada del puerto. Ya probé que nada se rompió. Todavía faltan las capturas en el simulador de",
+  "fase": "",
   "url": "",
   "duraciones": [
    49.5,
