@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T04:19:05-06:00",
   "que": "revisando el PR #158 (chalan-local/2026-11-12-economia-prueba)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43192272051",
   "duraciones": [
    2.9,
@@ -38,7 +38,8 @@
    10.8,
    6.3
   ],
-  "estimado_min": 6.2
+  "estimado_min": 6.2,
+  "fase_desde": "2026-11-12T04:23:35-06:00"
  },
  "sherlock": {
   "estado": "termino",
