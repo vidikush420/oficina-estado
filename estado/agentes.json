@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T02:09:39-06:00",
-  "desde": "2026-11-12T02:07:13-06:00",
-  "que": "revisando el PR #154 (chalan-local/2026-11-12-controles)",
-  "resumen": "PR #154 → ya estaba fusionado por Miguel; sin comentario ni fusión",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43173707017",
+  "estado": "trabajando",
+  "desde": "2026-11-12T02:59:19-06:00",
+  "que": "revisando el PR #155 (chalan-local/2026-11-12-economia-precios)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43181451181",
   "duraciones": [
    2.0,
    2.1,
