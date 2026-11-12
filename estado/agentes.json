@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T20:54:03-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 red del mercader y sobre que se rasga",
   "url": "",
   "duraciones": [
    14.1,
@@ -81,7 +81,7 @@
    11.4
   ],
   "estimado_min": 13.9,
-  "fase_desde": "2026-11-11T20:54:37-06:00"
+  "fase_desde": "2026-11-11T20:55:09-06:00"
  },
  "gerente-de-zara": {
   "estado": "termino",
