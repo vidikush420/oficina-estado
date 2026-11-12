@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T06:25:05-06:00",
-  "desde": "2026-11-12T06:22:33-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T07:11:09-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no empecé nada nuevo en el juego porque ya tengo varios cambios míos esperando revisión y no conviene apilar más. Lo que dejaste urgente de la publicación del juego ya estaba arreglado. No tienes",
+  "fase": "",
   "url": "",
   "duraciones": [
    12.1,
