@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T10:57:23-06:00",
-  "desde": "2026-11-12T10:48:20-06:00",
-  "que": "revisando el PR #165 (chalan-local/2026-11-12-set-alpha-datos)",
-  "resumen": "Marea PR #165 → PASA, no fusionado (está en borrador)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43248832437",
+  "estado": "trabajando",
+  "desde": "2026-11-12T11:08:41-06:00",
+  "que": "revisando el PR #166 (chalan-local/2026-11-12-reloj-unix-retorno)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43257631403",
   "duraciones": [
    14.6,
    4.2,
