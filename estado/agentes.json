@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T03:31:56-06:00",
   "desde": "2026-11-12T03:22:44-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Un cambio del juego (la prueba que calcula cuánto tarda el jugador en comprar cosas) se había enredado con la mochila nueva; lo arreglé y ya se puede revisar. Las cartas y los sobres siguen pendientes",
   "url": "",
   "duraciones": [
-   31.5,
    23.9,
    4.8,
    13.3,
@@ -78,10 +78,10 @@
    24.6,
    28.6,
    13.8,
-   15.9
+   15.9,
+   9.2
   ],
-  "estimado_min": 19.9,
-  "fase_desde": "2026-11-12T03:24:14-06:00"
+  "estimado_min": 14.9
  },
  "gerente-de-zara": {
   "estado": "termino",
