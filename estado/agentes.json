@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T23:44:19-06:00",
-  "desde": "2026-11-11T23:20:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T00:01:30-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé buena parte de la pantalla de abrir sobres: las cartas salen en abanico grande, se voltean una por una y al final hay un resumen con botones. Arreglé un error que dibujaba las cartas al doble",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
