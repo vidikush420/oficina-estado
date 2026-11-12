@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T03:31:56-06:00",
-  "desde": "2026-11-12T03:22:44-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T03:33:35-06:00",
   "que": "corrida programada",
-  "resumen": "Un cambio del juego (la prueba que calcula cuánto tarda el jugador en comprar cosas) se había enredado con la mochila nueva; lo arreglé y ya se puede revisar. Las cartas y los sobres siguen pendientes",
+  "fase": "",
   "url": "",
   "duraciones": [
    23.9,
