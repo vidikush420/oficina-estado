@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T06:10:54-06:00",
   "que": "revisando el PR #160 (chalan-local/2026-11-12-cartas-economia-golpe)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43198324021",
   "duraciones": [
    20.1,
@@ -39,7 +39,7 @@
    4.2
   ],
   "estimado_min": 6.9,
-  "fase_desde": "2026-11-12T06:15:25-06:00"
+  "fase_desde": "2026-11-12T06:20:32-06:00"
  },
  "sherlock": {
   "estado": "termino",
