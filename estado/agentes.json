@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T06:25:05-06:00",
   "desde": "2026-11-12T06:22:33-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no empecé nada nuevo en el juego porque ya tengo varios cambios míos esperando revisión y no conviene apilar más. Lo que dejaste urgente de la publicación del juego ya estaba arreglado. No tienes",
   "url": "",
   "duraciones": [
-   28.0,
    12.1,
    24.6,
    28.6,
@@ -78,9 +78,10 @@
    9.2,
    1.5,
    12.7,
-   1.8
+   1.8,
+   2.5
   ],
-  "estimado_min": 13.2
+  "estimado_min": 12.4
  },
  "gerente-de-zara": {
   "estado": "termino",
