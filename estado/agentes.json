@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T03:20:13-06:00",
   "desde": "2026-11-12T03:04:17-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Armé una prueba automática que calcula cuántas horas tarda un jugador en comprar cada cosa (bote, cañas, mochila) y avisa si algo se desvía más de un cuarto de lo planeado. Hoy todo cuadra con lo que",
   "url": "",
   "duraciones": [
-   14.2,
    31.5,
    23.9,
    4.8,
@@ -78,10 +78,10 @@
    12.1,
    24.6,
    28.6,
-   13.8
+   13.8,
+   15.9
   ],
-  "estimado_min": 19.0,
-  "fase_desde": "2026-11-12T03:19:26-06:00"
+  "estimado_min": 19.9
  },
  "gerente-de-zara": {
   "estado": "termino",
