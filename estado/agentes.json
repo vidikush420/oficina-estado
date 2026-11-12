@@ -62,11 +62,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T20:05:40-06:00",
-  "desde": "2026-11-11T19:45:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T20:07:14-06:00",
   "que": "corrida programada",
-  "resumen": "Dos trabajos de Marea se habían quedado trabados porque otro cambio entró primero; los puse al día y sus pruebas pasan. También encontré por qué falló la publicación de prueba de la Bitácora: un archi",
+  "fase": "",
   "url": "",
   "duraciones": [
    13.5,
