@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T20:04:37-06:00",
-  "desde": "2026-11-11T20:02:33-06:00",
-  "que": "revisando el PR #130 (chalan-local/2026-11-11-puerto-arena)",
-  "resumen": "Marea PR #130 → DEVUELTO (marcas de conflicto en ESTADO.md), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43137385662",
+  "estado": "trabajando",
+  "desde": "2026-11-11T20:06:19-06:00",
+  "que": "revisando el PR #86 (chalan-local/2026-11-11-causa-beta-v62)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43138938180",
   "duraciones": [
    9.8,
    0.9,
