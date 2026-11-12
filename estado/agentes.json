@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T09:35:24-06:00",
-  "desde": "2026-11-12T09:23:16-06:00",
-  "que": "revisando el PR #163 (chalan-local/2026-11-12-tienda-del-dia)",
-  "resumen": "PR #163 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43244708413",
+  "estado": "trabajando",
+  "desde": "2026-11-12T10:20:35-06:00",
+  "que": "revisando el PR #130 (chalan-local/2026-11-11-puerto-arena)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43256071695",
   "duraciones": [
    10.8,
    6.3,
