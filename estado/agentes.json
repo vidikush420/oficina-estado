@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T20:11:02-06:00",
-  "desde": "2026-11-11T20:07:14-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T20:13:33-06:00",
   "que": "corrida programada",
-  "resumen": "La publicación de prueba de la Bitácora se había atorado porque un archivo de pruebas estaba escrito de una forma que la Mac no entiende. Lo corregí y las pruebas ya pasan completas. La publicación au",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.7,
