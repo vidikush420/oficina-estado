@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T22:06:29-06:00",
   "desde": "2026-11-11T22:02:21-06:00",
   "que": "revisando el PR #147 (chalan-local/2026-11-12-capturas-camara-lanzado)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #147 Marea → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43151979406",
   "duraciones": [
-   13.8,
    9.2,
    7.5,
    17.0,
@@ -36,10 +36,10 @@
    2.1,
    2.9,
    4.1,
-   20.1
+   20.1,
+   4.1
   ],
-  "estimado_min": 7.0,
-  "fase_desde": "2026-11-11T22:06:22-06:00"
+  "estimado_min": 5.2
  },
  "sherlock": {
   "estado": "termino",
