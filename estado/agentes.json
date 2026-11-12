@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T07:45:09-06:00",
-  "desde": "2026-11-12T07:31:52-06:00",
-  "que": "revisando el PR #161 (chalan-local/2026-11-12-gradeo-economia)",
-  "resumen": "PR #161 Marea → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43225942335",
+  "estado": "trabajando",
+  "desde": "2026-11-12T08:10:25-06:00",
+  "que": "revisando el PR #162 (chalan-local/2026-11-12-vitrina-consignacion)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43227953158",
   "duraciones": [
    6.1,
    15.5,
