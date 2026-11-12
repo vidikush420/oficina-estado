@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T11:18:13-06:00",
   "desde": "2026-11-12T11:08:41-06:00",
   "que": "revisando el PR #166 (chalan-local/2026-11-12-reloj-unix-retorno)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #166 Marea → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43257631403",
   "duraciones": [
-   14.6,
    4.2,
    10.0,
    13.3,
@@ -36,10 +36,10 @@
    15.6,
    12.1,
    9.5,
-   9.1
+   9.1,
+   9.5
   ],
-  "estimado_min": 10.3,
-  "fase_desde": "2026-11-12T11:18:05-06:00"
+  "estimado_min": 9.8
  },
  "sherlock": {
   "estado": "termino",
