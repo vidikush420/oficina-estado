@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T22:38:27-06:00",
-  "desde": "2026-11-11T22:32:21-06:00",
-  "que": "revisando el PR #148 (claude/sobres-prototipo)",
-  "resumen": "PR #148 → OJO cosmético, ya estaba fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43153654218",
+  "estado": "trabajando",
+  "desde": "2026-11-11T23:13:51-06:00",
+  "que": "revisando el PR #149 (chalan-local/2026-11-12-menores)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43154031892",
   "duraciones": [
    7.5,
    17.0,
