@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T11:18:36-06:00",
   "desde": "2026-11-12T11:11:22-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Un informe de medición de rendimiento del juego Marea chocaba con cambios más nuevos y no podía integrarse. Lo puse al día y las pruebas pasan; Aduana lo revisa otra vez. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   20.1,
    14.5,
    31.7,
    24.0,
@@ -78,10 +78,10 @@
    6.8,
    5.8,
    1.1,
-   4.1
+   4.1,
+   7.2
   ],
-  "estimado_min": 13.2,
-  "fase_desde": "2026-11-12T11:17:51-06:00"
+  "estimado_min": 10.1
  },
  "gerente-de-zara": {
   "estado": "termino",
