@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T12:21:02-06:00",
-  "desde": "2026-11-12T12:11:22-06:00",
-  "que": "revisando el PR #146 (chalan-local/2026-11-11-red-mercader)",
-  "resumen": "PR #146 → OJO — espera a Miguel, no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43260421985",
+  "estado": "trabajando",
+  "desde": "2026-11-12T13:22:06-06:00",
+  "que": "revisando el PR #88 (chalan-local/2026-11-12-beta-v62-timeout)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43289290897",
   "duraciones": [
    2.7,
    15.6,
