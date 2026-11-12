@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T14:46:26-06:00",
   "desde": "2026-11-12T14:32:36-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Quité o acorté los textos que estorbaban en el juego: «Mira el corcho» ya no sale, las ayudas solo aparecen las primeras veces y los avisos son más cortos. Falta que veas cómo se ve en el iPhone; no t",
   "url": "",
   "duraciones": [
-   6.8,
    5.8,
    1.1,
    4.1,
@@ -78,10 +78,10 @@
    1.2,
    1.4,
    3.4,
-   2.0
+   2.0,
+   13.8
   ],
-  "estimado_min": 2.7,
-  "fase_desde": "2026-11-12T14:45:47-06:00"
+  "estimado_min": 2.7
  },
  "gerente-de-zara": {
   "estado": "termino",
