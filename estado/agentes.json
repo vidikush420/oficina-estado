@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T03:03:09-06:00",
   "desde": "2026-11-12T02:49:23-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Había un PR del juego (la mochila nueva) que se había enredado con los precios nuevos; lo arreglé y ya se puede revisar. Esta corrida no alcanzó a hacer más: faltan la prueba automática de la economía",
   "url": "",
   "duraciones": [
-   53.8,
    14.2,
    31.5,
    23.9,
@@ -78,10 +78,10 @@
    28.0,
    12.1,
    24.6,
-   28.6
+   28.6,
+   13.8
   ],
-  "estimado_min": 24.2,
-  "fase_desde": "2026-11-12T03:00:46-06:00"
+  "estimado_min": 19.0
  },
  "gerente-de-zara": {
   "estado": "termino",
