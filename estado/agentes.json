@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T07:31:52-06:00",
   "que": "revisando el PR #161 (chalan-local/2026-11-12-gradeo-economia)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43225942335",
   "duraciones": [
    4.1,
@@ -39,7 +39,7 @@
    10.0
   ],
   "estimado_min": 6.9,
-  "fase_desde": "2026-11-12T07:35:23-06:00"
+  "fase_desde": "2026-11-12T07:44:48-06:00"
  },
  "sherlock": {
   "estado": "termino",
