@@ -63,13 +63,13 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-11T19:40:08-06:00",
   "desde": "2026-11-11T17:42:56-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas del PR 140",
+  "resumen": "Dejé listos dos cambios de Marea que estaban atorados: la interfaz a tamaño correcto en iPhone y la arena mojada del puerto. Ya probé que nada se rompió. Todavía faltan las capturas en el simulador de",
   "url": "",
   "duraciones": [
-   24.3,
    49.5,
    16.5,
    13.5,
@@ -78,10 +78,10 @@
    14.1,
    6.9,
    13.7,
-   27.1
+   27.1,
+   117.2
   ],
-  "estimado_min": 16.1,
-  "fase_desde": "2026-11-11T18:05:41-06:00"
+  "estimado_min": 16.1
  },
  "gerente-de-zara": {
   "estado": "termino",
