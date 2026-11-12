@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T17:14:48-06:00",
-  "desde": "2026-11-12T17:09:05-06:00",
-  "que": "revisando el PR #170 (chalan-local/2026-11-12-escala-horizontal)",
-  "resumen": "PR #170 Marea → ya estaba fusionado, sin revisión ni comentario",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43314870150",
+  "estado": "trabajando",
+  "desde": "2026-11-12T17:25:22-06:00",
+  "que": "revisando el PR #43 (claude/marea-beta)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/43328429715",
   "duraciones": [
    9.5,
    9.1,
