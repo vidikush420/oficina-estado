@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T07:57:20-06:00",
-  "desde": "2026-11-12T07:46:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T08:21:08-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé la tienda del día del juego de cartas: cada dos días la tienda ofrece diez cartas, las mismas para todos los jugadores, y cuestan bastante más de lo que valen para que no se pueda hacer dinero",
+  "fase": "",
   "url": "",
   "duraciones": [
    13.8,
