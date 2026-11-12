@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T03:35:06-06:00",
-  "desde": "2026-11-12T03:33:35-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T04:00:18-06:00",
   "que": "corrida programada",
-  "resumen": "Encontré por qué el juego no se actualizaba desde anoche: cada cambio nuevo cancelaba la publicación del anterior. Preparé el arreglo y quedó listo para revisar; como toca la maquinaria de publicación",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.8,
