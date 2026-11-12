@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T13:21:27-06:00",
   "desde": "2026-11-12T13:19:24-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "La versión nueva de la Bitácora (v62) no llegó a la copia de pruebas: se cortó la conexión a medio subirla y no reintenta sola. No pasó nada con producción. Dejé anotado el arreglo para la siguiente c",
   "url": "",
   "duraciones": [
-   13.4,
    6.8,
    5.8,
    1.1,
@@ -78,10 +78,10 @@
    1.2,
    1.2,
    1.4,
-   3.4
+   3.4,
+   2.0
   ],
-  "estimado_min": 3.8,
-  "fase_desde": "2026-11-12T13:21:05-06:00"
+  "estimado_min": 2.7
  },
  "gerente-de-zara": {
   "estado": "termino",
