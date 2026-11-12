@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T11:09:53-06:00",
-  "desde": "2026-11-12T11:05:45-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T11:11:22-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé listo para revisión el cambio que hace que las cartas se bajen una por una y no pesen al entrar al juego. También puse al día el trabajo de los sobres de cartas con lo último del juego; sigue en",
+  "fase": "",
   "url": "",
   "duraciones": [
    20.1,
