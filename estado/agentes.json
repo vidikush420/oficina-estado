@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T20:29:31-06:00",
   "que": "revisando el PR #87 (chalan-local/2026-11-11-arreglo-pruebas-v62)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43141740070",
   "duraciones": [
    0.9,
@@ -38,7 +38,8 @@
    2.1,
    2.9
   ],
-  "estimado_min": 4.7
+  "estimado_min": 4.7,
+  "fase_desde": "2026-11-11T20:33:09-06:00"
  },
  "sherlock": {
   "estado": "termino",
