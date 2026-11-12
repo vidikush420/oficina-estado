@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T17:14:48-06:00",
   "desde": "2026-11-12T17:09:05-06:00",
   "que": "revisando el PR #170 (chalan-local/2026-11-12-escala-horizontal)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #170 Marea → ya estaba fusionado, sin revisión ni comentario",
   "url": "https://github.com/vidikush420/marea/actions/runs/43314870150",
   "duraciones": [
-   12.1,
    9.5,
    9.1,
    9.5,
@@ -36,10 +36,10 @@
    9.5,
    9.7,
    1.9,
-   16.0
+   16.0,
+   5.7
   ],
-  "estimado_min": 9.5,
-  "fase_desde": "2026-11-12T17:14:38-06:00"
+  "estimado_min": 9.3
  },
  "sherlock": {
   "estado": "termino",
