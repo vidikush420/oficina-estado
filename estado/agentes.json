@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T10:30:03-06:00",
   "desde": "2026-11-12T10:20:35-06:00",
   "que": "revisando el PR #130 (chalan-local/2026-11-11-puerto-arena)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #130 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43256071695",
   "duraciones": [
-   10.8,
    6.3,
    14.6,
    4.2,
@@ -36,10 +36,10 @@
    10.7,
    2.7,
    15.6,
-   12.1
+   12.1,
+   9.5
   ],
-  "estimado_min": 10.8,
-  "fase_desde": "2026-11-12T10:29:52-06:00"
+  "estimado_min": 10.3
  },
  "sherlock": {
   "estado": "termino",
