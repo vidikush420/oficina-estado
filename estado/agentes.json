@@ -63,11 +63,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T19:42:45-06:00",
-  "desde": "2026-11-11T19:41:28-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T19:45:27-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hice trabajo nuevo: en Marea ya tengo tres entregas esperando que las revisen y no puedo abrir otra hasta que se resuelvan. Los demás proyectos no tienen nada que requiera la Mac. La última sub",
+  "fase": "",
   "url": "",
   "duraciones": [
    16.5,
