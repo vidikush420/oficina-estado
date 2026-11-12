@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-11T20:36:36-06:00",
   "que": "revisando el PR #145 (chalan-local/2026-11-11-transicion-jugar)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43142568027",
   "duraciones": [
    1.4,
@@ -39,7 +39,7 @@
    4.1
   ],
   "estimado_min": 5.2,
-  "fase_desde": "2026-11-11T20:44:38-06:00"
+  "fase_desde": "2026-11-11T20:56:22-06:00"
  },
  "sherlock": {
   "estado": "termino",
