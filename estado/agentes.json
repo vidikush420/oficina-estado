@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T08:21:06-06:00",
   "desde": "2026-11-12T08:10:25-06:00",
   "que": "revisando el PR #162 (chalan-local/2026-11-12-vitrina-consignacion)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "Marea PR #162 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43227953158",
   "duraciones": [
-   6.1,
    15.5,
    7.5,
    2.4,
@@ -36,10 +36,10 @@
    14.6,
    4.2,
    10.0,
-   13.3
+   13.3,
+   10.7
   ],
-  "estimado_min": 8.8,
-  "fase_desde": "2026-11-12T08:21:00-06:00"
+  "estimado_min": 10.3
  },
  "sherlock": {
   "estado": "termino",
