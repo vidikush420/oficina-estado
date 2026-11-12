@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T12:11:22-06:00",
   "que": "revisando el PR #146 (chalan-local/2026-11-11-red-mercader)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43260421985",
   "duraciones": [
    13.3,
@@ -38,7 +38,8 @@
    2.7,
    1.7
   ],
-  "estimado_min": 9.5
+  "estimado_min": 9.5,
+  "fase_desde": "2026-11-12T12:12:55-06:00"
  },
  "sherlock": {
   "estado": "termino",
