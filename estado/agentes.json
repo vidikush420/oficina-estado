@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T01:14:43-06:00",
   "desde": "2026-11-12T00:46:45-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ya puedes girar la cámara del juego con un dedo (o el ratón) y el personaje se mueve según hacia dónde miras. El joystick del celular ahora es mucho más grande. También arreglé que la cámara no se ale",
   "url": "",
   "duraciones": [
-   3.8,
    23.1,
    11.4,
    31.3,
@@ -78,10 +78,10 @@
    31.5,
    23.9,
    4.8,
-   13.3
+   13.3,
+   28.0
   ],
-  "estimado_min": 18.6,
-  "fase_desde": "2026-11-12T01:13:08-06:00"
+  "estimado_min": 23.5
  },
  "gerente-de-zara": {
   "estado": "termino",
