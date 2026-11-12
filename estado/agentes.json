@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T20:56:42-06:00",
-  "desde": "2026-11-11T20:36:36-06:00",
-  "que": "revisando el PR #145 (chalan-local/2026-11-11-transicion-jugar)",
-  "resumen": "PR #145 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43142568027",
+  "estado": "trabajando",
+  "desde": "2026-11-11T21:29:18-06:00",
+  "que": "revisando el PR #146 (chalan-local/2026-11-11-red-mercader)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43148060569",
   "duraciones": [
    13.8,
    9.2,
