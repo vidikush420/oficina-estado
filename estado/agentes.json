@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T00:06:16-06:00",
   "desde": "2026-11-12T00:01:30-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Tomé las fotos del antes y el después de la cámara junto a los edificios y las puse en el PR 150. En la del puesto del mercado se ve claro: antes la pantalla se llenaba de pared; ahora la cámara sube",
   "url": "",
   "duraciones": [
-   1.3,
    20.2,
    3.8,
    23.1,
@@ -78,10 +78,10 @@
    53.8,
    14.2,
    31.5,
-   23.9
+   23.9,
+   4.8
   ],
-  "estimado_min": 21.6,
-  "fase_desde": "2026-11-12T00:01:57-06:00"
+  "estimado_min": 21.6
  },
  "gerente-de-zara": {
   "estado": "termino",
