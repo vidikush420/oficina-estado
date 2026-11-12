@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T14:54:23-06:00",
   "desde": "2026-11-12T14:47:48-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Arreglé el tamaño exagerado de los botones y menús del juego en pantalla horizontal y en computadora: ahora ocupan una parte razonable. También dejé listo el toque en la mochila, sin pantalla todavía.",
   "url": "",
   "duraciones": [
-   5.8,
    1.1,
    4.1,
    7.2,
@@ -78,10 +78,10 @@
    1.4,
    3.4,
    2.0,
-   13.8
+   13.8,
+   6.6
   ],
-  "estimado_min": 2.7,
-  "fase_desde": "2026-11-12T14:53:39-06:00"
+  "estimado_min": 2.7
  },
  "gerente-de-zara": {
   "estado": "termino",
