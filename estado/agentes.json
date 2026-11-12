@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-11T21:29:18-06:00",
-  "que": "revisando el PR #146 (chalan-local/2026-11-11-red-mercader)",
-  "fase": "2/4 revisando el código y las pruebas",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43148060569",
+  "desde": "2026-11-11T22:02:21-06:00",
+  "que": "revisando el PR #147 (chalan-local/2026-11-12-capturas-camara-lanzado)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43151979406",
   "duraciones": [
    13.8,
    9.2,
@@ -38,8 +38,7 @@
    4.1,
    20.1
   ],
-  "estimado_min": 7.0,
-  "fase_desde": "2026-11-11T21:31:54-06:00"
+  "estimado_min": 7.0
  },
  "sherlock": {
   "estado": "termino",
