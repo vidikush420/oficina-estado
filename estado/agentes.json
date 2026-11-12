@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-11T23:51:26-06:00",
-  "desde": "2026-11-11T23:43:58-06:00",
-  "que": "revisando el PR #144 (claude/pueblo-vision)",
-  "resumen": "PR #144 → OJO (cosmético), ya estaba fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43160489193",
+  "estado": "trabajando",
+  "desde": "2026-11-12T02:07:13-06:00",
+  "que": "revisando el PR #154 (chalan-local/2026-11-12-controles)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43173707017",
   "duraciones": [
    6.4,
    2.0,
