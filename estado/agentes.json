@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T15:55:06-06:00",
   "desde": "2026-11-12T15:27:25-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Terminé la primera de las tareas urgentes: que el juego se vea bien en pantalla de computadora. Agregué las fotos de antes y después, y la tienda de cartas ya no se estira de orilla a orilla. Faltan l",
   "url": "",
   "duraciones": [
-   1.1,
    4.1,
    7.2,
    1.2,
@@ -78,9 +78,10 @@
    3.4,
    2.0,
    13.8,
-   6.6
+   6.6,
+   27.7
   ],
-  "estimado_min": 2.7
+  "estimado_min": 3.8
  },
  "gerente-de-zara": {
   "estado": "termino",
