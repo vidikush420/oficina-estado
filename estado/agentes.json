@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T01:50:23-06:00",
-  "desde": "2026-11-12T01:38:19-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T01:51:18-06:00",
   "que": "corrida programada",
-  "resumen": "Avancé un poco la pantalla de abrir sobres del juego: ahora el texto va abajo como en el diseño que aprobaste. Todavía le faltan efectos de brillo y probarla en el Simulador, así que sigue en borrador",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.4,
