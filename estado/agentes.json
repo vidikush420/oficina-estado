@@ -62,11 +62,10 @@
   "estimado_min": 26.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-11T22:36:20-06:00",
-  "desde": "2026-11-11T22:22:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-11T22:37:41-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé el defecto de la cámara de Marea: cuando el personaje queda junto a la pared de una casa, la cámara ya no se queda mirando la pared; sube y se aleja, y si un edificio tapa gran parte de la pan",
+  "fase": "",
   "url": "",
   "duraciones": [
    27.1,
