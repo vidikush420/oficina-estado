@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T18:24:22-06:00",
-  "desde": "2026-11-12T18:21:43-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T18:55:07-06:00",
   "que": "corrida programada",
-  "resumen": "Comparé la mochila del juego con tu diseño: es casi igual, falta que ocupe toda la pantalla y que los peces tengan color. Para el puerto preparé una propuesta de cómo acomodar el mercado y las tiendas",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
