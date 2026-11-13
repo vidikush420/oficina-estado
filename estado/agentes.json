@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T20:55:02-06:00",
   "que": "revisando el PR #178 (claude/reglas-12nov)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43352266178",
   "duraciones": [
    9.5,
@@ -39,7 +39,7 @@
    14.8
   ],
   "estimado_min": 9.2,
-  "fase_desde": "2026-11-12T20:59:33-06:00"
+  "fase_desde": "2026-11-12T20:59:49-06:00"
  },
  "sherlock": {
   "estado": "termino",
