@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T19:22:26-06:00",
   "que": "revisando el PR #174 (chalan-local/2026-11-12-mochila-referencia)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/43333214231",
   "duraciones": [
    1.7,
@@ -39,7 +39,7 @@
    0.7
   ],
   "estimado_min": 7.3,
-  "fase_desde": "2026-11-12T19:25:57-06:00"
+  "fase_desde": "2026-11-12T19:26:07-06:00"
  },
  "sherlock": {
   "estado": "termino",
