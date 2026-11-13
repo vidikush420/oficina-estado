@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-13T07:01:58-06:00",
   "que": "revisando el PR #168 (chalan-local/2026-11-12-puerto-ronda2)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43427358825",
   "duraciones": [
    16.0,
@@ -39,7 +39,7 @@
    8.9
   ],
   "estimado_min": 7.3,
-  "fase_desde": "2026-11-13T07:04:04-06:00"
+  "fase_desde": "2026-11-13T07:04:20-06:00"
  },
  "sherlock": {
   "estado": "termino",
