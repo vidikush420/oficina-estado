@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T13:47:47-06:00",
-  "desde": "2026-11-13T13:37:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T14:28:39-06:00",
   "que": "corrida programada",
-  "resumen": "La mochila en la compu estaba muy chica y vacía; ahora las casillas son más grandes y llenan toda la pantalla, y caben todos los objetos. En el iPhone se ve igual que antes. El cambio está guardado en",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
