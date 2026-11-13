@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T20:46:16-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 cofres pescados solo se abren",
   "url": "",
   "duraciones": [
    6.6,
@@ -81,7 +81,7 @@
    21.1
   ],
   "estimado_min": 22.4,
-  "fase_desde": "2026-11-12T20:47:09-06:00"
+  "fase_desde": "2026-11-12T20:48:13-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
