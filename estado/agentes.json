@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T01:13:52-06:00",
   "desde": "2026-11-13T00:59:30-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 mochila a pantalla completa",
+  "resumen": "Terminé en mi Mac los tres arreglos del juego: el personaje ahora arranca junto a la fuente, el pez de la fuente ya parece pez dorado y la mochila ocupa toda la pantalla con los peces en sus colores.",
   "url": "",
   "duraciones": [
-   25.7,
    38.6,
    14.4,
    21.1,
@@ -78,10 +78,10 @@
    15.2,
    14.9,
    20.0,
-   15.5
+   15.5,
+   14.4
   ],
-  "estimado_min": 15.3,
-  "fase_desde": "2026-11-13T01:09:49-06:00"
+  "estimado_min": 15.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
