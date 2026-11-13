@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T04:21:31-06:00",
-  "desde": "2026-11-13T04:06:39-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T06:09:42-06:00",
   "que": "corrida programada",
-  "resumen": "Achiqué el pez de la fuente, lo bajé para que salga del agua y lo dejé más dorado, con una línea oscura en el lomo. Funciona y se ve bien en las capturas, pero la Mac no me dejó publicarlo, así que aú",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
