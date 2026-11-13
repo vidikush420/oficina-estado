@@ -65,7 +65,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T20:46:16-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "fase": "Marea: 4/4 abriendo el PR",
   "url": "",
   "duraciones": [
    6.6,
@@ -80,7 +80,7 @@
    21.1
   ],
   "estimado_min": 22.4,
-  "fase_desde": "2026-11-12T20:49:37-06:00"
+  "fase_desde": "2026-11-12T20:57:19-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
