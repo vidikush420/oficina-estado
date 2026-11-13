@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T15:52:33-06:00",
   "desde": "2026-11-13T15:43:22-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "El muelle de tu isla ahora se mete en el agua y la lancha queda amarrada en su punta; ya está subido. Sobre la falla del Juego a esa hora: probablemente la causé yo al apagar una prueba que corría en",
   "url": "",
   "duraciones": [
-   15.0,
    2.1,
    4.8,
    19.4,
@@ -78,9 +78,10 @@
    3.0,
    0.9,
    1.0,
-   10.8
+   10.8,
+   9.2
   ],
-  "estimado_min": 7.7
+  "estimado_min": 7.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
