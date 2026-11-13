@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-13T09:04:31-06:00",
-  "desde": "2026-11-13T08:53:31-06:00",
-  "que": "revisando el PR #181 (chalan-local/2026-11-13-escala-vertical)",
-  "resumen": "PR #181 → DEVUELTO (pruebas faltantes), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43445498525",
+  "estado": "trabajando",
+  "desde": "2026-11-13T11:18:17-06:00",
+  "que": "revisando el PR #182 (claude/reglas-13nov)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43462341219",
   "duraciones": [
    13.8,
    8.9,
