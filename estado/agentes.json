@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T14:50:14-06:00",
-  "desde": "2026-11-13T14:47:12-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T14:50:48-06:00",
   "que": "corrida programada",
-  "resumen": "Hice que la pantalla del juego se vea más chica cuando giras el iPhone, y dejé fotos con tres tamaños (actual, mediano y más chico). Hay un detalle: mientras más chico se ve todo, más difícil es leer",
+  "fase": "",
   "url": "",
   "duraciones": [
    19.4,
