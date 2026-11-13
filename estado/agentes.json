@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T14:45:46-06:00",
-  "desde": "2026-11-13T14:28:39-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T14:47:12-06:00",
   "que": "corrida programada",
-  "resumen": "Ahora, al pescar, a veces sale del agua un sobre de cartas o una carta ya calificada; las muy raras son de la «Primera Edición» y valen 8 veces más. Calculé cuánto dinero extra da esto y sube menos de",
+  "fase": "",
   "url": "",
   "duraciones": [
    12.1,
