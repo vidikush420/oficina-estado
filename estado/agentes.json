@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T02:49:16-06:00",
   "desde": "2026-11-13T02:34:17-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Rehice el pez de la fuente para que se vea como un pez dorado saltando, y agrandé la mochila en la compu con la ficha del pez al lado derecho. Todo está guardado en la Mac pero el sistema no me deja s",
   "url": "",
   "duraciones": [
-   38.6,
    14.4,
    21.1,
    12.1,
@@ -78,10 +78,10 @@
    14.9,
    20.0,
    15.5,
-   14.4
+   14.4,
+   15.0
   ],
-  "estimado_min": 15.1,
-  "fase_desde": "2026-11-13T02:42:32-06:00"
+  "estimado_min": 14.9
  },
  "gerente-de-zara": {
   "estado": "trabajando",
