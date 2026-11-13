@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T18:24:22-06:00",
   "desde": "2026-11-12T18:21:43-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 vista aérea del puerto",
+  "resumen": "Comparé la mochila del juego con tu diseño: es casi igual, falta que ocupe toda la pantalla y que los peces tengan color. Para el puerto preparé una propuesta de cómo acomodar el mercado y las tiendas",
   "url": "",
   "duraciones": [
-   1.2,
    1.4,
    3.4,
    2.0,
@@ -78,10 +78,10 @@
    27.7,
    23.7,
    56.0,
-   21.2
+   21.2,
+   2.6
   ],
-  "estimado_min": 10.2,
-  "fase_desde": "2026-11-12T18:22:33-06:00"
+  "estimado_min": 10.2
  },
  "gerente-de-zara": {
   "estado": "trabajando",
