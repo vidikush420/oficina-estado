@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T03:12:02-06:00",
-  "desde": "2026-11-13T02:55:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T03:13:18-06:00",
   "que": "corrida programada",
-  "resumen": "Subí a internet el pez y la mochila nuevos. También armé la base de los logros: medallas por pescar cada especie y por abrir sobres, que dan monedas. El efecto en la economía es pequeño y no la rompe.",
+  "fase": "",
   "url": "",
   "duraciones": [
    21.1,
