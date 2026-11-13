@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T18:36:51-06:00",
   "que": "revisando el PR #173 (claude/carril-publicar)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43330406733",
   "duraciones": [
    9.1,
@@ -38,7 +38,8 @@
    5.7,
    13.8
   ],
-  "estimado_min": 9.3
+  "estimado_min": 9.3,
+  "fase_desde": "2026-11-12T18:44:47-06:00"
  },
  "sherlock": {
   "estado": "termino",
