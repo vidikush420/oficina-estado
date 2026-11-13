@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T15:22:37-06:00",
-  "desde": "2026-11-13T15:11:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T15:43:22-06:00",
   "que": "corrida programada",
-  "resumen": "No empecé nada nuevo: ya tengo cuatro entregas de Marea esperando que alguien las revise y la regla me pide no apilar más. Todo lo anterior sigue intacto. Para destrabarme, revisa o fusiona #167, #184",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.0,
