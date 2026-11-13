@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-12T18:54:46-06:00",
+  "cuando": "2026-11-12T18:54:56-06:00",
   "desde": "2026-11-12T18:54:16-06:00",
   "que": "",
-  "resumen": "PR #173 → OJO espera a Miguel (toca workflows), no fusionado",
+  "resumen": "Marea PR #173 → OJO espera a Miguel (toca workflows), no fusionado",
   "url": "",
   "duraciones": [
-   2.7,
    1.7,
    9.5,
    9.7,
@@ -37,7 +36,8 @@
    5.7,
    13.8,
    8.9,
-   0.5
+   0.5,
+   0.7
   ],
   "estimado_min": 7.3
  },
