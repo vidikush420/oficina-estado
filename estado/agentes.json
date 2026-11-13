@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-13T11:18:17-06:00",
   "que": "revisando el PR #182 (claude/reglas-13nov)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43462341219",
   "duraciones": [
    13.8,
@@ -38,7 +38,8 @@
    2.6,
    11.0
   ],
-  "estimado_min": 7.1
+  "estimado_min": 7.1,
+  "fase_desde": "2026-11-13T11:26:53-06:00"
  },
  "sherlock": {
   "estado": "termino",
