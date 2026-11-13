@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T03:14:15-06:00",
   "desde": "2026-11-13T03:13:18-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada nuevo que yo pudiera hacer en la Mac: el trabajo de logros de Marea espera revisión y lo demás no me toca. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   21.1,
    12.1,
    0.8,
    15.2,
@@ -78,9 +78,10 @@
    15.5,
    14.4,
    15.0,
-   16.4
+   16.4,
+   0.9
   ],
-  "estimado_min": 15.1
+  "estimado_min": 14.9
  },
  "gerente-de-zara": {
   "estado": "trabajando",
