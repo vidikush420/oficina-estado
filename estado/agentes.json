@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T06:21:55-06:00",
-  "desde": "2026-11-13T06:09:42-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T06:22:24-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé la pantalla de logros del juego: se ve como el dibujo aprobado, guarda tu progreso y se abre desde el Menú. Las medallas de pesca y de sobres ya funcionan; Mundo y Finales dicen \"Próximamente\"",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.2,
