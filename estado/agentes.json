@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T07:04:35-06:00",
   "desde": "2026-11-13T07:01:58-06:00",
   "que": "revisando el PR #168 (chalan-local/2026-11-12-puerto-ronda2)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #168 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43427358825",
   "duraciones": [
-   16.0,
    5.7,
    13.8,
    8.9,
@@ -36,10 +36,10 @@
    14.8,
    5.1,
    5.3,
-   8.9
+   8.9,
+   2.6
   ],
-  "estimado_min": 7.3,
-  "fase_desde": "2026-11-13T07:04:27-06:00"
+  "estimado_min": 5.5
  },
  "sherlock": {
   "estado": "termino",
