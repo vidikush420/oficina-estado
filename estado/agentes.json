@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T11:47:34-06:00",
   "desde": "2026-11-13T11:45:26-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Revisé las sombras de la plaza del juego y ya se ven suaves, así que no había nada que arreglar. La nota está guardada en la Mac pero el sistema no me dejó subirla a GitHub. Si ves una sombra fea en u",
   "url": "",
   "duraciones": [
-   1.6,
    1.1,
    0.8,
    23.0,
@@ -78,10 +78,10 @@
    19.4,
    16.2,
    16.6,
-   15.0
+   15.0,
+   2.1
   ],
-  "estimado_min": 13.6,
-  "fase_desde": "2026-11-13T11:45:51-06:00"
+  "estimado_min": 13.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
