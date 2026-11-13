@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T20:39:27-06:00",
   "desde": "2026-11-12T20:18:21-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Rehíce la fuente de la plaza (ahora con piedra, agua brillante y un pez dorado saltando) y la tienda de cartas LUMORA, que ahora es grande, mira a la fuente y tiene vitrina con cartas y un tendero. Ta",
   "url": "",
   "duraciones": [
-   13.8,
    6.6,
    27.7,
    23.7,
@@ -78,10 +78,10 @@
    2.6,
    25.7,
    38.6,
-   14.4
+   14.4,
+   21.1
   ],
-  "estimado_min": 22.4,
-  "fase_desde": "2026-11-12T20:22:25-06:00"
+  "estimado_min": 22.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
