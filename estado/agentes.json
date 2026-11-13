@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T20:58:22-06:00",
-  "desde": "2026-11-12T20:46:16-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T20:59:39-06:00",
   "que": "corrida programada",
-  "resumen": "Cambié cómo salen los cofres que pescas: casi siempre son de madera, a veces de oro y muy rara vez de diamante, y ya no se pueden vender, solo abrir. Calculé que el dinero que gana un jugador casi no",
+  "fase": "",
   "url": "",
   "duraciones": [
    27.7,
