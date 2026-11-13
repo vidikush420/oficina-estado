@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T06:21:55-06:00",
   "desde": "2026-11-13T06:09:42-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Terminé la pantalla de logros del juego: se ve como el dibujo aprobado, guarda tu progreso y se abre desde el Menú. Las medallas de pesca y de sobres ya funcionan; Mundo y Finales dicen \"Próximamente\"",
   "url": "",
   "duraciones": [
-   0.8,
    15.2,
    14.9,
    20.0,
@@ -78,10 +78,10 @@
    15.0,
    16.4,
    0.9,
-   14.9
+   14.9,
+   12.2
   ],
-  "estimado_min": 14.9,
-  "fase_desde": "2026-11-13T06:18:33-06:00"
+  "estimado_min": 14.9
  },
  "gerente-de-zara": {
   "estado": "trabajando",
