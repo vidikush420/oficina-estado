@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T08:46:11-06:00",
   "desde": "2026-11-13T08:44:46-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no empecé nada nuevo: en el juego Marea tengo dos cambios esperando revisión y la regla me impide abrir otro encima. En Sunday sigue faltando la copia de datos de prueba. No tienes que hacer nada;",
   "url": "",
   "duraciones": [
-   16.4,
    0.9,
    14.9,
    12.2,
@@ -78,9 +78,10 @@
    1.6,
    1.1,
    0.8,
-   23.0
+   23.0,
+   1.4
   ],
-  "estimado_min": 1.7
+  "estimado_min": 1.5
  },
  "gerente-de-zara": {
   "estado": "trabajando",
