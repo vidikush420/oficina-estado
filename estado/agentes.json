@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T13:32:08-06:00",
-  "desde": "2026-11-13T13:12:42-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T13:37:18-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé la isla de tu casa: ahora tiene un muelle de madera de verdad y un letrero «Al puerto» que te regresa al puerto sin costo, igual que «A tu isla» te lleva allá. Lo probé con capturas y con las",
+  "fase": "",
   "url": "",
   "duraciones": [
    23.0,
