@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T13:11:44-06:00",
-  "desde": "2026-11-13T13:06:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T13:12:42-06:00",
   "que": "corrida programada",
-  "resumen": "Aduana pidió dos pruebas automáticas más en el arreglo de la escala del iPhone; ya las agregué y pasan. Con eso el arreglo debería poder integrarse. Siguen pendientes la isla hogar, las cartas y la mo",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
