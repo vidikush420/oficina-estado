@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T00:16:02-06:00",
   "desde": "2026-11-13T00:00:30-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 reporte (push de obra/puerto negado)",
+  "resumen": "Ahora el juego empieza en la plaza, junto a la fuente, con tu personaje bien visible, en vez de lejos y chiquito en el muelle. Funciona en mis pruebas y tengo fotos de compu y celular. No pude subirlo",
   "url": "",
   "duraciones": [
-   2.6,
    25.7,
    38.6,
    14.4,
@@ -78,10 +78,10 @@
    0.8,
    15.2,
    14.9,
-   20.0
+   20.0,
+   15.5
   ],
-  "estimado_min": 15.1,
-  "fase_desde": "2026-11-13T00:15:28-06:00"
+  "estimado_min": 15.3
  },
  "gerente-de-zara": {
   "estado": "trabajando",
