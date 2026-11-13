@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T09:13:40-06:00",
-  "desde": "2026-11-13T09:01:34-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T09:14:08-06:00",
   "que": "corrida programada",
-  "resumen": "Después de tocar «Jugar» la pantalla se quedaba oscura mucho rato y parecía trabada. Ahora aparece el título con una barra que va llenándose y dice qué está armando. No hace la carga más corta, solo d",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.9,
