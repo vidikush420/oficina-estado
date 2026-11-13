@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T06:23:36-06:00",
   "desde": "2026-11-13T06:22:24-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no empecé nada nuevo: en Marea tengo dos trabajos esperando que Aduana los revise y la regla es no abrir un tercero hasta entonces. En los demás proyectos no hay nada que dependa de la Mac. No tie",
   "url": "",
   "duraciones": [
-   15.2,
    14.9,
    20.0,
    15.5,
@@ -78,7 +78,8 @@
    16.4,
    0.9,
    14.9,
-   12.2
+   12.2,
+   1.2
   ],
   "estimado_min": 14.9
  },
