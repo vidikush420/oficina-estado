@@ -63,11 +63,9 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T09:33:34-06:00",
-  "desde": "2026-11-13T09:14:08-06:00",
-  "que": "corrida programada",
-  "resumen": "La tienda de cartas ahora muestra tres cartas de verdad en su vitrina y se ve al tendero detrás del mostrador. Si caminas hasta el mostrador o tocas al tendero, se abre la tienda. Lo de la pantalla de",
+  "estado": "trabajando",
+  "desde": "2026-11-13T10:46:27-06:00",
+  "que": "",
   "url": "",
   "duraciones": [
    12.2,
@@ -81,6 +79,8 @@
    12.1,
    19.4
   ],
+  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase_desde": "2026-11-13T10:46:27-06:00",
   "estimado_min": 1.7
  },
  "gerente-de-zara": {
