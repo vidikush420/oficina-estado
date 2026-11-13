@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T04:21:31-06:00",
   "desde": "2026-11-13T04:06:39-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 retoque del pez dorado",
+  "resumen": "Achiqué el pez de la fuente, lo bajé para que salga del agua y lo dejé más dorado, con una línea oscura en el lomo. Funciona y se ve bien en las capturas, pero la Mac no me dejó publicarlo, así que aú",
   "url": "",
   "duraciones": [
-   12.1,
    0.8,
    15.2,
    14.9,
@@ -78,10 +78,10 @@
    14.4,
    15.0,
    16.4,
-   0.9
+   0.9,
+   14.9
   ],
-  "estimado_min": 14.9,
-  "fase_desde": "2026-11-13T04:07:31-06:00"
+  "estimado_min": 14.9
  },
  "gerente-de-zara": {
   "estado": "trabajando",
