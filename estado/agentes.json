@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T19:20:48-06:00",
   "desde": "2026-11-12T18:55:07-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 PR #176 actualizado",
+  "resumen": "Acomodé el mercado del puerto como pediste: cuatro puestos en fila junto al camino, cada uno con su toldo de color y su letrero con dibujo, y la plaza quedó despejada. Se ve claro como mercado desde l",
   "url": "",
   "duraciones": [
-   1.4,
    3.4,
    2.0,
    13.8,
@@ -78,10 +78,10 @@
    23.7,
    56.0,
    21.2,
-   2.6
+   2.6,
+   25.7
   ],
-  "estimado_min": 10.2,
-  "fase_desde": "2026-11-12T19:20:17-06:00"
+  "estimado_min": 17.5
  },
  "gerente-de-zara": {
   "estado": "trabajando",
