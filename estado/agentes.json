@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T21:00:30-06:00",
-  "desde": "2026-11-12T20:59:39-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T21:21:29-06:00",
   "que": "corrida programada",
-  "resumen": "El trabajo nuevo de la fuente y la tienda de cartas sigue guardado solo en la Mac porque el sistema no me deja subirlo a internet. No seguí con la isla para no acumular más sin subir. Tienes que subir",
+  "fase": "",
   "url": "",
   "duraciones": [
    23.7,
