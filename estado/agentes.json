@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T07:05:58-06:00",
-  "desde": "2026-11-13T07:04:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T07:07:18-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hice trabajo nuevo: el juego Marea ya tiene un cambio mío esperando revisión y la regla es no abrir otro hasta que se resuelva. Lo demás necesita datos o accesos tuyos. No tienes que hacer nada",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.4,
