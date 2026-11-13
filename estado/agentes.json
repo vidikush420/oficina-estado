@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T16:29:47-06:00",
-  "desde": "2026-11-13T16:15:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T17:08:07-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé la rama larga del puerto al día con lo último del juego; tenía un choque de archivos y ya está resuelto, y las pruebas pasan. Lo de poner el arte real de las cartas no se pudo todavía: las imágen",
+  "fase": "",
   "url": "",
   "duraciones": [
    19.4,
