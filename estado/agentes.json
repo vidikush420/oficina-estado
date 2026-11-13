@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T23:43:12-06:00",
-  "desde": "2026-11-12T23:23:12-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T00:00:30-06:00",
   "que": "corrida programada",
-  "resumen": "Junté las dos ramas del juego en una sola, así la página de prueba vuelve a mostrar el puerto nuevo junto con las pantallas. Medí por qué tarda en cargar: lo más pesado es el motor del juego, igual en",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.6,
