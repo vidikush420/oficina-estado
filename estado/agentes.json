@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T21:36:38-06:00",
-  "desde": "2026-11-12T21:21:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T21:37:53-06:00",
   "que": "corrida programada",
-  "resumen": "Moví el centro del pueblo del juego hacia la mitad de la isla, redondeé la costa y conecté la casa de tu isla con su muelle; las pruebas automáticas pasaron. La Mac no me dejó subir este avance a inte",
+  "fase": "",
   "url": "",
   "duraciones": [
    56.0,
