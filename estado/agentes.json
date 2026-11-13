@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T18:20:25-06:00",
   "desde": "2026-11-12T17:59:12-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Hice en el juego las tres pantallas de las cartas (la vitrina donde se dejan cartas para que las compren, la tienda que cambia cada dos días y el gradeo que les pone nota) copiando el diseño que aprob",
   "url": "",
   "duraciones": [
-   1.2,
    1.2,
    1.4,
    3.4,
@@ -78,10 +78,10 @@
    6.6,
    27.7,
    23.7,
-   56.0
+   56.0,
+   21.2
   ],
-  "estimado_min": 5.0,
-  "fase_desde": "2026-11-12T18:19:47-06:00"
+  "estimado_min": 10.2
  },
  "gerente-de-zara": {
   "estado": "trabajando",
