@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T06:39:21-06:00",
-  "desde": "2026-11-13T06:37:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T06:40:31-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no empecé nada nuevo: en Marea tengo un trabajo esperando que Aduana lo revise y la regla es no abrir otro encima. En Sunday sigue faltando la copia de datos de prueba y un programa que la Mac no",
+  "fase": "",
   "url": "",
   "duraciones": [
    20.0,
