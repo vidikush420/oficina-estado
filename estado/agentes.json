@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-13T17:08:07-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 Zarghon primera edición y carta vieja",
+  "fase": "Marea: 3/4 corriendo pruebas",
   "url": "",
   "duraciones": [
    19.4,
@@ -81,7 +81,7 @@
    14.7
   ],
   "estimado_min": 9.8,
-  "fase_desde": "2026-11-13T17:11:12-06:00"
+  "fase_desde": "2026-11-13T17:12:06-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
