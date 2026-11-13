@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-12T18:31:25-06:00",
-  "que": "revisando el PR #44 (claude/marea-subida-rapida)",
+  "desde": "2026-11-12T18:36:51-06:00",
+  "que": "revisando el PR #173 (claude/carril-publicar)",
   "fase": "",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/43337391491",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43330406733",
   "duraciones": [
    9.1,
    9.5,
