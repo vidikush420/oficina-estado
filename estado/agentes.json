@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-12T20:18:21-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 fuente de piedra y pez dorado",
   "url": "",
   "duraciones": [
    13.8,
@@ -81,7 +81,7 @@
    14.4
   ],
   "estimado_min": 22.4,
-  "fase_desde": "2026-11-12T20:18:58-06:00"
+  "fase_desde": "2026-11-12T20:19:41-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
