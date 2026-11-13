@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T21:52:50-06:00",
-  "desde": "2026-11-12T21:37:53-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T23:23:12-06:00",
   "que": "corrida programada",
-  "resumen": "Subí a internet el avance del puerto que estaba guardado solo en la Mac, y puse al día la rama de las pantallas de cartas con lo último del juego, sin romper nada (las pruebas pasan). Hoy no hubo camb",
+  "fase": "",
   "url": "",
   "duraciones": [
    21.2,
