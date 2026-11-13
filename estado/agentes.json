@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T11:44:20-06:00",
-  "desde": "2026-11-13T11:29:21-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T11:45:26-06:00",
   "que": "corrida programada",
-  "resumen": "Avancé en el muelle del juego: ahora tiene una lancha atada al costado, un letrero con los destinos y un lugar marcado para pescar. Las pruebas automáticas pasaron. Falta confirmar que el cambio se su",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
