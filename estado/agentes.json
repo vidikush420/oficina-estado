@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T21:52:50-06:00",
   "desde": "2026-11-12T21:37:53-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 empujando obra/pantallas",
+  "resumen": "Subí a internet el avance del puerto que estaba guardado solo en la Mac, y puse al día la rama de las pantallas de cartas con lo último del juego, sin romper nada (las pruebas pasan). Hoy no hubo camb",
   "url": "",
   "duraciones": [
-   56.0,
    21.2,
    2.6,
    25.7,
@@ -78,10 +78,10 @@
    21.1,
    12.1,
    0.8,
-   15.2
+   15.2,
+   14.9
   ],
-  "estimado_min": 18.1,
-  "fase_desde": "2026-11-12T21:52:24-06:00"
+  "estimado_min": 15.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
