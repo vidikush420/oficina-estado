@@ -63,12 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T11:02:40-06:00",
   "desde": "2026-11-13T10:46:27-06:00",
   "que": "",
+  "resumen": "Arreglé el mercado del juego: los vendedores ahora miran hacia la plaza y, si tocas al de pescado o al de chatarra estando cerca, se abre su pantalla. El cambio está guardado en la Mac pero no subido",
   "url": "",
   "duraciones": [
-   12.2,
    1.2,
    1.8,
    1.6,
@@ -77,10 +78,9 @@
    23.0,
    1.4,
    12.1,
-   19.4
+   19.4,
+   16.2
   ],
-  "fase": "Marea: 3/4 corriendo pruebas",
-  "fase_desde": "2026-11-13T10:49:46-06:00",
   "estimado_min": 1.7
  },
  "gerente-de-zara": {
