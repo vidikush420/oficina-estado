@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T20:00:39-06:00",
   "desde": "2026-11-12T19:22:03-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Rehíce el puerto del juego: la isla es más grande, tiene una plaza con fuente y un arco de bienvenida, los puestos del mercado van en media luna y tu casa ahora está en tu propia isla. Donde estaba la",
   "url": "",
   "duraciones": [
-   3.4,
    2.0,
    13.8,
    6.6,
@@ -78,10 +78,10 @@
    56.0,
    21.2,
    2.6,
-   25.7
+   25.7,
+   38.6
   ],
-  "estimado_min": 17.5,
-  "fase_desde": "2026-11-12T19:27:40-06:00"
+  "estimado_min": 22.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
