@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T14:45:46-06:00",
   "desde": "2026-11-13T14:28:39-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ahora, al pescar, a veces sale del agua un sobre de cartas o una carta ya calificada; las muy raras son de la «Primera Edición» y valen 8 veces más. Calculé cuánto dinero extra da esto y sube menos de",
   "url": "",
   "duraciones": [
-   1.4,
    12.1,
    19.4,
    16.2,
@@ -78,10 +78,10 @@
    2.1,
    4.8,
    19.4,
-   10.5
+   10.5,
+   17.1
   ],
-  "estimado_min": 13.6,
-  "fase_desde": "2026-11-13T14:36:06-06:00"
+  "estimado_min": 15.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
