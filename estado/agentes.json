@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T15:55:11-06:00",
   "desde": "2026-11-13T15:53:53-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No avancé en el arte de las cartas: con el juego actual solo hay 9 dibujos de las 121 cartas, y esos ya se ven en pantalla. Los dibujos de las 360 cartas ya existen, pero para usarlos hace falta que s",
   "url": "",
   "duraciones": [
-   2.1,
    4.8,
    19.4,
    10.5,
@@ -78,7 +78,8 @@
    0.9,
    1.0,
    10.8,
-   9.2
+   9.2,
+   1.3
   ],
   "estimado_min": 7.0
  },
