@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-12T21:00:07-06:00",
+  "cuando": "2026-11-12T21:00:19-06:00",
   "desde": "2026-11-12T20:55:02-06:00",
   "que": "revisando el PR #178 (claude/reglas-12nov)",
   "resumen": "Marea PR #178 → OJO cosmético; ya venía fusionado (no lo fusioné yo)",
   "url": "https://github.com/vidikush420/marea/actions/runs/43352266178",
   "duraciones": [
-   9.7,
    1.9,
    16.0,
    5.7,
@@ -37,9 +36,10 @@
    0.5,
    0.7,
    14.8,
-   5.1
+   5.1,
+   5.3
   ],
-  "estimado_min": 7.3
+  "estimado_min": 5.5
  },
  "sherlock": {
   "estado": "termino",
