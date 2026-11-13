@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T20:16:33-06:00",
   "desde": "2026-11-12T20:02:11-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "El trabajo del puerto ya estaba hecho pero atorado en la Mac; ya lo subí a GitHub y la página de prueba debería actualizarse sola. Cuando lo revisé, la dirección de prueba todavía daba error 404, así",
   "url": "",
   "duraciones": [
-   2.0,
    13.8,
    6.6,
    27.7,
@@ -78,10 +78,10 @@
    21.2,
    2.6,
    25.7,
-   38.6
+   38.6,
+   14.4
   ],
-  "estimado_min": 22.4,
-  "fase_desde": "2026-11-12T20:02:50-06:00"
+  "estimado_min": 22.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
