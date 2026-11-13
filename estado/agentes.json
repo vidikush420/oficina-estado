@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-12T19:20:48-06:00",
-  "desde": "2026-11-12T18:55:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-12T19:22:03-06:00",
   "que": "corrida programada",
-  "resumen": "Acomodé el mercado del puerto como pediste: cuatro puestos en fila junto al camino, cada uno con su toldo de color y su letrero con dibujo, y la plaza quedó despejada. Se ve claro como mercado desde l",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.4,
