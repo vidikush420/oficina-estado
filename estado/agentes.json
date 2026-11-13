@@ -21,12 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-12T18:54:46-06:00",
   "desde": "2026-11-12T18:54:16-06:00",
   "que": "",
+  "resumen": "PR #173 → OJO espera a Miguel (toca workflows), no fusionado",
   "url": "",
   "duraciones": [
-   9.5,
    2.7,
    1.7,
    9.5,
@@ -35,11 +36,10 @@
    16.0,
    5.7,
    13.8,
-   8.9
+   8.9,
+   0.5
   ],
-  "fase": "4/4 registrando en la oficina",
-  "fase_desde": "2026-11-12T18:54:39-06:00",
-  "estimado_min": 9.2
+  "estimado_min": 7.3
  },
  "sherlock": {
   "estado": "termino",
