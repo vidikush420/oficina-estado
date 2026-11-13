@@ -62,13 +62,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T11:20:22-06:00",
   "desde": "2026-11-13T11:03:48-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El joystick del iPhone no respondía porque una capa invisible que cubre todo el juego se quedaba con el dedo antes de que el joystick lo viera. La quité y en el simulador de iPhone el personaje ya cam",
   "url": "",
   "duraciones": [
-   1.2,
    1.8,
    1.6,
    1.1,
@@ -77,10 +77,10 @@
    1.4,
    12.1,
    19.4,
-   16.2
+   16.2,
+   16.6
   ],
-  "estimado_min": 1.7,
-  "fase_desde": "2026-11-13T11:20:04-06:00"
+  "estimado_min": 7.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
