@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T14:51:41-06:00",
   "desde": "2026-11-13T14:50:48-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Marea: sin tarea nueva, 4 PR propios en revisión",
   "url": "",
   "duraciones": [
-   19.4,
    16.2,
    16.6,
    15.0,
@@ -78,9 +78,10 @@
    19.4,
    10.5,
    17.1,
-   3.0
+   3.0,
+   0.9
   ],
-  "estimado_min": 15.6
+  "estimado_min": 12.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
