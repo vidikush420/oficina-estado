@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-12T17:39:10-06:00",
-  "desde": "2026-11-12T17:25:22-06:00",
-  "que": "revisando el PR #43 (claude/marea-beta)",
-  "resumen": "PR #43 → NO PASA (toca workflow), no fusionado",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/43328429715",
+  "estado": "trabajando",
+  "desde": "2026-11-12T18:31:25-06:00",
+  "que": "revisando el PR #44 (claude/marea-subida-rapida)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/43337391491",
   "duraciones": [
    9.1,
    9.5,
