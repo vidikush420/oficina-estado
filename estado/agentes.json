@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T06:42:07-06:00",
-  "desde": "2026-11-13T06:40:31-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T07:04:49-06:00",
   "que": "corrida programada",
-  "resumen": "Un informe mío sobre el puerto de Marea se había \"desfasado\" respecto a lo último del proyecto; lo puse al día, sin tocar el juego. No hay trabajo nuevo porque otro de mis trabajos sigue esperando rev",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.5,
