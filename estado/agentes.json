@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T08:44:02-06:00",
   "desde": "2026-11-13T08:21:01-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Arreglé la pantalla de logros en iPhone: se veía diminuta por un ajuste de tamaño del proyecto; ya sale con letras grandes. También cambié la X de cerrar y las estrellas de la mochila por dibujos prop",
   "url": "",
   "duraciones": [
-   15.0,
    16.4,
    0.9,
    14.9,
@@ -78,10 +78,10 @@
    1.8,
    1.6,
    1.1,
-   0.8
+   0.8,
+   23.0
   ],
-  "estimado_min": 1.7,
-  "fase_desde": "2026-11-13T08:35:14-06:00"
+  "estimado_min": 1.7
  },
  "gerente-de-zara": {
   "estado": "trabajando",
