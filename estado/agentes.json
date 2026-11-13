@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T06:36:39-06:00",
   "desde": "2026-11-13T06:27:45-06:00",
   "que": "revisando el PR #180 (chalan-local/2026-11-13-logros)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #180 Marea → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43424506892",
   "duraciones": [
-   1.9,
    16.0,
    5.7,
    13.8,
@@ -36,10 +36,10 @@
    0.7,
    14.8,
    5.1,
-   5.3
+   5.3,
+   8.9
   ],
-  "estimado_min": 5.5,
-  "fase_desde": "2026-11-13T06:36:32-06:00"
+  "estimado_min": 7.3
  },
  "sherlock": {
   "estado": "termino",
