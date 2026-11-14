@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T05:11:17-06:00",
   "desde": "2026-11-14T05:10:09-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "De tu lista solo falta comprobar el puerto, y no se puede hasta que se integren dos cambios que esperan revisión (#185 y #190). Tú: integrarlos, o elegir 650/720 en #185, destraba esto.",
   "url": "",
   "duraciones": [
-   0.6,
    1.9,
    3.1,
    10.1,
@@ -78,9 +78,10 @@
    0.9,
    0.6,
    0.8,
-   0.9
+   0.9,
+   1.1
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.5
  },
  "gerente-de-zara": {
   "estado": "trabajando",
