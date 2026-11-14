@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T04:00:11-06:00",
-  "desde": "2026-11-14T03:59:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T04:02:17-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé toda la lista de la noche: la letra mínima, las pruebas de toque, la medición de rendimiento y el pulido del puerto. El juego corre a unos 44 cuadros por segundo en un celular simulado, por en",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.3,
