@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T04:17:40-06:00",
-  "desde": "2026-11-14T04:14:32-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T04:18:38-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé el juego contra la lista de lo que debe tener la primera versión. Casi todo está; lo que falta es lo de jugar con amigos: desde el navegador no se pueden conectar y el juego de PC no tiene vers",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
