@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-13T11:27:34-06:00",
-  "desde": "2026-11-13T11:18:17-06:00",
-  "que": "revisando el PR #182 (claude/reglas-13nov)",
-  "resumen": "PR #182 → PASA, ya estaba fusionado (comentario publicado)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43462341219",
+  "estado": "trabajando",
+  "desde": "2026-11-13T22:25:41-06:00",
+  "que": "revisando el PR #88 (chalan-local/2026-11-12-beta-v62-timeout)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43556569835",
   "duraciones": [
    8.9,
    0.5,
