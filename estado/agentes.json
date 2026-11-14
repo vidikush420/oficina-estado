@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-14T15:52:22-06:00",
+  "cuando": "2026-11-14T15:52:36-06:00",
   "desde": "2026-11-14T15:44:27-06:00",
   "que": "corrida programada",
-  "resumen": "Marea: #192 rebasado sobre obra/puerto, MERGEABLE",
+  "resumen": "Un cambio del juego Marea (el del muelle) se había quedado trabado porque otro cambio tocó los mismos archivos de notas. Lo destrabé juntando ambos y las pruebas pasan. No abrí nada nuevo porque hay m",
   "url": "",
   "duraciones": [
-   13.7,
    34.2,
    2.0,
    20.4,
@@ -79,7 +78,8 @@
    46.3,
    31.1,
    14.3,
-   7.9
+   7.9,
+   8.2
   ],
   "estimado_min": 14.4
  },
