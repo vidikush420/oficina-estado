@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-14T07:34:20-06:00",
-  "desde": "2026-11-14T07:23:32-06:00",
-  "que": "revisando el PR #193 (chalan-local/2026-11-14-lobby-websocket)",
-  "resumen": "PR #193 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43596405615",
+  "estado": "trabajando",
+  "desde": "2026-11-14T08:26:45-06:00",
+  "que": "revisando el PR #194 (chalan-local/2026-11-14-e2e-puerto-barco)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43601035249",
   "duraciones": [
    5.3,
    8.9,
