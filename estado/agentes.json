@@ -63,11 +63,10 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T15:28:21-06:00",
-  "desde": "2026-11-14T14:57:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T15:28:55-06:00",
   "que": "corrida programada",
-  "resumen": "Puse al día una de mis propuestas atoradas de Marea y revisé por qué el puerto nuevo corre más lento que el anterior en celular. Resultó que parte de la diferencia era solo que el juego ahora arranca",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.6,
