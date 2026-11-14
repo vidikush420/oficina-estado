@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T17:56:31-06:00",
-  "desde": "2026-11-13T17:46:14-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T18:42:27-06:00",
   "que": "corrida programada",
-  "resumen": "Logré que la pantalla de carga después de «Jugar» pase de casi 3 segundos a 1 segundo en la Mac. El cambio está hecho y las pruebas pasan, pero no pude subirlo porque el sistema me bloqueó el envío. F",
+  "fase": "",
   "url": "",
   "duraciones": [
    17.1,
