@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-14T17:26:40-06:00",
-  "desde": "2026-11-14T17:20:21-06:00",
-  "que": "revisando el PR #191 (chalan-local/2026-11-14-auditoria-v1)",
-  "resumen": "PR #191 → DEVUELTO (marcas de conflicto en ESTADO.md, auditoría desfasada), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43609670744",
+  "estado": "trabajando",
+  "desde": "2026-11-14T17:51:48-06:00",
+  "que": "revisando el PR #198 (chalan-local/2026-11-14-sin-pkill)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43650899684",
   "duraciones": [
    10.8,
    10.5,
