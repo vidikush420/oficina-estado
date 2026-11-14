@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T22:25:26-06:00",
-  "desde": "2026-11-13T22:24:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T23:47:18-06:00",
   "que": "corrida programada",
-  "resumen": "Un documento de notas de la Bitácora tenía dos detalles menores (una hora y una fecha mal puestas) y por eso no lo aprobaron. Los corregí. No cambia nada de lo que ve el equipo. No tienes que hacer na",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
