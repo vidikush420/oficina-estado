@@ -62,11 +62,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T10:17:08-06:00",
-  "desde": "2026-11-14T10:15:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T10:28:54-06:00",
   "que": "corrida programada",
-  "resumen": "No tienes que hacer nada; si Marea debe seguir sin esperar, dímelo (modo obra).",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.0,
