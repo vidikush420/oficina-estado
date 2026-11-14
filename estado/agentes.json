@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T21:48:01-06:00",
-  "desde": "2026-11-13T21:37:45-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T22:12:37-06:00",
   "que": "corrida programada",
-  "resumen": "Un cambio mío sobre el puerto del juego chocaba con otro más nuevo y no se podía integrar. Los junté y las pruebas automáticas pasan. No tienes que hacer nada; en la próxima corrida sigo con lo de gav",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.3,
