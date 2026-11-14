@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T17:13:48-06:00",
-  "desde": "2026-11-14T16:55:02-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T17:27:05-06:00",
   "que": "corrida programada",
-  "resumen": "Dos cambios míos en el juego estaban trabados porque otros cambios entraron antes y chocaron. Los puse al día y volví a correr todas las pruebas: pasan. Una de ellas encontró además un fallo pequeño d",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.6,
