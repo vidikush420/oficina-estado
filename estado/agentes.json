@@ -63,11 +63,10 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T10:49:21-06:00",
-  "desde": "2026-11-14T10:28:54-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T12:31:17-06:00",
   "que": "corrida programada",
-  "resumen": "Las pruebas del juego fallaban a veces cuando yo y el robot de GitHub las corríamos al mismo tiempo, porque escribían en el mismo archivo. Ya cada corrida usa el suyo y probé dos a la vez sin fallos.",
+  "fase": "",
   "url": "",
   "duraciones": [
    7.0,
