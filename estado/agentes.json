@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T04:45:35-06:00",
-  "desde": "2026-11-14T04:43:20-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T04:46:15-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé otra vez la plaza del juego: no encontré más ahorro seguro sin que se vea distinta. Lo que sigue necesita que tú o Claude fusionen dos cambios que están esperando (#185 y #190) para poder compr",
+  "fase": "",
   "url": "",
   "duraciones": [
    17.6,
