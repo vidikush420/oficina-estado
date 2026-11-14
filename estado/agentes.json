@@ -63,11 +63,10 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T12:45:50-06:00",
-  "desde": "2026-11-14T12:31:17-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T13:15:11-06:00",
   "que": "corrida programada",
-  "resumen": "Le puse más vida al puerto del juego: mariposas volando sobre el pasto, humo saliendo de la chimenea de la tienda de cartas y dos banderas que ondean con el viento. Todo es decoración, no cambia cómo",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.1,
