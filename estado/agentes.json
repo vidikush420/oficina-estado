@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T03:41:11-06:00",
   "desde": "2026-11-14T03:14:00-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 midiendo qué pesa (por partes)",
+  "resumen": "Medí qué tan fluido corre el juego en un celular simulado y cumple la meta de 30 cuadros por segundo; no hizo falta cambiar nada. Lo medido es una aproximación (no un iPhone de verdad). Falta que algu",
   "url": "",
   "duraciones": [
-   8.4,
    0.6,
    6.9,
    10.3,
@@ -78,10 +78,10 @@
    159.1,
    15.8,
    17.6,
-   8.3
+   8.3,
+   27.2
   ],
-  "estimado_min": 9.4,
-  "fase_desde": "2026-11-14T03:33:20-06:00"
+  "estimado_min": 10.5
  },
  "gerente-de-zara": {
   "estado": "trabajando",
