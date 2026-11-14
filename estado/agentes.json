@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T02:46:27-06:00",
   "desde": "2026-11-14T02:30:36-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Arreglé el detalle del juego: en la isla de tu casa, el botón «Al puerto» ahora aparece en cuanto llegas al muelle, sin tener que dar un paso. Las pruebas automáticas pasan. No tienes que hacer nada;",
   "url": "",
   "duraciones": [
-   1.4,
    13.5,
    1.3,
    8.4,
@@ -78,10 +78,10 @@
    10.3,
    10.7,
    1.4,
-   159.1
+   159.1,
+   15.8
   ],
-  "estimado_min": 7.7,
-  "fase_desde": "2026-11-14T02:46:16-06:00"
+  "estimado_min": 9.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
