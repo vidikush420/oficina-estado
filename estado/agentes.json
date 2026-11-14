@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T08:06:33-06:00",
-  "desde": "2026-11-14T08:04:48-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T08:08:49-06:00",
   "que": "corrida programada",
-  "resumen": "Pedías demostrar que la página web del juego sí puede conectarse a una sala en línea. Esa prueba ya estaba hecha y guardada en el juego; la volví a correr hoy y pasó: un jugador crea la sala, otro ent",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
