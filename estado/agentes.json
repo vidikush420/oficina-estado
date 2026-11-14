@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T19:47:00-06:00",
-  "desde": "2026-11-13T19:33:30-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T19:47:53-06:00",
   "que": "corrida programada",
-  "resumen": "Probé el puerto como si fueran dedos en el celular, vertical y acostado: caminar, tiendas, mochila, logros y pescar funcionan y cada pantalla se cierra. Dejé esas pruebas para que si algo se rompe de",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.8,
