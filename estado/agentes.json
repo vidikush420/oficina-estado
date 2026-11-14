@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T20:46:37-06:00",
   "desde": "2026-11-13T20:45:59-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no empecé nada nuevo: en el juego Marea ya tengo cuatro trabajos míos esperando revisión y la regla es no abrir otro hasta que se revisen. Lo demás no necesita la Mac. Para que siga avanzando, rev",
   "url": "",
   "duraciones": [
-   1.3,
    14.7,
    35.8,
    10.3,
@@ -78,7 +78,8 @@
    1.4,
    13.5,
    1.3,
-   8.4
+   8.4,
+   0.6
   ],
   "estimado_min": 9.4
  },
