@@ -63,13 +63,13 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T15:43:15-06:00",
   "desde": "2026-11-14T15:28:55-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 reporte",
+  "resumen": "Aduana devolvió el cambio que permite tomar fotos idénticas del juego porque faltaba conectar una pieza: el reloj de los efectos no se estaba congelando. Ya lo conecté, agregué una prueba que avisa si",
   "url": "",
   "duraciones": [
-   8.6,
    34.5,
    13.7,
    34.2,
@@ -78,10 +78,10 @@
    14.6,
    4.9,
    46.3,
-   31.1
+   31.1,
+   14.3
   ],
-  "estimado_min": 17.5,
-  "fase_desde": "2026-11-14T15:42:58-06:00"
+  "estimado_min": 17.5
  },
  "gerente-de-zara": {
   "estado": "trabajando",
