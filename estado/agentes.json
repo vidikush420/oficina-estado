@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T04:04:13-06:00",
   "desde": "2026-11-14T04:02:17-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no empecé nada nuevo en Marea porque ya hay varios cambios míos esperando revisión y la regla es no abrir más hasta que se revisen. Para Miguel: elegir 650 o 720 en el cambio #185 destraba la fila",
   "url": "",
   "duraciones": [
-   10.3,
    10.7,
    1.4,
    159.1,
@@ -78,7 +78,8 @@
    8.3,
    27.2,
    17.5,
-   0.6
+   0.6,
+   1.9
   ],
   "estimado_min": 13.2
  },
