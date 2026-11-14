@@ -63,13 +63,13 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T12:45:50-06:00",
   "desde": "2026-11-14T12:31:17-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Le puse más vida al puerto del juego: mariposas volando sobre el pasto, humo saliendo de la chimenea de la tienda de cartas y dos banderas que ondean con el viento. Todo es decoración, no cambia cómo",
   "url": "",
   "duraciones": [
-   7.0,
    11.1,
    8.6,
    1.8,
@@ -78,10 +78,10 @@
    13.7,
    34.2,
    2.0,
-   20.4
+   20.4,
+   14.6
   ],
-  "estimado_min": 9.8,
-  "fase_desde": "2026-11-14T12:34:16-06:00"
+  "estimado_min": 12.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
