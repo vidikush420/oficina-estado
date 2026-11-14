@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T03:13:31-06:00",
   "desde": "2026-11-14T03:05:13-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Agregué pruebas automáticas que \"tocan\" la pantalla como un dedo en la mochila, los logros, la tienda de cartas y el aviso de carta pescada, en celular vertical y horizontal. Todo respondió bien. No t",
   "url": "",
   "duraciones": [
-   1.3,
    8.4,
    0.6,
    6.9,
@@ -78,10 +78,10 @@
    1.4,
    159.1,
    15.8,
-   17.6
+   17.6,
+   8.3
   ],
-  "estimado_min": 9.4,
-  "fase_desde": "2026-11-14T03:13:09-06:00"
+  "estimado_min": 9.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
