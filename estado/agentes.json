@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-14T17:14:23-06:00",
-  "que": "revisando el PR #201 (claude/2026-11-14-aduana-clon-ligero)",
+  "desde": "2026-11-14T17:20:21-06:00",
+  "que": "revisando el PR #191 (chalan-local/2026-11-14-auditoria-v1)",
   "fase": "",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43635209077",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43609670744",
   "duraciones": [
    9.9,
    10.8,
