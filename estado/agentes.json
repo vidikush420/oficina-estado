@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T05:31:43-06:00",
   "desde": "2026-11-14T05:16:37-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El juego en navegador no podia conectarse al servidor; ahora el servidor tambien habla el idioma que los navegadores permiten, sin cambiar las reglas. Para jugar por internet con un amigo falta un ser",
   "url": "",
   "duraciones": [
-   1.9,
    3.1,
    10.1,
    13.3,
@@ -78,10 +78,10 @@
    0.6,
    0.8,
    0.9,
-   1.1
+   1.1,
+   15.1
   ],
-  "estimado_min": 1.5,
-  "fase_desde": "2026-11-14T05:30:43-06:00"
+  "estimado_min": 1.7
  },
  "gerente-de-zara": {
   "estado": "trabajando",
