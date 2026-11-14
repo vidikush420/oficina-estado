@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T19:16:29-06:00",
-  "desde": "2026-11-13T19:15:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T19:33:30-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no tomé trabajo nuevo: en Marea ya tengo tres cambios esperando revisión y no apilo más. La mejora de la carga del puerto sí quedó subida. Tienes que aprobar los cambios pendientes de Marea (#184,",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
