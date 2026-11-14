@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T03:04:32-06:00",
   "desde": "2026-11-14T02:46:55-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas (piso de letra)",
+  "resumen": "Puse un mínimo de tamaño de letra para el celular: nada se ve más chico de lo legible, elijas la escala que elijas. No tienes que hacer nada; en la siguiente vuelta sigo con las pruebas de toque.",
   "url": "",
   "duraciones": [
-   13.5,
    1.3,
    8.4,
    0.6,
@@ -78,10 +78,10 @@
    10.7,
    1.4,
    159.1,
-   15.8
+   15.8,
+   17.6
   ],
-  "estimado_min": 9.4,
-  "fase_desde": "2026-11-14T02:48:39-06:00"
+  "estimado_min": 9.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
