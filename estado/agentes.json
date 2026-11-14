@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-13T22:30:21-06:00",
-  "desde": "2026-11-13T22:25:41-06:00",
-  "que": "revisando el PR #88 (chalan-local/2026-11-12-beta-v62-timeout)",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43556569835",
+  "estado": "trabajando",
+  "desde": "2026-11-14T02:54:24-06:00",
+  "que": "revisando el PR #185 (chalan-local/2026-11-13-escala-horizontal)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43575818184",
   "duraciones": [
    0.5,
    0.7,
