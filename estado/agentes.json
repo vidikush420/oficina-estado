@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T21:36:35-06:00",
-  "desde": "2026-11-13T21:29:39-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T21:37:45-06:00",
   "que": "corrida programada",
-  "resumen": "Pasé las cartas con ilustraciones reales a la rama buena del juego, la que sí usa la beta, junto con el puerto nuevo. Las pruebas automáticas salieron bien. Con esto la beta debería mostrar puerto y c",
+  "fase": "",
   "url": "",
   "duraciones": [
    35.8,
