@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T07:47:34-06:00",
-  "desde": "2026-11-14T07:36:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T07:55:45-06:00",
   "que": "corrida programada",
-  "resumen": "Tres trabajos míos sobre Marea se habían desactualizado frente al resto del proyecto y no se podían integrar. Los puse al día y las pruebas pasaron. Aparte, la publicación automática de la Bitácora a",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
