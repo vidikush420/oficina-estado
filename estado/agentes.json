@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T16:53:08-06:00",
   "desde": "2026-11-14T16:48:07-06:00",
   "que": "revisando el PR #195 (chalan-local/2026-11-14-servidor-lobby)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #195 → DEVUELTO (conflicto en ESTADO.md), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43609128890",
   "duraciones": [
-   5.2,
    9.9,
    10.8,
    10.5,
@@ -36,10 +36,10 @@
    9.7,
    44.4,
    11.9,
-   11.1
+   11.1,
+   5.0
   ],
-  "estimado_min": 10.3,
-  "fase_desde": "2026-11-14T16:52:55-06:00"
+  "estimado_min": 10.3
  },
  "sherlock": {
   "estado": "termino",
