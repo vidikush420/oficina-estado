@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T04:42:44-06:00",
-  "desde": "2026-11-14T04:29:26-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T04:43:20-06:00",
   "que": "corrida programada",
-  "resumen": "Dos de mis cambios que esperaban revisión se habían desactualizado respecto a lo último del juego; los puse al día y las pruebas pasan. Aún no puedo probarlos juntos en el puerto porque falta que se i",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.8,
