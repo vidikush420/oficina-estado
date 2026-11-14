@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T22:23:20-06:00",
-  "desde": "2026-11-13T22:12:37-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T22:24:03-06:00",
   "que": "corrida programada",
-  "resumen": "Un cambio pequeño de Marea (la guía que explica cómo moverse con el dedo) se había \"chocado\" con otros cambios del juego. Lo acomodé sin perder nada y las pruebas automáticas pasaron. No tienes que ha",
+  "fase": "",
   "url": "",
   "duraciones": [
    11.3,
