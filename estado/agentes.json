@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-14T09:20:53-06:00",
   "desde": "2026-11-14T09:15:59-06:00",
   "que": "revisando el PR #191 (chalan-local/2026-11-14-auditoria-v1)",
-  "fase": "",
+  "resumen": "la corrida terminó con cancelled (ver el enlace)",
   "url": "https://github.com/vidikush420/marea/actions/runs/43601491728",
   "duraciones": [
-   8.9,
    2.6,
    11.0,
    9.3,
@@ -36,9 +36,10 @@
    5.2,
    9.9,
    10.8,
-   10.5
+   10.5,
+   4.9
   ],
-  "estimado_min": 9.1
+  "estimado_min": 8.2
  },
  "sherlock": {
   "estado": "termino",
