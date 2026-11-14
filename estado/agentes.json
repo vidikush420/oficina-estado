@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T02:26:26-06:00",
-  "desde": "2026-11-13T23:47:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T02:30:36-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé la letra del juego en horizontal con la escala que elegiste (650) y comprobé que todo sigue funcionando. Ya quedó listo para que Aduana lo revise. No tienes que hacer nada; en la siguiente vuelta",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
