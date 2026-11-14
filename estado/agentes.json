@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T08:04:18-06:00",
   "desde": "2026-11-14T07:55:45-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo prueba web del lobby",
+  "resumen": "Tres trabajos míos sobre Marea se habían desactualizado frente al resto del proyecto y no se podían integrar. Los puse al día y las pruebas pasaron. Aparte, la publicación automática de la Bitácora a",
   "url": "",
   "duraciones": [
-   0.8,
    0.9,
    1.1,
    15.1,
@@ -78,10 +78,10 @@
    5.0,
    14.0,
    7.0,
-   11.1
+   11.1,
+   8.6
   ],
-  "estimado_min": 8.8,
-  "fase_desde": "2026-11-14T07:56:47-06:00"
+  "estimado_min": 9.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
