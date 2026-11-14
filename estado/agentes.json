@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T05:31:43-06:00",
-  "desde": "2026-11-14T05:16:37-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T05:33:28-06:00",
   "que": "corrida programada",
-  "resumen": "El juego en navegador no podia conectarse al servidor; ahora el servidor tambien habla el idioma que los navegadores permiten, sin cambiar las reglas. Para jugar por internet con un amigo falta un ser",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.1,
