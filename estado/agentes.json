@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T09:07:22-06:00",
   "desde": "2026-11-14T08:32:54-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 prueba economía de un día (S3)",
+  "resumen": "Dejé listo, sin publicarlo, el programa que hará de servidor para que tus amigos entren desde la página web: cómo se enciende, qué certificado hace falta y cuánto gasta (muy poco). También bajé un poc",
   "url": "",
   "duraciones": [
-   15.1,
    10.5,
    14.6,
    5.0,
@@ -78,10 +78,10 @@
    11.1,
    8.6,
    1.8,
-   8.6
+   8.6,
+   34.5
   ],
-  "estimado_min": 9.6,
-  "fase_desde": "2026-11-14T08:59:27-06:00"
+  "estimado_min": 9.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
