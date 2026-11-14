@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T02:46:27-06:00",
-  "desde": "2026-11-14T02:30:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T02:46:55-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé el detalle del juego: en la isla de tu casa, el botón «Al puerto» ahora aparece en cuanto llegas al muelle, sin tener que dar un paso. Las pruebas automáticas pasan. No tienes que hacer nada;",
+  "fase": "",
   "url": "",
   "duraciones": [
    13.5,
