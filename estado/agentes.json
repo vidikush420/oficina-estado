@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T20:45:16-06:00",
-  "desde": "2026-11-13T20:36:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T20:45:59-06:00",
   "que": "corrida programada",
-  "resumen": "Las cartas del juego ya se ven con sus dibujos reales en la vitrina, la tienda del día, el gradeo y la carpeta, sin esperar al otro cambio grande. Además medí qué ocupa más espacio en el repositorio:",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
