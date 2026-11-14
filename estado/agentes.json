@@ -63,11 +63,10 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T14:29:14-06:00",
-  "desde": "2026-11-14T13:42:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T14:57:18-06:00",
   "que": "corrida programada",
-  "resumen": "Medí qué tan fluido corre el puerto de Marea en un iPhone simulado. La versión en construcción va a unos 13 cuadros por segundo y la versión actual del juego a unos 23; lo nuevo (mariposas, humo, band",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.8,
