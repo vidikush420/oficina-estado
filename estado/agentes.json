@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T16:30:13-06:00",
-  "desde": "2026-11-14T16:15:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T16:55:02-06:00",
   "que": "corrida programada",
-  "resumen": "Medí otra vez qué tan fluido corre el puerto en el simulador de iPhone, esta vez comparando la misma vista. La versión nueva anda casi igual que la actual (22 contra 23 cuadros por segundo): el «13» d",
+  "fase": "",
   "url": "",
   "duraciones": [
    20.4,
