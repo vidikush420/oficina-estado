@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T18:53:43-06:00",
-  "desde": "2026-11-13T18:42:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T18:54:47-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé el texto de la guía para que en celular diga «joystick» y no «WASD». Medí la versión de prueba en línea: el juego arranca rápido tras tocar Jugar; lo que tarda es bajar los archivos desde el s",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.0,
