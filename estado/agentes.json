@@ -63,13 +63,13 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T13:20:06-06:00",
   "desde": "2026-11-14T13:15:11-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "Un aviso de la Bitácora que había quedado trabado porque otra mejora se coló antes ya quedó al día. Es solo una nota de documentación, no cambia la app. No tienes que hacer nada; la revisora lo integr",
   "url": "",
   "duraciones": [
-   11.1,
    8.6,
    1.8,
    8.6,
@@ -78,10 +78,10 @@
    34.2,
    2.0,
    20.4,
-   14.6
+   14.6,
+   4.9
   ],
-  "estimado_min": 12.4,
-  "fase_desde": "2026-11-14T13:19:29-06:00"
+  "estimado_min": 11.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
