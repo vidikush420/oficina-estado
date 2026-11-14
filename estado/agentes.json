@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T07:19:43-06:00",
-  "desde": "2026-11-14T07:12:43-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T07:36:27-06:00",
   "que": "corrida programada",
-  "resumen": "Un cambio pendiente de Marea (letra e interfaz más chicas en iPhone acostado) se había quedado desactualizado frente al resto del juego. Lo puse al día y las pruebas pasaron, así que ya puede revisars",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.6,
