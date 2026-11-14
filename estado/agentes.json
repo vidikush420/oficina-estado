@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T03:04:32-06:00",
-  "desde": "2026-11-14T02:46:55-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T03:05:13-06:00",
   "que": "corrida programada",
-  "resumen": "Puse un mínimo de tamaño de letra para el celular: nada se ve más chico de lo legible, elijas la escala que elijas. No tienes que hacer nada; en la siguiente vuelta sigo con las pruebas de toque.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
