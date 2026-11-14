@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T06:55:52-06:00",
-  "desde": "2026-11-14T06:50:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T06:56:45-06:00",
   "que": "corrida programada",
-  "resumen": "Ya junté el puerto en obra con lo último del juego y todo pasa las pruebas. Faltan dos cosas de tu lista: la prueba del viaje completo (puerto, zarpar, pescar, volver) y la comparación antes/después d",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.2,
