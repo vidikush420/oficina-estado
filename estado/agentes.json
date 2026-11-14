@@ -62,11 +62,10 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T13:20:06-06:00",
-  "desde": "2026-11-14T13:15:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T13:42:56-06:00",
   "que": "corrida programada",
-  "resumen": "Un aviso de la Bitácora que había quedado trabado porque otra mejora se coló antes ya quedó al día. Es solo una nota de documentación, no cambia la app. No tienes que hacer nada; la revisora lo integr",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.6,
