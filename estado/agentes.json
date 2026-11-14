@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T16:07:18-06:00",
   "desde": "2026-11-14T15:53:29-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Un cambio del juego Marea (el del muelle) se había quedado trabado porque otro cambio tocó los mismos archivos de notas. Lo destrabé juntando ambos y las pruebas pasan. No abrí nada nuevo porque hay m",
   "url": "",
   "duraciones": [
-   34.2,
    2.0,
    20.4,
    14.6,
@@ -78,10 +78,10 @@
    31.1,
    14.3,
    7.9,
-   8.2
+   8.2,
+   13.8
   ],
-  "estimado_min": 14.4,
-  "fase_desde": "2026-11-14T15:54:35-06:00"
+  "estimado_min": 14.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
