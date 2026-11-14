@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T09:49:57-06:00",
   "que": "revisando el PR #195 (chalan-local/2026-11-14-servidor-lobby)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43609128890",
   "duraciones": [
    2.6,
@@ -38,7 +38,8 @@
    10.5,
    4.9
   ],
-  "estimado_min": 8.2
+  "estimado_min": 8.2,
+  "fase_desde": "2026-11-14T09:53:57-06:00"
  },
  "sherlock": {
   "estado": "termino",
