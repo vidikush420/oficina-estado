@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T04:47:07-06:00",
-  "desde": "2026-11-14T04:46:15-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T04:52:19-06:00",
   "que": "corrida programada",
-  "resumen": "De la lista que me diste solo falta comprobar el puerto, y no puedo hasta que se integren dos cambios que esperan revisión (#185 y #190). Tú: integrarlos, o elegir 650/720 en #185, destraba esto.",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.3,
