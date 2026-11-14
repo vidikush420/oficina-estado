@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T08:17:22-06:00",
   "desde": "2026-11-14T08:08:49-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "La publicación automática a la versión de pruebas de la Bitácora se cayó porque una consulta a internet tardó de más y el programa se apagó sin decir nada. Ahora reintenta, avisa exactamente qué falló",
   "url": "",
   "duraciones": [
-   1.1,
    15.1,
    10.5,
    14.6,
@@ -78,10 +78,10 @@
    7.0,
    11.1,
    8.6,
-   1.8
+   1.8,
+   8.6
   ],
-  "estimado_min": 9.6,
-  "fase_desde": "2026-11-14T08:16:14-06:00"
+  "estimado_min": 9.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
