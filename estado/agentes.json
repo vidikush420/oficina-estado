@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T05:43:59-06:00",
   "desde": "2026-11-14T05:33:28-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Un trabajo mío sobre el juego Marea (para que se pueda jugar desde el navegador) se había desactualizado respecto a lo último del proyecto. Lo puse al día y las pruebas principales pasan. Dos pruebas",
   "url": "",
   "duraciones": [
-   3.1,
    10.1,
    13.3,
    2.2,
@@ -78,10 +78,10 @@
    0.8,
    0.9,
    1.1,
-   15.1
+   15.1,
+   10.5
   ],
-  "estimado_min": 1.7,
-  "fase_desde": "2026-11-14T05:43:19-06:00"
+  "estimado_min": 1.7
  },
  "gerente-de-zara": {
   "estado": "trabajando",
