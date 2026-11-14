@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T09:58:21-06:00",
-  "desde": "2026-11-14T09:24:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T10:15:05-06:00",
   "que": "corrida programada",
-  "resumen": "Hice las tres cosas que pediste. Puse un vigilante que avisa si algún programa de pruebas intenta apagar procesos \"por nombre\", que fue lo que tumbó la revisión automática; no encontré ese comando en",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.0,
