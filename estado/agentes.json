@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T15:38:56-06:00",
   "que": "revisando el PR #200 (chalan-local/2026-11-14-pruebas-paralelas)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/43617625808",
   "duraciones": [
    7.2,
@@ -39,7 +39,7 @@
    11.9
   ],
   "estimado_min": 10.1,
-  "fase_desde": "2026-11-14T15:49:34-06:00"
+  "fase_desde": "2026-11-14T15:49:50-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
