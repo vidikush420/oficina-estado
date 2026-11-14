@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T06:49:58-06:00",
   "desde": "2026-11-14T06:35:21-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Ya comprobé que el juego en el navegador sí puede conectarse a un servidor, crear una sala y que un segundo jugador entre y se vean. Para unir el puerto con lo último no pude subir el cambio porque el",
   "url": "",
   "duraciones": [
-   10.1,
    13.3,
    2.2,
    0.9,
@@ -78,7 +78,8 @@
    0.9,
    1.1,
    15.1,
-   10.5
+   10.5,
+   14.6
   ],
   "estimado_min": 1.7
  },
