@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-14T04:36:04-06:00",
   "desde": "2026-11-14T04:30:50-06:00",
   "que": "revisando el PR #190 (chalan-local/2026-11-14-pruebas-toque)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "resumen": "la corrida terminó con cancelled (ver el enlace)",
   "url": "https://github.com/vidikush420/marea/actions/runs/43579518931",
   "duraciones": [
-   0.7,
    14.8,
    5.1,
    5.3,
@@ -36,10 +36,10 @@
    11.0,
    9.3,
    4.7,
-   7.2
+   7.2,
+   5.2
   ],
-  "estimado_min": 6.2,
-  "fase_desde": "2026-11-14T04:35:58-06:00"
+  "estimado_min": 6.2
  },
  "sherlock": {
   "estado": "termino",
