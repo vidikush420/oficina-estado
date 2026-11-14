@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-13T19:47:00-06:00",
   "desde": "2026-11-13T19:33:30-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Probé el puerto como si fueran dedos en el celular, vertical y acostado: caminar, tiendas, mochila, logros y pescar funcionan y cada pantalla se cierra. Dejé esas pruebas para que si algo se rompe de",
   "url": "",
   "duraciones": [
-   1.0,
    10.8,
    9.2,
    1.3,
@@ -78,10 +78,10 @@
    10.3,
    11.3,
    1.3,
-   1.4
+   1.4,
+   13.5
   ],
-  "estimado_min": 9.8,
-  "fase_desde": "2026-11-13T19:46:41-06:00"
+  "estimado_min": 10.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
