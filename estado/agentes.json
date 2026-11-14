@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T17:57:04-06:00",
   "desde": "2026-11-14T17:51:48-06:00",
   "que": "revisando el PR #198 (chalan-local/2026-11-14-sin-pkill)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #198 → DEVUELTO (conflicto con main), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43650899684",
   "duraciones": [
-   10.8,
    10.5,
    4.9,
    10.2,
@@ -36,10 +36,10 @@
    11.9,
    11.1,
    5.0,
-   6.3
+   6.3,
+   5.3
   ],
-  "estimado_min": 10.3,
-  "fase_desde": "2026-11-14T17:56:59-06:00"
+  "estimado_min": 9.9
  },
  "sherlock": {
   "estado": "termino",
