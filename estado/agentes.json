@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T09:23:33-06:00",
   "desde": "2026-11-14T09:09:50-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Tres trabajos míos sobre Marea se habían vuelto a desactualizar porque se aprobaron otros cambios mientras tanto. Los puse al día y ya se pueden integrar. En una de las revisiones automáticas hubo un",
   "url": "",
   "duraciones": [
-   10.5,
    14.6,
    5.0,
    14.0,
@@ -78,10 +78,10 @@
    8.6,
    1.8,
    8.6,
-   34.5
+   34.5,
+   13.7
   ],
-  "estimado_min": 9.6,
-  "fase_desde": "2026-11-14T09:11:00-06:00"
+  "estimado_min": 9.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
