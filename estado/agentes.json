@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T07:23:32-06:00",
   "que": "revisando el PR #193 (chalan-local/2026-11-14-lobby-websocket)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43596405615",
   "duraciones": [
    5.1,
@@ -39,7 +39,7 @@
    9.9
   ],
   "estimado_min": 6.2,
-  "fase_desde": "2026-11-14T07:27:58-06:00"
+  "fase_desde": "2026-11-14T07:33:57-06:00"
  },
  "sherlock": {
   "estado": "termino",
