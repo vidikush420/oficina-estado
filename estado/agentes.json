@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T14:55:31-06:00",
   "desde": "2026-11-14T14:43:35-06:00",
   "que": "revisando el PR #199 (chalan-local/2026-11-14-captura-determinista)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #199 → DEVUELTO (TIME no reemplazado en shaders, toca CLAUDE.md), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43612275720",
   "duraciones": [
-   4.7,
    7.2,
    5.2,
    9.9,
@@ -36,10 +36,10 @@
    4.9,
    10.2,
    9.7,
-   44.4
+   44.4,
+   11.9
   ],
-  "estimado_min": 9.8,
-  "fase_desde": "2026-11-14T14:55:22-06:00"
+  "estimado_min": 10.1
  },
  "sherlock": {
   "estado": "trabajando",
