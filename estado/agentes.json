@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T04:58:49-06:00",
-  "desde": "2026-11-14T04:58:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T05:04:00-06:00",
   "que": "corrida programada",
-  "resumen": "No hay nada nuevo: los cambios que faltan por integrar siguen esperando revisión, y sin ellos no puedo hacer la última comprobación del puerto. Lo ya entregado sigue en pie. Tú: revisar o aprobar esos",
+  "fase": "",
   "url": "",
   "duraciones": [
    17.5,
