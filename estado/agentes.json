@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T03:59:08-06:00",
-  "desde": "2026-11-14T03:41:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T03:59:36-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé el pulido del puerto y revisé el borrador de sobres. Corregí un detalle mínimo: el niño que camina rozaba un letrero. Mis últimos dos cambios están guardados en la Mac pero no pude subirlos a",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.9,
