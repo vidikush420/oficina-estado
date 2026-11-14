@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T07:11:25-06:00",
   "desde": "2026-11-14T06:57:24-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Armé una prueba automática que juega el viaje completo: salir del puerto en barco, llegar a una isla, pescar y regresar; pasa bien. Al armarla encontré un fallo real (cerrar la pesca justo mientras sa",
   "url": "",
   "duraciones": [
-   2.2,
    0.9,
    0.6,
    0.8,
@@ -78,10 +78,10 @@
    15.1,
    10.5,
    14.6,
-   5.0
+   5.0,
+   14.0
   ],
-  "estimado_min": 1.7,
-  "fase_desde": "2026-11-14T07:06:08-06:00"
+  "estimado_min": 3.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
