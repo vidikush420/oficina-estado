@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T03:13:31-06:00",
-  "desde": "2026-11-14T03:05:13-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T03:14:00-06:00",
   "que": "corrida programada",
-  "resumen": "Agregué pruebas automáticas que \"tocan\" la pantalla como un dedo en la mochila, los logros, la tienda de cartas y el aviso de carta pescada, en celular vertical y horizontal. Todo respondió bien. No t",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.4,
