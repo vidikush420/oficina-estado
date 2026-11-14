@@ -63,11 +63,10 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T15:52:36-06:00",
-  "desde": "2026-11-14T15:44:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T15:53:29-06:00",
   "que": "corrida programada",
-  "resumen": "Un cambio del juego Marea (el del muelle) se había quedado trabado porque otro cambio tocó los mismos archivos de notas. Lo destrabé juntando ambos y las pruebas pasan. No abrí nada nuevo porque hay m",
+  "fase": "",
   "url": "",
   "duraciones": [
    34.2,
