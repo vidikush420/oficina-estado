@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-14T08:37:14-06:00",
-  "desde": "2026-11-14T08:26:45-06:00",
-  "que": "revisando el PR #194 (chalan-local/2026-11-14-e2e-puerto-barco)",
-  "resumen": "PR #194 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43601035249",
+  "estado": "trabajando",
+  "desde": "2026-11-14T09:15:59-06:00",
+  "que": "revisando el PR #191 (chalan-local/2026-11-14-auditoria-v1)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43601491728",
   "duraciones": [
    8.9,
    2.6,
