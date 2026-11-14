@@ -63,13 +63,13 @@
   "fase_desde": "2026-11-14T11:31:54-06:00"
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T15:52:22-06:00",
   "desde": "2026-11-14T15:44:27-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Marea: #192 rebasado sobre obra/puerto, MERGEABLE",
   "url": "",
   "duraciones": [
-   34.5,
    13.7,
    34.2,
    2.0,
@@ -78,10 +78,10 @@
    4.9,
    46.3,
    31.1,
-   14.3
+   14.3,
+   7.9
   ],
-  "estimado_min": 17.5,
-  "fase_desde": "2026-11-14T15:45:32-06:00"
+  "estimado_min": 14.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
