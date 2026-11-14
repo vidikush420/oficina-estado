@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T05:15:08-06:00",
   "que": "revisando el PR #190 (chalan-local/2026-11-14-pruebas-toque)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43586033609",
   "duraciones": [
    14.8,
@@ -38,7 +38,8 @@
    7.2,
    5.2
   ],
-  "estimado_min": 6.2
+  "estimado_min": 6.2,
+  "fase_desde": "2026-11-14T05:22:30-06:00"
  },
  "sherlock": {
   "estado": "termino",
