@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T10:23:45-06:00",
   "que": "revisando el PR #89 (chalan-local/2026-11-14-despliegue-red)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43615047990",
   "duraciones": [
    2.6,
@@ -38,7 +38,8 @@
    10.5,
    4.9
   ],
-  "estimado_min": 8.2
+  "estimado_min": 8.2,
+  "fase_desde": "2026-11-14T10:33:35-06:00"
  },
  "sherlock": {
   "estado": "termino",
