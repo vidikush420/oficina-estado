@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T10:33:55-06:00",
   "desde": "2026-11-14T10:23:45-06:00",
   "que": "revisando el PR #89 (chalan-local/2026-11-14-despliegue-red)",
-  "fase": "1/4 leyendo el PR",
+  "resumen": "PR #89 → ya revisado y fusionado antes (head 240fabc); sin acción nueva",
   "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43615047990",
   "duraciones": [
-   2.6,
    11.0,
    9.3,
    4.7,
@@ -36,10 +36,10 @@
    9.9,
    10.8,
    10.5,
-   4.9
+   4.9,
+   10.2
   ],
-  "estimado_min": 8.2,
-  "fase_desde": "2026-11-14T10:33:35-06:00"
+  "estimado_min": 9.6
  },
  "sherlock": {
   "estado": "termino",
