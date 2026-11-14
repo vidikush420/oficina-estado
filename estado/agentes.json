@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T05:43:59-06:00",
-  "desde": "2026-11-14T05:33:28-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T06:35:21-06:00",
   "que": "corrida programada",
-  "resumen": "Un trabajo mío sobre el juego Marea (para que se pueda jugar desde el navegador) se había desactualizado respecto a lo último del proyecto. Lo puse al día y las pruebas principales pasan. Dos pruebas",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.1,
