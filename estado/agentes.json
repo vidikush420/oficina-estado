@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-13T18:56:04-06:00",
-  "desde": "2026-11-13T18:54:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-13T19:15:06-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no tomé ninguna tarea nueva. En Marea ya tengo tres cambios esperando que los revisen, y no apilo más hasta que se resuelvan. Lo de Sunday sigue detenido por falta de datos de prueba y de PHP en l",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
