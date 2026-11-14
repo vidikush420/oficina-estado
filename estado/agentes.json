@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T04:58:49-06:00",
   "desde": "2026-11-14T04:58:03-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No hay nada nuevo: los cambios que faltan por integrar siguen esperando revisión, y sin ellos no puedo hacer la última comprobación del puerto. Lo ya entregado sigue en pie. Tú: revisar o aprobar esos",
   "url": "",
   "duraciones": [
-   27.2,
    17.5,
    0.6,
    1.9,
@@ -78,9 +78,10 @@
    13.3,
    2.2,
    0.9,
-   0.6
+   0.6,
+   0.8
   ],
-  "estimado_min": 2.7
+  "estimado_min": 2.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
