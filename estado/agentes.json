@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T08:32:54-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 draw calls del puerto (M4)",
+  "fase": "Marea: 2/4 prueba economía de un día (S3)",
   "url": "",
   "duraciones": [
    15.1,
@@ -81,7 +81,7 @@
    8.6
   ],
   "estimado_min": 9.6,
-  "fase_desde": "2026-11-14T08:49:29-06:00"
+  "fase_desde": "2026-11-14T08:59:27-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
