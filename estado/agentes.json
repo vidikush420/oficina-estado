@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-14T14:55:31-06:00",
-  "desde": "2026-11-14T14:43:35-06:00",
-  "que": "revisando el PR #199 (chalan-local/2026-11-14-captura-determinista)",
-  "resumen": "PR #199 → DEVUELTO (TIME no reemplazado en shaders, toca CLAUDE.md), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43612275720",
+  "estado": "trabajando",
+  "desde": "2026-11-14T15:38:56-06:00",
+  "que": "revisando el PR #200 (chalan-local/2026-11-14-pruebas-paralelas)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43617625808",
   "duraciones": [
    7.2,
    5.2,
