@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T07:19:43-06:00",
   "desde": "2026-11-14T07:12:43-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Un cambio pendiente de Marea (letra e interfaz más chicas en iPhone acostado) se había quedado desactualizado frente al resto del juego. Lo puse al día y las pruebas pasaron, así que ya puede revisars",
   "url": "",
   "duraciones": [
-   0.9,
    0.6,
    0.8,
    0.9,
@@ -78,10 +78,10 @@
    10.5,
    14.6,
    5.0,
-   14.0
+   14.0,
+   7.0
   ],
-  "estimado_min": 3.0,
-  "fase_desde": "2026-11-14T07:19:16-06:00"
+  "estimado_min": 6.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
