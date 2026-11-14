@@ -63,11 +63,10 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T08:17:22-06:00",
-  "desde": "2026-11-14T08:08:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T08:32:54-06:00",
   "que": "corrida programada",
-  "resumen": "La publicación automática a la versión de pruebas de la Bitácora se cayó porque una consulta a internet tardó de más y el programa se apagó sin decir nada. Ahora reintenta, avisa exactamente qué falló",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.1,
