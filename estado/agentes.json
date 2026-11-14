@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T04:00:13-06:00",
   "desde": "2026-11-14T03:53:01-06:00",
   "que": "revisando el PR #189 (chalan-local/2026-11-14-piso-letra)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #189 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43578115806",
   "duraciones": [
-   0.5,
    0.7,
    14.8,
    5.1,
@@ -36,10 +36,10 @@
    2.6,
    11.0,
    9.3,
-   4.7
+   4.7,
+   7.2
   ],
-  "estimado_min": 5.2,
-  "fase_desde": "2026-11-14T04:00:01-06:00"
+  "estimado_min": 6.2
  },
  "sherlock": {
   "estado": "termino",
