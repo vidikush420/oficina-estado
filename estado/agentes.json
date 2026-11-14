@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-14T05:25:01-06:00",
-  "desde": "2026-11-14T05:15:08-06:00",
-  "que": "revisando el PR #190 (chalan-local/2026-11-14-pruebas-toque)",
-  "resumen": "PR #190 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43586033609",
+  "estado": "trabajando",
+  "desde": "2026-11-14T07:23:32-06:00",
+  "que": "revisando el PR #193 (chalan-local/2026-11-14-lobby-websocket)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43596405615",
   "duraciones": [
    5.1,
    5.3,
