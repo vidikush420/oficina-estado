@@ -63,13 +63,13 @@
   "estimado_min": 15.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T08:47:02-06:00",
   "desde": "2026-11-15T08:32:26-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "La lancha inicial de Marea ya no cobra gasolina, como pediste. Y si el jugador no tiene monedas para zarpar con su barco, el juego le ofrece salir en la lancha gratis en vez de dejarlo atorado. No tie",
   "url": "",
   "duraciones": [
-   5.9,
    6.2,
    7.4,
    31.7,
@@ -78,10 +78,10 @@
    4.6,
    7.8,
    14.8,
-   3.9
+   3.9,
+   14.6
   ],
-  "estimado_min": 6.8,
-  "fase_desde": "2026-11-15T08:34:09-06:00"
+  "estimado_min": 7.5
  },
  "gerente-de-zara": {
   "estado": "trabajando",
