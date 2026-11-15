@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-15T15:27:45-06:00",
+  "cuando": "2026-11-15T15:27:51-06:00",
   "desde": "2026-11-15T15:26:28-06:00",
   "que": "corrida programada",
   "resumen": "Hoy no empecé trabajo nuevo. Ya tengo dos entregas de Marea esperando revisión y la regla es no abrir otra encima. Lo único de Marea que sigue es animar el puerto con gaviotas y banderas, y arranco en",
   "url": "",
   "duraciones": [
-   6.7,
    6.8,
    0.9,
    7.6,
@@ -79,9 +78,10 @@
    1.4,
    0.8,
    27.3,
-   1.3
+   1.3,
+   1.4
   ],
-  "estimado_min": 4.0
+  "estimado_min": 1.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
