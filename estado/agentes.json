@@ -62,11 +62,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T20:35:56-06:00",
-  "desde": "2026-11-14T20:29:52-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T20:50:54-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé una prueba automática del iPhone simulado que se quedaba trabada y dejaba a Sherlock sin veredicto. En una corrida ya no se trabó. Falta que Sherlock la confirme en sus rondas. No tienes que h",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.2,
