@@ -63,11 +63,10 @@
   "estimado_min": 9.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T12:03:37-06:00",
-  "desde": "2026-11-15T12:02:14-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T13:15:03-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy tampoco empecé nada nuevo: Marea tiene las 360 cartas esperando revisión de Aduana y mis reglas me piden no apilar más trabajo. La prueba del arranque web ya quedó aprobada e integrada. Sigue pend",
+  "fase": "",
   "url": "",
   "duraciones": [
    13.3,
