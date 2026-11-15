@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T03:07:22-06:00",
-  "desde": "2026-11-15T03:02:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T03:31:42-06:00",
   "que": "corrida programada",
-  "resumen": "El lente de tasador, una ayuda del juego que Chalán hizo antes, había quedado desfasado respecto a lo último que se aprobó. Lo puse al día y las pruebas automáticas pasaron todas. Ahora puede revisars",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.9,
