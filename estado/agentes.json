@@ -63,11 +63,10 @@
   "estimado_min": 2.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T13:15:54-06:00",
-  "desde": "2026-11-15T13:15:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T14:57:54-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no empecé nada nuevo: las 360 cartas de Marea llevan tres días esperando que Aduana las revise y mis reglas me piden no apilar más trabajo. Sigue pendiente tu autorización para subir el puerto de",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.5,
