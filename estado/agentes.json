@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T02:47:23-06:00",
-  "desde": "2026-11-15T02:15:41-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T02:48:05-06:00",
   "que": "corrida programada",
-  "resumen": "Arreglé una prueba automática que fallaba de vez en cuando por un detalle en la animación del pez que salta; ya pasa 30 de 30 veces. También dejé hecha la «lente de tasador» por dentro (las reglas y l",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.1,
