@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-15T03:23:09-06:00",
   "que": "revisando el PR #203 (chalan-local/2026-11-15-lente-tasador)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43697668978",
   "duraciones": [
    8.8,
@@ -38,7 +38,8 @@
    9.7,
    10.1
   ],
-  "estimado_min": 9.6
+  "estimado_min": 9.6,
+  "fase_desde": "2026-11-15T03:26:54-06:00"
  },
  "sherlock": {
   "estado": "termino",
