@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T22:17:09-06:00",
-  "desde": "2026-11-14T22:07:16-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T22:48:15-06:00",
   "que": "corrida programada",
-  "resumen": "Tres cambios que Chalán ya había dejado listos para revisión chocaron con una actualización reciente del juego. Los puse al día y las pruebas automáticas siguen pasando. Aduana ya puede revisarlos. No",
+  "fase": "",
   "url": "",
   "duraciones": [
    18.8,
