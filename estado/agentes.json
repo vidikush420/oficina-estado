@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T18:29:25-06:00",
   "que": "revisando el PR #185 (chalan-local/2026-11-13-escala-horizontal)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43635086389",
   "duraciones": [
    10.5,
@@ -38,7 +38,8 @@
    6.3,
    5.3
   ],
-  "estimado_min": 9.9
+  "estimado_min": 9.9,
+  "fase_desde": "2026-11-14T18:36:08-06:00"
  },
  "sherlock": {
   "estado": "trabajando",
