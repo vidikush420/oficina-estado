@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T20:15:05-06:00",
   "desde": "2026-11-14T20:07:13-06:00",
   "que": "revisando el PR #199 (chalan-local/2026-11-14-captura-determinista)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #199 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43664133349",
   "duraciones": [
-   4.9,
    10.2,
    9.7,
    44.4,
@@ -36,10 +36,10 @@
    5.0,
    6.3,
    5.3,
-   13.9
+   13.9,
+   7.9
   ],
-  "estimado_min": 9.9,
-  "fase_desde": "2026-11-14T20:14:53-06:00"
+  "estimado_min": 9.9
  },
  "sherlock": {
   "estado": "termino",
