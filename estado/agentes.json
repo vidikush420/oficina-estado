@@ -63,13 +63,13 @@
   "estimado_min": 22.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T19:39:48-06:00",
   "desde": "2026-11-14T19:35:08-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "Un trabajo del juego quedó desfasado porque se aprobó otro cambio mientras tanto. Lo puse al día y las pruebas pasan. No tienes que hacer nada: Aduana lo volverá a revisar.",
   "url": "",
   "duraciones": [
-   46.3,
    31.1,
    14.3,
    7.9,
@@ -78,10 +78,10 @@
    15.1,
    18.8,
    18.5,
-   18.7
+   18.7,
+   4.7
   ],
-  "estimado_min": 16.8,
-  "fase_desde": "2026-11-14T19:36:05-06:00"
+  "estimado_min": 14.7
  },
  "gerente-de-zara": {
   "estado": "trabajando",
