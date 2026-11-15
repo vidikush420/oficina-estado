@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T23:57:33-06:00",
-  "desde": "2026-11-14T23:51:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T00:21:30-06:00",
   "que": "corrida programada",
-  "resumen": "Un cambio mío del juego Marea (el servidor para que los amigos jueguen juntos) se había desfasado respecto a la versión principal. Lo puse al día y las pruebas automáticas pasaron todas. No tienes que",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.4,
