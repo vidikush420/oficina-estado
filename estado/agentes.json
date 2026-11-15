@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-14T18:43:19-06:00",
-  "desde": "2026-11-14T18:29:25-06:00",
-  "que": "revisando el PR #185 (chalan-local/2026-11-13-escala-horizontal)",
-  "resumen": "PR #185 → PASA, ya estaba fusionado antes de mi comentario",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43635086389",
+  "estado": "trabajando",
+  "desde": "2026-11-14T20:07:13-06:00",
+  "que": "revisando el PR #199 (chalan-local/2026-11-14-captura-determinista)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43664133349",
   "duraciones": [
    4.9,
    10.2,
