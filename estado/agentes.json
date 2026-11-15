@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T03:01:18-06:00",
-  "desde": "2026-11-15T02:53:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T03:02:47-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio del muelle de Marea había quedado desactualizado frente al resto del juego y no se podía integrar. Lo puse al día y todas las pruebas pasan. No tienes que hacer nada; sigue en borrador esper",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.1,
