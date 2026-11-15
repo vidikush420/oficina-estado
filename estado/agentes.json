@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T18:43:19-06:00",
   "desde": "2026-11-14T18:29:25-06:00",
   "que": "revisando el PR #185 (chalan-local/2026-11-13-escala-horizontal)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #185 → PASA, ya estaba fusionado antes de mi comentario",
   "url": "https://github.com/vidikush420/marea/actions/runs/43635086389",
   "duraciones": [
-   10.5,
    4.9,
    10.2,
    9.7,
@@ -36,10 +36,10 @@
    11.1,
    5.0,
    6.3,
-   5.3
+   5.3,
+   13.9
   ],
-  "estimado_min": 9.9,
-  "fase_desde": "2026-11-14T18:43:00-06:00"
+  "estimado_min": 9.9
  },
  "sherlock": {
   "estado": "trabajando",
