@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-14T21:58:41-06:00",
-  "que": "revisando el PR #197 (chalan-local/2026-11-14-economia-dia)",
+  "desde": "2026-11-14T21:59:17-06:00",
+  "que": "revisando el PR #191 (chalan-local/2026-11-14-auditoria-v1)",
   "fase": "",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43656373948",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43667938633",
   "duraciones": [
    11.9,
    11.1,
