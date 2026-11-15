@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-15T10:51:29-06:00",
   "que": "revisando el PR #206 (chalan-local/2026-11-15-zarpar-sin-monedas)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43735195254",
   "duraciones": [
    4.3,
@@ -38,7 +38,8 @@
    11.1,
    9.6
   ],
-  "estimado_min": 9.6
+  "estimado_min": 9.6,
+  "fase_desde": "2026-11-15T10:54:41-06:00"
  },
  "sherlock": {
   "estado": "termino",
