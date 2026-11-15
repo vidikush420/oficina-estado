@@ -45,7 +45,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T18:05:09-06:00",
   "que": "veredicto de beta",
-  "fase": "3/5 corriendo la lista de renglones",
+  "fase": "3/5 corriendo la lista de renglones (humo en los dos iPhones)",
   "url": "",
   "duraciones": [
    62.1,
@@ -60,7 +60,7 @@
    16.0
   ],
   "estimado_min": 22.6,
-  "fase_desde": "2026-11-14T18:06:03-06:00"
+  "fase_desde": "2026-11-14T18:27:59-06:00"
  },
  "chalan-local": {
   "estado": "termino",
