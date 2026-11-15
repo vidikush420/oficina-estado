@@ -63,13 +63,13 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T11:40:31-06:00",
   "desde": "2026-11-15T11:23:02-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 mutantes de la prueba de humo",
+  "resumen": "Comprobé que la prueba que vigila que el juego arranque en la web de verdad falla cuando el juego se rompe a propósito: la probé con cuatro roturas y las cuatro las detectó. También simulé tus gastos",
   "url": "",
   "duraciones": [
-   1.2,
    1.4,
    5.3,
    13.3,
@@ -78,10 +78,10 @@
    6.7,
    6.8,
    0.9,
-   7.6
+   7.6,
+   17.5
   ],
-  "estimado_min": 3.4,
-  "fase_desde": "2026-11-15T11:24:07-06:00"
+  "estimado_min": 6.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
