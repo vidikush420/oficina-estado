@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-14T22:47:28-06:00",
-  "desde": "2026-11-14T22:37:33-06:00",
-  "que": "revisando el PR #197 (chalan-local/2026-11-14-economia-dia)",
-  "resumen": "PR #197 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43675832243",
+  "estado": "trabajando",
+  "desde": "2026-11-14T23:45:31-06:00",
+  "que": "revisando el PR #198 (chalan-local/2026-11-14-sin-pkill)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43676075735",
   "duraciones": [
    6.3,
    5.3,
