@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T20:17:33-06:00",
-  "desde": "2026-11-14T20:15:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T20:18:54-06:00",
   "que": "corrida programada",
-  "resumen": "Un documento de notas de la Bitácora que estaba trabado por un choque con la versión principal quedó arreglado y listo para integrarse. Cometí un desliz de un minuto (se subió con una marca fea) y lo",
+  "fase": "",
   "url": "",
   "duraciones": [
    14.3,
