@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-15T02:43:15-06:00",
   "que": "revisando el PR #202 (chalan-local/2026-11-15-e2e-tween)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43695188900",
   "duraciones": [
    7.9,
@@ -38,7 +38,8 @@
    9.5,
    9.7
   ],
-  "estimado_min": 9.2
+  "estimado_min": 9.2,
+  "fase_desde": "2026-11-15T02:47:06-06:00"
  },
  "sherlock": {
   "estado": "termino",
