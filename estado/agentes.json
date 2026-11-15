@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-14T20:15:05-06:00",
-  "desde": "2026-11-14T20:07:13-06:00",
-  "que": "revisando el PR #199 (chalan-local/2026-11-14-captura-determinista)",
-  "resumen": "PR #199 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43664133349",
+  "estado": "trabajando",
+  "desde": "2026-11-14T20:19:44-06:00",
+  "que": "revisando el PR #88 (chalan-local/2026-11-12-beta-v62-timeout)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43667043785",
   "duraciones": [
    10.2,
    9.7,
