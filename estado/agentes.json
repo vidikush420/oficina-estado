@@ -63,11 +63,10 @@
   "estimado_min": 15.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T10:04:18-06:00",
-  "desde": "2026-11-15T09:50:59-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T10:04:56-06:00",
   "que": "corrida programada",
-  "resumen": "El avance de la lancha gratis de Marea ya se puede aprobar, y ahora también funciona cuando se juega en sala con amigos. Añadí una revisión automática que abre el juego en un navegador, toca «Jugar» y",
+  "fase": "",
   "url": "",
   "duraciones": [
    7.5,
