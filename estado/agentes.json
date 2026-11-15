@@ -63,13 +63,13 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T10:16:29-06:00",
   "desde": "2026-11-15T10:15:05-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que Chalán local pudiera empezar: lo único pendiente de Marea espera a que Aduana revise avances que ya entregué (#206 y #167). No tienes que hacer nada; si quieres destrabar Marea,",
   "url": "",
   "duraciones": [
-   4.6,
    7.8,
    14.8,
    3.9,
@@ -78,9 +78,10 @@
    1.4,
    5.3,
    13.3,
-   1.5
+   1.5,
+   1.4
   ],
-  "estimado_min": 4.9
+  "estimado_min": 4.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
