@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T12:01:24-06:00",
   "desde": "2026-11-15T11:55:59-06:00",
   "que": "revisando el PR #208 (chalan-local/2026-11-15-mutantes-humo)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #208 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43742404512",
   "duraciones": [
-   6.3,
    9.9,
    4.3,
    9.5,
@@ -36,10 +36,10 @@
    8.3,
    11.1,
    9.6,
-   9.0
+   9.0,
+   5.4
   ],
-  "estimado_min": 9.6,
-  "fase_desde": "2026-11-15T12:01:14-06:00"
+  "estimado_min": 9.6
  },
  "sherlock": {
   "estado": "termino",
