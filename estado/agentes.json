@@ -63,13 +63,13 @@
   "estimado_min": 2.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T16:06:08-06:00",
   "desde": "2026-11-15T16:04:44-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que pudiera hacer: el juego Marea tiene una propuesta mía (las 360 cartas) esperando revisión y mis reglas me piden no empezar otra hasta que se resuelva. Los demás proyectos no tien",
   "url": "",
   "duraciones": [
-   7.6,
    17.5,
    1.1,
    1.4,
@@ -78,9 +78,10 @@
    1.3,
    1.4,
    4.6,
-   6.4
+   6.4,
+   1.4
   ],
-  "estimado_min": 3.0
+  "estimado_min": 1.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
