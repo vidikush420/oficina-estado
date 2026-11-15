@@ -63,11 +63,10 @@
   "estimado_min": 15.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T08:53:33-06:00",
-  "desde": "2026-11-15T08:52:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T08:55:29-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que Chalán local pudiera hacer: lo único pendiente de Marea espera a que se revisen avances que ya entregué (el #167 lleva tres días sin revisión). Si quieres destrabar Marea, pide q",
+  "fase": "",
   "url": "",
   "duraciones": [
    31.7,
