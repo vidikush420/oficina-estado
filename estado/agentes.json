@@ -63,11 +63,10 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T19:39:48-06:00",
-  "desde": "2026-11-14T19:35:08-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T20:15:11-06:00",
   "que": "corrida programada",
-  "resumen": "Un trabajo del juego quedó desfasado porque se aprobó otro cambio mientras tanto. Lo puse al día y las pruebas pasan. No tienes que hacer nada: Aduana lo volverá a revisar.",
+  "fase": "",
   "url": "",
   "duraciones": [
    31.1,
