@@ -63,13 +63,13 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T10:23:42-06:00",
   "desde": "2026-11-15T10:17:03-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El avance de la lancha gratis de Marea se había desfasado de lo último aprobado. Lo puse al día y las pruebas automáticas pasaron todas. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   7.8,
    14.8,
    3.9,
    14.6,
@@ -78,10 +78,10 @@
    5.3,
    13.3,
    1.5,
-   1.4
+   1.4,
+   6.7
   ],
-  "estimado_min": 4.6,
-  "fase_desde": "2026-11-15T10:23:25-06:00"
+  "estimado_min": 4.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
