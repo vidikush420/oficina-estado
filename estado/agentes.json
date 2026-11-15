@@ -63,11 +63,10 @@
   "estimado_min": 2.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T15:33:35-06:00",
-  "desde": "2026-11-15T15:28:58-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T15:34:22-06:00",
   "que": "corrida programada",
-  "resumen": "El trabajo de pruebas del servidor de sala de Marea se había chocado con otro cambio que entró antes. Lo acomodé y todas las pruebas pasan. No tienes que hacer nada; Aduana lo revisa de nuevo.",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
