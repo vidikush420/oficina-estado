@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T20:07:13-06:00",
   "que": "revisando el PR #199 (chalan-local/2026-11-14-captura-determinista)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43664133349",
   "duraciones": [
    4.9,
@@ -39,7 +39,7 @@
    13.9
   ],
   "estimado_min": 9.9,
-  "fase_desde": "2026-11-14T20:12:44-06:00"
+  "fase_desde": "2026-11-14T20:14:31-06:00"
  },
  "sherlock": {
   "estado": "termino",
