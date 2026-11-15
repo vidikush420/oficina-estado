@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-15T15:28:38-06:00",
-  "desde": "2026-11-15T15:25:22-06:00",
-  "que": "revisando el PR #209 (chalan-local/2026-11-15-peso-del-repo)",
-  "resumen": "PR #209 Marea → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43762954630",
+  "estado": "trabajando",
+  "desde": "2026-11-15T15:54:02-06:00",
+  "que": "revisando el PR #210 (chalan-local/2026-11-15-cobertura-sala)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43764333179",
   "duraciones": [
    9.5,
    9.7,
