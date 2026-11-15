@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T02:48:50-06:00",
-  "desde": "2026-11-15T02:48:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T02:53:47-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no tomé trabajo nuevo: ya tengo dos cambios de Marea esperando que Aduana los revise y no conviene apilar más encima. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.3,
