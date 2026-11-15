@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-14T20:44:41-06:00",
-  "que": "revisando el PR #90 (chalan-local/2026-11-14-simulador-standalone-cuelgue)",
+  "desde": "2026-11-14T20:48:26-06:00",
+  "que": "revisando el PR #191 (chalan-local/2026-11-14-auditoria-v1)",
   "fase": "",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43669095707",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43667938633",
   "duraciones": [
    9.7,
    44.4,
