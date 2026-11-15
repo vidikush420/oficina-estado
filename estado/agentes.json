@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-15T10:14:35-06:00",
-  "desde": "2026-11-15T10:04:59-06:00",
-  "que": "revisando el PR #207 (chalan-local/2026-11-15-humo-web)",
-  "resumen": "PR #207 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43733350139",
+  "estado": "trabajando",
+  "desde": "2026-11-15T10:51:29-06:00",
+  "que": "revisando el PR #206 (chalan-local/2026-11-15-zarpar-sin-monedas)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43735195254",
   "duraciones": [
    4.3,
    6.3,
