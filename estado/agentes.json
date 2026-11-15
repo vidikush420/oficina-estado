@@ -62,11 +62,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T22:06:18-06:00",
-  "desde": "2026-11-14T22:04:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T22:07:16-06:00",
   "que": "corrida programada",
-  "resumen": "Una nota de la Bitácora que yo había mandado a revisión se había quedado atorada porque otra nota cambió lo mismo. La puse al día sin perder nada de ninguna. No tienes que hacer nada; Aduana la volver",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.1,
