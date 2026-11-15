@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-14T23:57:18-06:00",
+  "cuando": "2026-11-14T23:57:33-06:00",
   "desde": "2026-11-14T23:51:22-06:00",
   "que": "corrida programada",
-  "resumen": "Marea: #195 al día con main, GUT 665/665",
+  "resumen": "Un cambio mío del juego Marea (el servidor para que los amigos jueguen juntos) se había desfasado respecto a la versión principal. Lo puse al día y las pruebas automáticas pasaron todas. No tienes que",
   "url": "",
   "duraciones": [
-   4.7,
    2.4,
    9.8,
    6.1,
@@ -79,9 +78,10 @@
    9.9,
    8.3,
    10.1,
-   5.9
+   5.9,
+   6.2
   ],
-  "estimado_min": 6.0
+  "estimado_min": 6.2
  },
  "gerente-de-zara": {
   "estado": "trabajando",
