@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-15T11:55:59-06:00",
   "que": "revisando el PR #208 (chalan-local/2026-11-15-mutantes-humo)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43742404512",
   "duraciones": [
    6.3,
@@ -38,7 +38,8 @@
    9.6,
    9.0
   ],
-  "estimado_min": 9.6
+  "estimado_min": 9.6,
+  "fase_desde": "2026-11-15T12:00:33-06:00"
  },
  "sherlock": {
   "estado": "termino",
