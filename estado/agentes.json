@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T22:37:33-06:00",
   "que": "revisando el PR #197 (chalan-local/2026-11-14-economia-dia)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43675832243",
   "duraciones": [
    5.0,
@@ -39,7 +39,7 @@
    6.3
   ],
   "estimado_min": 7.1,
-  "fase_desde": "2026-11-14T22:41:52-06:00"
+  "fase_desde": "2026-11-14T22:47:03-06:00"
  },
  "sherlock": {
   "estado": "termino",
