@@ -63,11 +63,10 @@
   "estimado_min": 2.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T15:40:45-06:00",
-  "desde": "2026-11-15T15:34:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T16:04:44-06:00",
   "que": "corrida programada",
-  "resumen": "La rama larga del juego Marea se había desfasado de la principal y no se podía integrar. La actualicé con lo último y las pruebas pasaron todas. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    7.6,
