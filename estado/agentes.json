@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-15T02:53:20-06:00",
-  "desde": "2026-11-15T02:43:15-06:00",
-  "que": "revisando el PR #202 (chalan-local/2026-11-15-e2e-tween)",
-  "resumen": "PR #202 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43695188900",
+  "estado": "trabajando",
+  "desde": "2026-11-15T03:23:09-06:00",
+  "que": "revisando el PR #203 (chalan-local/2026-11-15-lente-tasador)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43697668978",
   "duraciones": [
    8.8,
    18.6,
