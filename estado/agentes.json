@@ -63,13 +63,13 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T11:43:07-06:00",
   "desde": "2026-11-15T11:41:59-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no empecé nada nuevo: Marea tiene dos avances míos esperando revisión de Aduana (las 360 cartas y la prueba de que el arranque web falla cuando debe), y mis reglas me piden no apilar más. Sigue pe",
   "url": "",
   "duraciones": [
-   1.4,
    5.3,
    13.3,
    1.5,
@@ -78,7 +78,8 @@
    6.8,
    0.9,
    7.6,
-   17.5
+   17.5,
+   1.1
   ],
   "estimado_min": 6.0
  },
