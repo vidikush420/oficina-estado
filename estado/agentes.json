@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "fallo",
-  "cuando": "2026-11-14T21:07:03-06:00",
+  "cuando": "2026-11-14T21:07:38-06:00",
   "desde": "2026-11-14T20:48:26-06:00",
   "que": "revisando el PR #191 (chalan-local/2026-11-14-auditoria-v1)",
   "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/bitacora-webapp/actions/runs/43669095707",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43667938633",
   "duraciones": [
-   44.4,
    11.9,
    11.1,
    5.0,
@@ -37,7 +36,8 @@
    13.9,
    7.9,
    8.8,
-   18.6
+   18.6,
+   19.2
   ],
   "estimado_min": 9.9
  },
