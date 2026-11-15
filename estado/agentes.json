@@ -63,13 +63,13 @@
   "estimado_min": 15.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T09:00:49-06:00",
   "desde": "2026-11-15T08:55:29-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "El avance del puerto de Marea se había desfasado de lo último aprobado. Lo puse al día y las pruebas automáticas pasaron todas. No cambié nada visible del juego. No tienes que hacer nada.",
   "url": "",
   "duraciones": [
-   31.7,
    0.8,
    7.5,
    4.6,
@@ -78,10 +78,10 @@
    3.9,
    14.6,
    1.2,
-   1.4
+   1.4,
+   5.3
   ],
-  "estimado_min": 6.0,
-  "fase_desde": "2026-11-15T08:56:21-06:00"
+  "estimado_min": 4.9
  },
  "gerente-de-zara": {
   "estado": "trabajando",
