@@ -63,11 +63,10 @@
   "estimado_min": 15.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T06:45:07-06:00",
-  "desde": "2026-11-15T06:41:12-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T08:32:26-06:00",
   "que": "corrida programada",
-  "resumen": "Otro avance de pantallas del juego Marea (vitrina, tienda del día y gradeo de cartas) se había desfasado de lo último aprobado. Lo puse al día y las pruebas automáticas siguen pasando. No tienes que h",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.9,
