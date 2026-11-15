@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T03:39:33-06:00",
-  "desde": "2026-11-15T03:31:42-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T03:40:49-06:00",
   "que": "corrida programada",
-  "resumen": "Uno de los avances del juego Marea (el del muelle) se había quedado trabado porque otro cambio tocó la misma nota de estado. Lo puse al día y revisé que el juego sigue pasando todas sus pruebas. No ti",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.3,
