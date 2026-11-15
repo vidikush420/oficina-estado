@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-15T08:51:26-06:00",
-  "desde": "2026-11-15T08:40:19-06:00",
-  "que": "revisando el PR #204 (chalan-local/2026-11-15-lancha-gratis)",
-  "resumen": "PR #204 → OJO cosmético, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43725578997",
+  "estado": "trabajando",
+  "desde": "2026-11-15T10:04:59-06:00",
+  "que": "revisando el PR #207 (chalan-local/2026-11-15-humo-web)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43733350139",
   "duraciones": [
    19.2,
    4.3,
