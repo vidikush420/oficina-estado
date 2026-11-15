@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-14T23:45:31-06:00",
   "que": "revisando el PR #198 (chalan-local/2026-11-14-sin-pkill)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/43676075735",
   "duraciones": [
    6.3,
@@ -39,7 +39,7 @@
    9.9
   ],
   "estimado_min": 8.4,
-  "fase_desde": "2026-11-14T23:49:27-06:00"
+  "fase_desde": "2026-11-14T23:49:42-06:00"
  },
  "sherlock": {
   "estado": "termino",
