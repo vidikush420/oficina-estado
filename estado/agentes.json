@@ -63,13 +63,13 @@
   "estimado_min": 9.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T13:15:54-06:00",
   "desde": "2026-11-15T13:15:03-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no empecé nada nuevo: las 360 cartas de Marea llevan tres días esperando que Aduana las revise y mis reglas me piden no apilar más trabajo. Sigue pendiente tu autorización para subir el puerto de",
   "url": "",
   "duraciones": [
-   13.3,
    1.5,
    1.4,
    6.7,
@@ -78,9 +78,10 @@
    7.6,
    17.5,
    1.1,
-   1.4
+   1.4,
+   0.8
   ],
-  "estimado_min": 4.1
+  "estimado_min": 1.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
