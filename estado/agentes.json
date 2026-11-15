@@ -63,13 +63,13 @@
   "estimado_min": 2.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T15:33:35-06:00",
   "desde": "2026-11-15T15:28:58-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "El trabajo de pruebas del servidor de sala de Marea se había chocado con otro cambio que entró antes. Lo acomodé y todas las pruebas pasan. No tienes que hacer nada; Aduana lo revisa de nuevo.",
   "url": "",
   "duraciones": [
-   6.8,
    0.9,
    7.6,
    17.5,
@@ -78,10 +78,10 @@
    0.8,
    27.3,
    1.3,
-   1.4
+   1.4,
+   4.6
   ],
-  "estimado_min": 1.4,
-  "fase_desde": "2026-11-15T15:33:19-06:00"
+  "estimado_min": 1.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
