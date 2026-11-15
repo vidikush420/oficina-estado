@@ -42,13 +42,13 @@
   "estimado_min": 9.6
  },
  "sherlock": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T08:06:51-06:00",
   "desde": "2026-11-15T08:05:09-06:00",
   "que": "veredicto de beta",
-  "fase": "5/5 cerrando la corrida",
+  "resumen": "5c487d9456dbfebe38d4aa1fb5208679c5fefce3 incompleto",
   "url": "",
   "duraciones": [
-   25.3,
    15.2,
    16.0,
    16.0,
@@ -57,10 +57,10 @@
    1.1,
    1.7,
    77.9,
-   2.6
+   2.6,
+   1.7
   ],
-  "estimado_min": 16.0,
-  "fase_desde": "2026-11-15T08:06:46-06:00"
+  "estimado_min": 15.6
  },
  "chalan-local": {
   "estado": "termino",
