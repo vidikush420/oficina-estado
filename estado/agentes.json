@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-15T00:20:01-06:00",
+  "cuando": "2026-11-15T00:20:14-06:00",
   "desde": "2026-11-15T00:10:33-06:00",
   "que": "revisando el PR #195 (chalan-local/2026-11-14-servidor-lobby)",
   "resumen": "PR #195 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43683257716",
   "duraciones": [
-   13.9,
    7.9,
    8.8,
    18.6,
@@ -37,7 +36,8 @@
    6.3,
    9.9,
    4.3,
-   9.5
+   9.5,
+   9.7
   ],
   "estimado_min": 9.2
  },
