@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-14T23:08:27-06:00",
-  "desde": "2026-11-14T22:58:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-14T23:51:22-06:00",
   "que": "corrida programada",
-  "resumen": "Dos trabajos grandes del juego que están en borrador se habían quedado desfasados respecto a lo último que entró. Los puse al día y las pruebas automáticas pasan. No tienes que hacer nada.",
+  "fase": "",
   "url": "",
   "duraciones": [
    18.7,
