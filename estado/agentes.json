@@ -62,11 +62,10 @@
   "estimado_min": 2.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T15:25:13-06:00",
-  "desde": "2026-11-15T14:57:54-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T15:26:28-06:00",
   "que": "corrida programada",
-  "resumen": "No tienes que hacer nada ahora; cuando quieras, decide si limpiamos lo que dice el informe.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
