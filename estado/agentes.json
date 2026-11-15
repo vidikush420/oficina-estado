@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-15T11:00:28-06:00",
-  "desde": "2026-11-15T10:51:29-06:00",
-  "que": "revisando el PR #206 (chalan-local/2026-11-15-zarpar-sin-monedas)",
-  "resumen": "PR #206 Marea → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43735195254",
+  "estado": "trabajando",
+  "desde": "2026-11-15T11:55:59-06:00",
+  "que": "revisando el PR #208 (chalan-local/2026-11-15-mutantes-humo)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43742404512",
   "duraciones": [
    6.3,
    9.9,
