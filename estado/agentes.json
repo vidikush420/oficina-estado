@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T20:35:56-06:00",
   "desde": "2026-11-14T20:29:52-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 4/4 abriendo el PR",
+  "resumen": "Arreglé una prueba automática del iPhone simulado que se quedaba trabada y dejaba a Sherlock sin veredicto. En una corrida ya no se trabó. Falta que Sherlock la confirme en sus rondas. No tienes que h",
   "url": "",
   "duraciones": [
-   7.9,
    8.2,
    13.8,
    15.1,
@@ -78,10 +78,10 @@
    18.7,
    4.7,
    2.4,
-   9.8
+   9.8,
+   6.1
   ],
-  "estimado_min": 11.8,
-  "fase_desde": "2026-11-14T20:35:35-06:00"
+  "estimado_min": 11.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
