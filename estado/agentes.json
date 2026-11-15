@@ -63,11 +63,10 @@
   "estimado_min": 16.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T03:55:40-06:00",
-  "desde": "2026-11-15T03:40:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T06:41:12-06:00",
   "que": "corrida programada",
-  "resumen": "Dos avances del juego Marea (el puerto y la reducción de carga) se habían desfasado de lo último que se aprobó. Los puse al día y volví a correr todas las pruebas automáticas: pasan. No cambié nada vi",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.1,
