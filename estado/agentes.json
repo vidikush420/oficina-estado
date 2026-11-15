@@ -63,13 +63,13 @@
   "estimado_min": 2.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T15:25:13-06:00",
   "desde": "2026-11-15T14:57:54-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "No tienes que hacer nada ahora; cuando quieras, decide si limpiamos lo que dice el informe.",
   "url": "",
   "duraciones": [
-   1.5,
    1.4,
    6.7,
    6.8,
@@ -78,10 +78,10 @@
    17.5,
    1.1,
    1.4,
-   0.8
+   0.8,
+   27.3
   ],
-  "estimado_min": 1.4,
-  "fase_desde": "2026-11-15T15:19:30-06:00"
+  "estimado_min": 4.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
