@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-15T10:04:59-06:00",
   "que": "revisando el PR #207 (chalan-local/2026-11-15-humo-web)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43733350139",
   "duraciones": [
    19.2,
@@ -39,7 +39,7 @@
    11.1
   ],
   "estimado_min": 9.6,
-  "fase_desde": "2026-11-15T10:09:23-06:00"
+  "fase_desde": "2026-11-15T10:14:12-06:00"
  },
  "sherlock": {
   "estado": "termino",
