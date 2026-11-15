@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-15T15:54:02-06:00",
   "que": "revisando el PR #210 (chalan-local/2026-11-15-cobertura-sala)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/43764333179",
   "duraciones": [
    9.5,
@@ -39,7 +39,7 @@
    3.3
   ],
   "estimado_min": 9.2,
-  "fase_desde": "2026-11-15T15:56:40-06:00"
+  "fase_desde": "2026-11-15T15:56:53-06:00"
  },
  "sherlock": {
   "estado": "termino",
