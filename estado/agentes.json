@@ -63,13 +63,13 @@
   "estimado_min": 17.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-14T20:17:33-06:00",
   "desde": "2026-11-14T20:15:11-06:00",
   "que": "corrida programada",
-  "fase": "Bitácora: 1/4 leyendo el proyecto",
+  "resumen": "Un documento de notas de la Bitácora que estaba trabado por un choque con la versión principal quedó arreglado y listo para integrarse. Cometí un desliz de un minuto (se subió con una marca fea) y lo",
   "url": "",
   "duraciones": [
-   31.1,
    14.3,
    7.9,
    8.2,
@@ -78,10 +78,10 @@
    18.8,
    18.5,
    18.7,
-   4.7
+   4.7,
+   2.4
   ],
-  "estimado_min": 14.7,
-  "fase_desde": "2026-11-14T20:15:56-06:00"
+  "estimado_min": 14.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
