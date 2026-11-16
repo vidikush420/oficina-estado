@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-16T10:35:38-06:00",
-  "que": "revisando el PR #211 (claude/2026-11-16-ci-sin-docs-pesados)",
+  "desde": "2026-11-16T10:58:43-06:00",
+  "que": "revisando el PR #212 (chalan-local/2026-11-16-pruebas-red-sala)",
   "fase": "",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43908869072",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43909811383",
   "duraciones": [
    9.7,
    10.1,
