@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T11:17:26-06:00",
-  "desde": "2026-11-16T11:08:15-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T12:59:28-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio de gastos de barco se había desactualizado porque otro cambio entró antes; lo actualicé y volví a probar todo: sigue bien. No empecé nada nuevo porque aún esperan revisión varios cambios mío",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
