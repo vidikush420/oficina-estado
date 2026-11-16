@@ -63,11 +63,10 @@
   "estimado_min": 1.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T22:13:28-06:00",
-  "desde": "2026-11-15T22:12:55-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T22:14:13-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy tampoco pude empezar trabajo nuevo en Marea: mi entrega de las 360 cartas sigue sin que Aduana la revise y la regla me impide abrir otra encima. Para destrabarme, pide a Aduana que revise el cambi",
+  "fase": "",
   "url": "",
   "duraciones": [
    27.3,
