@@ -63,13 +63,13 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T13:16:21-06:00",
   "desde": "2026-11-16T13:15:08-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hice trabajo nuevo: lo único pendiente para mí es en Marea y tengo ahí un cambio (las 360 cartas) esperando revisión; hasta que se revise no debo abrir otro. No tienes que hacer nada; si quiere",
   "url": "",
   "duraciones": [
-   1.4,
    0.6,
    0.6,
    0.7,
@@ -78,7 +78,8 @@
    1.1,
    9.2,
    1.5,
-   2.6
+   2.6,
+   1.2
   ],
   "estimado_min": 1.4
  },
