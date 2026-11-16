@@ -62,11 +62,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T10:45:53-06:00",
-  "desde": "2026-11-16T10:28:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T10:46:29-06:00",
   "que": "corrida programada",
-  "resumen": "Añadí pruebas automáticas que comprueban que la mochila, los viajes, el equipo de pesca y la tienda de cartas funcionan de verdad cuando juegan varias personas por internet, y todas pasan. También dej",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.6,
