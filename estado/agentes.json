@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T14:43:30-06:00",
-  "desde": "2026-11-16T14:42:34-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T15:35:58-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no avancé en Marea porque ya tengo un trabajo mío esperando revisión (el cambio de las 360 cartas) y la regla me pide no abrir otro encima. No tienes que hacer nada; en cuanto se revise ese, sigo",
+  "fase": "",
   "url": "",
   "duraciones": [
    9.2,
