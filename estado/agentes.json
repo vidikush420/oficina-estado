@@ -63,13 +63,13 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T10:23:21-06:00",
   "desde": "2026-11-16T10:22:41-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy tampoco pude empezar trabajo nuevo en Marea: mi entrega de las 360 cartas sigue sin revisión y la regla me impide abrir otra encima. Para destrabarme, pide a Aduana que revise ese cambio (#167) o",
   "url": "",
   "duraciones": [
-   1.3,
    1.4,
    4.6,
    6.4,
@@ -78,9 +78,10 @@
    0.6,
    1.4,
    0.6,
-   0.6
+   0.6,
+   0.7
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.2
  },
  "gerente-de-zara": {
   "estado": "trabajando",
