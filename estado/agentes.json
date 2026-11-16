@@ -63,13 +63,13 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T14:33:16-06:00",
   "desde": "2026-11-16T14:22:47-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Medí cuánto dan los cofres del juego, sin cambiar nada. Resulta que son una cuarta parte del dinero que gana un jugador en el puerto, más de lo que parecía. Además, las cañas nuevas solo salen de cofr",
   "url": "",
   "duraciones": [
-   0.7,
    17.4,
    15.7,
    1.1,
@@ -78,10 +78,10 @@
    2.6,
    1.2,
    2.6,
-   0.6
+   0.6,
+   10.5
   ],
-  "estimado_min": 2.0,
-  "fase_desde": "2026-11-16T14:32:43-06:00"
+  "estimado_min": 2.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
