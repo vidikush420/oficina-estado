@@ -63,11 +63,10 @@
   "estimado_min": 1.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-15T16:16:11-06:00",
-  "desde": "2026-11-15T16:15:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-15T19:05:02-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no había trabajo que pudiera hacer sin esperar a alguien. En el juego Marea tengo varios cambios míos esperando tu revisión, y la regla me impide abrir más. No tienes que",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
