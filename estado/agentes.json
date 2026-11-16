@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-16T14:39:34-06:00",
-  "desde": "2026-11-16T14:36:38-06:00",
-  "que": "revisando el PR #214 (chalan-local/2026-11-16-cofres-economia)",
-  "resumen": "PR #214 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43950920217",
+  "estado": "trabajando",
+  "desde": "2026-11-16T15:33:48-06:00",
+  "que": "revisando el PR #215 (claude/2026-11-16-artefactos-2-dias)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43961282806",
   "duraciones": [
    9.0,
    5.4,
