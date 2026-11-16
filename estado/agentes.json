@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-16T15:33:48-06:00",
   "que": "revisando el PR #215 (claude/2026-11-16-artefactos-2-dias)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43961282806",
   "duraciones": [
    9.0,
@@ -38,7 +38,8 @@
    41.3,
    2.9
   ],
-  "estimado_min": 8.5
+  "estimado_min": 8.5,
+  "fase_desde": "2026-11-16T15:35:29-06:00"
  },
  "sherlock": {
   "estado": "termino",
