@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T11:02:09-06:00",
-  "desde": "2026-11-16T10:46:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T11:03:22-06:00",
   "que": "corrida programada",
-  "resumen": "Ya quedó programado el cobro de combustible y de muelle de los barcos con los números que aprobaste: el muelle se paga una sola vez al día por barco. Si no alcanza el dinero, no hay deudas ni multas:",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.4,
