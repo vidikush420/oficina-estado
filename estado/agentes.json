@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T11:06:42-06:00",
   "desde": "2026-11-16T10:58:43-06:00",
   "que": "revisando el PR #212 (chalan-local/2026-11-16-pruebas-red-sala)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #212 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43909811383",
   "duraciones": [
-   9.7,
    10.1,
    8.3,
    11.1,
@@ -36,10 +36,10 @@
    5.4,
    3.1,
    3.3,
-   9.4
+   9.4,
+   8.0
   ],
-  "estimado_min": 9.2,
-  "fase_desde": "2026-11-16T11:06:20-06:00"
+  "estimado_min": 8.7
  },
  "sherlock": {
   "estado": "termino",
