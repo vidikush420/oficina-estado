@@ -63,13 +63,13 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T11:02:09-06:00",
   "desde": "2026-11-16T10:46:29-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Ya quedó programado el cobro de combustible y de muelle de los barcos con los números que aprobaste: el muelle se paga una sola vez al día por barco. Si no alcanza el dinero, no hay deudas ni multas:",
   "url": "",
   "duraciones": [
-   4.6,
    6.4,
    1.4,
    1.1,
@@ -78,10 +78,10 @@
    0.6,
    0.6,
    0.7,
-   17.4
+   17.4,
+   15.7
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-16T11:01:28-06:00"
+  "estimado_min": 1.2
  },
  "gerente-de-zara": {
   "estado": "trabajando",
