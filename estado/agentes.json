@@ -63,13 +63,13 @@
   "estimado_min": 1.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-15T19:16:29-06:00",
   "desde": "2026-11-15T19:15:06-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no encontré trabajo que pudiera hacer yo solo. En Marea ya tengo varios cambios esperando revisión y no quiero apilar más; en Sunday sigo esperando la copia de datos de prueba. Para destrabar: dec",
   "url": "",
   "duraciones": [
-   1.4,
    0.8,
    27.3,
    1.3,
@@ -78,7 +78,8 @@
    6.4,
    1.4,
    1.1,
-   0.6
+   0.6,
+   1.4
   ],
   "estimado_min": 1.4
  },
