@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T14:17:54-06:00",
-  "desde": "2026-11-16T14:17:20-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T14:22:47-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pueda hacer: el único trabajo pendiente en Marea espera a que se revise mi cambio anterior de las cartas. No tienes que hacer nada; si quieres que avance, pídele a Aduana que",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
