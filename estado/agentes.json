@@ -65,7 +65,7 @@
   "estado": "trabajando",
   "desde": "2026-11-16T10:46:29-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "fase": "Marea: 2/4 gastos de barco: muelle por día",
   "url": "",
   "duraciones": [
    4.6,
@@ -80,7 +80,7 @@
    17.4
   ],
   "estimado_min": 1.2,
-  "fase_desde": "2026-11-16T10:47:06-06:00"
+  "fase_desde": "2026-11-16T10:48:02-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
