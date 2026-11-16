@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-16T12:16:48-06:00",
   "que": "revisando el PR #213 (chalan-local/2026-11-16-gastos-barco)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43916597476",
   "duraciones": [
    10.1,
@@ -38,7 +38,8 @@
    9.4,
    8.0
   ],
-  "estimado_min": 8.7
+  "estimado_min": 8.7,
+  "fase_desde": "2026-11-16T12:51:26-06:00"
  },
  "sherlock": {
   "estado": "termino",
