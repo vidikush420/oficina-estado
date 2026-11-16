@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-16T14:36:38-06:00",
   "que": "revisando el PR #214 (chalan-local/2026-11-16-cofres-economia)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/43950920217",
   "duraciones": [
    9.6,
@@ -38,7 +38,8 @@
    40.9,
    41.3
   ],
-  "estimado_min": 9.2
+  "estimado_min": 9.2,
+  "fase_desde": "2026-11-16T14:38:51-06:00"
  },
  "sherlock": {
   "estado": "termino",
