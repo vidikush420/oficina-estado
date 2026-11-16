@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-15T16:03:27-06:00",
-  "desde": "2026-11-15T15:54:02-06:00",
-  "que": "revisando el PR #210 (chalan-local/2026-11-15-cobertura-sala)",
-  "resumen": "PR #210 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43764333179",
+  "estado": "trabajando",
+  "desde": "2026-11-16T10:35:38-06:00",
+  "que": "revisando el PR #211 (claude/2026-11-16-ci-sin-docs-pesados)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43908869072",
   "duraciones": [
    9.7,
    10.1,
