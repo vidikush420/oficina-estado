@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T14:14:53-06:00",
-  "desde": "2026-11-16T14:12:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T14:17:20-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. El único trabajo pendiente (animar el puerto del juego Marea) espera a que se revise un cambio mío anterior de las cartas. No tienes que hacer nada; s",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.6,
