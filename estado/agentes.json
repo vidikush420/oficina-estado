@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-16T12:57:28-06:00",
+  "cuando": "2026-11-16T12:57:39-06:00",
   "desde": "2026-11-16T12:16:48-06:00",
   "que": "revisando el PR #213 (chalan-local/2026-11-16-gastos-barco)",
   "resumen": "PR #213 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43916597476",
   "duraciones": [
-   8.3,
    11.1,
    9.6,
    9.0,
@@ -37,9 +36,10 @@
    3.3,
    9.4,
    8.0,
-   40.7
+   40.7,
+   40.9
   ],
-  "estimado_min": 8.7
+  "estimado_min": 9.2
  },
  "sherlock": {
   "estado": "termino",
