@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T14:33:16-06:00",
-  "desde": "2026-11-16T14:22:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T14:35:41-06:00",
   "que": "corrida programada",
-  "resumen": "Medí cuánto dan los cofres del juego, sin cambiar nada. Resulta que son una cuarta parte del dinero que gana un jugador en el puerto, más de lo que parecía. Además, las cañas nuevas solo salen de cofr",
+  "fase": "",
   "url": "",
   "duraciones": [
    17.4,
