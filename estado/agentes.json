@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-16T12:58:04-06:00",
-  "desde": "2026-11-16T12:16:48-06:00",
-  "que": "revisando el PR #213 (chalan-local/2026-11-16-gastos-barco)",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43916597476",
+  "estado": "trabajando",
+  "desde": "2026-11-16T14:36:38-06:00",
+  "que": "revisando el PR #214 (chalan-local/2026-11-16-cofres-economia)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/43950920217",
   "duraciones": [
    9.6,
    9.0,
