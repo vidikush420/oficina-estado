@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-16T10:58:43-06:00",
   "que": "revisando el PR #212 (chalan-local/2026-11-16-pruebas-red-sala)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/43909811383",
   "duraciones": [
    9.7,
@@ -39,7 +39,7 @@
    9.4
   ],
   "estimado_min": 9.2,
-  "fase_desde": "2026-11-16T11:01:57-06:00"
+  "fase_desde": "2026-11-16T11:06:03-06:00"
  },
  "sherlock": {
   "estado": "termino",
