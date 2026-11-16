@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T14:37:08-06:00",
-  "desde": "2026-11-16T14:35:41-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T14:39:59-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada nuevo que me tocara: lo último que pediste ya está hecho y revisándose. Lo que queda en la lista espera una decisión tuya o de Claude, así que no inventé trabajo. No tienes que hacer nad",
+  "fase": "",
   "url": "",
   "duraciones": [
    15.7,
