@@ -62,13 +62,13 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T14:37:08-06:00",
   "desde": "2026-11-16T14:35:41-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No había nada nuevo que me tocara: lo último que pediste ya está hecho y revisándose. Lo que queda en la lista espera una decisión tuya o de Claude, así que no inventé trabajo. No tienes que hacer nad",
   "url": "",
   "duraciones": [
-   17.4,
    15.7,
    1.1,
    9.2,
@@ -77,9 +77,10 @@
    1.2,
    2.6,
    0.6,
-   10.5
+   10.5,
+   1.4
   ],
-  "estimado_min": 2.6
+  "estimado_min": 2.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
