@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T11:04:26-06:00",
-  "desde": "2026-11-16T11:03:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T11:08:15-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no empecé nada nuevo en Marea porque mis últimos cambios (gastos de barco, pruebas en línea, muelle y las 360 cartas) aún esperan revisión y no puedo abrir más encima. Cuando Aduana los revise sig",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
