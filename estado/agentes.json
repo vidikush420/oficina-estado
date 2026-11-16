@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T13:05:45-06:00",
-  "desde": "2026-11-16T13:03:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T13:15:08-06:00",
   "que": "corrida programada",
-  "resumen": "Ya están integrados los tres cambios que aprobaste (muelle, pasto y gastos de barco). No empecé nada nuevo porque queda uno mío esperando revisión (las 360 cartas) y no debo abrir otro encima. No tien",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
