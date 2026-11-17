@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-16T23:30:06-06:00",
   "que": "revisando el PR #218 (chalan-local/2026-11-17-canas-v2-ampliada)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/marea/actions/runs/44024288463",
   "duraciones": [
    9.4,
@@ -39,7 +39,7 @@
    6.4
   ],
   "estimado_min": 7.2,
-  "fase_desde": "2026-11-16T23:34:38-06:00"
+  "fase_desde": "2026-11-16T23:34:55-06:00"
  },
  "sherlock": {
   "estado": "termino",
