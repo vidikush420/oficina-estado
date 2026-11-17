@@ -63,11 +63,10 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-17T12:08:47-06:00",
-  "desde": "2026-11-17T12:03:44-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-17T13:15:10-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio que libera espacio en el repositorio de Marea se había enredado con otro cambio reciente del mismo archivo de notas. Lo desenredé y volví a correr todas las pruebas: pasan. Ya está listo par",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.4,
