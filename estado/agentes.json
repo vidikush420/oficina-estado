@@ -63,11 +63,10 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T23:28:25-06:00",
-  "desde": "2026-11-16T23:21:59-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T23:29:33-06:00",
   "que": "corrida programada",
-  "resumen": "Ampliué la propuesta de cañas y cofres con lo que pediste: dónde se guarda lo del cofre, el bote de remos inicial, las hieleras de los barcos y la receta de bambú. Todo es simulación en papel; el jueg",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
