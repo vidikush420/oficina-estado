@@ -63,13 +63,13 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T18:18:59-06:00",
   "desde": "2026-11-16T18:11:59-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 documento de cañas y cofres V2",
+  "resumen": "La moneda de paga del juego ya se llama Lumens en todos los documentos, y eso ya quedó integrado. Además armé y probé en simulación cómo serían las cañas que se mejoran con monedas y materiales, y los",
   "url": "",
   "duraciones": [
-   1.2,
    2.6,
    0.6,
    10.5,
@@ -78,10 +78,10 @@
    0.9,
    0.7,
    1.1,
-   53.9
+   53.9,
+   7.0
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-16T18:18:08-06:00"
+  "estimado_min": 1.3
  },
  "gerente-de-zara": {
   "estado": "trabajando",
