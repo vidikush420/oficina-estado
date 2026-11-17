@@ -63,11 +63,10 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T18:48:22-06:00",
-  "desde": "2026-11-16T18:47:11-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T19:15:07-06:00",
   "que": "corrida programada",
-  "resumen": "Esta vez no hice trabajo nuevo. Mi entrega de las 360 cartas de Marea lleva días sin que nadie la revise y mis reglas me impiden abrir otra encima. Si quieres que avance con las gaviotas y banderas de",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
