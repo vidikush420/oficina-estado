@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-16T18:44:13-06:00",
+  "cuando": "2026-11-16T18:44:26-06:00",
   "desde": "2026-11-16T18:38:03-06:00",
   "que": "revisando el PR #217 (chalan-local/2026-11-16-canas-cofres-v2)",
   "resumen": "PR #217 → PASA, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/43986596804",
   "duraciones": [
-   3.3,
    9.4,
    8.0,
    40.7,
@@ -37,9 +36,10 @@
    2.9,
    2.4,
    3.9,
-   6.2
+   6.2,
+   6.4
   ],
-  "estimado_min": 7.1
+  "estimado_min": 7.2
  },
  "sherlock": {
   "estado": "termino",
