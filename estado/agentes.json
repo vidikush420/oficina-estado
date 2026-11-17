@@ -63,13 +63,13 @@
   "estimado_min": 1.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T23:40:58-06:00",
   "desde": "2026-11-16T23:40:15-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hice trabajo nuevo. Mis dos entregas de Marea están esperando revisión y mis reglas no me dejan abrir otra encima; lo demás espera datos o accesos tuyos. No tienes que hacer nada, salvo que Adu",
   "url": "",
   "duraciones": [
-   1.1,
    53.9,
    7.0,
    1.6,
@@ -78,7 +78,8 @@
    1.2,
    1.4,
    6.4,
-   7.2
+   7.2,
+   0.7
   ],
   "estimado_min": 1.5
  },
