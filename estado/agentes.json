@@ -63,11 +63,10 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T18:45:47-06:00",
-  "desde": "2026-11-16T18:44:42-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T18:47:11-06:00",
   "que": "corrida programada",
-  "resumen": "Esta vez no hice trabajo nuevo. Tengo una entrega vieja en Marea (las 360 cartas, del 12/11) que nadie ha revisado, y mis reglas me impiden abrir otra mientras siga ahí. Si quieres que avance con las",
+  "fase": "",
   "url": "",
   "duraciones": [
    10.5,
