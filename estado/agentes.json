@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-17T08:43:35-06:00",
   "desde": "2026-11-17T08:35:58-06:00",
   "que": "revisando el PR #220 (claude/2026-11-17-build-local-sin-artefacto)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #45 → NO PASA (cambia workflow), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/44104464381",
   "duraciones": [
-   40.7,
    40.9,
    41.3,
    2.9,
@@ -36,10 +36,10 @@
    6.2,
    6.4,
    5.0,
-   13.3
+   13.3,
+   7.6
   ],
-  "estimado_min": 6.3,
-  "fase_desde": "2026-11-17T08:43:17-06:00"
+  "estimado_min": 6.3
  },
  "sherlock": {
   "estado": "termino",
