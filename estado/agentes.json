@@ -63,11 +63,10 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T19:16:21-06:00",
-  "desde": "2026-11-16T19:15:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T22:01:03-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hice trabajo nuevo. Mi entrega de las 360 cartas de Marea lleva días sin que nadie la revise y mis reglas me impiden abrir otra encima. Si quieres que avance con la vida del puerto, pide a Adua",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
