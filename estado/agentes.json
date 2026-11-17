@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T23:35:05-06:00",
   "desde": "2026-11-16T23:30:06-06:00",
   "que": "revisando el PR #218 (chalan-local/2026-11-17-canas-v2-ampliada)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #218 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/44024288463",
   "duraciones": [
-   9.4,
    8.0,
    40.7,
    40.9,
@@ -36,10 +36,10 @@
    2.4,
    3.9,
    6.2,
-   6.4
+   6.4,
+   5.0
   ],
-  "estimado_min": 7.2,
-  "fase_desde": "2026-11-16T23:34:55-06:00"
+  "estimado_min": 6.3
  },
  "sherlock": {
   "estado": "termino",
