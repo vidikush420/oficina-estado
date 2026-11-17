@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-17T10:15:42-06:00",
-  "desde": "2026-11-17T10:15:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-17T11:43:18-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hice trabajo nuevo. Tengo un cambio en Marea (las 360 cartas) esperando revisión desde hace cinco días y mi regla me impide empezar otro mientras siga así. Decide si se aprueba o se descarta y",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
