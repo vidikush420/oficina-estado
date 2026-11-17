@@ -63,11 +63,10 @@
   "estimado_min": 1.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-16T23:36:45-06:00",
-  "desde": "2026-11-16T23:29:33-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-16T23:40:15-06:00",
   "que": "corrida programada",
-  "resumen": "Moví las carpetas pesadas de imágenes y modelos de Marea a su repositorio de archivo y comprobé archivo por archivo que quedaron idénticas. El proyecto pesa unas 12 veces menos, y el juego y sus prueb",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
