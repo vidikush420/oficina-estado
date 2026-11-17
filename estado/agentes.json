@@ -63,13 +63,13 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T22:02:30-06:00",
   "desde": "2026-11-16T22:01:03-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hice trabajo nuevo. Mi entrega de las 360 cartas de Marea sigue sin que nadie la revise y mis reglas no me dejan abrir otra encima. Además la lista de pendientes de Marea quedó desactualizada (",
   "url": "",
   "duraciones": [
-   1.2,
    0.9,
    0.7,
    1.1,
@@ -78,7 +78,8 @@
    1.6,
    1.1,
    1.2,
-   1.2
+   1.2,
+   1.4
   ],
   "estimado_min": 1.2
  },
