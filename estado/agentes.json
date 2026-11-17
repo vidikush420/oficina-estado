@@ -63,13 +63,13 @@
   "estimado_min": 1.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-17T05:43:32-06:00",
   "desde": "2026-11-17T05:41:53-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hice trabajo nuevo. En Marea hay una entrega mía de hace cinco días que nadie ha revisado y las reglas me impiden empezar otra mientras tanto. En los demás proyectos lo que falta depende de ti.",
   "url": "",
   "duraciones": [
-   7.0,
    1.6,
    1.1,
    1.2,
@@ -78,7 +78,8 @@
    6.4,
    7.2,
    0.7,
-   4.5
+   4.5,
+   1.6
   ],
   "estimado_min": 1.5
  },
