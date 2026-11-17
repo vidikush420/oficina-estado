@@ -63,13 +63,13 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-17T11:56:09-06:00",
   "desde": "2026-11-17T11:43:18-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 4/4 abriendo el PR",
+  "resumen": "Medí qué tan fluido corre el puerto de Marea en un iPhone simulado: da unos 23 cuadros por segundo, y la meta es 30. Lo que más lo frena son las islas. No cambié el juego, solo dejé la medición escrit",
   "url": "",
   "duraciones": [
-   1.2,
    1.2,
    1.4,
    6.4,
@@ -78,10 +78,10 @@
    4.5,
    1.6,
    2.0,
-   0.6
+   0.6,
+   12.8
   ],
-  "estimado_min": 1.5,
-  "fase_desde": "2026-11-17T11:55:46-06:00"
+  "estimado_min": 1.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
