@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-16T18:44:26-06:00",
-  "desde": "2026-11-16T18:38:03-06:00",
-  "que": "revisando el PR #217 (chalan-local/2026-11-16-canas-cofres-v2)",
-  "resumen": "PR #217 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/43986596804",
+  "estado": "trabajando",
+  "desde": "2026-11-16T23:30:06-06:00",
+  "que": "revisando el PR #218 (chalan-local/2026-11-17-canas-v2-ampliada)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/44024288463",
   "duraciones": [
    9.4,
    8.0,
