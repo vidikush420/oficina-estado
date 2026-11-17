@@ -63,13 +63,13 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T18:21:03-06:00",
   "desde": "2026-11-16T18:19:26-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Esta vez no hice trabajo nuevo. En Marea todavía está esperando revisión lo último que entregué, y en Sunday el siguiente pendiente toca la entrega de pedidos reales y no hay forma de probarlo en esta",
   "url": "",
   "duraciones": [
-   2.6,
    0.6,
    10.5,
    1.4,
@@ -78,7 +78,8 @@
    0.7,
    1.1,
    53.9,
-   7.0
+   7.0,
+   1.6
   ],
   "estimado_min": 1.3
  },
