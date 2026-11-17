@@ -63,13 +63,13 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-16T18:10:37-06:00",
   "desde": "2026-11-16T17:16:43-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 1/4 leyendo el proyecto",
+  "resumen": "Guardé una copia de las imágenes pesadas del juego en un repositorio aparte y comprobé archivo por archivo que quedó todo idéntico (2 641 de 2 641). Al juego no le quité nada. No tienes que hacer nada",
   "url": "",
   "duraciones": [
-   2.6,
    1.2,
    2.6,
    0.6,
@@ -78,10 +78,10 @@
    1.2,
    0.9,
    0.7,
-   1.1
+   1.1,
+   53.9
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-16T17:17:20-06:00"
+  "estimado_min": 1.2
  },
  "gerente-de-zara": {
   "estado": "trabajando",
