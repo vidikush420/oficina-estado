@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-17T03:01:48-06:00",
-  "desde": "2026-11-17T02:48:31-06:00",
-  "que": "revisando el PR #219 (chalan-local/2026-11-17-limpieza-fase1)",
-  "resumen": "PR #219 → OJO espera a Miguel (borrado masivo), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/44049363721",
+  "estado": "trabajando",
+  "desde": "2026-11-17T08:34:05-06:00",
+  "que": "revisando el PR #45 (claude/2026-11-17-marea-build-local)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/44104471323",
   "duraciones": [
    40.7,
    40.9,
