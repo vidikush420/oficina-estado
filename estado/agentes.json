@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-17T12:12:23-06:00",
   "que": "revisando el PR #219 (chalan-local/2026-11-17-limpieza-fase1)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/marea/actions/runs/44144596284",
   "duraciones": [
    2.4,
@@ -39,7 +39,7 @@
    13.4
   ],
   "estimado_min": 5.7,
-  "fase_desde": "2026-11-17T12:17:13-06:00"
+  "fase_desde": "2026-11-17T12:17:25-06:00"
  },
  "sherlock": {
   "estado": "termino",
