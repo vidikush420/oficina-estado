@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-16T18:11:59-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 2/4 simulando cañas por mejora y cofres",
+  "fase": "Marea: 3/4 documento de cañas y cofres V2",
   "url": "",
   "duraciones": [
    1.2,
@@ -81,7 +81,7 @@
    53.9
   ],
   "estimado_min": 1.2,
-  "fase_desde": "2026-11-16T18:13:14-06:00"
+  "fase_desde": "2026-11-16T18:18:08-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
