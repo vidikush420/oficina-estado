@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-17T03:01:48-06:00",
   "desde": "2026-11-17T02:48:31-06:00",
   "que": "revisando el PR #219 (chalan-local/2026-11-17-limpieza-fase1)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #219 → OJO espera a Miguel (borrado masivo), no fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/44049363721",
   "duraciones": [
-   8.0,
    40.7,
    40.9,
    41.3,
@@ -36,10 +36,10 @@
    3.9,
    6.2,
    6.4,
-   5.0
+   5.0,
+   13.3
   ],
-  "estimado_min": 6.3,
-  "fase_desde": "2026-11-17T03:01:34-06:00"
+  "estimado_min": 6.3
  },
  "sherlock": {
   "estado": "termino",
