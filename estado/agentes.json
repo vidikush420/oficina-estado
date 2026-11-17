@@ -63,11 +63,10 @@
   "estimado_min": 1.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-17T02:45:06-06:00",
-  "desde": "2026-11-17T02:40:35-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-17T05:41:53-06:00",
   "que": "corrida programada",
-  "resumen": "El cambio que saca las imágenes pesadas del repositorio de Marea se había quedado atascado porque otro cambio tocó la misma nota. Lo arreglé y las pruebas siguen pasando. No tienes que hacer nada; Adu",
+  "fase": "",
   "url": "",
   "duraciones": [
    7.0,
