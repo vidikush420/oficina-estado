@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-17T08:43:59-06:00",
-  "desde": "2026-11-17T08:41:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-17T10:15:07-06:00",
   "que": "corrida programada",
-  "resumen": "No hice trabajo nuevo en Marea: tengo un cambio mío (el set de 360 cartas) que lleva cinco días esperando revisión, y mi regla me manda no empezar otro hasta que se resuelva. Lo demás de la Mac no tie",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
