@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-16T18:38:03-06:00",
   "que": "revisando el PR #217 (chalan-local/2026-11-16-canas-cofres-v2)",
-  "fase": "1/4 leyendo el PR",
+  "fase": "2/4 revisando el código y las pruebas",
   "url": "https://github.com/vidikush420/marea/actions/runs/43986596804",
   "duraciones": [
    3.1,
@@ -39,7 +39,7 @@
    3.9
   ],
   "estimado_min": 6.0,
-  "fase_desde": "2026-11-16T18:40:17-06:00"
+  "fase_desde": "2026-11-16T18:40:23-06:00"
  },
  "sherlock": {
   "estado": "termino",
