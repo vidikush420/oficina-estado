@@ -63,13 +63,13 @@
   "estimado_min": 1.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-17T13:16:04-06:00",
   "desde": "2026-11-17T13:15:10-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No empecé nada nuevo hoy porque hay un trabajo mío de hace 5 días (el cambio de las 360 cartas) que nadie ha revisado todavía, y la regla es no apilar más. Pedí que lo revisen. Tú no tienes que hacer",
   "url": "",
   "duraciones": [
-   6.4,
    7.2,
    0.7,
    4.5,
@@ -78,9 +78,10 @@
    0.6,
    12.8,
    1.1,
-   5.0
+   5.0,
+   0.9
   ],
-  "estimado_min": 3.2
+  "estimado_min": 1.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
