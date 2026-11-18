@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T15:07:33-06:00",
-  "desde": "2026-11-18T15:06:37-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T16:08:49-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo yo pudiera hacer en la Mac. Las tareas de Siniestros que me tocan están esperando a que tú mandes las capturas del portal de Thona y crees el proyecto en Supabase. Marea sig",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
