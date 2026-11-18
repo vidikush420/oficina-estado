@@ -63,13 +63,13 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-18T04:08:49-06:00",
   "desde": "2026-11-18T04:08:05-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy otra vez no pude avanzar: la mejora de fluidez de Marea en celular espera a que se revise mi cambio de las 360 cartas, que lleva seis días sin revisión. Decide si lo apruebas o lo descartas, o dim",
   "url": "",
   "duraciones": [
-   0.7,
    4.5,
    1.6,
    2.0,
@@ -78,7 +78,8 @@
    1.1,
    5.0,
    0.9,
-   1.1
+   1.1,
+   0.7
   ],
   "estimado_min": 1.4
  },
