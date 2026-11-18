@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "fallo",
-  "cuando": "2026-11-18T16:31:41-06:00",
+  "cuando": "2026-11-18T16:31:53-06:00",
   "desde": "2026-11-18T16:31:05-06:00",
   "que": "revisando el PR #20 (claude/2026-11-18-impeccable-completo)",
   "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/44412270176",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/44412287010",
   "duraciones": [
-   5.2,
    13.4,
    5.2,
    0.5,
@@ -37,7 +36,8 @@
    0.5,
    0.3,
    0.3,
-   0.6
+   0.6,
+   0.8
   ],
   "estimado_min": 0.5
  },
