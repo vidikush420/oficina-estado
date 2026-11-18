@@ -63,13 +63,13 @@
   "estimado_min": 2.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-18T13:01:09-06:00",
   "desde": "2026-11-18T12:52:26-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros Cajas: 4/4 abriendo el PR",
+  "resumen": "Terminé el motor del robot de Thona y lo probé contra un portal de mentira; funciona y no envía nada sin confirmación. También dejé lista la pantalla del botón «Subir a portal» con capturas de ejemplo",
   "url": "",
   "duraciones": [
-   2.0,
    0.6,
    12.8,
    1.1,
@@ -78,10 +78,10 @@
    1.1,
    0.7,
    41.0,
-   74.8
+   74.8,
+   8.7
   ],
-  "estimado_min": 1.6,
-  "fase_desde": "2026-11-18T12:56:46-06:00"
+  "estimado_min": 3.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
