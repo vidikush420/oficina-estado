@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-18T13:15:57-06:00",
+  "cuando": "2026-11-18T14:48:03-06:00",
   "desde": "2026-11-18T13:15:05-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé si había algo para hacer en la Mac y no hay nada que pueda avanzar solo. Lo que sigue del robot de Thona necesita que tú pases las capturas del portal, guardes las contraseñas y elijas el exped",
+  "resumen": "Hoy no había nada que pudiera avanzar solo en la Mac. Lo que sigue del robot de Thona necesita que me pases las capturas del portal, guardes usuario y contraseña, y elijas el expediente de prueba. Mar",
   "url": "",
   "duraciones": [
-   5.0,
    0.9,
    1.1,
    0.7,
@@ -79,7 +78,8 @@
    8.7,
    0.9,
    0.8,
-   0.9
+   0.9,
+   93.0
   ],
   "estimado_min": 1.0
  },
