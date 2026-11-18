@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-17T12:17:37-06:00",
-  "desde": "2026-11-17T12:12:23-06:00",
-  "que": "revisando el PR #219 (chalan-local/2026-11-17-limpieza-fase1)",
-  "resumen": "PR #219 → OJO, espera a Miguel (borrado masivo), no fusionado",
-  "url": "https://github.com/vidikush420/marea/actions/runs/44144596284",
+  "estado": "trabajando",
+  "desde": "2026-11-18T11:50:53-06:00",
+  "que": "revisando el PR #5 (claude/thona-subir-a-portal)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/44363132882",
   "duraciones": [
    3.9,
    6.2,
