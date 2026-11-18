@@ -43,13 +43,12 @@
  },
  "sherlock": {
   "estado": "termino",
-  "cuando": "2026-11-18T11:10:26-06:00",
+  "cuando": "2026-11-18T12:05:07-06:00",
   "desde": "2026-11-18T10:14:43-06:00",
   "que": "veredicto de beta",
-  "resumen": "5c487d9456dbfebe38d4aa1fb5208679c5fefce3 incompleto",
+  "resumen": "esperando turno: Chalán local trabaja",
   "url": "",
   "duraciones": [
-   120.2,
    3.6,
    1.1,
    1.6,
@@ -58,7 +57,8 @@
    120.2,
    1.1,
    11.8,
-   55.7
+   55.7,
+   110.4
   ],
   "estimado_min": 2.6
  },
