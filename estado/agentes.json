@@ -64,10 +64,10 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-17T15:05:12-06:00",
+  "cuando": "2026-11-17T19:40:15-06:00",
   "desde": "2026-11-17T15:04:06-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hice trabajo nuevo. La unica tarea para la Mac (que Marea corra mas fluido en celular) esta detenida porque un trabajo mio anterior, el de las 360 cartas, lleva cinco dias sin que nadie lo revi",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. El trabajo de Marea para mejorar la velocidad en celular espera a que el revisor termine con un cambio mío anterior (las 360 cartas). No tienes que ha",
   "url": "",
   "duraciones": [
    0.7,
