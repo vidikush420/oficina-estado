@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-18T16:05:55-06:00",
   "desde": "2026-11-18T16:05:27-06:00",
   "que": "revisando el PR #8 (claude/2026-11-18-thona-mapa)",
-  "fase": "",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/44408063554",
   "duraciones": [
-   5.0,
    13.3,
    7.6,
    0.5,
@@ -36,9 +36,10 @@
    5.2,
    0.5,
    0.5,
-   0.4
+   0.4,
+   0.5
   ],
-  "estimado_min": 5.1
+  "estimado_min": 2.9
  },
  "sherlock": {
   "estado": "trabajando",
