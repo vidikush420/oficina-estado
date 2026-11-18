@@ -63,13 +63,13 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-18T16:14:14-06:00",
   "desde": "2026-11-18T16:13:19-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé los proyectos y no hay ningún trabajo que dependa de la Mac y que pueda hacer yo solo ahora. Lo que queda de Siniestros espera a que lleguen las pantallas que faltan del portal de Thona y a dec",
   "url": "",
   "duraciones": [
-   0.7,
    41.0,
    74.8,
    8.7,
@@ -78,7 +78,8 @@
    0.9,
    93.0,
    0.9,
-   3.6
+   3.6,
+   0.9
   ],
   "estimado_min": 2.2
  },
