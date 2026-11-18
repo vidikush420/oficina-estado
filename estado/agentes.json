@@ -63,13 +63,13 @@
   "estimado_min": 2.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-18T13:15:57-06:00",
   "desde": "2026-11-18T13:15:05-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé si había algo para hacer en la Mac y no hay nada que pueda avanzar solo. Lo que sigue del robot de Thona necesita que tú pases las capturas del portal, guardes las contraseñas y elijas el exped",
   "url": "",
   "duraciones": [
-   1.1,
    5.0,
    0.9,
    1.1,
@@ -78,9 +78,10 @@
    74.8,
    8.7,
    0.9,
-   0.8
+   0.8,
+   0.9
   ],
-  "estimado_min": 1.1
+  "estimado_min": 1.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
