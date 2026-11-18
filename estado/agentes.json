@@ -63,11 +63,10 @@
   "estimado_min": 2.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T13:04:25-06:00",
-  "desde": "2026-11-18T13:03:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T13:15:05-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que me tocara. Lo urgente de Thona ya lo dejó hecho Claude y espera revisión tuya. Lo que sigue en Thona necesita que pases las capturas del portal, guardes el usuario y la contraseñ",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
