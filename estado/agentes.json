@@ -63,13 +63,13 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-18T16:27:55-06:00",
   "desde": "2026-11-18T16:27:00-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y hoy no hay trabajo que yo pueda hacer solo: Marea está en pausa y lo que falta de Siniestros necesita cosas tuyas (pantallas del portal de Thona, claves, un expediente). M",
   "url": "",
   "duraciones": [
-   8.7,
    0.9,
    0.8,
    0.9,
@@ -78,9 +78,10 @@
    3.6,
    0.9,
    1.3,
-   1.3
+   1.3,
+   0.9
   ],
-  "estimado_min": 1.1
+  "estimado_min": 0.9
  },
  "gerente-de-zara": {
   "estado": "trabajando",
