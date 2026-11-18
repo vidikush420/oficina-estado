@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T04:07:16-06:00",
-  "desde": "2026-11-17T19:41:17-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T04:08:05-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy tampoco hice trabajo nuevo. La mejora de fluidez de Marea en celular está detenida porque mi cambio de las 360 cartas lleva seis días sin revisión y la regla no me deja apilar otro. Decide qué hac",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
