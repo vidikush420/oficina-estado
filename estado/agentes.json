@@ -42,11 +42,10 @@
   "estimado_min": 5.7
  },
  "sherlock": {
-  "estado": "termino",
-  "cuando": "2026-11-17T20:15:14-06:00",
-  "desde": "2026-11-17T14:05:08-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T08:08:40-06:00",
   "que": "veredicto de beta",
-  "resumen": "esperando turno: Chalán local trabaja",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.7,
