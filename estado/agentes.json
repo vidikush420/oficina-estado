@@ -63,13 +63,13 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-18T16:16:18-06:00",
   "desde": "2026-11-18T16:15:02-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no hice trabajo nuevo: los dos cambios que dejé para Siniestros siguen esperando revisión y, mientras esperan, no puedo abrir otro. Lo que sigue del robot de Thona necesita pantallas del portal y",
   "url": "",
   "duraciones": [
-   41.0,
    74.8,
    8.7,
    0.9,
@@ -78,9 +78,10 @@
    93.0,
    0.9,
    3.6,
-   0.9
+   0.9,
+   1.3
   ],
-  "estimado_min": 2.2
+  "estimado_min": 1.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
