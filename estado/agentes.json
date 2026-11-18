@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T16:12:28-06:00",
-  "desde": "2026-11-18T16:08:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T16:13:19-06:00",
   "que": "corrida programada",
-  "resumen": "Separé el robot en una parte común y una parte por aseguradora, para que sirva a todas y Thona sea solo la primera. El botón «Subir a portal» ahora es lo principal del trámite cuando la aseguradora ti",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
