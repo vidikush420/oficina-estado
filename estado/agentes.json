@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-18T16:31:00-06:00",
-  "que": "revisando el PR #10 (claude/2026-11-18-impeccable-completo)",
+  "desde": "2026-11-18T16:31:05-06:00",
+  "que": "revisando el PR #20 (claude/2026-11-18-impeccable-completo)",
   "fase": "",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/44412270176",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/44412287010",
   "duraciones": [
    0.5,
    5.2,
