@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "fallo",
+  "cuando": "2026-11-18T11:51:21-06:00",
   "desde": "2026-11-18T11:50:53-06:00",
   "que": "revisando el PR #5 (claude/thona-subir-a-portal)",
-  "fase": "",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/44363132882",
   "duraciones": [
-   3.9,
    6.2,
    6.4,
    5.0,
@@ -36,7 +36,8 @@
    0.5,
    5.2,
    13.4,
-   5.2
+   5.2,
+   0.5
   ],
   "estimado_min": 5.7
  },
