@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T16:25:55-06:00",
-  "desde": "2026-11-18T16:24:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T16:27:00-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hice trabajo nuevo: los dos cambios que dejé listos para el robot de Thona siguen esperando que alguien los revise y los apruebe. Lo siguiente depende de ellos y de las pantallas del portal que",
+  "fase": "",
   "url": "",
   "duraciones": [
    8.7,
