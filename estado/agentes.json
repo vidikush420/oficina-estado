@@ -63,13 +63,13 @@
   "estimado_min": 2.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-18T13:02:29-06:00",
   "desde": "2026-11-18T13:01:36-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros Cajas: 4/4 abriendo el PR",
+  "resumen": "Ya quedaron listas las dos piezas del robot que sube trámites al portal de Thona: el motor, probado contra un portal de mentira, y el botón «Subir a portal» con su pantalla de confirmación. No se tocó",
   "url": "",
   "duraciones": [
-   0.6,
    12.8,
    1.1,
    5.0,
@@ -78,10 +78,10 @@
    0.7,
    41.0,
    74.8,
-   8.7
+   8.7,
+   0.9
   ],
-  "estimado_min": 3.0,
-  "fase_desde": "2026-11-18T13:02:08-06:00"
+  "estimado_min": 3.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
