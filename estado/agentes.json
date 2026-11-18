@@ -63,12 +63,13 @@
   "estimado_min": 2.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-18T12:51:58-06:00",
   "desde": "2026-11-18T11:37:10-06:00",
   "que": "",
+  "resumen": "Encontré por qué las islas lejanas costaban tanto en el celular: un ajuste que debía aligerarlas se aplicaba antes de que las islas existieran, así que nunca hacía nada. Ya lo arreglé y el juego subió",
   "url": "",
   "duraciones": [
-   1.6,
    2.0,
    0.6,
    12.8,
@@ -77,11 +78,10 @@
    0.9,
    1.1,
    0.7,
-   41.0
+   41.0,
+   74.8
   ],
-  "fase": "Marea: 4/4 abriendo el PR",
-  "fase_desde": "2026-11-18T12:51:35-06:00",
-  "estimado_min": 1.4
+  "estimado_min": 1.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
