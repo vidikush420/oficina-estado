@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-18T15:38:48-06:00",
-  "desde": "2026-11-18T15:38:25-06:00",
-  "que": "revisando el PR #6 (chalan-local/2026-11-18-thona-motor-robot)",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/44375215314",
+  "estado": "trabajando",
+  "desde": "2026-11-18T16:05:27-06:00",
+  "que": "revisando el PR #8 (claude/2026-11-18-thona-mapa)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/44408063554",
   "duraciones": [
    5.0,
    13.3,
