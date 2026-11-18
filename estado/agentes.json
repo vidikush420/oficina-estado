@@ -63,11 +63,10 @@
   "estimado_min": 2.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T13:01:09-06:00",
-  "desde": "2026-11-18T12:52:26-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T13:01:36-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé el motor del robot de Thona y lo probé contra un portal de mentira; funciona y no envía nada sin confirmación. También dejé lista la pantalla del botón «Subir a portal» con capturas de ejemplo",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.6,
