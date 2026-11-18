@@ -63,11 +63,10 @@
   "estimado_min": 2.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T12:51:58-06:00",
-  "desde": "2026-11-18T11:37:10-06:00",
-  "que": "",
-  "resumen": "Encontré por qué las islas lejanas costaban tanto en el celular: un ajuste que debía aligerarlas se aplicaba antes de que las islas existieran, así que nunca hacía nada. Ya lo arreglé y el juego subió",
+  "estado": "trabajando",
+  "desde": "2026-11-18T12:52:26-06:00",
+  "que": "corrida programada",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.0,
