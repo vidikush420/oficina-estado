@@ -63,11 +63,10 @@
   "estimado_min": 2.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T13:02:29-06:00",
-  "desde": "2026-11-18T13:01:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T13:03:38-06:00",
   "que": "corrida programada",
-  "resumen": "Ya quedaron listas las dos piezas del robot que sube trámites al portal de Thona: el motor, probado contra un portal de mentira, y el botón «Subir a portal» con su pantalla de confirmación. No se tocó",
+  "fase": "",
   "url": "",
   "duraciones": [
    12.8,
