@@ -63,11 +63,10 @@
   "estimado_min": 12.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T13:38:24-06:00",
-  "desde": "2026-11-19T13:36:52-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T13:38:57-06:00",
   "que": "corrida programada",
-  "resumen": "La revisión automática del primer cambio lleva casi una hora trabada y no pude cancelarla (no tengo permiso). Otra revisión reciente volvió a dar el error de acceso, así que paré antes de empujar más",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.4,
