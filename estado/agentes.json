@@ -63,11 +63,10 @@
   "estimado_min": 12.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T07:57:18-06:00",
-  "desde": "2026-11-19T07:56:13-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T12:11:57-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que necesitara la Mac. Lo único que sigue trabado es la revisión automática de los cambios de Siniestros, que falla hasta que apruebes el cambio chico que ya dejé listo (el PR #11).",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.6,
