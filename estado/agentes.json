@@ -63,11 +63,10 @@
   "estimado_min": 12.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T13:36:11-06:00",
-  "desde": "2026-11-19T12:44:31-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T13:36:52-06:00",
   "que": "corrida programada",
-  "resumen": "Puse al día la primera de las cuatro propuestas de Siniestros. El revisor automático ya no dio el error de permisos, pero lleva casi una hora sin terminar. Como tenía que esperarlo antes de seguir, la",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
