@@ -63,13 +63,13 @@
   "estimado_min": 12.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-19T12:41:04-06:00",
   "desde": "2026-11-19T12:40:21-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Lo que sigue en Siniestros depende de ti: las capturas del portal de Thona, las claves de acceso y el proyecto de Supabase. No tienes que hacer nada ur",
   "url": "",
   "duraciones": [
-   1.3,
    1.3,
    0.9,
    4.4,
@@ -78,9 +78,10 @@
    1.3,
    1.1,
    1.1,
+   0.7,
    0.7
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
