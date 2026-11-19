@@ -63,11 +63,10 @@
   "estimado_min": 7.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T00:54:15-06:00",
-  "desde": "2026-11-19T00:52:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T03:52:54-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Lo que sigue del robot de Thona espera las pantallas que faltan del portal y tus claves. Si puedes: fusiona el arreglo #11 de Siniestros (repara la rev",
+  "fase": "",
   "url": "",
   "duraciones": [
    93.0,
