@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-18T16:36:32-06:00",
-  "desde": "2026-11-18T16:32:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-18T21:52:22-06:00",
   "que": "corrida programada",
-  "resumen": "Busqué por qué el revisor automático falla en tres proyectos. La causa no es la credencial guardada en tu Mac: es que el pase que le da la app Claude no alcanza esos repos. Preparé un arreglo pequeño",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
