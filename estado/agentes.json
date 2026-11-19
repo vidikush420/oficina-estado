@@ -63,11 +63,10 @@
   "estimado_min": 7.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T03:54:13-06:00",
-  "desde": "2026-11-19T03:52:54-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T07:56:13-06:00",
   "que": "corrida programada",
-  "resumen": "Busqué trabajo para la Mac y no hay nada que pueda hacer yo solo ahora. Lo de Thona espera tres cosas tuyas: fusionar los avances ya listos (#6, #7 y #11 de siniestros), guardar el usuario y la contra",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
