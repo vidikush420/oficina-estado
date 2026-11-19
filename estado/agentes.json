@@ -63,11 +63,10 @@
   "estimado_min": 12.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T13:50:35-06:00",
-  "desde": "2026-11-19T13:49:48-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T13:51:23-06:00",
   "que": "corrida programada",
-  "resumen": "El revisor automático (Aduana) sigue rechazando los cambios de Siniestros con un error de permisos, aunque ya se aplicó el arreglo anterior. Por eso dejé de empujar más cambios, como pediste. Tienes q",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.6,
