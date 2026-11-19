@@ -63,11 +63,10 @@
   "estimado_min": 7.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T16:19:50-06:00",
-  "desde": "2026-11-19T16:15:19-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T16:52:18-06:00",
   "que": "corrida programada",
-  "resumen": "No hay nada que yo pueda avanzar en la Mac. Lo que sigue trabado es lo mismo de esta mañana: en GitHub, el repo de Siniestros tiene los permisos de las automatizaciones en «solo lectura», y por eso el",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
