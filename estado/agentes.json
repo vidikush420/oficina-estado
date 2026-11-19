@@ -63,11 +63,10 @@
   "estimado_min": 12.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T13:49:20-06:00",
-  "desde": "2026-11-19T13:38:57-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T13:49:48-06:00",
   "que": "corrida programada",
-  "resumen": "Probé de nuevo el revisor automático (Aduana) en el trámite #3 y volvió a fallar con el mismo error de permisos, aunque ya está tu arreglo. Por eso no toqué los otros tres, como pediste. Tú tienes que",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
