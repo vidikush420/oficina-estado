@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-19T12:53:51-06:00",
-  "que": "revisando el PR #21 (claude/2026-11-19-aduana-github-token)",
+  "desde": "2026-11-19T12:53:55-06:00",
+  "que": "revisando el PR #19 (claude/2026-11-19-aduana-github-token)",
   "fase": "",
-  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/44592566515",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/44592577441",
   "duraciones": [
    0.5,
    0.5,
