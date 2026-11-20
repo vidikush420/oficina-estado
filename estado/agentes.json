@@ -63,11 +63,10 @@
   "estimado_min": 7.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-19T16:53:16-06:00",
-  "desde": "2026-11-19T16:52:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-19T19:15:06-06:00",
   "que": "corrida programada",
-  "resumen": "No había ningún trabajo que solo pueda hacer la Mac. Lo pendiente en Siniestros espera a que revises los permisos de GitHub (el error 403) o a que me des datos. No tienes que hacer nada nuevo salvo es",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
