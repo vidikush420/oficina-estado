@@ -63,13 +63,13 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-20T05:00:32-06:00",
   "desde": "2026-11-20T04:59:47-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Sigo sin tener trabajo que solo pueda hacer la Mac y que no esté esperando algo tuyo. No cambié nada. No tienes que hacer nada nuevo.",
   "url": "",
   "duraciones": [
-   10.4,
    0.8,
    0.7,
    4.5,
@@ -78,9 +78,10 @@
    0.8,
    0.8,
    4.2,
-   1.0
+   1.0,
+   0.8
   ],
-  "estimado_min": 0.9
+  "estimado_min": 0.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
