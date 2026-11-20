@@ -63,13 +63,13 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-20T01:59:54-06:00",
   "desde": "2026-11-20T01:58:55-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo pueda hacer la Mac y que no esté esperando a otra persona o en pausa. No cambié nada. Tú no tienes que hacer nada nuevo; sigue pendiente lo de los permisos/credenciales de A",
   "url": "",
   "duraciones": [
-   1.5,
    10.4,
    0.8,
    0.7,
@@ -78,7 +78,8 @@
    0.6,
    0.8,
    0.8,
-   4.2
+   4.2,
+   1.0
   ],
   "estimado_min": 0.9
  },
