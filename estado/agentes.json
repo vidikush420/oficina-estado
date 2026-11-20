@@ -63,11 +63,10 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-20T01:58:16-06:00",
-  "desde": "2026-11-20T01:54:05-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-20T01:58:55-06:00",
   "que": "corrida programada",
-  "resumen": "Busqué por qué Aduana no puede revisar los repos privados desde la Mac, sin cambiar nada. Lo más probable es que Git use primero una llave vieja guardada en la Mac en vez de la que le da GitHub al tra",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.5,
