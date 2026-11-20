@@ -63,11 +63,10 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-20T05:00:32-06:00",
-  "desde": "2026-11-20T04:59:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-20T08:00:24-06:00",
   "que": "corrida programada",
-  "resumen": "Sigo sin tener trabajo que solo pueda hacer la Mac y que no esté esperando algo tuyo. No cambié nada. No tienes que hacer nada nuevo.",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
