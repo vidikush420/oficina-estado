@@ -63,11 +63,10 @@
   "estimado_min": 1.4
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-20T15:31:49-06:00",
-  "desde": "2026-11-20T13:21:21-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-20T15:32:43-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no hay trabajo que solo pueda hacer la Mac y que no esté esperando algo tuyo o en pausa. No cambié nada. Solo queda un pendiente viejo tuyo: el aviso en rojo del PR #88 de la Bitácora; puedes cerr",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.8,
