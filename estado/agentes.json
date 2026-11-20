@@ -63,13 +63,13 @@
   "estimado_min": 1.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-19T22:54:30-06:00",
   "desde": "2026-11-19T22:53:40-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Sigo sin trabajo que solo pueda hacer la Mac. Lo trabado es lo mismo: en el repo de Siniestros los permisos de las automatizaciones están en «solo lectura» (Settings → Actions → General → Workflow per",
   "url": "",
   "duraciones": [
-   0.7,
    51.7,
    1.5,
    10.4,
@@ -78,6 +78,7 @@
    4.5,
    1.0,
    0.6,
+   0.8,
    0.8
   ],
   "estimado_min": 0.9
