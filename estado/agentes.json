@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-20T11:01:26-06:00",
+  "cuando": "2026-11-20T13:19:36-06:00",
   "desde": "2026-11-20T11:00:43-06:00",
   "que": "corrida programada",
-  "resumen": "Sigo sin tener trabajo que solo pueda hacer la Mac y que no esté esperando algo tuyo o en pausa. No cambié nada. No tienes que hacer nada nuevo.",
+  "resumen": "Revisé todos los proyectos y no hay nada que solo se pueda hacer en la Mac y que no dependa de ti. Lo de Siniestros espera tus capturas del portal, las claves de Thona y tus decisiones. No hice cambio",
   "url": "",
   "duraciones": [
-   1.0,
    0.6,
    0.8,
    0.8,
@@ -79,7 +78,8 @@
    0.8,
    1.0,
    0.6,
-   0.7
+   0.7,
+   138.9
   ],
   "estimado_min": 0.8
  },
