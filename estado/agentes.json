@@ -63,13 +63,13 @@
   "estimado_min": 1.4
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-21T09:20:24-06:00",
   "desde": "2026-11-21T09:18:36-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no hay nada que solo la Mac pueda hacer ahora. Lo que queda en Siniestros necesita tus capturas del portal de Thona o tus claves, y tú pediste no mover ciertos cambios por",
   "url": "",
   "duraciones": [
-   1.0,
    0.8,
    1.0,
    0.6,
@@ -78,7 +78,8 @@
    0.7,
    130.5,
    0.9,
-   119.6
+   119.6,
+   1.8
   ],
   "estimado_min": 0.9
  },
