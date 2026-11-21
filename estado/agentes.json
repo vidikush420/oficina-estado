@@ -63,11 +63,10 @@
   "fase_desde": "2026-11-21T09:00:29-06:00"
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-21T01:06:28-06:00",
-  "desde": "2026-11-20T23:06:51-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-21T09:18:27-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay trabajo que solo pueda hacerse en tu Mac. Lo de Thona espera cosas tuyas (capturas del portal, contraseñas, el expediente de prueba). Dos de mis cambios abiertos es",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
