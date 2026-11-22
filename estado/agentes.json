@@ -63,11 +63,10 @@
   "estimado_min": 95.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-21T19:15:52-06:00",
-  "desde": "2026-11-21T17:43:36-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-22T01:59:33-06:00",
   "que": "corrida programada",
-  "resumen": "No hay nada que solo tu Mac pueda hacer ahora. Lo pendiente de Siniestros necesita tus capturas del portal de Thona o tus claves, y Marea sigue en pausa. No hice cambios; no tienes que hacer nada por",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
