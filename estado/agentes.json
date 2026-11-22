@@ -63,13 +63,13 @@
   "estimado_min": 95.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-22T06:50:38-06:00",
   "desde": "2026-11-22T06:49:24-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No hay nada que solo tu Mac pueda hacer ahora. Lo de Siniestros espera tus capturas o claves de Thona, y Marea sigue en pausa. No hice cambios; no tienes que hacer nada por ahora.",
   "url": "",
   "duraciones": [
-   0.6,
    0.7,
    138.9,
    0.7,
@@ -78,9 +78,10 @@
    119.6,
    1.8,
    92.3,
-   1.0
+   1.0,
+   1.2
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.5
  },
  "gerente-de-zara": {
   "estado": "trabajando",
