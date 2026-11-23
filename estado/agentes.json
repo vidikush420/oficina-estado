@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T12:17:59-06:00",
   "desde": "2026-11-23T12:15:32-06:00",
   "que": "revisando el PR #13 (claude/2026-11-23-aduana-llavero)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #13 siniestros-cajas → NO PASA (toca workflows), no fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45236385098",
   "duraciones": [
-   0.3,
    0.3,
    0.6,
    0.8,
@@ -36,10 +36,10 @@
    34.2,
    44.7,
    44.9,
-   7.8
+   7.8,
+   2.5
   ],
-  "estimado_min": 4.3,
-  "fase_desde": "2026-11-23T12:17:48-06:00"
+  "estimado_min": 5.2
  },
  "sherlock": {
   "estado": "termino",
