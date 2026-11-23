@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "termino",
-  "cuando": "2026-11-11T10:23:22-06:00",
-  "desde": "2026-11-11T10:16:25-06:00",
-  "que": "",
-  "resumen": "PR #85 abierto (duplica el #84 de la nube: misma tarea)",
-  "url": "",
+  "estado": "trabajando",
+  "desde": "2026-11-23T15:01:11-06:00",
+  "que": "a mano: cola: - [ ] [producto] **Reporte mensual · base y reglas** — migración reportes_mensuales (caja, mes, archivo original en Stor",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45265252347",
   "duraciones": [
    5.6,
    4.2,
