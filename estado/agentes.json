@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-23T12:33:31-06:00",
-  "desde": "2026-11-23T12:32:09-06:00",
-  "que": "revisando el PR #4 (claude/2026-11-04-secretos-doc)",
-  "resumen": "PR #4 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45239364729",
+  "estado": "trabajando",
+  "desde": "2026-11-23T12:34:23-06:00",
+  "que": "revisando el PR #6 (chalan-local/2026-11-18-thona-motor-robot)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45239763534",
   "duraciones": [
    0.3,
    10.1,
