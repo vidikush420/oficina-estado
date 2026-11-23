@@ -62,13 +62,13 @@
   "estimado_min": 128.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T15:50:49-06:00",
   "desde": "2026-11-23T15:48:26-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros Cajas: 4/4 abriendo el PR",
+  "resumen": "Un trabajo que ya había dejado listo para el robot de Thona se había desalineado con los cambios nuevos, y lo puse al día; las pruebas pasan. Sigue pendiente tu visto bueno, porque toca una pieza de a",
   "url": "",
   "duraciones": [
-   1.1,
    0.9,
    0.8,
    13.9,
@@ -77,10 +77,10 @@
    0.8,
    0.7,
    6.3,
-   1.1
+   1.1,
+   2.4
   ],
-  "estimado_min": 1.1,
-  "fase_desde": "2026-11-23T15:50:20-06:00"
+  "estimado_min": 1.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
