@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-23T12:47:11-06:00",
-  "desde": "2026-11-23T12:45:13-06:00",
-  "que": "revisando el PR #14 (chalan-local/2026-11-23-thona-ejecucion)",
-  "resumen": "PR #14 siniestros-cajas → NO PASA (cambio en workflows, lo fusiona Miguel); no fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45241617455",
+  "estado": "trabajando",
+  "desde": "2026-11-23T14:48:44-06:00",
+  "que": "revisando el PR #46 (claude/2026-11-23-democajas-reporte-mensual)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/45263153440",
   "duraciones": [
    44.7,
    44.9,
