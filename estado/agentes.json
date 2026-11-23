@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-23T12:24:49-06:00",
-  "desde": "2026-11-23T12:23:17-06:00",
-  "que": "revisando el PR #12 (claude/2026-11-19-thona-mapa-2)",
-  "resumen": "PR #12 → PASA, fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45237786442",
+  "estado": "trabajando",
+  "desde": "2026-11-23T12:29:37-06:00",
+  "que": "revisando el PR #3 (chalan/2026-11-03-expediente-real)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45238930508",
   "duraciones": [
    0.8,
    0.3,
