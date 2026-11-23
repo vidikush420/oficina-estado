@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-23T15:07:38-06:00",
-  "que": "revisando el PR #47 (claude/2026-11-23-cerro-reporte-mensual)",
+  "desde": "2026-11-23T15:08:19-06:00",
+  "que": "revisando el PR #22 (claude/2026-11-23-aduana-llavero)",
   "fase": "",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/45266399023",
+  "url": "https://github.com/vidikush420/crm-cajas/actions/runs/45266473134",
   "duraciones": [
    7.8,
    2.5,
