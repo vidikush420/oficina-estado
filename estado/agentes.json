@@ -22,9 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-23T15:11:31-06:00",
-  "que": "",
-  "url": "",
+  "desde": "2026-11-23T15:11:37-06:00",
+  "que": "revisando el PR #21 (claude/2026-11-23-aduana-llavero)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/45266459034",
   "duraciones": [
    1.0,
    1.5,
@@ -37,8 +38,6 @@
    2.1,
    2.5
   ],
-  "fase": "1/4 leyendo el PR",
-  "fase_desde": "2026-11-23T15:11:31-06:00",
   "estimado_min": 1.6
  },
  "sherlock": {
