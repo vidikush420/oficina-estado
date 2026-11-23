@@ -21,14 +21,13 @@
   "estimado_min": 5.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-23T15:12:27-06:00",
+  "estado": "fallo",
+  "cuando": "2026-11-23T15:13:11-06:00",
   "desde": "2026-11-23T15:11:37-06:00",
   "que": "revisando el PR #21 (claude/2026-11-23-aduana-llavero)",
-  "resumen": "PR #47 → PASA, ya estaba fusionado",
+  "resumen": "la corrida terminó con failure (ver el enlace)",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/45266459034",
   "duraciones": [
-   1.5,
    1.4,
    2.1,
    1.6,
@@ -37,7 +36,8 @@
    0.8,
    2.1,
    2.5,
-   0.8
+   0.8,
+   1.6
   ],
   "estimado_min": 1.6
  },
