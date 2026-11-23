@@ -63,11 +63,10 @@
   "estimado_min": 99.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-23T15:50:49-06:00",
-  "desde": "2026-11-23T15:48:26-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-23T16:18:52-06:00",
   "que": "corrida programada",
-  "resumen": "Un trabajo que ya había dejado listo para el robot de Thona se había desalineado con los cambios nuevos, y lo puse al día; las pruebas pasan. Sigue pendiente tu visto bueno, porque toca una pieza de a",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
