@@ -21,13 +21,13 @@
   "estimado_min": 5.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T15:46:16-06:00",
   "desde": "2026-11-23T15:44:47-06:00",
   "que": "revisando el PR #16 (chalan-local/2026-11-23-credenciales-login-thona)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #16 → PASA, fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45272739526",
   "duraciones": [
-   1.4,
    2.1,
    1.6,
    2.0,
@@ -36,10 +36,10 @@
    2.1,
    2.5,
    0.8,
-   1.6
+   1.6,
+   1.5
   ],
-  "estimado_min": 1.6,
-  "fase_desde": "2026-11-23T15:46:09-06:00"
+  "estimado_min": 1.6
  },
  "sherlock": {
   "estado": "termino",
