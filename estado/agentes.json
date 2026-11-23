@@ -3,7 +3,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T15:01:11-06:00",
   "que": "a mano: cola: - [ ] [producto] **Reporte mensual · base y reglas** — migración reportes_mensuales (caja, mes, archivo original en Stor",
-  "fase": "1/5 leyendo el proyecto",
+  "fase": "2/5 haciendo el cambio",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45265252347",
   "duraciones": [
    5.6,
@@ -18,7 +18,7 @@
    7.0
   ],
   "estimado_min": 5.5,
-  "fase_desde": "2026-11-23T15:01:37-06:00"
+  "fase_desde": "2026-11-23T15:01:44-06:00"
  },
  "aduana": {
   "estado": "fallo",
