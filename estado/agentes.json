@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T12:37:50-06:00",
   "que": "revisando el PR #7 (chalan-local/2026-11-18-thona-cola-boton)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45240372560",
   "duraciones": [
    10.1,
@@ -39,7 +39,7 @@
    2.1
   ],
   "estimado_min": 5.2,
-  "fase_desde": "2026-11-23T12:38:40-06:00"
+  "fase_desde": "2026-11-23T12:39:09-06:00"
  },
  "sherlock": {
   "estado": "termino",
