@@ -21,13 +21,13 @@
   "estimado_min": 5.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T15:51:37-06:00",
   "desde": "2026-11-23T15:50:38-06:00",
   "que": "revisando el PR #14 (chalan-local/2026-11-23-thona-ejecucion)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #14 → NO PASA (workflow, lo fusiona Miguel), no fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45273714260",
   "duraciones": [
-   1.6,
    2.0,
    0.8,
    0.8,
@@ -36,10 +36,10 @@
    0.8,
    1.6,
    1.5,
+   1.0,
    1.0
   ],
-  "estimado_min": 1.6,
-  "fase_desde": "2026-11-23T15:51:28-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
