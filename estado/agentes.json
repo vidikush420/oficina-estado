@@ -63,13 +63,13 @@
   "estimado_min": 128.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T15:47:08-06:00",
   "desde": "2026-11-23T15:46:03-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no hay nada que solo pueda hacer la Mac por ahora. Lo que queda de Thona y de Siniestros depende de datos tuyos (contraseñas, expediente de prueba, proyecto de pruebas en",
   "url": "",
   "duraciones": [
-   1.2,
    1.1,
    0.9,
    0.8,
@@ -78,7 +78,8 @@
    98.5,
    0.8,
    0.7,
-   6.3
+   6.3,
+   1.1
   ],
   "estimado_min": 1.1
  },
