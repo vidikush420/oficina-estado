@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T12:39:29-06:00",
   "desde": "2026-11-23T12:37:50-06:00",
   "que": "revisando el PR #7 (chalan-local/2026-11-18-thona-cola-boton)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #7 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45240372560",
   "duraciones": [
-   10.1,
    34.2,
    44.7,
    44.9,
@@ -36,10 +36,10 @@
    1.0,
    1.5,
    1.4,
-   2.1
+   2.1,
+   1.6
   ],
-  "estimado_min": 5.2,
-  "fase_desde": "2026-11-23T12:39:22-06:00"
+  "estimado_min": 2.3
  },
  "sherlock": {
   "estado": "termino",
