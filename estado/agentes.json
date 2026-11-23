@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T15:50:38-06:00",
   "que": "revisando el PR #14 (chalan-local/2026-11-23-thona-ejecucion)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45273714260",
   "duraciones": [
    1.6,
@@ -38,7 +38,8 @@
    1.5,
    1.0
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-11-23T15:50:58-06:00"
  },
  "sherlock": {
   "estado": "termino",
