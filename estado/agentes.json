@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T12:23:17-06:00",
   "que": "revisando el PR #12 (claude/2026-11-19-thona-mapa-2)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45237786442",
   "duraciones": [
    0.6,
@@ -39,7 +39,7 @@
    1.0
   ],
   "estimado_min": 5.2,
-  "fase_desde": "2026-11-23T12:24:25-06:00"
+  "fase_desde": "2026-11-23T12:24:40-06:00"
  },
  "sherlock": {
   "estado": "termino",
