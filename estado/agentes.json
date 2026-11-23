@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-23T14:48:44-06:00",
-  "que": "revisando el PR #46 (claude/2026-11-23-democajas-reporte-mensual)",
+  "desde": "2026-11-23T14:48:49-06:00",
+  "que": "revisando el PR #15 (claude/2026-11-23-reporte-mensual-brief)",
   "fase": "",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/45263153440",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45263166875",
   "duraciones": [
    44.7,
    44.9,
