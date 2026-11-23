@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T12:36:28-06:00",
   "desde": "2026-11-23T12:34:23-06:00",
   "que": "revisando el PR #6 (chalan-local/2026-11-18-thona-motor-robot)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #6 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45239763534",
   "duraciones": [
-   0.3,
    10.1,
    34.2,
    44.7,
@@ -36,10 +36,10 @@
    2.5,
    1.0,
    1.5,
-   1.4
+   1.4,
+   2.1
   ],
-  "estimado_min": 5.2,
-  "fase_desde": "2026-11-23T12:36:21-06:00"
+  "estimado_min": 5.2
  },
  "sherlock": {
   "estado": "termino",
