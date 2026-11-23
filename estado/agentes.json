@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "fallo",
-  "cuando": "2026-11-23T14:49:35-06:00",
+  "cuando": "2026-11-23T14:49:40-06:00",
   "desde": "2026-11-23T14:48:49-06:00",
   "que": "revisando el PR #15 (claude/2026-11-23-reporte-mensual-brief)",
   "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/rhwellness-encuesta/actions/runs/45263153440",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45263166875",
   "duraciones": [
-   44.9,
    7.8,
    2.5,
    1.0,
@@ -37,9 +36,10 @@
    2.1,
    1.6,
    2.0,
+   0.8,
    0.8
   ],
-  "estimado_min": 1.8
+  "estimado_min": 1.6
  },
  "sherlock": {
   "estado": "termino",
