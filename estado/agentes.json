@@ -21,12 +21,11 @@
   "estimado_min": 5.3
  },
  "aduana": {
-  "estado": "fallo",
-  "cuando": "2026-11-23T15:13:11-06:00",
-  "desde": "2026-11-23T15:11:37-06:00",
-  "que": "revisando el PR #21 (claude/2026-11-23-aduana-llavero)",
-  "resumen": "la corrida terminó con failure (ver el enlace)",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/45266459034",
+  "estado": "trabajando",
+  "desde": "2026-11-23T15:44:47-06:00",
+  "que": "revisando el PR #16 (chalan-local/2026-11-23-credenciales-login-thona)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45272739526",
   "duraciones": [
    1.4,
    2.1,
