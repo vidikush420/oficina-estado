@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T15:08:19-06:00",
   "que": "revisando el PR #22 (claude/2026-11-23-aduana-llavero)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/crm-cajas/actions/runs/45266473134",
   "duraciones": [
    7.8,
@@ -38,7 +38,8 @@
    0.8,
    0.8
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-11-23T15:09:25-06:00"
  },
  "sherlock": {
   "estado": "termino",
