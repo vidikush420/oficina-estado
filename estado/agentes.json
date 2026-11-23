@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T12:40:49-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros Cajas: 1/4 leyendo el proyecto",
+  "fase": "Siniestros Cajas: 2/4 escribiendo el sondeo de la cola del robot",
   "url": "",
   "duraciones": [
    0.9,
@@ -81,7 +81,7 @@
    13.9
   ],
   "estimado_min": 1.1,
-  "fase_desde": "2026-11-23T12:41:47-06:00"
+  "fase_desde": "2026-11-23T12:42:12-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
