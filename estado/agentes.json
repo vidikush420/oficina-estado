@@ -63,13 +63,13 @@
   "estimado_min": 128.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T12:44:56-06:00",
   "desde": "2026-11-23T12:40:49-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros Cajas: 4/4 PR abierto",
+  "resumen": "Dejé listo el «motor de arranque» del robot que sube los siniestros al portal de Thona: revisa por su cuenta si hay trámites en espera y los procesa uno por uno. Por seguridad solo hace ensayo hasta q",
   "url": "",
   "duraciones": [
-   0.9,
    119.6,
    1.8,
    92.3,
@@ -78,10 +78,10 @@
    1.1,
    0.9,
    0.8,
-   13.9
+   13.9,
+   4.1
   ],
-  "estimado_min": 1.1,
-  "fase_desde": "2026-11-23T12:44:39-06:00"
+  "estimado_min": 1.5
  },
  "gerente-de-zara": {
   "estado": "trabajando",
