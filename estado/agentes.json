@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T12:15:32-06:00",
   "que": "revisando el PR #13 (claude/2026-11-23-aduana-llavero)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45236385098",
   "duraciones": [
    0.3,
@@ -38,7 +38,8 @@
    44.9,
    7.8
   ],
-  "estimado_min": 4.3
+  "estimado_min": 4.3,
+  "fase_desde": "2026-11-23T12:17:24-06:00"
  },
  "sherlock": {
   "estado": "termino",
