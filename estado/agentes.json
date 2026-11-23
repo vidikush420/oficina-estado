@@ -63,11 +63,10 @@
   "estimado_min": 128.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-23T15:01:54-06:00",
-  "desde": "2026-11-23T15:01:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-23T15:02:22-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy tampoco había algo que yo pudiera hacer en la Mac sin inventar. Para avanzar con Thona necesito que fusiones el PR #14 de Siniestros Cajas (cambia un workflow, solo tú puedes), que guardes el usua",
+  "fase": "",
   "url": "",
   "duraciones": [
    92.3,
