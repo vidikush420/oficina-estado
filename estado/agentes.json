@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-23T12:44:56-06:00",
+  "cuando": "2026-11-23T14:19:20-06:00",
   "desde": "2026-11-23T12:40:49-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé listo el «motor de arranque» del robot que sube los siniestros al portal de Thona: revisa por su cuenta si hay trámites en espera y los procesa uno por uno. Por seguridad solo hace ensayo hasta q",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac sin inventar. Lo que queda depende de ti: fusionar el PR #14 de Siniestros Cajas (cambia un workflow, solo tú puedes) y, para Sunday, conseguir con FN",
   "url": "",
   "duraciones": [
-   119.6,
    1.8,
    92.3,
    1.0,
@@ -79,7 +78,8 @@
    0.9,
    0.8,
    13.9,
-   4.1
+   4.1,
+   98.5
   ],
   "estimado_min": 1.5
  },
