@@ -22,10 +22,10 @@
  },
  "aduana": {
   "estado": "trabajando",
-  "desde": "2026-11-23T12:29:37-06:00",
-  "que": "revisando el PR #3 (chalan/2026-11-03-expediente-real)",
+  "desde": "2026-11-23T12:32:09-06:00",
+  "que": "revisando el PR #4 (claude/2026-11-04-secretos-doc)",
   "fase": "",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45238930508",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45239364729",
   "duraciones": [
    0.8,
    0.3,
