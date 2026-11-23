@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T12:34:23-06:00",
   "que": "revisando el PR #6 (chalan-local/2026-11-18-thona-motor-robot)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45239763534",
   "duraciones": [
    0.3,
@@ -39,7 +39,7 @@
    1.4
   ],
   "estimado_min": 5.2,
-  "fase_desde": "2026-11-23T12:36:06-06:00"
+  "fase_desde": "2026-11-23T12:36:21-06:00"
  },
  "sherlock": {
   "estado": "termino",
