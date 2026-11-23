@@ -63,11 +63,10 @@
   "estimado_min": 128.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-23T07:37:53-06:00",
-  "desde": "2026-11-23T07:36:56-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-23T12:17:31-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que tuviera que hacer en la Mac, así que no toqué nada. Lo de Thona espera a otro trabajo ya abierto y a tus capturas. Solo hay una cosa tuya pendiente: el cambio #88 de la Bitácora",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
