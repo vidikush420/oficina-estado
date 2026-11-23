@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-23T15:44:47-06:00",
   "que": "revisando el PR #16 (chalan-local/2026-11-23-credenciales-login-thona)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45272739526",
   "duraciones": [
    1.4,
@@ -38,7 +38,8 @@
    0.8,
    1.6
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-11-23T15:45:16-06:00"
  },
  "sherlock": {
   "estado": "termino",
