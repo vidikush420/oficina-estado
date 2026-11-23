@@ -63,13 +63,13 @@
   "estimado_min": 128.9
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T12:39:49-06:00",
   "desde": "2026-11-23T12:25:53-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Puse al día y envié, una por una, las cuatro piezas pendientes de Siniestros Cajas, y el revisor automático las aprobó todas. Ya forman parte del proyecto: la lista de secretos, el expediente real, el",
   "url": "",
   "duraciones": [
-   130.5,
    0.9,
    119.6,
    1.8,
@@ -78,7 +78,8 @@
    1.2,
    1.1,
    0.9,
-   0.8
+   0.8,
+   13.9
   ],
   "estimado_min": 1.1
  },
