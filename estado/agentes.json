@@ -63,11 +63,10 @@
   "estimado_min": 128.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-23T15:03:01-06:00",
-  "desde": "2026-11-23T15:02:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-23T15:39:18-06:00",
   "que": "corrida programada",
-  "resumen": "Otra vez no había nada que yo pudiera hacer en la Mac sin inventar. Sigue pendiente lo mismo: fusionar el PR #14 de Siniestros Cajas y darme el recorrido real del portal de Thona. No tienes que hacer",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
