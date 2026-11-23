@@ -63,11 +63,10 @@
   "estimado_min": 128.9
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-23T15:45:36-06:00",
-  "desde": "2026-11-23T15:39:18-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-23T15:46:03-06:00",
   "que": "corrida programada",
-  "resumen": "El robot ya puede leer la contraseña de Thona directamente del Excel de la oficina cada vez que la necesita, sin copiarla a ningún lado, y ya sabe iniciar sesión en el portal paso a paso. Lo probé sol",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
