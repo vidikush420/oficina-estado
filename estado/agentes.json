@@ -63,13 +63,13 @@
   "estimado_min": 99.8
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-23T19:29:19-06:00",
   "desde": "2026-11-23T19:15:06-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No hay nada que solo la Mac pueda hacer ahora. Thona espera tu visto bueno al PR #14 y los datos del Excel de contraseñas; Sunday espera la base de datos de FN. La cinta de beta registró un fallo al c",
   "url": "",
   "duraciones": [
-   13.9,
    4.1,
    98.5,
    0.8,
@@ -78,7 +78,8 @@
    1.1,
    2.4,
    0.9,
-   1.1
+   1.1,
+   14.2
   ],
   "estimado_min": 1.8
  },
