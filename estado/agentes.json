@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-24T13:18:12-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "fase": "Marea: 2/4 rebasando PR 222 en conflicto",
   "url": "",
   "duraciones": [
    2.4,
@@ -80,7 +80,8 @@
    12.6,
    1.8
   ],
-  "estimado_min": 13.4
+  "estimado_min": 13.4,
+  "fase_desde": "2026-11-24T13:19:26-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
