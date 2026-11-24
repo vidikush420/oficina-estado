@@ -63,13 +63,13 @@
   "estimado_min": 19.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-24T11:17:34-06:00",
   "desde": "2026-11-24T11:04:58-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no hay nada que yo pueda hacer ahora en la Mac. Lo que queda en Siniestros espera a que tú guardes la contraseña de Thona, elijas el expediente de prueba y crees el proyec",
   "url": "",
   "duraciones": [
-   6.3,
    1.1,
    2.4,
    0.9,
@@ -78,9 +78,10 @@
    43.9,
    45.5,
    32.6,
-   122.8
+   122.8,
+   12.6
   ],
-  "estimado_min": 10.2
+  "estimado_min": 13.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
