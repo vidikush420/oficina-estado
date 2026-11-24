@@ -63,11 +63,10 @@
   "estimado_min": 19.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-24T10:48:26-06:00",
-  "desde": "2026-11-24T08:45:38-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-24T11:04:58-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay trabajo que necesite la Mac y que yo pueda hacer solo. Lo pendiente en Siniestros depende de ti: pasarnos la ruta y los encabezados del Excel de contraseñas, y apro",
+  "fase": "",
   "url": "",
   "duraciones": [
    6.3,
