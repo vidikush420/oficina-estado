@@ -63,13 +63,13 @@
   "estimado_min": 19.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-24T09:18:16-06:00",
   "desde": "2026-11-24T08:45:38-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo de Thona espera tus datos (ruta del Excel, hoja y columnas) y que revises el PR #14; lo de la base de datos necesita programas que no puedo instala",
   "url": "",
   "duraciones": [
-   0.8,
    0.7,
    6.3,
    1.1,
@@ -78,9 +78,10 @@
    1.1,
    14.2,
    43.9,
-   45.5
+   45.5,
+   32.6
   ],
-  "estimado_min": 1.8
+  "estimado_min": 4.3
  },
  "gerente-de-zara": {
   "estado": "trabajando",
