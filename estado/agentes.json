@@ -63,11 +63,10 @@
   "estimado_min": 99.8
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-23T18:49:40-06:00",
-  "desde": "2026-11-23T18:48:34-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-23T19:15:06-06:00",
   "que": "corrida programada",
-  "resumen": "No hay nada que solo la Mac pueda hacer ahora. Thona espera tus datos del Excel de contraseñas y tu visto bueno al PR #14. No tienes que hacer nada más que eso cuando puedas.",
+  "fase": "",
   "url": "",
   "duraciones": [
    13.9,
