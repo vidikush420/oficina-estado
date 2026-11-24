@@ -63,11 +63,10 @@
   "estimado_min": 14.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-24T13:16:53-06:00",
-  "desde": "2026-11-24T13:15:08-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-24T13:18:12-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que yo pudiera hacer hoy en la Mac. Lo de Thona espera tus datos (contraseña, capturas y expediente de prueba) y lo de Sunday espera la base de datos de prueba y respuestas de Héctor. No",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.4,
