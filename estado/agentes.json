@@ -21,13 +21,13 @@
   "estimado_min": 5.3
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-24T14:59:13-06:00",
   "desde": "2026-11-24T14:54:49-06:00",
   "que": "revisando el PR #222 (chalan-local/2026-11-18-fps-islas)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #222 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/marea/actions/runs/45484947269",
   "duraciones": [
-   2.0,
    0.8,
    0.8,
    2.1,
@@ -36,10 +36,10 @@
    1.6,
    1.5,
    1.0,
-   1.0
+   1.0,
+   4.4
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-24T14:59:06-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
