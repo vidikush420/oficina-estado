@@ -63,11 +63,10 @@
   "estimado_min": 14.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-24T14:50:53-06:00",
-  "desde": "2026-11-24T13:18:12-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-24T15:01:33-06:00",
   "que": "corrida programada",
-  "resumen": "No había trabajo nuevo que yo pudiera hacer: lo que queda espera a que tú o Héctor contesten algo. Lo único que hice fue actualizar un trabajo mío del juego Marea que se había desfasado, y las pruebas",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.9,
