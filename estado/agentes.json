@@ -21,12 +21,11 @@
   "estimado_min": 5.3
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-23T15:51:37-06:00",
-  "desde": "2026-11-23T15:50:38-06:00",
-  "que": "revisando el PR #14 (chalan-local/2026-11-23-thona-ejecucion)",
-  "resumen": "PR #14 → NO PASA (workflow, lo fusiona Miguel), no fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45273714260",
+  "estado": "trabajando",
+  "desde": "2026-11-24T14:54:49-06:00",
+  "que": "revisando el PR #222 (chalan-local/2026-11-18-fps-islas)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/marea/actions/runs/45484947269",
   "duraciones": [
    2.0,
    0.8,
