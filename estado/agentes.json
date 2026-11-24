@@ -63,11 +63,10 @@
   "estimado_min": 14.1
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-24T15:02:11-06:00",
-  "desde": "2026-11-24T15:01:33-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-24T16:15:06-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo pendiente espera datos tuyos (ruta y columnas del Excel de contraseñas de Thona, contraseña y expediente de prueba) o tu visto bueno al cambio #14.",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
