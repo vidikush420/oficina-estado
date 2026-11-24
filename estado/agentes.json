@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-24T14:54:49-06:00",
   "que": "revisando el PR #222 (chalan-local/2026-11-18-fps-islas)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/marea/actions/runs/45484947269",
   "duraciones": [
    2.0,
@@ -38,7 +38,8 @@
    1.0,
    1.0
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.2,
+  "fase_desde": "2026-11-24T14:55:34-06:00"
  },
  "sherlock": {
   "estado": "termino",
