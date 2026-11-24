@@ -63,13 +63,13 @@
   "estimado_min": 14.1
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-24T14:50:53-06:00",
   "desde": "2026-11-24T13:18:12-06:00",
   "que": "corrida programada",
-  "fase": "Marea: 3/4 corriendo pruebas",
+  "resumen": "No había trabajo nuevo que yo pudiera hacer: lo que queda espera a que tú o Héctor contesten algo. Lo único que hice fue actualizar un trabajo mío del juego Marea que se había desfasado, y las pruebas",
   "url": "",
   "duraciones": [
-   2.4,
    0.9,
    1.1,
    14.2,
@@ -78,10 +78,10 @@
    32.6,
    122.8,
    12.6,
-   1.8
+   1.8,
+   92.7
   ],
-  "estimado_min": 13.4,
-  "fase_desde": "2026-11-24T13:19:46-06:00"
+  "estimado_min": 23.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
