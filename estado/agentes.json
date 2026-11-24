@@ -63,11 +63,10 @@
   "estimado_min": 19.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-24T01:21:04-06:00",
-  "desde": "2026-11-23T19:15:06-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-24T01:37:50-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que requiera la Mac y que yo pueda hacer hoy. Lo que sigue en Siniestros depende de ti: aprobar el flujo de «Subir a portal» (PR #14) y pasarme los datos del E",
+  "fase": "",
   "url": "",
   "duraciones": [
    4.1,
