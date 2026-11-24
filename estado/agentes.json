@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-24T09:18:16-06:00",
+  "cuando": "2026-11-24T10:48:26-06:00",
   "desde": "2026-11-24T08:45:38-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo de Thona espera tus datos (ruta del Excel, hoja y columnas) y que revises el PR #14; lo de la base de datos necesita programas que no puedo instala",
+  "resumen": "Revisé todos los proyectos y no hay trabajo que necesite la Mac y que yo pueda hacer solo. Lo pendiente en Siniestros depende de ti: pasarnos la ruta y los encabezados del Excel de contraseñas, y apro",
   "url": "",
   "duraciones": [
-   0.7,
    6.3,
    1.1,
    2.4,
@@ -79,9 +78,10 @@
    14.2,
    43.9,
    45.5,
-   32.6
+   32.6,
+   122.8
   ],
-  "estimado_min": 4.3
+  "estimado_min": 10.2
  },
  "gerente-de-zara": {
   "estado": "trabajando",
