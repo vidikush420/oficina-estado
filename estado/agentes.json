@@ -63,13 +63,13 @@
   "estimado_min": 19.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-24T06:10:33-06:00",
   "desde": "2026-11-24T05:25:00-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo yo pudiera hacer en la Mac. Lo que queda pendiente de Thona depende de ti: darme acceso al portal o capturas, el expediente para el ensayo y las contraseñas. También falta u",
   "url": "",
   "duraciones": [
-   98.5,
    0.8,
    0.7,
    6.3,
@@ -78,7 +78,8 @@
    0.9,
    1.1,
    14.2,
-   43.9
+   43.9,
+   45.5
   ],
   "estimado_min": 1.8
  },
