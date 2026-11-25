@@ -63,13 +63,13 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-25T10:17:09-06:00",
   "desde": "2026-11-25T09:11:24-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo yo pudiera hacer en la Mac: todo lo pendiente espera datos o decisiones tuyas. Nada se rompió. Lo que me destrabaría: los secretos y el proyecto de pruebas de Supabase, el e",
   "url": "",
   "duraciones": [
-   1.8,
    92.7,
    0.6,
    0.8,
@@ -78,7 +78,8 @@
    1.0,
    1.1,
    0.7,
-   61.4
+   61.4,
+   65.8
   ],
   "estimado_min": 1.1
  },
