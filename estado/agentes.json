@@ -63,13 +63,13 @@
   "estimado_min": 6.5
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-25T07:09:29-06:00",
   "desde": "2026-11-25T06:08:04-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había trabajo que requiera la Mac que yo pudiera hacer. Lo que queda en Siniestros espera cosas tuyas: el visto bueno al cambio del robot de Thona (PR #14), los accesos de Supabase y la ruta de",
   "url": "",
   "duraciones": [
-   12.6,
    1.8,
    92.7,
    0.6,
@@ -78,7 +78,8 @@
    1.2,
    1.0,
    1.1,
-   0.7
+   0.7,
+   61.4
   ],
   "estimado_min": 1.1
  },
