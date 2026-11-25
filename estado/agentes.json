@@ -63,11 +63,10 @@
   "estimado_min": 6.5
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-25T03:04:51-06:00",
-  "desde": "2026-11-25T03:04:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-25T06:08:04-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy tampoco había nada que pueda hacer en la Mac. Lo pendiente espera datos o accesos tuyos (Excel de contraseñas de Thona, proyecto de pruebas en Supabase) o tu visto bueno al cambio #14 de Siniestro",
+  "fase": "",
   "url": "",
   "duraciones": [
    12.6,
