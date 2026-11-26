@@ -62,11 +62,10 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T03:58:09-06:00",
-  "desde": "2026-11-26T03:57:03-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T04:14:59-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que solo yo pudiera hacer en la Mac: lo que queda espera datos tuyos. Para destrabar el robot de Thona necesito la ruta del Excel de contraseñas, hoja y encabezados, las capturas del",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.6,
