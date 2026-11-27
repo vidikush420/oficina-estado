@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:41:39-06:00",
-  "desde": "2026-11-26T23:39:32-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:43:04-06:00",
   "que": "corrida programada",
-  "resumen": "Intenté comprobar que cada caja de ahorro solo ve lo suyo en la base real. No se pudo: la base todavía está cerrada para la aplicación porque falta una corrección (el PR 27). No quedó ningún dato de p",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.7,
