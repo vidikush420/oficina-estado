@@ -63,13 +63,13 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T22:07:18-06:00",
   "desde": "2026-11-26T21:54:47-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Avancé la segunda parte de lo que pediste para Siniestros: ahora el nombre del socio se captura en tres partes, el estado de cuenta bancario de cada caja se sube una sola vez y sirve para todos sus tr",
   "url": "",
   "duraciones": [
-   1.0,
    1.1,
    0.7,
    61.4,
@@ -78,9 +78,10 @@
    1.2,
    3.5,
    0.7,
+   12.5,
    12.5
   ],
-  "estimado_min": 1.1
+  "estimado_min": 2.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
