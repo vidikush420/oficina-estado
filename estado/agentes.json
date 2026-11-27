@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-26T23:19:26-06:00",
   "que": "revisando el PR #21 (chalan-local/2026-11-26-credenciales-renglon-encabezados)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945028245",
   "duraciones": [
    4.4,
@@ -38,7 +38,8 @@
    2.2,
    1.0
   ],
-  "estimado_min": 2.2
+  "estimado_min": 2.2,
+  "fase_desde": "2026-11-26T23:19:57-06:00"
  },
  "sherlock": {
   "estado": "termino",
