@@ -22,13 +22,12 @@
  },
  "aduana": {
   "estado": "termino",
-  "cuando": "2026-11-26T23:09:39-06:00",
+  "cuando": "2026-11-26T23:09:50-06:00",
   "desde": "2026-11-26T23:07:35-06:00",
   "que": "revisando el PR #20 (chalan-local/2026-11-26-coalesce-0003)",
   "resumen": "PR #20 → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45943869312",
   "duraciones": [
-   1.0,
    1.0,
    4.4,
    2.2,
@@ -37,7 +36,8 @@
    1.2,
    2.1,
    2.4,
-   2.1
+   2.1,
+   2.2
   ],
   "estimado_min": 2.2
  },
