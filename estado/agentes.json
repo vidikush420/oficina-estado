@@ -63,13 +63,13 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T21:54:19-06:00",
   "desde": "2026-11-26T21:41:49-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisaron la primera parte de Siniestros y pidieron que le agregara las pruebas automáticas que faltaban. Ya las agregué y todo pasa. Falta que lo vuelvan a revisar. No tienes que hacer nada; las otra",
   "url": "",
   "duraciones": [
-   1.2,
    1.0,
    1.1,
    0.7,
@@ -78,7 +78,8 @@
    1.1,
    1.2,
    3.5,
-   0.7
+   0.7,
+   12.5
   ],
   "estimado_min": 1.1
  },
