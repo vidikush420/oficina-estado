@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:52:17-06:00",
-  "desde": "2026-11-26T23:46:37-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:53:30-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé listo el mecanismo para crear a Miguel como primer administrador: cuando se apruebe, se lanza una vez y le llega un correo para elegir su contraseña. Descubrí que el panel no dejaba crear cajas y",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.0,
