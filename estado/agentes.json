@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T21:48:35-06:00",
   "desde": "2026-11-26T21:46:09-06:00",
   "que": "revisando el PR #17 (chalan-local/2026-11-26-siniestros-bandeja-pago)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #17 siniestros-cajas → OJO cosmético, fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45936058310",
   "duraciones": [
-   2.1,
    2.5,
    0.8,
    1.6,
@@ -36,10 +36,10 @@
    1.0,
    4.4,
    2.2,
-   2.5
+   2.5,
+   2.4
   ],
-  "estimado_min": 1.9,
-  "fase_desde": "2026-11-26T21:48:19-06:00"
+  "estimado_min": 1.9
  },
  "sherlock": {
   "estado": "termino",
