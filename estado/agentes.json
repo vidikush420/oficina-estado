@@ -63,13 +63,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T03:21:00-06:00",
   "desde": "2026-11-27T03:09:07-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros: 2/4 usuario de entrada, pruebas",
+  "resumen": "Ya se puede entrar con usuario en lugar de correo: lo elige cada persona una sola vez y tiene un freno contra quien intente adivinar contraseñas. Miguel, al entrar con su correo, tendrá que elegir su",
   "url": "",
   "duraciones": [
-   2.1,
    2.7,
    5.7,
    1.0,
@@ -78,10 +78,10 @@
    1.4,
    26.8,
    1.4,
-   2.8
+   2.8,
+   11.9
   ],
-  "estimado_min": 1.8,
-  "fase_desde": "2026-11-27T03:12:02-06:00"
+  "estimado_min": 2.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
