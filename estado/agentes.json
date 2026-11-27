@@ -63,13 +63,13 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:07:28-06:00",
   "desde": "2026-11-26T23:05:32-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros Cajas: 4/4 abriendo el PR",
+  "resumen": "Un arreglo que dejé listo para Siniestros chocaba con otro cambio reciente; lo puse al día y las pruebas pasan. Lo que falta para mañana (subir la base al proyecto real y entrar a Thona) sigue sin hac",
   "url": "",
   "duraciones": [
-   65.8,
    1.1,
    1.2,
    3.5,
@@ -78,10 +78,10 @@
    12.5,
    5.2,
    0.9,
-   3.7
+   3.7,
+   1.9
   ],
-  "estimado_min": 3.6,
-  "fase_desde": "2026-11-26T23:07:11-06:00"
+  "estimado_min": 2.7
  },
  "gerente-de-zara": {
   "estado": "trabajando",
