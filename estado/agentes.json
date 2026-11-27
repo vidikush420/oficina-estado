@@ -63,13 +63,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T07:56:09-06:00",
   "desde": "2026-11-27T07:54:53-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Revisé todos los proyectos y no había nada que solo la Mac pudiera hacer. Lo único pendiente de la Mac (explorar el portal de Thona) espera a que tú autorices el segundo intento del robot y guardes la",
   "url": "",
   "duraciones": [
-   1.4,
    26.8,
    1.4,
    2.8,
@@ -78,7 +78,8 @@
    1.1,
    0.7,
    19.4,
-   0.8
+   0.8,
+   1.3
   ],
   "estimado_min": 2.1
  },
