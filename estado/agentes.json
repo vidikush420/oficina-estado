@@ -63,11 +63,10 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:25:45-06:00",
-  "desde": "2026-11-26T23:22:13-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:26:11-06:00",
   "que": "corrida programada",
-  "resumen": "Escribí el programa que comprueba que una caja no puede ver ni tocar los archivos de otra, y la forma de lanzarlo con un botón. Lo probé con una base de mentira y detecta los huecos que le puse. Tiene",
+  "fase": "",
   "url": "",
   "duraciones": [
    0.7,
