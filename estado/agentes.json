@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-26T23:46:37-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros: 2/4 escribiendo primer-admin y su workflow",
+  "fase": "Siniestros: 4/4 abriendo el PR",
   "url": "",
   "duraciones": [
    1.9,
@@ -81,7 +81,7 @@
    2.7
   ],
   "estimado_min": 2.0,
-  "fase_desde": "2026-11-26T23:48:27-06:00"
+  "fase_desde": "2026-11-26T23:50:00-06:00"
  },
  "gerente-de-zara": {
   "estado": "trabajando",
