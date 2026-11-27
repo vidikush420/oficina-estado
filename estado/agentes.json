@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T03:06:15-06:00",
-  "desde": "2026-11-27T03:03:27-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T03:09:07-06:00",
   "que": "corrida programada",
-  "resumen": "El paquete del recorrido real tenía un choque de texto con lo último que se aprobó. Lo resolví sin perder nada y las pruebas siguen en verde. Ya puede revisarlo Aduana; tú no tienes que hacer nada por",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.1,
