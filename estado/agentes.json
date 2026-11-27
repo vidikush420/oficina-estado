@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:20:39-06:00",
   "desde": "2026-11-26T23:19:26-06:00",
   "que": "revisando el PR #21 (chalan-local/2026-11-26-credenciales-renglon-encabezados)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #21 → PASA, fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945028245",
   "duraciones": [
-   4.4,
    2.2,
    2.5,
    2.4,
@@ -36,10 +36,10 @@
    2.4,
    2.1,
    2.2,
-   1.0
+   1.0,
+   1.2
   ],
-  "estimado_min": 2.2,
-  "fase_desde": "2026-11-26T23:20:28-06:00"
+  "estimado_min": 2.2
  },
  "sherlock": {
   "estado": "termino",
