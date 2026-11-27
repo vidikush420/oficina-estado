@@ -62,13 +62,13 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T21:36:42-06:00",
   "desde": "2026-11-26T21:36:00-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "La primera parte de Siniestros (la bandeja del agente) ya está entregada y esperando revisión. Hasta que se revise no empiezo la segunda para no amontonar cambios. No tienes que hacer nada; sigo en mi",
   "url": "",
   "duraciones": [
-   1.5,
    1.2,
    1.0,
    1.1,
@@ -77,9 +77,10 @@
    65.8,
    1.1,
    1.2,
-   3.5
+   3.5,
+   0.7
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
