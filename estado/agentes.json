@@ -45,7 +45,7 @@
   "estado": "trabajando",
   "desde": "2026-11-27T12:05:19-06:00",
   "que": "veredicto de beta",
-  "fase": "4/5 escribiendo el reporte y el botón",
+  "fase": "5/5 cerrando la corrida",
   "url": "",
   "duraciones": [
    1.0,
@@ -60,7 +60,7 @@
    1.1
   ],
   "estimado_min": 1.3,
-  "fase_desde": "2026-11-27T12:06:03-06:00"
+  "fase_desde": "2026-11-27T12:06:15-06:00"
  },
  "chalan-local": {
   "estado": "termino",
