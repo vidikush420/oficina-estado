@@ -64,13 +64,12 @@
  },
  "chalan-local": {
   "estado": "termino",
-  "cuando": "2026-11-26T23:41:20-06:00",
+  "cuando": "2026-11-26T23:41:39-06:00",
   "desde": "2026-11-26T23:39:32-06:00",
   "que": "corrida programada",
-  "resumen": "Siniestros: permisos en base real bloqueados por la 0004 (PR 27); PR 28 con ESTADO",
+  "resumen": "Intenté comprobar que cada caja de ahorro solo ve lo suyo en la base real. No se pudo: la base todavía está cerrada para la aplicación porque falta una corrección (el PR 27). No quedó ningún dato de p",
   "url": "",
   "duraciones": [
-   0.9,
    3.7,
    1.9,
    2.0,
@@ -79,9 +78,10 @@
    1.0,
    3.2,
    1.7,
-   1.8
+   1.8,
+   2.1
   ],
-  "estimado_min": 1.9
+  "estimado_min": 2.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
