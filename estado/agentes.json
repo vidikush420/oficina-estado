@@ -21,13 +21,13 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:53:27-06:00",
   "desde": "2026-11-26T23:52:13-06:00",
   "que": "revisando el PR #31 (chalan-local/2026-11-27-crear-caja)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #31 → PASA, fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45948321704",
   "duraciones": [
-   1.0,
    1.2,
    0.9,
    1.0,
@@ -36,10 +36,10 @@
    1.4,
    1.4,
    1.5,
+   1.2,
    1.2
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-26T23:53:17-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
