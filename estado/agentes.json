@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-27T12:09:54-06:00",
   "que": "revisando el PR #22 (claude/resumen2026)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/46047271449",
   "duraciones": [
    1.2,
@@ -38,7 +38,8 @@
    1.9,
    0.8
   ],
-  "estimado_min": 1.9
+  "estimado_min": 1.9,
+  "fase_desde": "2026-11-27T12:10:24-06:00"
  },
  "sherlock": {
   "estado": "termino",
