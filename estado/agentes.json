@@ -62,11 +62,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T04:53:36-06:00",
-  "desde": "2026-11-27T04:34:14-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T04:54:42-06:00",
   "que": "corrida programada",
-  "resumen": "Ahora la caja escribe cuánto ahorro y cuánta deuda tenía el socio al dar de alta el trámite, y la página suma el monto a reclamar. La caja puede corregirlo mientras no lo envíe; el equipo siempre. Tam",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.2,
