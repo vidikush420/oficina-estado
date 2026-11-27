@@ -63,13 +63,13 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T09:15:20-06:00",
   "desde": "2026-11-27T09:14:22-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No había nada que yo pudiera hacer hoy. Lo que queda para la Mac en Siniestros depende de la contraseña del portal de Thona, que el portal rechazó; hasta que la revises no se puede avanzar. Lo demás e",
   "url": "",
   "duraciones": [
-   2.8,
    11.9,
    3.0,
    1.1,
@@ -78,9 +78,10 @@
    0.8,
    1.3,
    1.1,
-   0.7
+   0.7,
+   1.0
   ],
-  "estimado_min": 1.2
+  "estimado_min": 1.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
