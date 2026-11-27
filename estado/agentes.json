@@ -66,7 +66,7 @@
   "estado": "trabajando",
   "desde": "2026-11-26T22:07:45-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros: 1/4 leyendo el proyecto",
+  "fase": "Siniestros: 2/4 migración y reglas de nombre, documento de caja y requisitos",
   "url": "",
   "duraciones": [
    1.1,
