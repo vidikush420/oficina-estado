@@ -62,13 +62,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T03:06:15-06:00",
   "desde": "2026-11-27T03:03:27-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros: 4/4 PR actualizado",
+  "resumen": "El paquete del recorrido real tenía un choque de texto con lo último que se aprobó. Lo resolví sin perder nada y las pruebas siguen en verde. Ya puede revisarlo Aduana; tú no tienes que hacer nada por",
   "url": "",
   "duraciones": [
-   1.8,
    2.1,
    2.7,
    5.7,
@@ -77,10 +77,10 @@
    1.2,
    1.4,
    26.8,
-   1.4
+   1.4,
+   2.8
   ],
-  "estimado_min": 1.6,
-  "fase_desde": "2026-11-27T03:05:59-06:00"
+  "estimado_min": 1.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
