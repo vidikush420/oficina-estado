@@ -63,13 +63,13 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T09:16:20-06:00",
   "desde": "2026-11-27T09:15:43-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "No había nada que solo la Mac pudiera hacer. Lo que falta depende de la contraseña del portal de Thona. Qué hacer: revisarla y guardarla cuando puedas; mientras tanto no hay nada más que yo pueda avan",
   "url": "",
   "duraciones": [
-   11.9,
    3.0,
    1.1,
    0.7,
@@ -78,7 +78,8 @@
    1.3,
    1.1,
    0.7,
-   1.0
+   1.0,
+   0.6
   ],
   "estimado_min": 1.1
  },
