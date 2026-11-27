@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:26:36-06:00",
-  "desde": "2026-11-26T23:25:38-06:00",
-  "que": "revisando el PR #24 (chalan-local/2026-11-26-comprobar-permisos)",
-  "resumen": "siniestros-cajas #24 → NO PASA (workflow), no fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945715837",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:27:00-06:00",
+  "que": "revisando el PR #25 (claude/2026-11-26-0002-columna-ambigua)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945761997",
   "duraciones": [
    2.4,
    1.2,
