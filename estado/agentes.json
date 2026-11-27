@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-27T11:45:04-06:00",
   "que": "revisando el PR #39 (chalan-local/2026-11-27-excel-diagnostico)",
-  "fase": "3/4 veredicto y fusión",
+  "fase": "4/4 registrando en la oficina",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/46044218203",
   "duraciones": [
    1.2,
@@ -39,7 +39,7 @@
    1.9
   ],
   "estimado_min": 1.9,
-  "fase_desde": "2026-11-27T11:45:46-06:00"
+  "fase_desde": "2026-11-27T11:45:50-06:00"
  },
  "sherlock": {
   "estado": "termino",
