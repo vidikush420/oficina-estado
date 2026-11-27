@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-26T23:19:26-06:00",
   "que": "revisando el PR #21 (chalan-local/2026-11-26-credenciales-renglon-encabezados)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945028245",
   "duraciones": [
    4.4,
@@ -39,7 +39,7 @@
    1.0
   ],
   "estimado_min": 2.2,
-  "fase_desde": "2026-11-26T23:20:07-06:00"
+  "fase_desde": "2026-11-26T23:20:16-06:00"
  },
  "sherlock": {
   "estado": "termino",
