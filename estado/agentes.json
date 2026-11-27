@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-27T12:28:45-06:00",
   "que": "revisando el PR #24 (claude/resumen2026-sin-cuenta-google)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/46049740872",
   "duraciones": [
    2.0,
@@ -38,7 +38,8 @@
    1.0,
    1.0
   ],
-  "estimado_min": 1.6
+  "estimado_min": 1.6,
+  "fase_desde": "2026-11-27T12:29:07-06:00"
  },
  "sherlock": {
   "estado": "termino",
