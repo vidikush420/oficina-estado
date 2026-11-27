@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:45:45-06:00",
-  "desde": "2026-11-26T23:43:04-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:46:37-06:00",
   "que": "corrida programada",
-  "resumen": "Comprobé en la base de datos real que cada caja de ahorro ve solo sus propios expedientes y que nadie de fuera puede leer nada. Las 40 comprobaciones pasaron y borré todos los datos de prueba. Con est",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.9,
