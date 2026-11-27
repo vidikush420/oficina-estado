@@ -62,13 +62,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T04:53:36-06:00",
   "desde": "2026-11-27T04:34:14-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros: 4/4 abriendo el PR",
+  "resumen": "Ahora la caja escribe cuánto ahorro y cuánta deuda tenía el socio al dar de alta el trámite, y la página suma el monto a reclamar. La caja puede corregirlo mientras no lo envíe; el equipo siempre. Tam",
   "url": "",
   "duraciones": [
-   1.0,
    1.2,
    1.4,
    26.8,
@@ -77,10 +77,10 @@
    11.9,
    3.0,
    1.1,
-   0.7
+   0.7,
+   19.4
   ],
-  "estimado_min": 1.4,
-  "fase_desde": "2026-11-27T04:53:24-06:00"
+  "estimado_min": 2.1
  },
  "gerente-de-zara": {
   "estado": "trabajando",
