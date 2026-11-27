@@ -62,11 +62,10 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T22:15:01-06:00",
-  "desde": "2026-11-26T22:14:09-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:00:22-06:00",
   "que": "corrida programada",
-  "resumen": "Terminé la tercera parte de lo que pediste para Siniestros: el programa que publica la plataforma automáticamente cuando se aprueba un cambio. Mientras no estén cargadas las contraseñas y llaves, no h",
+  "fase": "",
   "url": "",
   "duraciones": [
    61.4,
