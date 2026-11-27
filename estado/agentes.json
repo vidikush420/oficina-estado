@@ -21,13 +21,13 @@
   "estimado_min": 3.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T12:23:41-06:00",
   "desde": "2026-11-27T12:22:43-06:00",
   "que": "revisando el PR #23 (claude/resumen2026-montos)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #23 → PASA, fusionado",
   "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/46048983885",
   "duraciones": [
-   2.1,
    2.0,
    2.8,
    1.4,
@@ -36,10 +36,10 @@
    2.1,
    1.9,
    0.8,
+   1.0,
    1.0
   ],
-  "estimado_min": 1.9,
-  "fase_desde": "2026-11-27T12:23:37-06:00"
+  "estimado_min": 1.6
  },
  "sherlock": {
   "estado": "termino",
