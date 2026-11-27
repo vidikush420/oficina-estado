@@ -21,12 +21,11 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:28:05-06:00",
-  "desde": "2026-11-26T23:27:00-06:00",
-  "que": "revisando el PR #25 (claude/2026-11-26-0002-columna-ambigua)",
-  "resumen": "PR #25 → OJO cosmético, ya fusionado por Miguel (no por Aduana)",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945761997",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:35:34-06:00",
+  "que": "revisando el PR #26 (chalan-local/2026-11-27-robot-login-tolerante)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45946688858",
   "duraciones": [
    1.2,
    2.1,
