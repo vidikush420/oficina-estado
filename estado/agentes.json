@@ -63,13 +63,13 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:09:59-06:00",
   "desde": "2026-11-26T23:07:56-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Dejé listo el cambio para que el robot encuentre solo la fila de títulos del Excel y reconozca «THONA SEGUROS». La página real todavía no se publicó: el programa que publica no hizo nada porque solo c",
   "url": "",
   "duraciones": [
-   1.1,
    1.2,
    3.5,
    0.7,
@@ -78,9 +78,10 @@
    5.2,
    0.9,
    3.7,
-   1.9
+   1.9,
+   2.0
   ],
-  "estimado_min": 2.7
+  "estimado_min": 2.8
  },
  "gerente-de-zara": {
   "estado": "trabajando",
