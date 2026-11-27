@@ -21,12 +21,11 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:47:19-06:00",
-  "desde": "2026-11-26T23:45:49-06:00",
-  "que": "revisando el PR #29 (chalan-local/2026-11-27-permisos-real-ok)",
-  "resumen": "PR #29 → OJO (cosmético), fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45947697072",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:50:23-06:00",
+  "que": "revisando el PR #30 (chalan-local/2026-11-27-primer-admin)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45948145227",
   "duraciones": [
    2.2,
    1.0,
