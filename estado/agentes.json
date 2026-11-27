@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-26T21:46:09-06:00",
   "que": "revisando el PR #17 (chalan-local/2026-11-26-siniestros-bandeja-pago)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45936058310",
   "duraciones": [
    2.1,
@@ -38,7 +38,8 @@
    2.2,
    2.5
   ],
-  "estimado_min": 1.9
+  "estimado_min": 1.9,
+  "fase_desde": "2026-11-26T21:47:37-06:00"
  },
  "sherlock": {
   "estado": "termino",
