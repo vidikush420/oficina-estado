@@ -62,13 +62,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T02:59:08-06:00",
   "desde": "2026-11-27T02:32:19-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Preparé la prueba que recorre la página real como lo haría una persona, en celular y en computadora, con cuentas inventadas que se borran solas. Al armarla encontré un fallo real: al abrir «Mi cuenta»",
   "url": "",
   "duraciones": [
-   3.2,
    1.7,
    1.8,
    2.1,
@@ -77,7 +77,8 @@
    1.0,
    1.0,
    1.2,
-   1.4
+   1.4,
+   26.8
   ],
   "estimado_min": 1.8
  },
