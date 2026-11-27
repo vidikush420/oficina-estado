@@ -63,13 +63,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T03:26:09-06:00",
   "desde": "2026-11-27T03:25:05-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Esta vez no había nada que solo la Mac pudiera hacer. El juego Marea está en pausa por decisión de Miguel y lo de Siniestros espera que él autorice el siguiente intento con el portal de Thona. No tien",
   "url": "",
   "duraciones": [
-   5.7,
    1.0,
    1.0,
    1.2,
@@ -78,9 +78,10 @@
    1.4,
    2.8,
    11.9,
-   3.0
+   3.0,
+   1.1
   ],
-  "estimado_min": 2.1
+  "estimado_min": 1.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
