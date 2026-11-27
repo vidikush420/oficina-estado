@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-27T04:53:28-06:00",
   "que": "revisando el PR #34 (chalan-local/2026-11-27-entrar-con-usuario)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45985852241",
   "duraciones": [
    1.4,
@@ -38,7 +38,8 @@
    1.4,
    1.1
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.4,
+  "fase_desde": "2026-11-27T04:54:48-06:00"
  },
  "sherlock": {
   "estado": "termino",
