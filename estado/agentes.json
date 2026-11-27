@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T04:55:28-06:00",
-  "desde": "2026-11-27T04:54:42-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T07:54:53-06:00",
   "que": "corrida programada",
-  "resumen": "Esta vez no había nada que solo la Mac pudiera hacer. Lo pendiente de Siniestros espera tu autorización para el siguiente intento con el portal de Thona, y los dos cambios que ya entregué (#34 y #36)",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
