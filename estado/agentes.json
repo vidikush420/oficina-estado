@@ -62,13 +62,13 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T22:12:55-06:00",
   "desde": "2026-11-26T22:07:45-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros: 4/4 abriendo el PR",
+  "resumen": "Terminé la tercera parte de lo que pediste para Siniestros: el programa que publica la plataforma automáticamente cuando se aprueba un cambio. Mientras no estén cargadas las contraseñas y llaves, no h",
   "url": "",
   "duraciones": [
-   1.1,
    0.7,
    61.4,
    65.8,
@@ -77,10 +77,10 @@
    3.5,
    0.7,
    12.5,
-   12.5
+   12.5,
+   5.2
   ],
-  "estimado_min": 2.4,
-  "fase_desde": "2026-11-26T22:12:41-06:00"
+  "estimado_min": 4.3
  },
  "gerente-de-zara": {
   "estado": "trabajando",
