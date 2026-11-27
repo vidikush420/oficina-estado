@@ -21,12 +21,10 @@
   "estimado_min": 3.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-27T12:29:41-06:00",
-  "desde": "2026-11-27T12:28:45-06:00",
-  "que": "revisando el PR #24 (claude/resumen2026-sin-cuenta-google)",
-  "resumen": "PR #24 → PASA, ya fusionado",
-  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/46049740872",
+  "estado": "trabajando",
+  "desde": "2026-11-27T13:09:06-06:00",
+  "que": "",
+  "url": "",
   "duraciones": [
    2.8,
    1.4,
@@ -39,6 +37,8 @@
    1.0,
    0.9
   ],
+  "fase": "1/4 leyendo el PR",
+  "fase_desde": "2026-11-27T13:09:06-06:00",
   "estimado_min": 1.2
  },
  "sherlock": {
