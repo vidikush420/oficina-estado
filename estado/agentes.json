@@ -21,12 +21,11 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:51:33-06:00",
-  "desde": "2026-11-26T23:50:23-06:00",
-  "que": "revisando el PR #30 (chalan-local/2026-11-27-primer-admin)",
-  "resumen": "PR #30 → NO PASA (cambia workflows; código OK), no fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45948145227",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:52:13-06:00",
+  "que": "revisando el PR #31 (chalan-local/2026-11-27-crear-caja)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45948321704",
   "duraciones": [
    1.0,
    1.2,
