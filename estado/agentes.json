@@ -21,13 +21,13 @@
   "estimado_min": 4.7
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:37:38-06:00",
   "desde": "2026-11-26T23:35:34-06:00",
   "que": "revisando el PR #26 (chalan-local/2026-11-27-robot-login-tolerante)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #26 → OJO (cosmético), fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45946688858",
   "duraciones": [
-   1.2,
    2.1,
    2.4,
    2.1,
@@ -36,10 +36,10 @@
    1.2,
    0.9,
    1.0,
-   1.1
+   1.1,
+   2.1
   ],
-  "estimado_min": 1.2,
-  "fase_desde": "2026-11-26T23:37:29-06:00"
+  "estimado_min": 1.6
  },
  "sherlock": {
   "estado": "termino",
