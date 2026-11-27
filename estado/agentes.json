@@ -62,11 +62,10 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:04:05-06:00",
-  "desde": "2026-11-26T23:00:22-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:05:32-06:00",
   "que": "corrida programada",
-  "resumen": "Dejé listo el arreglo pequeño que pidió el revisor en la migración de nombres. Lo que sigue (subir la base al proyecto real, probar permisos y entrar a Thona de verdad) no lo hice porque mis reglas me",
+  "fase": "",
   "url": "",
   "duraciones": [
    65.8,
