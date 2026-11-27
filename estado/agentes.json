@@ -63,13 +63,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:56:56-06:00",
   "desde": "2026-11-26T23:55:56-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo yo pudiera hacer en la Mac. Lo único pendiente de mi lado depende de que el portal de Thona acepte la contraseña, y eso lo tiene que revisar Miguel. Tampoco hay que fusionar",
   "url": "",
   "duraciones": [
-   5.0,
    3.5,
    1.0,
    3.2,
@@ -78,9 +78,10 @@
    2.1,
    2.7,
    5.7,
+   1.0,
    1.0
   ],
-  "estimado_min": 2.4
+  "estimado_min": 2.0
  },
  "gerente-de-zara": {
   "estado": "trabajando",
