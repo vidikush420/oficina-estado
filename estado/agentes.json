@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T03:21:00-06:00",
-  "desde": "2026-11-27T03:09:07-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T03:21:28-06:00",
   "que": "corrida programada",
-  "resumen": "Ya se puede entrar con usuario en lugar de correo: lo elige cada persona una sola vez y tiene un freno contra quien intente adivinar contraseñas. Miguel, al entrar con su correo, tendrá que elegir su",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.7,
