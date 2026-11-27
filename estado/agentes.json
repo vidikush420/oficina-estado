@@ -62,13 +62,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:52:17-06:00",
   "desde": "2026-11-26T23:46:37-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros: 3/4 corriendo pruebas",
+  "resumen": "Dejé listo el mecanismo para crear a Miguel como primer administrador: cuando se apruebe, se lanza una vez y le llega un correo para elegir su contraseña. Descubrí que el panel no dejaba crear cajas y",
   "url": "",
   "duraciones": [
-   1.9,
    2.0,
    5.0,
    3.5,
@@ -77,10 +77,10 @@
    1.7,
    1.8,
    2.1,
-   2.7
+   2.7,
+   5.7
   ],
-  "estimado_min": 2.0,
-  "fase_desde": "2026-11-26T23:50:47-06:00"
+  "estimado_min": 2.4
  },
  "gerente-de-zara": {
   "estado": "trabajando",
