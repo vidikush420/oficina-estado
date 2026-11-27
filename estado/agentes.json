@@ -21,12 +21,11 @@
   "estimado_min": 3.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-27T11:45:55-06:00",
-  "desde": "2026-11-27T11:45:04-06:00",
-  "que": "revisando el PR #39 (chalan-local/2026-11-27-excel-diagnostico)",
-  "resumen": "PR #39 → NO PASA (toca workflows), no fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/46044218203",
+  "estado": "trabajando",
+  "desde": "2026-11-27T12:09:54-06:00",
+  "que": "revisando el PR #22 (claude/resumen2026)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/sistemas-vidal/actions/runs/46047271449",
   "duraciones": [
    1.2,
    2.1,
