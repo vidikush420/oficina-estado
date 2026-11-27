@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T22:05:29-06:00",
   "desde": "2026-11-26T22:04:15-06:00",
   "que": "revisando el PR #18 (chalan-local/2026-11-26-ajustes-thona)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #18 → OJO — espera a Miguel, no fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45937738721",
   "duraciones": [
-   2.5,
    0.8,
    1.6,
    1.5,
@@ -36,10 +36,10 @@
    4.4,
    2.2,
    2.5,
-   2.4
+   2.4,
+   1.2
   ],
-  "estimado_min": 1.9,
-  "fase_desde": "2026-11-26T22:05:19-06:00"
+  "estimado_min": 1.6
  },
  "sherlock": {
   "estado": "termino",
