@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-26T23:04:29-06:00",
   "que": "revisando el PR #19 (chalan-local/2026-11-26-desplegar)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45943149358",
   "duraciones": [
    1.6,
@@ -39,7 +39,7 @@
    2.1
   ],
   "estimado_min": 1.9,
-  "fase_desde": "2026-11-26T23:06:29-06:00"
+  "fase_desde": "2026-11-26T23:06:43-06:00"
  },
  "sherlock": {
   "estado": "termino",
