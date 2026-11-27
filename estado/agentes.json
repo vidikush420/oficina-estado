@@ -21,13 +21,13 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:28:05-06:00",
   "desde": "2026-11-26T23:27:00-06:00",
   "que": "revisando el PR #25 (claude/2026-11-26-0002-columna-ambigua)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #25 → OJO cosmético, ya fusionado por Miguel (no por Aduana)",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945761997",
   "duraciones": [
-   2.4,
    1.2,
    2.1,
    2.4,
@@ -36,10 +36,10 @@
    1.0,
    1.2,
    0.9,
-   1.0
+   1.0,
+   1.1
   ],
-  "estimado_min": 1.6,
-  "fase_desde": "2026-11-26T23:27:57-06:00"
+  "estimado_min": 1.2
  },
  "sherlock": {
   "estado": "termino",
