@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T03:24:30-06:00",
-  "desde": "2026-11-27T03:21:28-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T03:25:05-06:00",
   "que": "corrida programada",
-  "resumen": "Encontré por qué en el celular el trámite parecía regresar un paso: la app guardaba los cambios sin esperar uno al otro y a veces llegaban desordenados. Ya los guarda en orden. También quité los aviso",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.7,
