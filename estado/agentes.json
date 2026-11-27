@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-11-26T04:15:37-06:00",
-  "desde": "2026-11-26T03:57:10-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T22:59:48-06:00",
   "que": "a mano: cola: - [ ] [producto] **Reporte mensual · base y reglas** — migración reportes_mensuales (caja, mes, archivo original en Stor",
-  "resumen": "la corrida terminó con cancelled (ver el enlace)",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45796665520",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45943083952",
   "duraciones": [
    2.7,
    5.3,
