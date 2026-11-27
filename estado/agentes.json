@@ -63,11 +63,10 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:21:47-06:00",
-  "desde": "2026-11-26T23:16:49-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:22:13-06:00",
   "que": "corrida programada",
-  "resumen": "Probé entrar a Thona una sola vez y la contraseña del Excel ya no sirve, así que me detuve para no bloquear la cuenta. Tienes que actualizar esa contraseña en el Excel. Las pruebas de permisos no se p",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.5,
