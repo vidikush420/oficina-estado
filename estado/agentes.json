@@ -62,13 +62,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T03:02:02-06:00",
   "desde": "2026-11-27T03:00:40-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac. Lo que sigue en Siniestros depende de ti: revisar y fusionar el trabajo del recorrido real (#33) y darme las claves del portal de Thona. Sunday sigue",
   "url": "",
   "duraciones": [
-   1.7,
    1.8,
    2.1,
    2.7,
@@ -77,9 +77,10 @@
    1.0,
    1.2,
    1.4,
-   26.8
+   26.8,
+   1.4
   ],
-  "estimado_min": 1.8
+  "estimado_min": 1.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
