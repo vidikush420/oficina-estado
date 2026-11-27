@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T09:07:33-06:00",
-  "desde": "2026-11-27T09:06:29-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T09:09:00-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que yo pudiera hacer en la Mac. Lo único pendiente es leer el portal de Thona, y para eso faltan tu usuario y contraseña de ese portal. Marea sigue en pausa por decisión tuya. Cuando gua",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.4,
