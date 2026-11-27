@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T03:25:46-06:00",
   "desde": "2026-11-27T03:24:37-06:00",
   "que": "revisando el PR #35 (chalan-local/2026-11-27-avisos-y-bitacora)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #35 → PASA, fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45973421889",
   "duraciones": [
-   2.1,
    1.4,
    1.4,
    1.5,
@@ -36,10 +36,10 @@
    2.1,
    2.0,
    2.8,
-   1.4
+   1.4,
+   1.1
   ],
-  "estimado_min": 1.4,
-  "fase_desde": "2026-11-27T03:25:36-06:00"
+  "estimado_min": 1.4
  },
  "sherlock": {
   "estado": "termino",
