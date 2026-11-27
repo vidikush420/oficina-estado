@@ -21,12 +21,11 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-27T02:18:47-06:00",
-  "desde": "2026-11-27T02:16:40-06:00",
-  "que": "revisando el PR #30 (chalan-local/2026-11-27-primer-admin)",
-  "resumen": "PR #30 → ya fusionado por Miguel, sin comentario nuevo",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45964394379",
+  "estado": "trabajando",
+  "desde": "2026-11-27T02:58:57-06:00",
+  "que": "revisando el PR #32 (chalan-local/2026-11-27-panel-equipo)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45969865158",
   "duraciones": [
    0.9,
    1.0,
