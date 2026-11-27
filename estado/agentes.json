@@ -21,12 +21,13 @@
   "estimado_min": 3.5
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T13:09:54-06:00",
   "desde": "2026-11-27T13:09:06-06:00",
   "que": "",
+  "resumen": "PR #39 → NO PASA (toca workflows), no fusionado",
   "url": "",
   "duraciones": [
-   2.8,
    1.4,
    1.1,
    2.3,
@@ -35,11 +36,10 @@
    0.8,
    1.0,
    1.0,
-   0.9
+   0.9,
+   0.8
   ],
-  "fase": "4/4 registrando en la oficina",
-  "fase_desde": "2026-11-27T13:09:34-06:00",
-  "estimado_min": 1.2
+  "estimado_min": 1.1
  },
  "sherlock": {
   "estado": "termino",
