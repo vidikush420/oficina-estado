@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-26T23:35:34-06:00",
   "que": "revisando el PR #26 (chalan-local/2026-11-27-robot-login-tolerante)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45946688858",
   "duraciones": [
    1.2,
@@ -39,7 +39,7 @@
    1.1
   ],
   "estimado_min": 1.2,
-  "fase_desde": "2026-11-26T23:36:16-06:00"
+  "fase_desde": "2026-11-26T23:37:15-06:00"
  },
  "sherlock": {
   "estado": "termino",
