@@ -21,13 +21,13 @@
   "estimado_min": 4.8
  },
  "aduana": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-27T04:55:44-06:00",
   "desde": "2026-11-27T04:53:28-06:00",
   "que": "revisando el PR #34 (chalan-local/2026-11-27-entrar-con-usuario)",
-  "fase": "4/4 registrando en la oficina",
+  "resumen": "PR #34 → OJO — espera a Miguel, no fusionado",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45985852241",
   "duraciones": [
-   1.4,
    1.4,
    1.5,
    1.2,
@@ -36,10 +36,10 @@
    2.0,
    2.8,
    1.4,
-   1.1
+   1.1,
+   2.3
   ],
-  "estimado_min": 1.4,
-  "fase_desde": "2026-11-27T04:55:34-06:00"
+  "estimado_min": 1.4
  },
  "sherlock": {
   "estado": "termino",
