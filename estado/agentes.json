@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T02:21:57-06:00",
-  "desde": "2026-11-27T02:20:34-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T02:32:19-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay nada que yo pueda hacer hoy en la Mac. Lo único que sigue en Siniestros es entrar al portal de Thona, y el robot fue rechazado dos veces con la contraseña. Tú tiene",
+  "fase": "",
   "url": "",
   "duraciones": [
    3.2,
