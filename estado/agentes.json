@@ -21,12 +21,11 @@
   "estimado_min": 5.5
  },
  "aduana": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:18:59-06:00",
-  "desde": "2026-11-26T23:17:59-06:00",
-  "que": "revisando el PR #22 (claude/2026-11-26-desplegar-db-push-y-robot-login)",
-  "resumen": "PR #22 → NO PASA (toca workflows), no fusionado",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45944894040",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:19:26-06:00",
+  "que": "revisando el PR #21 (chalan-local/2026-11-26-credenciales-renglon-encabezados)",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945028245",
   "duraciones": [
    4.4,
    2.2,
