@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-27T03:24:37-06:00",
   "que": "revisando el PR #35 (chalan-local/2026-11-27-avisos-y-bitacora)",
-  "fase": "",
+  "fase": "1/4 leyendo el PR",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45973421889",
   "duraciones": [
    2.1,
@@ -38,7 +38,8 @@
    2.8,
    1.4
   ],
-  "estimado_min": 1.4
+  "estimado_min": 1.4,
+  "fase_desde": "2026-11-27T03:25:03-06:00"
  },
  "sherlock": {
   "estado": "termino",
