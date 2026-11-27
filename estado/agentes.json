@@ -63,11 +63,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:54:32-06:00",
-  "desde": "2026-11-26T23:53:30-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:55:56-06:00",
   "que": "corrida programada",
-  "resumen": "Revisé todos los proyectos y no hay ninguna tarea que dependa de mi Mac. Lo único pendiente está en tus manos: entrar al portal de Thona necesita que revises la contraseña, y dos cambios míos esperan",
+  "fase": "",
   "url": "",
   "duraciones": [
    5.0,
