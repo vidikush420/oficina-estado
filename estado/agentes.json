@@ -63,11 +63,10 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T22:07:18-06:00",
-  "desde": "2026-11-26T21:54:47-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T22:07:45-06:00",
   "que": "corrida programada",
-  "resumen": "Avancé la segunda parte de lo que pediste para Siniestros: ahora el nombre del socio se captura en tres partes, el estado de cuenta bancario de cada caja se sube una sola vez y sirve para todos sus tr",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
