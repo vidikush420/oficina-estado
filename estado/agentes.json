@@ -24,7 +24,7 @@
   "estado": "trabajando",
   "desde": "2026-11-26T23:27:00-06:00",
   "que": "revisando el PR #25 (claude/2026-11-26-0002-columna-ambigua)",
-  "fase": "2/4 revisando el código y las pruebas",
+  "fase": "3/4 veredicto y fusión",
   "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45945761997",
   "duraciones": [
    2.4,
@@ -39,7 +39,7 @@
    1.0
   ],
   "estimado_min": 1.6,
-  "fase_desde": "2026-11-26T23:27:31-06:00"
+  "fase_desde": "2026-11-26T23:27:43-06:00"
  },
  "sherlock": {
   "estado": "termino",
