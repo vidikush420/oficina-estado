@@ -63,12 +63,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:38:32-06:00",
   "desde": "2026-11-26T23:36:51-06:00",
   "que": "",
+  "resumen": "Intenté comprobar que una caja no puede ver lo de otra en la base real, pero la base ni siquiera dejaba al sistema leer sus propias tablas: faltaban permisos básicos. Escribí el arreglo y lo agregué a",
   "url": "",
   "duraciones": [
-   12.5,
    5.2,
    0.9,
    3.7,
@@ -77,11 +78,10 @@
    5.0,
    3.5,
    1.0,
-   3.2
+   3.2,
+   1.7
   ],
-  "fase": "Siniestros: 4/4 PR actualizado",
-  "fase_desde": "2026-11-26T23:38:21-06:00",
-  "estimado_min": 3.4
+  "estimado_min": 2.6
  },
  "gerente-de-zara": {
   "estado": "trabajando",
