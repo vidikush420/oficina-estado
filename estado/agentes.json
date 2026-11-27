@@ -1,11 +1,10 @@
 {
  "chalan": {
-  "estado": "fallo",
-  "cuando": "2026-11-26T23:03:45-06:00",
-  "desde": "2026-11-26T22:59:48-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:10:30-06:00",
   "que": "a mano: cola: - [ ] [producto] **Reporte mensual · base y reglas** — migración reportes_mensuales (caja, mes, archivo original en Stor",
-  "resumen": "siniestros-cajas: push 403, sin PR; trabajo en rama local",
-  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45943083952",
+  "fase": "",
+  "url": "https://github.com/vidikush420/siniestros-cajas/actions/runs/45943878578",
   "duraciones": [
    5.3,
    5.5,
