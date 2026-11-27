@@ -63,13 +63,13 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-26T23:41:20-06:00",
   "desde": "2026-11-26T23:39:32-06:00",
   "que": "corrida programada",
-  "fase": "Siniestros: 4/4 abriendo el PR",
+  "resumen": "Siniestros: permisos en base real bloqueados por la 0004 (PR 27); PR 28 con ESTADO",
   "url": "",
   "duraciones": [
-   5.2,
    0.9,
    3.7,
    1.9,
@@ -78,10 +78,10 @@
    3.5,
    1.0,
    3.2,
-   1.7
+   1.7,
+   1.8
   ],
-  "estimado_min": 2.6,
-  "fase_desde": "2026-11-26T23:41:03-06:00"
+  "estimado_min": 1.9
  },
  "gerente-de-zara": {
   "estado": "trabajando",
