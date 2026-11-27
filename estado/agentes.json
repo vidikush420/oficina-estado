@@ -63,11 +63,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T09:09:43-06:00",
-  "desde": "2026-11-27T09:09:00-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T09:14:22-06:00",
   "que": "corrida programada",
-  "resumen": "No había nada que solo la Mac pudiera hacer. Lo pendiente de Siniestros espera tus claves del portal de Thona y tu autorización; Marea sigue en pausa. Lo único abierto es el cambio de montos (#37), qu",
+  "fase": "",
   "url": "",
   "duraciones": [
    2.8,
