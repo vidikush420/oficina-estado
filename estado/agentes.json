@@ -62,11 +62,10 @@
   "estimado_min": 2.0
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T02:19:06-06:00",
-  "desde": "2026-11-27T02:17:53-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T02:20:34-06:00",
   "que": "corrida programada",
-  "resumen": "Hoy no había nada que yo pudiera hacer en la Mac: lo que queda en Siniestros depende de que revises la contraseña del portal de Thona, y Marea está en pausa por decisión tuya. Nada se rompió. Para Sin",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
