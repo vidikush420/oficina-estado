@@ -62,11 +62,10 @@
   "estimado_min": 10.3
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-26T23:07:28-06:00",
-  "desde": "2026-11-26T23:05:32-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-26T23:07:56-06:00",
   "que": "corrida programada",
-  "resumen": "Un arreglo que dejé listo para Siniestros chocaba con otro cambio reciente; lo puse al día y las pruebas pasan. Lo que falta para mañana (subir la base al proyecto real y entrar a Thona) sigue sin hac",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.1,
