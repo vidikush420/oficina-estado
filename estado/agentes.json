@@ -62,13 +62,13 @@
   "estimado_min": 7.0
  },
  "chalan-local": {
-  "estado": "trabajando",
+  "estado": "termino",
+  "cuando": "2026-11-28T03:43:50-06:00",
   "desde": "2026-11-28T03:41:03-06:00",
   "que": "corrida programada",
-  "fase": "",
+  "resumen": "Hoy no había nada que solo la Mac pudiera hacer. Lo pendiente de Siniestros espera que guardes las claves del portal de Thona y que fusiones los cambios #39, #40 y #41. No cambié nada.",
   "url": "",
   "duraciones": [
-   0.8,
    0.8,
    1.1,
    0.8,
@@ -77,9 +77,10 @@
    25.8,
    142.0,
    23.6,
-   0.8
+   0.8,
+   2.8
   ],
-  "estimado_min": 1.0
+  "estimado_min": 1.9
  },
  "gerente-de-zara": {
   "estado": "trabajando",
