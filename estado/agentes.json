@@ -62,11 +62,10 @@
   "estimado_min": 1.6
  },
  "chalan-local": {
-  "estado": "termino",
-  "cuando": "2026-11-27T20:03:17-06:00",
-  "desde": "2026-11-27T17:41:19-06:00",
+  "estado": "trabajando",
+  "desde": "2026-11-27T20:48:12-06:00",
   "que": "corrida programada",
-  "resumen": "Ya está hecha la lectura automática de documentos: al subir un papel, el sistema lo revisa y avisa a la caja si se lee bien, si parece otro documento o si hay que tomar la foto otra vez. Nunca impide",
+  "fase": "",
   "url": "",
   "duraciones": [
    1.0,
